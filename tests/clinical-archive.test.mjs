@@ -7,4 +7,5 @@ test('archive separates baseline, ignores routine updates, and detects meaningfu
  const first=run('2026-11-04',[normalize({...item,tags:'대사'}),normalize({...item,tags:'심혈관'})]);assert.equal(first.items.length,1);assert.equal(first.items[0].clinical_event.type,'baseline');
  const routine=run('2026-11-05',[normalize({...item,clinical:{...clinical,last_updated_date:'2026-11-05'}})]);assert.equal(routine.items.length,0);
  const changed=run('2026-11-06',[normalize({...item,clinical:{...clinical,last_updated_date:'2026-11-06',enrollment:{count:200,type:'ESTIMATED'}}})]);assert.equal(changed.items.length,1);assert.equal(changed.items[0].clinical_event.type,'important_change');assert.deepEqual(changed.items[0].clinical_event.changed_fields,['enrollment']);
+ const old={...item,nct:'NCT87654321',event_key:'ctgov:NCT87654321'};run('2026-11-07',[normalize({...old,clinical:undefined})]);const upgraded=run('2026-11-07',[normalize(old)]);assert.equal(upgraded.items.length,1);assert.equal(upgraded.items[0].clinical.version,1);assert.equal(upgraded.items[0].clinical_event.type,'baseline');
 });

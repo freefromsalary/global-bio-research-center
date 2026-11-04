@@ -1,4 +1,4 @@
-import {sectionNames,searchItems,latestVersions,clinicalVisible,clinicalLabels,clinicalFieldLabels} from './archive.js?v=20261104-3';
+import {sectionNames,searchItems,latestVersions,clinicalVisible,clinicalLabels,clinicalFieldLabels} from './archive.js?v=20261104-4';
 const $=s=>document.querySelector(s);let rows=[],reports=[],slot='PM',section='all',history=false,page=1;
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
 function url(s){try{const u=new URL(s);return u.protocol==='https:'?u.href:null;}catch{return null;}}
@@ -9,7 +9,7 @@ function render(){
   const pageCount=Math.max(1,Math.ceil(items.length/20));page=Math.min(page,pageCount);
   const registry=latestVersions((report?.items||[]).filter(i=>i.section==='clinical'));
   const total=t=>registry.filter(i=>(i.clinical_event?.type||'baseline')===t).length;
-  $('#clinicalNote').textContent=`선택 회차 임상: 신규 등록 확인 ${total('new_registration')}건 · 주요 필드 변경 후보 ${total('important_change')}건 · 초기 기준자료 ${total('baseline')}건. 기준자료는 신규·중요 변경으로 확인된 자료가 아니며, 단순 갱신과 함께 기본 목록에서 제외합니다. 신규 등록은 수집일이 아닌 등록처 최초 공개일로 확인합니다.`;
+  $('#clinicalNote').textContent=`선택 회차 임상: 최초 공개일로 확인한 신규 등록 ${total('new_registration')}건 · 주요 필드 변경 후보 ${total('important_change')}건 · 기준자료 ${total('baseline')}건. 이 중 기본 브리핑 표시 대상은 ${registry.filter(i=>clinicalVisible(i,'briefing')).length}건입니다 (약물·바이오 중재 또는 직접 검토한 항목). 기준자료·단순 갱신·비관련 연구는 기본 목록에서 제외합니다.${report?.clinical_audit?.prior_snapshot_available===false?' 이번 첫 수집은 과거 비교자료가 없어 중요 변경 여부를 아직 판정하지 않았습니다.':''}`;
   $('#heading').textContent=query?`“${query}” 검색 결과`:`${date} ${slot==='AM'?'오전':'오후'} 브리핑`;
   $('#caption').textContent=query?'ALL DATES / ARCHIVE SEARCH':`${slot==='AM'?'08:00':'16:00'} KST / DAILY ARCHIVE`;
   $('#status').textContent=!reports.length?'첫 자동 수집을 준비 중입니다. 아직 저장된 실제 보고서가 없습니다.':!report?'선택 회차의 보고서가 없습니다.':`공개 아카이브 · ${report.status==='complete'?'검증 완료':'부분 수집 / 출처별 상태 확인 필요'} · 마지막 저장 ${new Date(report.updated_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})} KST`;
