@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-05",
+  "slot": "AM",
+  "status": "partial",
+  "updated_at": "2026-11-04T23:29:41.506Z",
+  "window": {
+    "start": "2026-11-04T07:00:00.000Z",
+    "end": "2026-11-04T23:00:00.000Z"
+  },
+  "coverage": [
+    {
+      "source": "Eli Lilly 공식 뉴스·실적",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "Eli Lilly 공식 IR 행사·컨콜",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "ClinicalTrials.gov 대사",
+      "status": "ok",
+      "section": "clinical",
+      "count": 174,
+      "checked_at": "2026-11-04T23:29:39.882Z"
+    },
+    {
+      "source": "ClinicalTrials.gov 심혈관",
+      "status": "ok",
+      "section": "clinical",
+      "count": 411,
+      "checked_at": "2026-11-04T23:29:41.215Z"
+    },
+    {
+      "source": "ClinicalTrials.gov 안과",
+      "status": "ok",
+      "section": "clinical",
+      "count": 25,
+      "checked_at": "2026-11-04T23:29:41.357Z"
+    },
+    {
+      "source": "Novo Nordisk 공식 IR — 어댑터 검증 대기",
+      "status": "not_configured",
+      "section": "news"
+    },
+    {
+      "source": "X · LinkedIn — 허가 API 연결 대기",
+      "status": "not_configured",
+      "section": "social"
+    },
+    {
+      "source": "공식 채용 — 기업별 연결 대기",
+      "status": "not_configured",
+      "section": "social"
+    }
+  ],
+  "items": []
+}
