@@ -1,0 +1,5 @@
+.env*
+!.env.example
+work/
+node_modules/
+.vercel/

@@ -1,0 +1,3 @@
+export const sectionNames={news:'글로벌 뉴스',clinical:'대사 · 심혈관 · 안과 임상',social:'X · LinkedIn · 채용'};
+export function searchItems(items,{date,slot,section='all',query=''}){const q=query.trim().toLocaleLowerCase();return items.filter(i=>(q?[i.title,i.summary,i.company,i.drug,i.nct,i.tags,i.kind].filter(Boolean).join(' ').toLocaleLowerCase().includes(q):i.report_date===date&&i.slot===slot)&&(section==='all'||i.section===section));}
+export function latestVersions(items){const seen=new Set();return [...items].sort((a,b)=>String(b.collected_at).localeCompare(String(a.collected_at))).filter(i=>{const key=i.event_key||i.id;if(!key)return true;if(seen.has(key))return false;seen.add(key);return true;});}

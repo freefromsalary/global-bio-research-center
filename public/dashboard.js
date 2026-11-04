@@ -1,0 +1,38 @@
+import {sectionNames,searchItems,latestVersions} from './archive.js';
+const $=s=>document.querySelector(s);let rows=[],reports=[],slot='PM',section='all',history=false;
+function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
+function url(s){try{const u=new URL(s);return u.protocol==='https:'?u.href:null;}catch{return null;}}
+function selected(){const found=searchItems(rows,{date:$('#date').value,slot,section,query:$('#query').value});return history?found:latestVersions(found);}
+const statusNames={ok:'수집 성공',failed:'수집 실패',not_configured:'연결 대기',truncated:'일부 결과만 수집',unverified:'검증 전'};
+function render(){
+  const items=selected(),query=$('#query').value.trim(),date=$('#date').value,report=reports.find(r=>r.report_date===date&&r.slot===slot);
+  $('#heading').textContent=query?`“${query}” 검색 결과`:`${date} ${slot==='AM'?'오전':'오후'} 브리핑`;
+  $('#caption').textContent=query?'ALL DATES / ARCHIVE SEARCH':`${slot==='AM'?'08:00':'16:00'} KST / DAILY ARCHIVE`;
+  $('#status').textContent=!reports.length?'첫 자동 수집을 준비 중입니다. 아직 저장된 실제 보고서가 없습니다.':!report?'선택 회차의 보고서가 없습니다.':`공개 아카이브 · ${report.status==='complete'?'검증 완료':'부분 수집 / 출처별 상태 확인 필요'} · 마지막 저장 ${new Date(report.updated_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})} KST`;
+  $('#stats').replaceChildren(...Object.keys(sectionNames).map(k=>{const d=el('div',undefined,'stat');d.append(el('small',sectionNames[k]),el('strong',`${items.filter(i=>i.section===k).length}건`),el('small',query?'전체 날짜 검색 결과':'선택 회차'));return d;}));
+  $('#coverageRows').replaceChildren(...(report?.coverage||[]).map(c=>el('p',`${statusNames[c.status]||c.status} · ${c.source}${c.count!==undefined?` (${c.count}건)`:''}${c.reason?` — ${c.reason}`:''}`)));
+  $('#coverage').hidden=!report;
+  $('#cards').replaceChildren(...items.map(i=>{const card=el('article',undefined,'card'),meta=el('div',undefined,'meta');meta.append(el('span',sectionNames[i.section]),el('span',`${i.report_date} / ${i.slot}`),el('span',i.kind));card.append(meta,el('h3',i.title),el('p',i.summary));const tags=el('div',undefined,'tags');[i.company,i.drug,i.nct,i.tags].filter(Boolean).forEach(t=>tags.append(el('span',t)));card.append(tags);if(url(i.infographic)){const img=el('img');img.src=url(i.infographic);img.alt=`${sectionNames[i.section]} 인포그래픽`;img.loading='lazy';card.append(img);}const sources=el('div',undefined,'sources');for(const s of i.sources||[]){if(!url(s.url))continue;const a=el('a',`${s.label} ↗`);a.href=url(s.url);a.target='_blank';a.rel='noopener noreferrer';sources.append(a);}sources.append(el('p',`발표: ${i.published_at?new Date(i.published_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})+' KST':'정확한 시각 미제공'} · 수집: ${new Date(i.collected_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'})} KST`));card.append(sources);return card;}));
+  if(!items.length)$('#cards').append(el('p','이 조건에 저장된 자료가 없습니다. 수집 범위와 미확인 출처도 확인하세요.','empty'));
+  $('#dates').replaceChildren(...[...new Set(reports.map(r=>r.report_date))].sort().reverse().map(d=>{const b=el('button',d,d===date?'active':'');b.onclick=()=>{$('#date').value=d;$('#query').value='';render();};return b;}));
+  const figure=$('#infographic');figure.hidden=!items.length;figure.replaceChildren();if(items.length){const counts=Object.keys(sectionNames).map(k=>items.filter(i=>i.section===k).length),labels=['GLOBAL NEWS','CLINICAL TRIALS','SOCIAL / CAREERS'];const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170"><rect width="1000" height="170" rx="12" fill="#eaf0e7"/>${counts.map((n,k)=>`<text x="${35+k*330}" y="43" font-family="sans-serif" font-size="12" fill="#6a7a72">${labels[k]}</text><text x="${35+k*330}" y="112" font-family="sans-serif" font-size="48" fill="#16745b">${n}</text>`).join('')}<text x="35" y="151" font-family="sans-serif" font-size="11" fill="#6a7a72">ARCHIVE COUNTS / NOT CLINICAL OUTCOMES</text></svg>`;const img=el('img');img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);img.alt=`보관 자료 수: 뉴스 ${counts[0]}건, 임상 ${counts[1]}건, 소셜·채용 ${counts[2]}건`;figure.append(img);}
+}
+async function read(path){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error(`보고서 불러오기 실패 (${r.status})`);return r.json();}
+async function load(){
+  try{
+    const index=await read('data/index.json'),result=[];
+    for(let i=0;i<index.reports.length;i+=6){
+      const batch=await Promise.all(index.reports.slice(i,i+6).map(r=>{
+        if(!/^\d{4}-\d{2}-\d{2}-(AM|PM)\.json$/.test(r.file))throw Error('잘못된 보고서 경로');
+        return read('data/'+r.file);
+      }));result.push(...batch);
+    }
+    reports=result;rows=reports.flatMap(r=>r.items||[]);
+    if(reports[0]){$('#date').value=reports[0].report_date;slot=reports[0].slot;}
+    else $('#date').value=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+    syncSlots();render();
+  }catch(e){$('#status').textContent=e.message;}
+}
+function syncSlots(){$('#slots').querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.slot===slot));}
+$('#slots').onclick=e=>{if(!e.target.dataset.slot)return;slot=e.target.dataset.slot;syncSlots();render();};$('#sections').onclick=e=>{if(!e.target.dataset.section)return;section=e.target.dataset.section;$('#sections').querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.section===section));render();};$('#date').onchange=render;$('#query').oninput=render;$('#refresh').onclick=load;$('#versions').onclick=()=>{history=!history;$('#versions').classList.toggle('active',history);render();};
+$('#export').onclick=()=>{const blob=new Blob([JSON.stringify({exported_at:new Date().toISOString(),items:selected()},null,2)],{type:'application/json'}),a=el('a');a.href=URL.createObjectURL(blob);a.download=`bio-${$('#date').value}-${slot}.json`;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);};await load();

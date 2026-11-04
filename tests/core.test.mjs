@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {canonical,normalize,windowFor} from '../scripts/core.mjs';
+const item={section:'news',kind:'earnings',title:'실적',summary:'매출 발표',sources:[{url:'https://example.com/release?utm_source=x&id=1'}]};
+test('KST morning window spans previous afternoon',()=>{const w=windowFor('2026-11-04','AM');assert.equal(w.start.toISOString(),'2026-11-03T07:00:00.000Z');assert.equal(w.end.toISOString(),'2026-11-03T23:00:00.000Z');});
+test('afternoon cutoff includes 15:30 KST release',()=>{const w=windowFor('2026-11-04','PM'),t=new Date('2026-11-04T15:30:00+09:00');assert.ok(t>=w.start&&t<=w.end);});
+test('tracking links deduplicate, changed calls retain a version',()=>{const a=normalize(item),b=normalize({...item,sources:[{url:'https://example.com/release?id=1'}]}),c=normalize({...item,summary:'컨콜 후속 발언'});assert.equal(a.content_hash,b.content_hash);assert.equal(a.event_key,b.event_key);assert.equal(a.event_key,c.event_key);assert.notEqual(a.content_hash,c.content_hash);});
+test('unsafe sources and malformed inputs rejected',()=>{assert.throws(()=>canonical('javascript:alert(1)'));assert.throws(()=>normalize({...item,sources:[]}));assert.throws(()=>windowFor('bad','AM'));});

@@ -1,0 +1,13 @@
+{
+  "note": "Adapter configuration. Successful production collection must be verified separately.",
+  "feeds": [
+    {"name":"Eli Lilly 공식 뉴스·실적","company":"Eli Lilly","type":"rss","section":"news","url":"https://investor.lilly.com/rss/news-releases.xml?items=10"},
+    {"name":"Eli Lilly 공식 IR 행사·컨콜","company":"Eli Lilly","type":"rss","section":"news","url":"https://investor.lilly.com/rss/events.xml"},
+    {"name":"ClinicalTrials.gov 대사","type":"clinicaltrials","section":"clinical","area":"대사","query":"obesity OR diabetes OR metabolic dysfunction-associated steatohepatitis"},
+    {"name":"ClinicalTrials.gov 심혈관","type":"clinicaltrials","section":"clinical","area":"심혈관","query":"cardiovascular disease OR heart failure"},
+    {"name":"ClinicalTrials.gov 안과","type":"clinicaltrials","section":"clinical","area":"안과","query":"macular degeneration OR diabetic retinopathy OR glaucoma"},
+    {"name":"Novo Nordisk 공식 IR — 어댑터 검증 대기","section":"news","enabled":false},
+    {"name":"X · LinkedIn — 허가 API 연결 대기","section":"social","enabled":false},
+    {"name":"공식 채용 — 기업별 연결 대기","section":"social","enabled":false}
+  ]
+}

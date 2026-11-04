@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-04",
+  "slot": "PM",
+  "status": "partial",
+  "updated_at": "2026-11-04T14:00:30.258Z",
+  "window": {
+    "start": "2026-11-03T23:00:00.000Z",
+    "end": "2026-11-04T07:00:00.000Z"
+  },
+  "coverage": [
+    {
+      "source": "Novo Nordisk 공식 발표 1건 · 초기 연결 확인",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "source": "다른 뉴스·임상·소셜·채용 · 첫 예약 수집 전",
+      "status": "unverified"
+    }
+  ],
+  "items": [
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "노보노디스크 3분기 실적 발표 — 조정 실적과 보고 실적을 구분",
+      "summary": "노보노디스크의 11월 4일 공식 발표를 연결한 첫 실제 자료입니다. 회사는 연간 전망을 상향하고, 3분기 매출 및 조정 영업이익의 성장을 제시했습니다. 손상차손이 반영된 보고 영업이익과 조정 영업이익의 방향은 달라 구분해서 읽어야 합니다.\n\n이 항목은 사이트 연동을 확인하기 위해 수록했습니다. 완전한 당일 브리핑이나 컨콜 전문 분석이 아니며, 세부 수치는 아래 공식 원문을 확인하세요.",
+      "company": "Novo Nordisk",
+      "drug": "Wegovy · semaglutide",
+      "nct": "",
+      "tags": "실적 · 가이던스 · 초기 연동 확인용",
+      "sources": [
+        {
+          "label": "Novo Nordisk 공식 실적발표",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919765"
+        }
+      ],
+      "published_at": "2026-11-04T06:30:47.000Z",
+      "infographic": null,
+      "event_key": "729793431a1aa02c5e7f1ff7a1a422a81a1e872b915757da502a91600ccf1058",
+      "content_hash": "c77452850d055ad664163ad3bb536d61bc19c3e657f16739e2cc1f29026aea11",
+      "collected_at": "2026-11-04T14:00:30.174Z",
+      "report_date": "2026-11-04",
+      "slot": "PM",
+      "id": "599393790ef138a9a553b2f71f1b5ae20624747633eb46d1d6f5263167275296"
+    }
+  ]
+}

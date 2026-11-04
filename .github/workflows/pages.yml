@@ -1,0 +1,83 @@
+name: Daily research and website
+on:
+  push:
+    branches: [main]
+    paths: ['public/**', 'scripts/**', 'sources.json', '.github/workflows/pages.yml']
+  schedule:
+    - cron: '0 23 * * *'
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      collect:
+        type: boolean
+        default: true
+        description: Collect current official sources before publishing
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: research-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Verify source and core behavior
+        run: npm test
+      - name: Resolve Korean report window
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          echo "REPORT_DATE=$(TZ=Asia/Seoul date +%F)" >> "$GITHUB_ENV"
+          if [ "$SCHEDULE" = '0 23 * * *' ]; then
+            echo 'SLOT=AM' >> "$GITHUB_ENV"
+          elif [ "$SCHEDULE" = '0 7 * * *' ]; then
+            echo 'SLOT=PM' >> "$GITHUB_ENV"
+          elif [ "$(TZ=Asia/Seoul date +%H)" -lt 16 ]; then
+            echo 'SLOT=AM' >> "$GITHUB_ENV"
+          else
+            echo 'SLOT=PM' >> "$GITHUB_ENV"
+          fi
+      - name: Collect official sources
+        id: collection
+        if: github.event_name == 'schedule' || inputs.collect == true
+        continue-on-error: true
+        run: node scripts/collect.mjs "$REPORT_DATE" "$SLOT" --dry-run
+      - name: Preserve report and source coverage
+        if: steps.collection.outcome == 'success' || steps.collection.outcome == 'failure'
+        run: |
+          node scripts/build-archive.mjs "$REPORT_DATE" "$SLOT"
+          git config user.name 'research-archive[bot]'
+          git config user.email 'research-archive[bot]@users.noreply.github.com'
+          git add public/data
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive $REPORT_DATE $SLOT official sources"
+            git push
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: research-backup-${{ github.run_id }}
+          path: public/data/
+          retention-days: 30
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Mark incomplete source collection
+        if: steps.collection.outcome == 'failure'
+        run: |
+          echo 'Website published with visible partial-coverage report; one or more sources failed.'
+          exit 1
