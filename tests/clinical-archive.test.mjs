@@ -1,0 +1,10 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {mkdtempSync,mkdirSync,writeFileSync,readFileSync} from 'node:fs';import {tmpdir} from 'node:os';import {join,resolve} from 'node:path';import {execFileSync} from 'node:child_process';import {normalize} from '../scripts/core.mjs';
+test('archive separates baseline, ignores routine updates, and detects meaningful later change',()=>{
+ const cwd=mkdtempSync(join(tmpdir(),'bio-clinical-test-'));mkdirSync(join(cwd,'work'));const entry=resolve('scripts/build-archive.mjs');
+ const clinical={version:1,first_posted_date:'2024-01-01',last_updated_date:'2026-11-04',status:'RECRUITING',phases:['PHASE2'],enrollment:{count:100,type:'ESTIMATED'},primary_outcomes:[],results_first_posted_date:null,interventions:[{type:'DRUG',name:'Drug'}]};
+ const item={section:'clinical',kind:'trial',nct:'NCT12345678',event_key:'ctgov:NCT12345678',title:'Trial',summary:'Snapshot',company:'Company',drug:'Drug',sources:[{label:'Registry',url:'https://clinicaltrials.gov/study/NCT12345678'}],clinical};
+ const run=(date,items)=>{writeFileSync(join(cwd,`work/${date}-PM.json`),JSON.stringify({items,coverage:[]}));execFileSync(process.execPath,[entry,date,'PM'],{cwd,stdio:'pipe'});return JSON.parse(readFileSync(join(cwd,`public/data/${date}-PM.json`),'utf8'));};
+ const first=run('2026-11-04',[normalize({...item,tags:'대사'}),normalize({...item,tags:'심혈관'})]);assert.equal(first.items.length,1);assert.equal(first.items[0].clinical_event.type,'baseline');
+ const routine=run('2026-11-05',[normalize({...item,clinical:{...clinical,last_updated_date:'2026-11-05'}})]);assert.equal(routine.items.length,0);
+ const changed=run('2026-11-06',[normalize({...item,clinical:{...clinical,last_updated_date:'2026-11-06',enrollment:{count:200,type:'ESTIMATED'}}})]);assert.equal(changed.items.length,1);assert.equal(changed.items[0].clinical_event.type,'important_change');assert.deepEqual(changed.items[0].clinical_event.changed_fields,['enrollment']);
+});
