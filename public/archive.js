@@ -1,5 +1,5 @@
 export const sectionNames={news:'글로벌 뉴스',clinical:'대사 · 심혈관 · 안과 임상',social:'X · LinkedIn · 채용'};
-export const clinicalLabels={new_registration:'신규 등록 (최초 공개일 확인)',important_change:'주요 필드 변경 · 분석 전',administrative_update:'단순 갱신 · 브리핑 제외',baseline:'초기 기준자료 · 신규 아님'};
+export const clinicalLabels={new_registration:'신규 등록 (최초 공개일 확인)',important_change:'주요 필드 변경 · 분석 전',administrative_update:'단순 갱신 · 브리핑 제외',baseline:'초기 기준자료 · 신규 집계 제외'};
 export const clinicalFieldLabels={status:'모집·진행 상태',phases:'임상 단계',enrollment:'등록 규모',primary_outcomes:'주요 평가변수',results_first_posted_date:'결과 최초 게시일'};
 export function clinicalVisible(item,scope='briefing'){
   if(item.section!=='clinical')return true;
