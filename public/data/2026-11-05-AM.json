@@ -3,12 +3,42 @@
   "report_date": "2026-11-05",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-05T00:53:01Z",
+  "updated_at": "2026-11-05T00:56:27.420Z",
   "window": {
     "start": "2026-11-04T07:00:00.000Z",
     "end": "2026-11-04T23:00:00.000Z"
   },
   "coverage": [
+    {
+      "source": "GlobeNewswire 바이오 전체 기업",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "GlobeNewswire 제약 전체 기업",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "Adaptive 공식 실적·뉴스",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "Harmony 공식 실적·뉴스",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
+    {
+      "source": "Cytokinetics 공식 실적·뉴스",
+      "status": "failed",
+      "section": "news",
+      "reason": "HTTP 403"
+    },
     {
       "source": "Eli Lilly 공식 뉴스·실적",
       "status": "failed",
@@ -25,79 +55,143 @@
       "source": "ClinicalTrials.gov 대사",
       "status": "ok",
       "section": "clinical",
-      "count": 174,
-      "checked_at": "2026-11-04T23:29:39.882Z"
+      "count": 178,
+      "checked_at": "2026-11-05T00:56:25.684Z"
     },
     {
-      "source": "ClinicalTrials.gov 심혈관",
+      "source": "ClinicalTrials.gov 심혈관·신장",
       "status": "ok",
       "section": "clinical",
-      "count": 411,
-      "checked_at": "2026-11-04T23:29:41.215Z"
+      "count": 433,
+      "checked_at": "2026-11-05T00:56:26.912Z"
     },
     {
       "source": "ClinicalTrials.gov 안과",
       "status": "ok",
       "section": "clinical",
-      "count": 25,
-      "checked_at": "2026-11-04T23:29:41.357Z"
+      "count": 26,
+      "checked_at": "2026-11-05T00:56:27.029Z"
     },
     {
-      "source": "Novo Nordisk 공식 IR — 어댑터 검증 대기",
-      "status": "not_configured",
-      "section": "news"
-    },
-    {
-      "source": "X · LinkedIn — 허가 API 연결 대기",
-      "status": "not_configured",
-      "section": "social"
-    },
-    {
-      "source": "공식 채용 — 기업별 연결 대기",
-      "status": "not_configured",
-      "section": "social"
-    },
-    {
-      "source": "일반 웹 검색·공식 원문 편집 보강",
-      "section": "news",
+      "source": "Arrowhead 공식 채용",
       "status": "ok",
-      "count": 4,
-      "checked_at": "2026-11-05T00:27:20Z",
-      "reason": "기업 미지정 산업검색과 Novo/Lilly/Regeneron/Amgen/Cytokinetics/Royalty Pharma/BioCryst/Ocugen 관련 검색 수행. 3개 실적 요약과 1개 안과 개발 현황 선별. 웹 전체/모든 기업 전수조사 아님. Amgen은 원문 발표일 11/3이므로 이번 구간에서 제외. 시·분 미확인 발표는 날짜 기준 후보로 포함."
-    },
-    {
-      "source": "컨콜 원문·Q&A",
-      "section": "news",
-      "status": "unverified",
-      "reason": "기업 공지의 예정 시각만 확인. 실제 개최·전문·Q&A 미확보. Novo의 11/4 21:00 KST 예정 컨콜 후속 발언도 미확인."
-    },
-    {
-      "source": "X·LinkedIn·공식 채용 웹 검색",
       "section": "social",
-      "status": "unverified",
-      "reason": "공개 검색을 수행했으나 해당 구간 신규 게시·채용 원문과 발행 시각을 충분히 검증하지 못해 발행 제외. 확인된 뉴스 없음이라는 뜻이 아님."
+      "count": 19,
+      "checked_at": "2026-11-05T00:56:27.275Z"
     },
     {
-      "source": "Ocugen 공식 발표 접근",
+      "source": "Novo 공식 IR·실적·발표자료",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Boehringer 공식 뉴스룸",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "SBP 공식 공시",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Evommune 공식 IR·공시",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Reuters 독립 취재",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "전문매체 BioSpace",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "전문매체 Fierce Biotech",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "DART 국내 공시",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "디앤디파마텍 공식",
+      "status": "not_configured",
+      "section": "news",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "ANZCTR",
+      "status": "not_configured",
       "section": "clinical",
-      "status": "unverified",
-      "reason": "원문 직접 열기는 403, 검색엔진에 색인된 동일 기업 공식 발표 전문으로 검토. 직접 접속 재검증 필요."
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
     },
     {
-      "source": "ChatGPT 브리핑 원문 반영",
-      "section": "news",
-      "status": "ok",
-      "count": 1,
-      "checked_at": "2026-11-05T00:38:36Z",
-      "reason": "사용자 첨부 01 원문 전체를 수정 없이 반영. 02·03 원문은 미수신. 자동 동기화 연결 미완료."
+      "source": "EU CTIS",
+      "status": "not_configured",
+      "section": "clinical",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
     },
     {
-      "source": "GPT 브리핑에서 사용한 원문 출처 재대조",
-      "section": "news",
-      "status": "ok",
-      "count": 5,
-      "checked_at": "2026-11-05T00:53:01Z",
-      "reason": "Novo 공개 컨콜 대체 전사, SBP 공시, Reuters 배포본, Evommune 8-K, Adaptive 공식 발표. Harmony 상세 원문은 재검증 대기."
+      "source": "WHO ICTRP",
+      "status": "not_configured",
+      "section": "clinical",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국 CRIS",
+      "status": "not_configured",
+      "section": "clinical",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "중국 ChiCTR",
+      "status": "not_configured",
+      "section": "clinical",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "일본 jRCT",
+      "status": "not_configured",
+      "section": "clinical",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Madrigal 공식 채용",
+      "status": "not_configured",
+      "section": "social",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Novo 공식 채용",
+      "status": "not_configured",
+      "section": "social",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "LinkedIn 공개 원문 검색",
+      "status": "not_configured",
+      "section": "social",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "X 공개 원문 검색",
+      "status": "not_configured",
+      "section": "social",
+      "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
     }
   ],
   "items": [
@@ -394,6 +488,2462 @@
         "type": "baseline",
         "reason": "실적발표 내 개발 현황 검토; 신규 등록/주요 필드 변경으로 판정하지 않음"
       }
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Director/ Director, Regulatory Affairs (Global Regulatory Advertising and Promotion)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5175155007?gh_jid=5175155007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "60aaa2f2cdcc56c925841bd9c9c0a10bb109f10e57a588de8d219f4f19738556",
+      "content_hash": "45e0810e5bb6e6ce6577048ce1ca6b1c48bbb7bae5f15fd820bacbf8d64c23c0",
+      "collected_at": "2026-11-05T00:56:27.274Z",
+      "job": {
+        "id": "5175155007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "860aedb285719fdc9e7cf9eb6c279b8cfd17ed31918ebff7023f20794623c4b2"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Director, External Manufacturing",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5214730007?gh_jid=5214730007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "80cd8eb96e8ff85f3cc6530ad18b84910bfeb282f923861c9f8b643f95b436dc",
+      "content_hash": "afb966b59e6303087f3c0ea4754662f20c1395662049f4185207653135e81322",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5214730007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "3d3e94bd380d48f6553570515175e0cf51639ff1b63a05f14ab388d3e8f85495"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Director, Medical Value, Evidence, and Outcomes (MVEO)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5266183007?gh_jid=5266183007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
+      "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5266183007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "a22d2e18b41ed81ea34574e41937e09a0d21297b64e74c6613c9d7a78d21694b"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Manufacturing Scientist I (3rd Shift)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5280910007?gh_jid=5280910007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "82f52d45f5c54b3c906f0435f77bf2eaf6787b6221fc54999ac052d27ea737a5",
+      "content_hash": "a1dad32b12e0e8866cf604f10bf0cf5c6445dba0e8e5a68ae5bbf6e300d28859",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5280910007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "85d4eb46dcb2e57360bcc1aa61f3ec6fbfcfe2803bb93e5598e9fc3e3fd702de"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Manufacturing Scientist II (2nd Shift)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5281925007?gh_jid=5281925007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "ad081be5dd882333ff9900babad0b34e153cc415f09ad3f7b56db7481037c799",
+      "content_hash": "6ce6c9840f51a56b28908969db231d41593c537e55ab7265be758038fa2519b5",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5281925007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "5498b31d8424052b1e695e4223b562789112fcbd053d49bd7d9dc2f64dd722f1"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Associate Medical Director / Medical Director",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5133490007?gh_jid=5133490007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
+      "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5133490007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "10314b602f4b3428cdd1c7eeb3a161af9450e24d1ec1d99ece330fa8ed25fb31"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Cardiometabolic Medical Science Liaison",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5124573007?gh_jid=5124573007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
+      "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5124573007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
+        "category": "채용·업계",
+        "priority": 30
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Director, Pharmacometrics & Clinical Pharmacology",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5279189007?gh_jid=5279189007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
+      "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5279189007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Director, Regulatory Affairs (Labeling)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5221763007?gh_jid=5221763007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
+      "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5221763007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "aba4441f3d561bedd54de11e5e24bd0731fbd1ff0d029e3537b75d1ca4eee3b8"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "External Partnerships Manager",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5197095007?gh_jid=5197095007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "91dec04a058f29414aa523afa0625d5a70d961610c2fc2320c5ec3511b32ff97",
+      "content_hash": "a11639ad089317a9a03ba30ed9f4fa8f0fd5d7d0238ba812faf53394a3b2ac66",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5197095007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "21f984a9ea1b810d95900e3df87efc168671959f73c5fa654959559ae4db7e34"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Manager, Regulatory Affairs",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5232760007?gh_jid=5232760007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "7403253f0b19fea611416bcc652a48df3e314a6deda33f51b60c24e23e8966ed",
+      "content_hash": "27cc15ff72e3003add94dfae3cbffbac740f3f91babdd165aaea76f515ea8b30",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5232760007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "458e040d28d12ca3acc18628fd0af042aab78772194b6f49021d0377b93922f4"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Medical Science Liaison",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5215350007?gh_jid=5215350007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "dab6010802370a574a8d56f80269147255408e45616072d86c95452509e4053a",
+      "content_hash": "dbf5a35a157ccd4fd56d46d8a07d8b148b5643ba7d93d498f683d47d80bc836d",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5215350007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "5e5c74ba6767922ad17260be061f8b2ef726eee02ba25a6993b6dd3723f0ea02"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Clinical Research Associate",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5269941007?gh_jid=5269941007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "e26da7f285cc675fb58ab0607eb8c62ce949b116c0aa86a92ddc271a47965758",
+      "content_hash": "cdeb1a9d2ed37c2fdb811a99c9121f04246265f80fd633fc2f38cdebacc69abf",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5269941007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "dd4c3c2c56db8408a275c5b1dae13be3a07a82e33559ce6e6455e5cc26b43c40"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Director, Medical Capabilities",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5271926007?gh_jid=5271926007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "34fc398d0acda291b4d93641774a062f22183141cdd97cec8cf82457559316ff",
+      "content_hash": "3fae9400e9d0745f8c7b5129642ec3312693dceb3cf6fa6d91f164cbfeb2d374",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5271926007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "a37790b1a0edfe95059ad95568f8047334ac1bcbc93d8919388ac2050c174aeb"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Manager, Clinical and PV Quality Assurance (Inspection Readiness and Management)",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5189599007?gh_jid=5189599007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "9145b0361fa703e51b85bfa7355b9ddaed07e99b337f9122933672738d676fcd",
+      "content_hash": "529eac16c15dc9ec8ff0a0413cf1efd195cfd6888fac37a6decc1a8a22e4f7cf",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5189599007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "a547a9d3e6325c2315130320c61d684edba389782099fb21e9c3940916b8514a"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Manager, CMC Regulatory Affairs",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5130292007?gh_jid=5130292007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "bf6c09e1c99de9fd061c953c3667fa5a2157a5e96a3c052c2d7e31604837493e",
+      "content_hash": "85235f4c2b55145caedc7b87b0290e878e1d82e5936e2f2d0209e61fe2aa5892",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5130292007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "f2c8962df819d2025ea384f322a552e29eeeab6d9d63cdd0b87a9d99d43177d6"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Manager, Medical Device Quality/Product Complaints",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5256733007?gh_jid=5256733007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "1e4c304165f55ce3659409b53e49342ebb339b7f0b24d514f6975e52b304d0c6",
+      "content_hash": "a83b510ae3bb48748c13315499a0bca7b2d651f7c2ce4537af9844084d9eda21",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5256733007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "ef989ed8642ed0a78c949d06b1a5afab7bffecf7e8f0423e3735b65e9995405b"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Manager, Medical Publications",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265643007?gh_jid=5265643007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
+      "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5265643007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "f055f72c36a275fbfbfd8cff268806dcaa4ccd717ec8e7daa9215e90e40b3fd3"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Senior Scientist I, Discovery Pharmacology",
+      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "",
+      "nct": "",
+      "tags": [
+        "공식 채용",
+        "현재 공고",
+        "최초 공고일 미확인"
+      ],
+      "sources": [
+        {
+          "label": "Arrowhead 공식 채용",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265558007?gh_jid=5265558007"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
+      "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
+      "collected_at": "2026-11-05T00:56:27.275Z",
+      "job": {
+        "id": "5265558007",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07249112 · DEFINITION OF THE GENOMIC LANDSCAPE OF MASLD",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2025-11-25\n상태: COMPLETED / 단계: NA\n질환: Cirrhosis, MASLD\n등록 규모: 2880 (ACTUAL)\n주요 평가변수: Identifying Genetic Risk for Advanced MASLD\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "drug": "genetic and somatic variants involved in its progression toward advanced fibrosis and hepatocellular carcinoma",
+      "nct": "NCT07249112",
+      "tags": "대사 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07249112"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2025-11-25",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "COMPLETED",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 2880,
+          "type": "ACTUAL"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Identifying Genetic Risk for Advanced MASLD",
+            "timeFrame": "11 months"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "genetic and somatic variants involved in its progression toward advanced fibrosis and hepatocellular carcinoma",
+            "type": "OTHER"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "7b392a21dcf443680a26fa25ef951334530dc62c065ec416d418ec3e6929d17e",
+      "content_hash": "793a9b58702c19a04eaef216cfc63ec1d535263a854fb5f746452abd893346aa",
+      "collected_at": "2026-11-05T00:56:25.677Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "d25fde0e0bbd6d2e0de5610a10d61499b5855b60cfeb5abca043cf4cd50b893c"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07910916 · Effects of Concurrent Training on Serum PCSK9 Levels in Adults With Overweight",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-02\n상태: RECRUITING / 단계: NA\n질환: Overweight, Lipid Metabolism, Cholesterol Metabolism\n등록 규모: 42 (ESTIMATED)\n주요 평가변수: Change in Serum PCSK9 Concentration\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "Kastamonu University",
+      "drug": "Concurrent Aerobic and Resistance Training",
+      "nct": "NCT07910916",
+      "tags": "대사 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07910916"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-02",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 42,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in Serum PCSK9 Concentration",
+            "timeFrame": "At baseline and 4 and 8 weeks after baseline"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Concurrent Aerobic and Resistance Training",
+            "type": "BEHAVIORAL"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "855efc8d2d60fd9eca1e8e384f3828ad60dfd64ec8f4296907f507531286aef7",
+      "content_hash": "0e5dad4b1352200be89a60ad208c88a1a522e18074be46c18102f2ee14401e36",
+      "collected_at": "2026-11-05T00:56:25.678Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "4cdb1d5b89cb87087aa1dacce291a062e88d0963553631dbc32ec33aaea04aca"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07914582 · Steatotic Liver Disease in Austria - Prospective Registry With Biobank",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-03\n상태: RECRUITING / 단계: 해당 없음\n질환: Steatotic Liver Disease\n등록 규모: 20000 (ESTIMATED)\n주요 평가변수: Number of participants developing compensated advanced chronic liver disease (cACLD), as assessed by liver stiffness measurement using vibration-controlled transient elastography (VCTE) >=10 kPa\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "Medical University of Vienna",
+      "drug": "",
+      "nct": "NCT07914582",
+      "tags": "대사 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07914582"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-03",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "OBSERVATIONAL",
+        "status": "RECRUITING",
+        "phases": [],
+        "enrollment": {
+          "count": 20000,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Number of participants developing compensated advanced chronic liver disease (cACLD), as assessed by liver stiffness measurement using vibration-controlled transient elastography (VCTE) >=10 kPa",
+            "timeFrame": "10 years"
+          }
+        ],
+        "interventions": [],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "5470c86ef6a0bd78769337e33db2b4de44108240b7201871aa701aa2a4792051",
+      "content_hash": "df5ae0213ec7e0f5ec59625fe76b90fedbbbc599a625174f493988340c60738d",
+      "collected_at": "2026-11-05T00:56:25.679Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "5d1c4cc5eed684eef643675326f6501f080c5c6d3040a16234fb459010d6df41"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07909109 · An Open Label Pilot Study Assessing the Impact of Chromium Picolinate Supplementation on Appetite and Cravings in Overweight Individuals",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-02\n상태: RECRUITING / 단계: 해당 없음\n질환: Overweight (BMI &gt; 25), Appetite, Craving\n등록 규모: 138 (ESTIMATED)\n주요 평가변수: Impact on hunger and cravings after taking Chromium Picolinate daily\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Nutrition 21, Inc.",
+      "drug": "Study Product",
+      "nct": "NCT07909109",
+      "tags": "대사 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07909109"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-02",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "OBSERVATIONAL",
+        "status": "RECRUITING",
+        "phases": [],
+        "enrollment": {
+          "count": 138,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Impact on hunger and cravings after taking Chromium Picolinate daily",
+            "timeFrame": "10 weeks"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Study Product",
+            "type": "DIETARY_SUPPLEMENT"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "d4cad277cf930a6369cdf7bb078e3fafdb022590a7513cb8f40afdc3aad3b328",
+      "content_hash": "a5f5a2b6c94be7695a368cbf36e4380f5c5fcd4db0d6e367fc4c374da81b3b62",
+      "collected_at": "2026-11-05T00:56:25.683Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "41ff35c261f816b9245ebd35b345fbbbfa4471bf8e9f167bca96bbe61eb0d079"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT05786443 · Safety and Efficacy of Empagliflozin in Hemodialysis",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2023-03-27\n상태: RECRUITING / 단계: PHASE2\n질환: End Stage Renal Disease\n등록 규모: 60 (ESTIMATED)\n주요 평가변수: Change in Extracellular Volume from Baseline to 12 Weeks; Change in Intracellular Volume from Baseline to 12 Weeks; Change in Total Body Water from Baseline to 12 Weeks; Change in 24-Hour Urine Volume from Baseline to 12 Weeks\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "NYU Langone Health",
+      "drug": "Empagliflozin 10 MG, Placebo",
+      "nct": "NCT05786443",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT05786443"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2023-03-27",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 60,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in Extracellular Volume from Baseline to 12 Weeks",
+            "timeFrame": "Baseline, Week 12"
+          },
+          {
+            "measure": "Change in Intracellular Volume from Baseline to 12 Weeks",
+            "timeFrame": "Baseline, Week 12"
+          },
+          {
+            "measure": "Change in Total Body Water from Baseline to 12 Weeks",
+            "timeFrame": "Baseline, Week 12"
+          },
+          {
+            "measure": "Change in 24-Hour Urine Volume from Baseline to 12 Weeks",
+            "timeFrame": "Baseline, Week 12"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Empagliflozin 10 MG",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "35e0ec51c85fc38ce3244efc63f43e72df1933c9d5064afaeade86971b251b9d",
+      "content_hash": "86f9ef37ab7be0a02dd9835a618373cba1d406a9c3813d9bbb5cdb638aec5732",
+      "collected_at": "2026-11-05T00:56:26.888Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "6377a3eb1a530c0a18bc315b695a8a1bbe5b1a9c4b14deff6c5d3d12f9925199"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06516653 · Post Market Study for VasQ, an External Support Implant for Arteriovenous Fistula",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2024-07-24\n상태: RECRUITING / 단계: NA\n질환: End Stage Renal Disease\n등록 규모: 300 (ESTIMATED)\n주요 평가변수: Fistula functional success\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "Laminate Medical Technologies",
+      "drug": "VasQ, Arteriovenous fistula creation for dialysis vascular access",
+      "nct": "NCT06516653",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06516653"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2024-07-24",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 300,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Fistula functional success",
+            "timeFrame": "6 months"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "VasQ",
+            "type": "DEVICE"
+          },
+          {
+            "name": "Arteriovenous fistula creation for dialysis vascular access",
+            "type": "PROCEDURE"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "08cefb6661ad00da21c6cbae3c3937ad2958aa6862ce352b0c2d3da0b91eeef1",
+      "content_hash": "1380195b3d1941e69124c3343fd7b089c2bef9e1d33fcf4a5b1236d2efc21b24",
+      "collected_at": "2026-11-05T00:56:26.888Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "c78372a1f93ed7390c4d5b40d44346bcd68c7d736852685d00bffa12a568b4d7"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT05334069 · Collecting Blood Samples From Patients With and Without Cancer to Evaluate Tests for Early Cancer Detection",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2022-04-19\n상태: RECRUITING / 단계: 해당 없음\n질환: Acute Lymphoblastic Leukemia, Acute Myeloid Leukemia, Ann Arbor Stage I Lymphoma, Ann Arbor Stage II Lymphoma, Ann Arbor Stage III Lymphoma, Ann Arbor Stage IV Lymphoma, Chronic Lymphocytic Leukemia, Chronic Myeloid Leukemia, Gastroesophageal Junction Adenocarcinoma, Head and Neck Carcinoma, Hematopoietic and Lymphoid Cell Neoplasm, Invasive Breast Carcinoma, Kidney Carcinoma, Malignant Hepatobiliary Neoplasm, Malignant Solid Neoplasm, Melanoma, Muscle-Invasive Bladder Carcinoma, Stage I Bladder Cancer AJCC v6 and v7, Stage I Breast Cancer AJCC v7, Stage I Colorectal Cancer AJCC v6 and v7, Stage I Esophageal Cancer AJCC V7, Stage I Gastric Cancer AJCC V7, Stage I Lung Cancer AJCC v7, Stage I Ovarian Cancer AJCC v6 and v7, Stage I Pancreatic Cancer AJCC v6 and v7, Stage I Prostate Cancer AJCC v7, Stage I Uterine Corpus Cancer AJCC v7, Stage II Bladder Cancer AJCC v6 and v7, Stage II Breast Cancer AJCC v6 and v7, Stage II Colorectal Cancer AJCC v7, Stage II Esophageal Cancer AJCC v7, Stage II Gastric Cancer AJCC v7, Stage II Lung Cancer AJCC v7, Stage II Ovarian Cancer AJCC v6 and v7, Stage II Pancreatic Cancer AJCC v6 and v7, Stage II Prostate Cancer AJCC v7, Stage II Uterine Corpus Cancer AJCC v7, Stage III Bladder Cancer AJCC v6 and v7, Stage III Breast Cancer AJCC v7, Stage III Colorectal Cancer AJCC v7, Stage III Esophageal Cancer AJCC v7, Stage III Gastric Cancer AJCC v7, Stage III Lung Cancer AJCC v7, Stage III Ovarian Cancer AJCC v6 and v7, Stage III Pancreatic Cancer AJCC v6 and v7, Stage III Prostate Cancer AJCC v7, Stage III Uterine Corpus Cancer AJCC v7, Stage IV Bladder Cancer AJCC v7, Stage IV Breast Cancer AJCC v6 and v7, Stage IV Colorectal Cancer AJCC v7, Stage IV Esophageal Cancer AJCC v7, Stage IV Gastric Cancer AJCC v7, Stage IV Lung Cancer AJCC v7, Stage IV Ovarian Cancer AJCC v6 and v7, Stage IV Pancreatic Cancer AJCC v6 and v7, Stage IV Prostate Cancer AJCC v7, Stage IV Uterine Corpus Cancer AJCC v7, RISS Stage I Multiple Myeloma, RISS Stage II Multiple Myeloma, RISS Stage III Multiple Myeloma\n등록 규모: 2900 (ESTIMATED)\n주요 평가변수: Provision of blinded reference set of cancer versus non-cancer blood samples\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "Alliance for Clinical Trials in Oncology",
+      "drug": "Questionnaire Administration, Biospecimen Collection",
+      "nct": "NCT05334069",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT05334069"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2022-04-19",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "OBSERVATIONAL",
+        "status": "RECRUITING",
+        "phases": [],
+        "enrollment": {
+          "count": 2900,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Provision of blinded reference set of cancer versus non-cancer blood samples",
+            "timeFrame": "Up to 1 year"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Questionnaire Administration",
+            "type": "OTHER"
+          },
+          {
+            "name": "Biospecimen Collection",
+            "type": "PROCEDURE"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "b3119f21fb9316ef970209f17daad8cd5513c4319ea49dcba609052dd49cbc7d",
+      "content_hash": "da25e0d681e909cebb9a1932b0aeca054c6b1db0f091e13b786755db7be7c458",
+      "collected_at": "2026-11-05T00:56:26.890Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "9954f55435df096827775fc1e25c095ff99596de2123a34f41dc8ba18dda389a"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07914738 · A Study of Lepodisiran (LY3819469) in Participants With High Lipoprotein(a)",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-04\n상태: NOT_YET_RECRUITING / 단계: PHASE1\n질환: Lipoprotein(a)\n등록 규모: 66 (ESTIMATED)\n주요 평가변수: Pharmacokinetics (PK): Maximum Observed Plasma Concentration (Cmax) of LY3819469; PK: Area Under the Concentration versus Time Curve (AUC) of LY3819469\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "Eli Lilly and Company",
+      "drug": "LY3819469",
+      "nct": "NCT07914738",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07914738"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-04",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "enrollment": {
+          "count": 66,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Pharmacokinetics (PK): Maximum Observed Plasma Concentration (Cmax) of LY3819469",
+            "timeFrame": "Day 1 through Day 15"
+          },
+          {
+            "measure": "PK: Area Under the Concentration versus Time Curve (AUC) of LY3819469",
+            "timeFrame": "Day 1 through Day 15"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "LY3819469",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "8952da2a15e46e7d7d69adfe56fb7c99eefc54de7b46a8669578afb2a11a8fb0",
+      "content_hash": "d64bf611e88bbf805fa8a75e8bf7e79ed58c8e36f56cd7ee64b76eda6699b86e",
+      "collected_at": "2026-11-05T00:56:26.892Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "132b7247d49bf5eda6882912060ab85915818906b50307b5515d7198260396f6"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07882160 · Metabolic Impact of VLCPUFA-Rich Fish Oil: A Clinical Study on Omega-3 Index Enhancement in Healthy Individuals",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-10-20\n상태: RECRUITING / 단계: NA\n질환: Fatty Acids, Omega-3, Fish Oils\n등록 규모: 200 (ESTIMATED)\n주요 평가변수: Change in Omega-3 Index\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "drug": "VLCPUFA-rich fish oil, DHA-rich fish oil",
+      "nct": "NCT07882160",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07882160"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-10-20",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 200,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in Omega-3 Index",
+            "timeFrame": "Baseline and after each 8-week intervention period"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "VLCPUFA-rich fish oil",
+            "type": "DIETARY_SUPPLEMENT"
+          },
+          {
+            "name": "DHA-rich fish oil",
+            "type": "DIETARY_SUPPLEMENT"
+          }
+        ],
+        "sponsor_class": "NIH"
+      },
+      "event_key": "e53cedc4f1a0ff18c03c261e11ca59a124f22e80890a95fe0cf0d1f389199964",
+      "content_hash": "9e4dbbd94e1c0b24f3c2f35a9b12e52b98590d69098a69ebce4d5217e67ddd33",
+      "collected_at": "2026-11-05T00:56:26.895Z",
+      "research": {
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "9a98fb501dba5d08ec21a32643ef0b4f4c6484064a1960e67a43dacf01c4c4b1"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT05858437 · Impact of Propionic Acid on Regulatory T Cell Function in Children With CKD",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2023-05-15\n상태: RECRUITING / 단계: NA\n질환: CKD (Chronic Kidney Disease) Stage 5D\n등록 규모: 16 (ESTIMATED)\n주요 평가변수: Change in count of regulatory T-cells from baseline to week 4\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "Charite University, Berlin, Germany",
+      "drug": "Sodium propionate, Placebo",
+      "nct": "NCT05858437",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT05858437"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2023-05-15",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 16,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in count of regulatory T-cells from baseline to week 4",
+            "timeFrame": "Baseline visit (week 0) in comparison to week 4"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Sodium propionate",
+            "type": "DIETARY_SUPPLEMENT"
+          },
+          {
+            "name": "Placebo",
+            "type": "OTHER"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "2a9303572b4719057dd123e559cc2edaed8ec025535e5e4941bffd56e000d3cf",
+      "content_hash": "8d7ce10af17ded4fbce46f05b601ff0d43112ceb00ed736634dc9edcce7fc6d4",
+      "collected_at": "2026-11-05T00:56:26.896Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "규제",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "b5e347cc9de9b172afdc3602180b45ec45917b8375557d08a83c71cc3f9c940f"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07912359 · Effect of Synbiotic Therapy on Renal Function Outcomes in Patients With Chronic Kidney Disease Stage III-IV: A Double-blind Randomized Placebo-controlled Trial.",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-03\n상태: RECRUITING / 단계: NA\n질환: Chronic Kidney Disease (Stage 3-4)\n등록 규모: 96 (ESTIMATED)\n주요 평가변수: Change in Serum Creatinine From Baseline to 3 Months; Change in Estimated Glomerular Filtration Rate (eGFR) From Baseline to 3 Months; Change in Blood Urea Nitrogen (BUN) From Baseline to 3 Months\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "Chittagong Medical College",
+      "drug": "Experimental arm will get synbiotic therapy containing Lactobacillus acidophilus (15 billion CFU), Bifidobacterium longum (15 billion CFU), Streptococcus thermophilus(15 billion CFU), along with xylo",
+      "nct": "NCT07912359",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07912359"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-03",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 96,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in Serum Creatinine From Baseline to 3 Months",
+            "timeFrame": "One year and six months(11th June 2026 to 11th December 2027)"
+          },
+          {
+            "measure": "Change in Estimated Glomerular Filtration Rate (eGFR) From Baseline to 3 Months",
+            "timeFrame": "One year and six months(11th June 2026 to 11th December 2027)"
+          },
+          {
+            "measure": "Change in Blood Urea Nitrogen (BUN) From Baseline to 3 Months",
+            "timeFrame": "One year and six months(11th June 2026 to 11th December 2027)"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Experimental arm will get synbiotic therapy containing Lactobacillus acidophilus (15 billion CFU), Bifidobacterium longum (15 billion CFU), Streptococcus thermophilus(15 billion CFU), along with xylo",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "925b910fd20a9d2874385fbf400e0962d24364c3ac30b8b01ba37a10270e3365",
+      "content_hash": "1fb4bd579ab235d9b3cd5dbe8219cb4e790cb36ddf18d56f1574c8b707c4840d",
+      "collected_at": "2026-11-05T00:56:26.897Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "64a8eb19f4b491728aaa04accd158e170432d10a8e02526ae9820fc89cdefa89"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07911969 · Comparative Feasibility and Effectiveness of Medically Tailored Meals Approaches for Pediatric End-Stage Kidney Disease",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-11-03\n상태: NOT_YET_RECRUITING / 단계: NA\n질환: End Stage Kidney Disease (ESKD)\n등록 규모: 30 (ESTIMATED)\n주요 평가변수: Feasibility - Recruitment; Feasibility - Participation in intervention activities; Feasibility - Attrition; Acceptability - Program satisfaction; Feasibility - Data completeness; Acceptability - Feedback interviews\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "Baylor College of Medicine",
+      "drug": "Culinary Medicine Intervention, Pre-prepared MTMs",
+      "nct": "NCT07911969",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07911969"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-11-03",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 30,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Feasibility - Recruitment",
+            "timeFrame": "through study completion, an average of 1 year"
+          },
+          {
+            "measure": "Feasibility - Participation in intervention activities",
+            "timeFrame": "up to 12 weeks of intervention"
+          },
+          {
+            "measure": "Feasibility - Attrition",
+            "timeFrame": "Baseline to 12 weeks"
+          },
+          {
+            "measure": "Acceptability - Program satisfaction",
+            "timeFrame": "At 12 weeks from baseline"
+          },
+          {
+            "measure": "Feasibility - Data completeness",
+            "timeFrame": "Baseline and at 12 weeks"
+          },
+          {
+            "measure": "Acceptability - Feedback interviews",
+            "timeFrame": "At 12 weeks from baseline"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Culinary Medicine Intervention",
+            "type": "BEHAVIORAL"
+          },
+          {
+            "name": "Pre-prepared MTMs",
+            "type": "BEHAVIORAL"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "fbd2c1fd3299bf0e54f4bf21b20fdebb832a4ecda80bf673cd0c22a2bfbe1dec",
+      "content_hash": "c06966b92048f48f53aa9a5a9f27ac8437587ea8c52796bfaf7165ded0379109",
+      "collected_at": "2026-11-05T00:56:26.898Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "ec49670251894011e3b57c6da131e7c55495278925934df8a16c7315cdffe38a"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT05696444 · Medtronic Hugo™ Robotic Assisted Surgery (RAS) System in Urologic Surgery (Expand URO)",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2023-01-25\n상태: ACTIVE_NOT_RECRUITING / 단계: NA\n질환: Bladder Cancer, Prostate Cancer, Kidney Cancer, Pelvic Tumor, Interstitial Cystitis, Congenital Abnormalities, End Stage Renal Disease, Renal Tumor, Kidney Injury\n등록 규모: 144 (ACTUAL)\n주요 평가변수: Primary Effectiveness Endpoint - Surgical Success Rate, Defined as the Procedure Not Going Into Conversion; Primary Safety Endpoint - Rate of Subjects With Complications Meeting Grade III - Grade V Criteria Per the Clavien-Dindo Classification System.\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "Medtronic - MITG",
+      "drug": "RAS Prostatectomy, RAS Cystectomy, RAS Nephrectomy",
+      "nct": "NCT05696444",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT05696444"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2023-01-25",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": "2025-11-25",
+        "study_type": "INTERVENTIONAL",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 144,
+          "type": "ACTUAL"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Primary Effectiveness Endpoint - Surgical Success Rate, Defined as the Procedure Not Going Into Conversion",
+            "timeFrame": "During surgical procedure"
+          },
+          {
+            "measure": "Primary Safety Endpoint - Rate of Subjects With Complications Meeting Grade III - Grade V Criteria Per the Clavien-Dindo Classification System.",
+            "timeFrame": "30 days"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "RAS Prostatectomy",
+            "type": "DEVICE"
+          },
+          {
+            "name": "RAS Cystectomy",
+            "type": "DEVICE"
+          },
+          {
+            "name": "RAS Nephrectomy",
+            "type": "DEVICE"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "bb800cd08e1ed947075f27ed55a1ec96947015710420dc59a4cba779898295ab",
+      "content_hash": "65e55d1471a939572ce8ea7e5be91824ab17d8d474aa2bdecb01cbf40f626555",
+      "collected_at": "2026-11-05T00:56:26.898Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "a5aedf5fa9d0aa96d80d86b335b312f71aa44bd7fdd65bbc2c652bbe19f39b99"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07530042 · Efficacy of Electroacupuncture Combined With Auricular Acupressure for Chronic Low Back Pain.",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-04-15\n상태: COMPLETED / 단계: NA\n질환: Chronic Low Back Pain (CLBP), Lumbar Spondylosis\n등록 규모: 76 (ACTUAL)\n주요 평가변수: The change of the Visual Analog Scale (VAS) Score\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "drug": "Electroacupuncture, Auricular Acupressure, Sham Auricular Acupressure",
+      "nct": "NCT07530042",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07530042"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-04-15",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "COMPLETED",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 76,
+          "type": "ACTUAL"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "The change of the Visual Analog Scale (VAS) Score",
+            "timeFrame": "Assessments are conducted before intervention and after each intervention week: Baseline (T0), Day 7 (T1), and Day 14 (T2)."
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Electroacupuncture",
+            "type": "DEVICE"
+          },
+          {
+            "name": "Auricular Acupressure",
+            "type": "DEVICE"
+          },
+          {
+            "name": "Sham Auricular Acupressure",
+            "type": "DEVICE"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "ea72d176fd4b7936422652adf5bd42cce4e29a91d712f0bb86887607fd336db0",
+      "content_hash": "1aafd6ab7f2673117ec2b3fa6a789f5a1250fb407cf901d99a56ad53a9883245",
+      "collected_at": "2026-11-05T00:56:26.902Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "6a4ca75dd3978980ec5e7eeb3d1b5cc448f2a845c54ff7eec6653a41b0c16b20"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06434363 · Phase I/II Study of AD-PluReceptor Plus Tafasitamab-cxix and Lymphodepleting Chemotherapy in Patients With Autoimmune Disorders",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2024-05-30\n상태: RECRUITING / 단계: PHASE1, PHASE2\n질환: Autoimmune Disorders, Systemic Sclerosis, Systemic Lupus Erythematosus, Lupus, Lupus Nephritis\n등록 규모: 47 (ESTIMATED)\n주요 평가변수: Adverse Event\n등록처 갱신일: 2026-11-03 (정확한 게시 시각 미제공)",
+      "company": "M.D. Anderson Cancer Center",
+      "drug": "Tafasitamab, Fludarabine phosphate, Cyclophosphamide, Tafasitamab and NK cells",
+      "nct": "NCT06434363",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06434363"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2024-05-30",
+        "last_updated_date": "2026-11-03",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 47,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Adverse Event",
+            "timeFrame": "Through study completion; an average of 1 year."
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Tafasitamab",
+            "type": "DRUG"
+          },
+          {
+            "name": "Fludarabine phosphate",
+            "type": "DRUG"
+          },
+          {
+            "name": "Cyclophosphamide",
+            "type": "DRUG"
+          },
+          {
+            "name": "Tafasitamab and NK cells",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "294fcfab0c16adc64a75e74f30fb546e5f16df40afc5f9c6ea8fa113f7e628ca",
+      "content_hash": "f3ea90ff8d1d6996ee3fe917dd35c9dd14828618d41f2176f5d6fd2000b73bfc",
+      "collected_at": "2026-11-05T00:56:26.902Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "118d81309122c5a99e0326025f3baef01a068c231f73c5416f37f1ba73a95ef0"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06660160 · Group Exercise Program Supported By Audiovisual Media During Hemodialysis",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2024-10-28\n상태: ACTIVE_NOT_RECRUITING / 단계: NA\n질환: Chronic Kidney Failure, Hemodialysis, Sarcopenia, Functional Capacity, Muscle Strength Dynamometer, Physical Activity Level\n등록 규모: 45 (ESTIMATED)\n주요 평가변수: Feasibility and Safety Assessment; Feasibility and Safety Assessment\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Cardenal Herrera University",
+      "drug": "Exercise program supported by audiovisual media",
+      "nct": "NCT06660160",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06660160"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2024-10-28",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 45,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Feasibility and Safety Assessment",
+            "timeFrame": "From start to finish of intervention (4 weeks)"
+          },
+          {
+            "measure": "Feasibility and Safety Assessment",
+            "timeFrame": "From start to finish of intervention (4 weeks)"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Exercise program supported by audiovisual media",
+            "type": "OTHER"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "9999e4b0170b2d5312e65d84a78aca1fb1c22a1659e6390bfe19c37bc25beadd",
+      "content_hash": "3dd448d1d5f778b2e5bb451d10f83b548236bd3392e9baa1ab36b3a071f3fa81",
+      "collected_at": "2026-11-05T00:56:26.907Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "5566cb98a7b8d9ec9a4d43bd9177b3a4847d33d5d0b2856386ec6d77901cf24c"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07323095 · Evaluate the Efficacy and Safety of ABP-671 in Subjects With Chronic Kidney Disease and Hyperuricaemia",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-01-07\n상태: RECRUITING / 단계: PHASE2\n질환: Chronic Kidney Disease\n등록 규모: 80 (ESTIMATED)\n주요 평가변수: The change in the urine albumin-to-creatinine ratio (mg/g) as reported in the laboratory report compared to the baseline\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Atom Therapeutics Co., Ltd",
+      "drug": "ABP-671 plus febuxostat Group 1, ABP-671 plus febuxostat Group 2, ABP-671 Group, Placebo Group",
+      "nct": "NCT07323095",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07323095"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-01-07",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 80,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "The change in the urine albumin-to-creatinine ratio (mg/g) as reported in the laboratory report compared to the baseline",
+            "timeFrame": "Week 40"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "ABP-671 plus febuxostat Group 1",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABP-671 plus febuxostat Group 2",
+            "type": "DRUG"
+          },
+          {
+            "name": "ABP-671 Group",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo Group",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "830e824e49ddf82b69342f2e01bc8e14d889163f1216a7135af91606c7cc83e0",
+      "content_hash": "398073d5f4ecf20009064159674ed7c3d4b475c4d7d6fb09e4a951f67b1c4053",
+      "collected_at": "2026-11-05T00:56:26.908Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "12bdadb89f4eb8c3b60ec250e95129a575184ac9f56b7b0054e66b49c0eb7c10"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07437053 · Sarcopenia in Chronic Kidney Disease (CKD) Patients",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-02-27\n상태: NOT_YET_RECRUITING / 단계: EARLY_PHASE1\n질환: Chronic Kidney Disease, Sarcopenia\n등록 규모: 20 (ESTIMATED)\n주요 평가변수: Skeletal muscle strength (handgrip strength test); Muscle mass; Physical performance (4-meter Walk Gait Speed Test or 4MWT); Incidence of patient-reported symptoms\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "The University of Texas Health Science Center at San Antonio",
+      "drug": "Valine, EEA",
+      "nct": "NCT07437053",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07437053"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-02-27",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "EARLY_PHASE1"
+        ],
+        "enrollment": {
+          "count": 20,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Skeletal muscle strength (handgrip strength test)",
+            "timeFrame": "Baseline to 14 weeks"
+          },
+          {
+            "measure": "Muscle mass",
+            "timeFrame": "Baseline to 14 weeks"
+          },
+          {
+            "measure": "Physical performance (4-meter Walk Gait Speed Test or 4MWT)",
+            "timeFrame": "Baseline to 14 weeks"
+          },
+          {
+            "measure": "Incidence of patient-reported symptoms",
+            "timeFrame": "Baseline to 14 weeks"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Valine",
+            "type": "DRUG"
+          },
+          {
+            "name": "EEA",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "8ee95da1d4ed375bb23c4daaa0826d4607f7edfedebe6523a4b93b261303650a",
+      "content_hash": "cc9fb51053b794e232ff6169ecc071d01a00d1d2d6d53614c33bf10f745cfdf5",
+      "collected_at": "2026-11-05T00:56:26.908Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "5cb198c160b9f3627bab7a950eeae59baf600cca9e38623b89838fc7c3dc0606"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07696962 · Study of ChoironeX GalKO Porcine Thymokidney Xenotransplantation in End-Stage Renal Disease",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-07-10\n상태: RECRUITING / 단계: PHASE1\n질환: End Stage Renal Disease\n등록 규모: 4 (ESTIMATED)\n주요 평가변수: Incidence and severity of adverse events (AEs), serious adverse events (SAEs), and adverse events of special interest (AESIs) from Day 0 through Month 6.; Overall survival of the recipient without the need for chronic dialysis at Month 6.\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Xeno Holdings (US), LLC dba ChoironeX",
+      "drug": "ChoironeX GalKO Porcine Thymokidney",
+      "nct": "NCT07696962",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07696962"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-07-10",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "enrollment": {
+          "count": 4,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Incidence and severity of adverse events (AEs), serious adverse events (SAEs), and adverse events of special interest (AESIs) from Day 0 through Month 6.",
+            "timeFrame": "6 months"
+          },
+          {
+            "measure": "Overall survival of the recipient without the need for chronic dialysis at Month 6.",
+            "timeFrame": "6 months"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "ChoironeX GalKO Porcine Thymokidney",
+            "type": "BIOLOGICAL"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "fc8d3d399cc7b7cd85fd4cd92825d5339cd18c98145368496656d0db76ce9291",
+      "content_hash": "fda88c23e26af37990390086d01a1ea3cd231397311df876cd6ee2db474a1a64",
+      "collected_at": "2026-11-05T00:56:26.910Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "f01f040cdfda3a9c4165f636ef24b747814bab0b35f1af916d3abe6a4b4b2d71"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06980428 · A Study to Investigate Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of AZD4954 in Healthy Adult Participants With or Without Elevated Lipoprotein (a) (Lp[a]) Levels, and Participants With Dyslipidemia",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2025-05-20\n상태: RECRUITING / 단계: PHASE1\n질환: Healthy Participants, Dyslipidemia\n등록 규모: 171 (ESTIMATED)\n주요 평가변수: Part A: Number of participants with Adverse Events (AEs) and Serious Adverse Events (SAEs); Part B: Number of participants with AEs and SAEs\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "AstraZeneca",
+      "drug": "AZD4954, Placebo",
+      "nct": "NCT06980428",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06980428"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2025-05-20",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "RECRUITING",
+        "phases": [
+          "PHASE1"
+        ],
+        "enrollment": {
+          "count": 171,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Part A: Number of participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+            "timeFrame": "From Screening (Day -28 to Day -2) to Follow-up visit (Up to Day 29±2 days)"
+          },
+          {
+            "measure": "Part B: Number of participants with AEs and SAEs",
+            "timeFrame": "From Screening (Day -28 to Day -2) to Follow-up visit (Up to Day 49±2 days)"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "AZD4954",
+            "type": "DRUG"
+          },
+          {
+            "name": "Placebo",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "6c637c96fe1dbb20abb82903341189710830ad119f0c4ad792b21ecdd794c4ec",
+      "content_hash": "26cdfadd9ce0c079e5e29172ec63cdd9ec5341d5260448e00f072fd529f0f618",
+      "collected_at": "2026-11-05T00:56:26.910Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "fe0cc0f102731b1d3074b496f670f6890a4d8e3e5b08f2cf570c03ced5fa4678"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06609343 · Bupropion for Fatigue in End-stage Kidney Disease Patients on Hemodialysis",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2024-09-24\n상태: NOT_YET_RECRUITING / 단계: PHASE1, PHASE2\n질환: End Stage Renal Disease, Fatigue\n등록 규모: 16 (ESTIMATED)\n주요 평가변수: Change in Brief Fatigue Inventory (BFI) Global Score\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "The University of Texas Health Science Center at San Antonio",
+      "drug": "Bupropion Hydrochloride 150 MG",
+      "nct": "NCT06609343",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06609343"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2024-09-24",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "NOT_YET_RECRUITING",
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 16,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change in Brief Fatigue Inventory (BFI) Global Score",
+            "timeFrame": "Baseline to 8 weeks"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Bupropion Hydrochloride 150 MG",
+            "type": "DRUG"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "f7b8a68b6032a1a9472c9e6b19093dccd2c7afd08c0bf486fad00731b04dcd3e",
+      "content_hash": "0d0e727fd37570999cf166ac0b3b1376b29c6c57b35baa50961e8f6602c6bb15",
+      "collected_at": "2026-11-05T00:56:26.911Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "3451a4f17c0c72f456e53287d699b67eec029ea0b51e99c8846b882bd4852b87"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT07499856 · Intradialytic Exercise Program Supported by Audiovisual Media Combined With Mindfulness",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2026-03-30\n상태: COMPLETED / 단계: NA\n질환: Chronic Kidney Disease (Stages 3b-5)\n등록 규모: 30 (ACTUAL)\n주요 평가변수: Safety assessment by hypotension episodes; Safety assessment by fatigue; Safety assessment by muscle cramps; Recruitment rate Assessment; Retention rate; Adherence rate\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Cardenal Herrera University",
+      "drug": "GREX- MIND, GREX",
+      "nct": "NCT07499856",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT07499856"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2026-03-30",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "COMPLETED",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 30,
+          "type": "ACTUAL"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Safety assessment by hypotension episodes",
+            "timeFrame": "From the start to the end of the intervention (4 weeks)"
+          },
+          {
+            "measure": "Safety assessment by fatigue",
+            "timeFrame": "From start to the end of the intervention (4 weeks)"
+          },
+          {
+            "measure": "Safety assessment by muscle cramps",
+            "timeFrame": "From the start to the end of the intervention (4 weeks)"
+          },
+          {
+            "measure": "Recruitment rate Assessment",
+            "timeFrame": "Start of the study"
+          },
+          {
+            "measure": "Retention rate",
+            "timeFrame": "From start to the end of the intervention (4 weeks)"
+          },
+          {
+            "measure": "Adherence rate",
+            "timeFrame": "From start to the end of the intervention (4 weeks)"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "GREX- MIND",
+            "type": "OTHER"
+          },
+          {
+            "name": "GREX",
+            "type": "OTHER"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "cf671a2d325ca834ede8921169155cb2fdb3e4fda0f0aae573fbf4162f73bf20",
+      "content_hash": "67a51f7440b231c57d673e43f891e0bac38fb237288cf26a5d39fb0dc1b0c695",
+      "collected_at": "2026-11-05T00:56:26.911Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "ffc2984dd6a5a764d43cceb18c5036d9340c02fe8202a349361af243352b2f43"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT04823286 · Integrated Patient Care Intradialysis Programme in Hemodialysis Through a Virtual Health Platform",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2021-03-30\n상태: COMPLETED / 단계: NA\n질환: End Stage Renal Disease, Hemodialysis-Induced Symptom, Chronic Kidney Diseases\n등록 규모: 41 (ACTUAL)\n주요 평가변수: Change from baseline distance walked assessed by the 6 minutes walk test at 12 weeks\n등록처 갱신일: 2026-11-02 (정확한 게시 시각 미제공)",
+      "company": "Cardenal Herrera University",
+      "drug": "Virtual reality health platform during hemodialysis",
+      "nct": "NCT04823286",
+      "tags": "심혈관 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT04823286"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2021-03-30",
+        "last_updated_date": "2026-11-02",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "COMPLETED",
+        "phases": [
+          "NA"
+        ],
+        "enrollment": {
+          "count": 41,
+          "type": "ACTUAL"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Change from baseline distance walked assessed by the 6 minutes walk test at 12 weeks",
+            "timeFrame": "Baseline, after 12 weeks of intervention, 12 weeks follow-up after the end of the intervention"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "Virtual reality health platform during hemodialysis",
+            "type": "OTHER"
+          }
+        ],
+        "sponsor_class": "OTHER"
+      },
+      "event_key": "e95fe382245103694ff739532edca4ccd9d986f2fdc433ae5645bd987fbf7d30",
+      "content_hash": "1c391568f98c913af5e04a4daff303328bce319cbdcc35e11ed7e43272a75501",
+      "collected_at": "2026-11-05T00:56:26.912Z",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "d2243eae86b84021c6ac2d326fcc5d4b65a3e72ffd7cd187896f1b8b3170e819"
+    },
+    {
+      "section": "clinical",
+      "kind": "trial",
+      "title": "NCT06289452 · Safety and Efficacy Study of IVB102 Injection in Subjects With X-linked Retinoschisis",
+      "summary": "레지스트리 스냅샷 (임상 성공 발표가 아닙니다)\n최초 공개일: 2024-03-01\n상태: ACTIVE_NOT_RECRUITING / 단계: EARLY_PHASE1\n질환: Retinoschisis, Retinal Disease, Retinal Degeneration, Eye Diseases\n등록 규모: 18 (ESTIMATED)\n주요 평가변수: Incidence of DLTs; Incidence of AEs; Incidence of SAEs\n등록처 갱신일: 2026-11-04 (정확한 게시 시각 미제공)",
+      "company": "InnoVec Biotherapeutics Inc.",
+      "drug": "IVB102 Injection, IVB102 Injection, IVB102 Injection",
+      "nct": "NCT06289452",
+      "tags": "안과 · 레지스트리",
+      "sources": [
+        {
+          "label": "ClinicalTrials.gov 원본",
+          "url": "https://clinicaltrials.gov/study/NCT06289452"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "clinical": {
+        "version": 1,
+        "first_posted_date": "2024-03-01",
+        "last_updated_date": "2026-11-04",
+        "results_first_posted_date": null,
+        "study_type": "INTERVENTIONAL",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "phases": [
+          "EARLY_PHASE1"
+        ],
+        "enrollment": {
+          "count": 18,
+          "type": "ESTIMATED"
+        },
+        "primary_outcomes": [
+          {
+            "measure": "Incidence of DLTs",
+            "timeFrame": "4 weeks"
+          },
+          {
+            "measure": "Incidence of AEs",
+            "timeFrame": "52 weeks"
+          },
+          {
+            "measure": "Incidence of SAEs",
+            "timeFrame": "52 weeks"
+          }
+        ],
+        "interventions": [
+          {
+            "name": "IVB102 Injection",
+            "type": "GENETIC"
+          },
+          {
+            "name": "IVB102 Injection",
+            "type": "GENETIC"
+          },
+          {
+            "name": "IVB102 Injection",
+            "type": "GENETIC"
+          }
+        ],
+        "sponsor_class": "INDUSTRY"
+      },
+      "event_key": "ba79196e5c8ce3cf4b76afca52d60e264f83a741d05871f2b36c50fdbeeb8a42",
+      "content_hash": "dfe2a0614cbd1250a085e0e4f613a5ebad2dc018ff9241fa0dfd9b73d943ad85",
+      "collected_at": "2026-11-05T00:56:27.029Z",
+      "research": {
+        "topics": [
+          "안과"
+        ],
+        "category": "임상개발",
+        "priority": 30
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "changed_fields": [],
+        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "dfad0c88b42c62d388cd92bf2cfeeb189b2965730a0262b78a3e5741aacf6789"
     }
   ],
   "editorial": {
@@ -427,13 +2977,13 @@
   },
   "section_status": {
     "news": {
-      "message": "GPT 브리핑이 사용한 출처를 대조해 항목별로 분류했습니다. Harmony BP-205 상세 원문은 재검증 대기이며, 공식 피드의 추가 후보는 별도로 들어옵니다."
+      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
     },
     "clinical": {
-      "message": "ClinicalTrials.gov는 이전 스냅샷과 비교합니다. 오늘 GPT 브리핑도 해당 구간 신규·실질 변경 전수 검증을 완료하지 못했다고 명시했습니다. 국가별 등록처는 별도 검토 대상입니다."
+      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 당일 신규를 구분합니다. X·LinkedIn은 공개 웹 검색과 원문 게시일 검증을 통과한 내용만 발행합니다."
+      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
     }
   }
 }
