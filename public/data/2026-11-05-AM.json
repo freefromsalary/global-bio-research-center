@@ -3,7 +3,7 @@
   "report_date": "2026-11-05",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-05T00:59:29.390Z",
+  "updated_at": "2026-11-05T01:01:25Z",
   "window": {
     "start": "2026-11-04T07:00:00.000Z",
     "end": "2026-11-04T23:00:00.000Z"
@@ -219,6 +219,14 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "Harmony 실적·BP-205 원문 대조",
+      "section": "news",
+      "status": "ok",
+      "count": 1,
+      "checked_at": "2026-11-05T01:01:25Z",
+      "reason": "공식 GCS 보도자료를 확보해 원문 재검증 완료."
     }
   ],
   "items": [
@@ -3381,14 +3389,47 @@
       "report_date": "2026-11-05",
       "slot": "AM",
       "id": "dfad0c88b42c62d388cd92bf2cfeeb189b2965730a0262b78a3e5741aacf6789"
+    },
+    {
+      "id": "2026-11-05-AM-harmony-q3-2026",
+      "event_key": "harmony-q3-2026",
+      "content_hash": "source-reviewed-v1-harmony-q3-2026",
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Harmony: WAKIX 매출 2.689억 달러, BP-205 건강인 반복투여 1상 데이터",
+      "summary": "회사 공식 발표에서 WAKIX 3분기 순매출은 2.689억 달러, 전년 대비 12% 증가했습니다. 연간 10.0~10.4억 달러 전망을 유지했습니다.\nBP-205는 건강한 성인 94명에게 14일간 반복 투여한 1상 예비 자료입니다. 평균 유효 반감기는 약 29시간, 두통은 약 25%였으며 중대한 이상반응은 보고되지 않았습니다. 건강인 연구로 기면증 환자에서 임상 효능을 입증한 것은 아닙니다. 회사는 2027년 1분기 1b상 자료와 중반 2상 개시를 계획했습니다. 컨콜 Q&A 전문은 별도 미확보입니다.",
+      "company": "Harmony Biosciences",
+      "drug": "BP-205 · pitolisant",
+      "nct": null,
+      "tags": [
+        "실적",
+        "건강인 1상",
+        "오렉신-2"
+      ],
+      "sources": [
+        {
+          "label": "Harmony 공식 실적·임상 발표",
+          "url": "https://harmonybiosciences.gcs-web.com/news-releases/news-release-details/harmony-biosciences-reports-q3-financial-results-track-achieve"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-05T01:01:25Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T01:01:25Z"
+      }
     }
   ],
   "editorial": {
-    "generated_at": "2026-11-05T00:27:20Z",
+    "generated_at": "2026-11-05T01:01:25Z",
     "scheduled_at": "2026-11-04T23:00:00Z",
     "delayed": true,
     "window_time_caveat": "정확한 원문 발표 시각 미확인 항목은 published_at:null. 11/4 미국 실적발표일 및 예정 컨콜 근거로 회차 후보에 포함하며 정확한 구간 소속을 모두 확정한 것은 아님.",
-    "clinical_note": "안과 1건은 실적발표의 개발 현황 편집 검토. 신규 등록·신규 결과 0건으로 해석하며 레지스트리 기준자료와 구분."
+    "clinical_note": "등록처 기준자료와 임상개발 분석을 구분합니다.",
+    "source_alignment": "GPT 브리핑에서 확인한 출처를 사용한 독립 조사. 원문 복사 모드 아님."
   },
   "supplementary_items": [],
   "display_mode": "research",
