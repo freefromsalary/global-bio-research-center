@@ -4,6 +4,30 @@
   "limitations": "ChatGPT 내부 검색 설정이나 예약 지침 전체를 추출한 것은 아닙니다. 연결된 피드는 GitHub 서버가 수집하며 웹 검색·본문 검증은 로컬 앱 예약이 수행합니다.",
   "sources": [
     {
+      "name": "BioSpace 바이오 산업 뉴스",
+      "section": "news",
+      "url": "https://www.biospace.com/all-news.rss",
+      "mode": "rss"
+    },
+    {
+      "name": "BioPharma Dive 산업 뉴스",
+      "section": "news",
+      "url": "https://www.biopharmadive.com/feeds/news/",
+      "mode": "rss"
+    },
+    {
+      "name": "BioSpace 채용·조직 동향",
+      "section": "social",
+      "url": "https://www.biospace.com/job-trends.rss",
+      "mode": "rss"
+    },
+    {
+      "name": "호주 TGA 공식 발표",
+      "section": "news",
+      "url": "https://www.tga.gov.au/feeds/article/media-releases.xml",
+      "mode": "rss"
+    },
+    {
       "name": "GlobeNewswire 바이오 전체 기업",
       "section": "news",
       "url": "https://www.globenewswire.com/RssFeed/industry/4573-Biotechnology/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Biotechnology",

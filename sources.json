@@ -2,6 +2,30 @@
   "note": "GPT 브리핑에서 확인한 출처·질환 범위를 기반으로 한 공통 수집 설정. 서버 피드와 일반 웹 검색을 구분합니다.",
   "feeds": [
     {
+      "name": "BioSpace 바이오 산업 뉴스",
+      "type": "rss",
+      "section": "news",
+      "url": "https://www.biospace.com/all-news.rss"
+    },
+    {
+      "name": "BioPharma Dive 산업 뉴스",
+      "type": "rss",
+      "section": "news",
+      "url": "https://www.biopharmadive.com/feeds/news/"
+    },
+    {
+      "name": "BioSpace 채용·조직 동향",
+      "type": "rss",
+      "section": "social",
+      "url": "https://www.biospace.com/job-trends.rss"
+    },
+    {
+      "name": "호주 TGA 공식 발표",
+      "type": "rss",
+      "section": "news",
+      "url": "https://www.tga.gov.au/feeds/article/media-releases.xml"
+    },
+    {
       "name": "GlobeNewswire 바이오 전체 기업",
       "type": "rss",
       "section": "news",
