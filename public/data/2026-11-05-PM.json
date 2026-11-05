@@ -4,7 +4,7 @@
   "slot": "PM",
   "display_mode": "research",
   "status": "partial",
-  "updated_at": "2026-11-05T08:00:02.487Z",
+  "updated_at": "2026-11-05T08:01:50Z",
   "window": {
     "start": "2026-11-04T23:00:00.000Z",
     "end": "2026-11-05T07:00:00.000Z"
@@ -1251,6 +1251,42 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "오후 일반 웹 검색·원문 편집",
+      "section": "news",
+      "status": "ok",
+      "count": 4,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "기업 미지정 바이오 검색과 Novo/Lilly/Regeneron/Innate/D&D/올릭스 등 기업·IR·국내 발표 점검. 오전 실적의 단순 재보도와 기간 밖 과거 자료 제외. 웹 전체 전수 아님."
+    },
+    {
+      "source": "임상 개발 현황·원문 대조",
+      "section": "clinical",
+      "status": "ok",
+      "count": 1,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "에페 3상 분석 지원 내용을 선별. 레지스트리 신규·실질 변경으로 집계하지 않음. WHO/CTIS/ANZCTR 등 국가별 전체 변경 이력 전수 대조는 미완료."
+    },
+    {
+      "source": "공식 채용·공개 소셜 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "오후 구간 최초 게시일이 검증된 신규 채용·소셜 원문은 확보하지 못함. Novo Obesity & MASH 직무는 마감일이 11/1로 확인되어 현재 채용에서 제외. Arrowhead 현재 공고는 서버가 별도 재조회한다."
+    },
+    {
+      "source": "접근 실패 및 대체 검증",
+      "section": "news",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "D&D·GII·GCCL 관련 다수 원문 직접 열기 실패. 기업 공식 발표 검색 색인과 복수 매체 색인에서 본문·날짜를 대조했으며 직접 접속 재확인 필요. Innate 공식 원문은 직접 열람 성공."
+    },
+    {
+      "source": "Innate 컨콜",
+      "section": "news",
+      "status": "unverified",
+      "reason": "11/5 22:00 KST 예정으로16시 회차 구간 밖. 실제 발언 미확보."
     }
   ],
   "editorial_coverage": [
@@ -1296,17 +1332,25 @@
     "scheduled_at": "2026-11-05T07:00:00Z",
     "delayed": true,
     "reason": "16시 보고서 미생성으로 실제 조사·게시를 지연 실행",
-    "source_review_count": 5
+    "source_review_count": 5,
+    "published_at": "2026-11-05T08:01:50Z",
+    "completed_at": "2026-11-05T08:01:50Z",
+    "late_publication": true,
+    "notable_exclusions": [
+      "Novo MASH Market Access 직무: 공고상 마감 11/1, 오후 신규·현재 공고에서 제외",
+      "오전 Novo 실적·컨콜 단순 재보도 제외",
+      "Innate22시KST컨콜: 마감 이후 예정, 실제 발언 미포함"
+    ]
   },
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "기업 발표·보도 원문을 대조했습니다. 국내 다수 원문 직접 접근 실패로 검색 색인·복수 보도를 대체 확인했으며, 계약 논의·출시 목표를 체결·임상 성공과 구분합니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "기존 3상 분석 지원 내용을 선별했습니다. 신규 등록·등록처 중요 변경으로 집계하지 않습니다. 등록처 비교·국가별 전수 검증 범위는 수집 출처 상태를 확인하세요. 현재 서버 수집에서 오전 기준자료 대비 신규·실질 변경으로 발행된 등록처 항목은 없었습니다. 이는 전 세계 실제 신규 시험0건이라는 뜻이 아닙니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "현재 공고와 오후 신규 공고를 구분합니다. 이번 오후 구간의 최초 게시일이 확인된 새 공고는 미확보입니다. Novo MASH 직무는 마감돼 제외했습니다. 공식 페이지를 다시 조회한 Arrowhead 현재 공고19건을 함께 표시합니다. 새로운 공고라는 뜻은 아닙니다."
     }
   }
 }
