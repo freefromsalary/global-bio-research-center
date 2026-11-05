@@ -7,7 +7,7 @@ export function readRSS(xml,feed){
     const title=text(tag(body,'title')),url=text(tag(body,'link')),date=text(tag(body,'pubDate'));
     if(!title||!url||!date)throw Error('RSS item missing title/link/date');
     const kind=/earnings|financial results|quarter.*results|full.year.*results/i.test(title)?'earnings':/conference call|webcast|investor.*call/i.test(title)?'call':'news';
-    const excerpt=text(tag(body,'description')).slice(0,650);
+    const excerpt=text(text(tag(body,'description'))).slice(0,650);
     return {section:feed.section||'news',kind,title,company:feed.company||'',summary:excerpt?`출처 피드 발췌 (원문 언어 · 분석 전): ${excerpt}`:'공식 발표가 등록되었습니다. 원문을 확인하세요. 자동 분석 전 자료입니다.',sources:[{label:feed.name,url}],published_at:new Date(date).toISOString(),tags:'피드 원문 · 분석 전'};
   });
 }
