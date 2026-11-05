@@ -4,7 +4,7 @@
   "slot": "PM",
   "display_mode": "research",
   "status": "partial",
-  "updated_at": "2026-11-05T08:01:50Z",
+  "updated_at": "2026-11-05T08:09:18.405Z",
   "window": {
     "start": "2026-11-04T23:00:00.000Z",
     "end": "2026-11-05T07:00:00.000Z"
@@ -254,7 +254,7 @@
       "infographic": null,
       "event_key": "4429f6fabd6b34a0213a13fe9e857e2f9e4ba6f4db44cb372b671dbf622c5744",
       "content_hash": "a55c35f2a5a3ed8480a331ac243d9be6495d8cc0e8a221f6748dafd4344c1f73",
-      "collected_at": "2026-11-05T07:58:41.867Z",
+      "collected_at": "2026-11-05T08:07:55.412Z",
       "research": {
         "topics": [
           "대사"
@@ -285,7 +285,7 @@
       "infographic": null,
       "event_key": "29c8e1bdb401510652a406c7bd82b3622c768efa726684580d32d6ff6f031718",
       "content_hash": "de57b280891c0bed581c4078af6d07de10e62a45b76f43efccd4bc84eb9e7007",
-      "collected_at": "2026-11-05T07:58:41.868Z",
+      "collected_at": "2026-11-05T08:07:55.412Z",
       "research": {
         "topics": [],
         "category": "산업 뉴스",
@@ -318,7 +318,7 @@
       "infographic": null,
       "event_key": "60aaa2f2cdcc56c925841bd9c9c0a10bb109f10e57a588de8d219f4f19738556",
       "content_hash": "45e0810e5bb6e6ce6577048ce1ca6b1c48bbb7bae5f15fd820bacbf8d64c23c0",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5175155007",
         "first_posted_at": null,
@@ -357,7 +357,7 @@
       "infographic": null,
       "event_key": "80cd8eb96e8ff85f3cc6530ad18b84910bfeb282f923861c9f8b643f95b436dc",
       "content_hash": "afb966b59e6303087f3c0ea4754662f20c1395662049f4185207653135e81322",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5214730007",
         "first_posted_at": null,
@@ -396,7 +396,7 @@
       "infographic": null,
       "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
       "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5266183007",
         "first_posted_at": null,
@@ -435,7 +435,7 @@
       "infographic": null,
       "event_key": "82f52d45f5c54b3c906f0435f77bf2eaf6787b6221fc54999ac052d27ea737a5",
       "content_hash": "a1dad32b12e0e8866cf604f10bf0cf5c6445dba0e8e5a68ae5bbf6e300d28859",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5280910007",
         "first_posted_at": null,
@@ -474,7 +474,7 @@
       "infographic": null,
       "event_key": "ad081be5dd882333ff9900babad0b34e153cc415f09ad3f7b56db7481037c799",
       "content_hash": "6ce6c9840f51a56b28908969db231d41593c537e55ab7265be758038fa2519b5",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5281925007",
         "first_posted_at": null,
@@ -513,7 +513,7 @@
       "infographic": null,
       "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
       "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5133490007",
         "first_posted_at": null,
@@ -552,7 +552,7 @@
       "infographic": null,
       "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
       "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5124573007",
         "first_posted_at": null,
@@ -594,7 +594,7 @@
       "infographic": null,
       "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
       "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5279189007",
         "first_posted_at": null,
@@ -633,7 +633,7 @@
       "infographic": null,
       "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
       "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5221763007",
         "first_posted_at": null,
@@ -672,7 +672,7 @@
       "infographic": null,
       "event_key": "91dec04a058f29414aa523afa0625d5a70d961610c2fc2320c5ec3511b32ff97",
       "content_hash": "a11639ad089317a9a03ba30ed9f4fa8f0fd5d7d0238ba812faf53394a3b2ac66",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5197095007",
         "first_posted_at": null,
@@ -711,7 +711,7 @@
       "infographic": null,
       "event_key": "7403253f0b19fea611416bcc652a48df3e314a6deda33f51b60c24e23e8966ed",
       "content_hash": "27cc15ff72e3003add94dfae3cbffbac740f3f91babdd165aaea76f515ea8b30",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5232760007",
         "first_posted_at": null,
@@ -750,7 +750,7 @@
       "infographic": null,
       "event_key": "dab6010802370a574a8d56f80269147255408e45616072d86c95452509e4053a",
       "content_hash": "dbf5a35a157ccd4fd56d46d8a07d8b148b5643ba7d93d498f683d47d80bc836d",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5215350007",
         "first_posted_at": null,
@@ -789,7 +789,7 @@
       "infographic": null,
       "event_key": "e26da7f285cc675fb58ab0607eb8c62ce949b116c0aa86a92ddc271a47965758",
       "content_hash": "cdeb1a9d2ed37c2fdb811a99c9121f04246265f80fd633fc2f38cdebacc69abf",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5269941007",
         "first_posted_at": null,
@@ -828,7 +828,7 @@
       "infographic": null,
       "event_key": "34fc398d0acda291b4d93641774a062f22183141cdd97cec8cf82457559316ff",
       "content_hash": "3fae9400e9d0745f8c7b5129642ec3312693dceb3cf6fa6d91f164cbfeb2d374",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.267Z",
       "job": {
         "id": "5271926007",
         "first_posted_at": null,
@@ -867,7 +867,7 @@
       "infographic": null,
       "event_key": "9145b0361fa703e51b85bfa7355b9ddaed07e99b337f9122933672738d676fcd",
       "content_hash": "529eac16c15dc9ec8ff0a0413cf1efd195cfd6888fac37a6decc1a8a22e4f7cf",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.268Z",
       "job": {
         "id": "5189599007",
         "first_posted_at": null,
@@ -906,7 +906,7 @@
       "infographic": null,
       "event_key": "bf6c09e1c99de9fd061c953c3667fa5a2157a5e96a3c052c2d7e31604837493e",
       "content_hash": "85235f4c2b55145caedc7b87b0290e878e1d82e5936e2f2d0209e61fe2aa5892",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.268Z",
       "job": {
         "id": "5130292007",
         "first_posted_at": null,
@@ -945,7 +945,7 @@
       "infographic": null,
       "event_key": "1e4c304165f55ce3659409b53e49342ebb339b7f0b24d514f6975e52b304d0c6",
       "content_hash": "a83b510ae3bb48748c13315499a0bca7b2d651f7c2ce4537af9844084d9eda21",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.268Z",
       "job": {
         "id": "5256733007",
         "first_posted_at": null,
@@ -984,7 +984,7 @@
       "infographic": null,
       "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
       "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.268Z",
       "job": {
         "id": "5265643007",
         "first_posted_at": null,
@@ -1023,7 +1023,7 @@
       "infographic": null,
       "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
       "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
-      "collected_at": "2026-11-05T08:00:02.333Z",
+      "collected_at": "2026-11-05T08:09:18.268Z",
       "job": {
         "id": "5265558007",
         "first_posted_at": null,
@@ -1046,21 +1046,21 @@
       "status": "ok",
       "section": "news",
       "count": 2,
-      "checked_at": "2026-11-05T07:58:41.874Z"
+      "checked_at": "2026-11-05T08:07:55.414Z"
     },
     {
       "source": "BioPharma Dive 산업 뉴스",
       "status": "ok",
       "section": "news",
       "count": 0,
-      "checked_at": "2026-11-05T07:58:41.974Z"
+      "checked_at": "2026-11-05T08:07:55.523Z"
     },
     {
       "source": "BioSpace 채용·조직 동향",
       "status": "ok",
       "section": "social",
       "count": 0,
-      "checked_at": "2026-11-05T07:58:42.045Z"
+      "checked_at": "2026-11-05T08:07:55.763Z"
     },
     {
       "source": "호주 TGA 공식 발표",
@@ -1115,28 +1115,28 @@
       "status": "ok",
       "section": "clinical",
       "count": 178,
-      "checked_at": "2026-11-05T08:00:01.282Z"
+      "checked_at": "2026-11-05T08:09:15.706Z"
     },
     {
       "source": "ClinicalTrials.gov 심혈관·신장",
       "status": "ok",
       "section": "clinical",
       "count": 433,
-      "checked_at": "2026-11-05T08:00:02.144Z"
+      "checked_at": "2026-11-05T08:09:17.869Z"
     },
     {
       "source": "ClinicalTrials.gov 안과",
       "status": "ok",
       "section": "clinical",
       "count": 26,
-      "checked_at": "2026-11-05T08:00:02.199Z"
+      "checked_at": "2026-11-05T08:09:18.108Z"
     },
     {
       "source": "Arrowhead 공식 채용",
       "status": "ok",
       "section": "social",
       "count": 19,
-      "checked_at": "2026-11-05T08:00:02.333Z"
+      "checked_at": "2026-11-05T08:09:18.268Z"
     },
     {
       "source": "Novo 공식 IR·실적·발표자료",
@@ -1251,42 +1251,6 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
-    },
-    {
-      "source": "오후 일반 웹 검색·원문 편집",
-      "section": "news",
-      "status": "ok",
-      "count": 4,
-      "checked_at": "2026-11-05T07:56:44Z",
-      "reason": "기업 미지정 바이오 검색과 Novo/Lilly/Regeneron/Innate/D&D/올릭스 등 기업·IR·국내 발표 점검. 오전 실적의 단순 재보도와 기간 밖 과거 자료 제외. 웹 전체 전수 아님."
-    },
-    {
-      "source": "임상 개발 현황·원문 대조",
-      "section": "clinical",
-      "status": "ok",
-      "count": 1,
-      "checked_at": "2026-11-05T07:56:44Z",
-      "reason": "에페 3상 분석 지원 내용을 선별. 레지스트리 신규·실질 변경으로 집계하지 않음. WHO/CTIS/ANZCTR 등 국가별 전체 변경 이력 전수 대조는 미완료."
-    },
-    {
-      "source": "공식 채용·공개 소셜 웹 검색",
-      "section": "social",
-      "status": "unverified",
-      "checked_at": "2026-11-05T07:56:44Z",
-      "reason": "오후 구간 최초 게시일이 검증된 신규 채용·소셜 원문은 확보하지 못함. Novo Obesity & MASH 직무는 마감일이 11/1로 확인되어 현재 채용에서 제외. Arrowhead 현재 공고는 서버가 별도 재조회한다."
-    },
-    {
-      "source": "접근 실패 및 대체 검증",
-      "section": "news",
-      "status": "unverified",
-      "checked_at": "2026-11-05T07:56:44Z",
-      "reason": "D&D·GII·GCCL 관련 다수 원문 직접 열기 실패. 기업 공식 발표 검색 색인과 복수 매체 색인에서 본문·날짜를 대조했으며 직접 접속 재확인 필요. Innate 공식 원문은 직접 열람 성공."
-    },
-    {
-      "source": "Innate 컨콜",
-      "section": "news",
-      "status": "unverified",
-      "reason": "11/5 22:00 KST 예정으로16시 회차 구간 밖. 실제 발언 미확보."
     }
   ],
   "editorial_coverage": [
@@ -1344,13 +1308,13 @@
   },
   "section_status": {
     "news": {
-      "message": "기업 발표·보도 원문을 대조했습니다. 국내 다수 원문 직접 접근 실패로 검색 색인·복수 보도를 대체 확인했으며, 계약 논의·출시 목표를 체결·임상 성공과 구분합니다."
+      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
     },
     "clinical": {
-      "message": "기존 3상 분석 지원 내용을 선별했습니다. 신규 등록·등록처 중요 변경으로 집계하지 않습니다. 등록처 비교·국가별 전수 검증 범위는 수집 출처 상태를 확인하세요. 현재 서버 수집에서 오전 기준자료 대비 신규·실질 변경으로 발행된 등록처 항목은 없었습니다. 이는 전 세계 실제 신규 시험0건이라는 뜻이 아닙니다."
+      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
     },
     "social": {
-      "message": "현재 공고와 오후 신규 공고를 구분합니다. 이번 오후 구간의 최초 게시일이 확인된 새 공고는 미확보입니다. Novo MASH 직무는 마감돼 제외했습니다. 공식 페이지를 다시 조회한 Arrowhead 현재 공고19건을 함께 표시합니다. 새로운 공고라는 뜻은 아닙니다."
+      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
     }
   }
 }
