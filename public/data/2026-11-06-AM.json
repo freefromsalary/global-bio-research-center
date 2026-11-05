@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-06",
+  "slot": "AM",
+  "display_mode": "research",
+  "status": "partial",
+  "updated_at": "2026-11-05T23:25:00Z",
+  "window": {
+    "start": "2026-11-05T07:00:00.000Z",
+    "end": "2026-11-05T23:00:00.000Z"
+  },
+  "coverage": [
+    {
+      "source": "오전 편집 조사 · 글로벌 웹 검색",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 검색 및 Madrigal·Lilly·REGENXBIO·Halozyme·Lexicon·Tenax·EyePoint·Altimmune·Maze·MBX 기업별 검색 수행. 핵심 4개 사건을 원문·회사 배포문으로 선별. 모든 웹을 전수 조사한 것은 아님."
+    },
+    {
+      "source": "실적 후속 컨콜",
+      "section": "news",
+      "status": "unverified",
+      "reason": "실적 자료와 컨콜 Q&A를 구분. Halozyme·REGENXBIO·Innate의 실제 Q&A 발언은 이번 편집에서 직접 검증하지 못함. EyePoint·Altimmune의 11/5 공지는 11/12 실적 예고로, 오늘 실적으로 집계하지 않음."
+    },
+    {
+      "source": "학회 임상 편집 검토",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "Madrigal AASLD 실제 진료 결과와 Lilly ACR 공개 자료 검토. 최초 등록 2건이 아니라 결과·발표 소식 2건. 발행일만 확인된 원문은 정확한 08/16 구간 귀속 미확정, 발행시각 null로 기록."
+    },
+    {
+      "source": "공개 소셜·신규 채용 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "reason": "X·LinkedIn 공개 검색과 Novo·Madrigal 채용 관련 결과를 확인했으나 해당 구간의 원 게시일과 유효한 공식 공고를 함께 검증한 신규 채용 없음. 실제 채용 소식이 없다는 뜻이 아니며 서버의 현재 공고와 구분."
+    }
+  ],
+  "editorial_coverage": [
+    {
+      "source": "오전 편집 조사 · 글로벌 웹 검색",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 검색 및 Madrigal·Lilly·REGENXBIO·Halozyme·Lexicon·Tenax·EyePoint·Altimmune·Maze·MBX 기업별 검색 수행. 핵심 4개 사건을 원문·회사 배포문으로 선별. 모든 웹을 전수 조사한 것은 아님."
+    },
+    {
+      "source": "실적 후속 컨콜",
+      "section": "news",
+      "status": "unverified",
+      "reason": "실적 자료와 컨콜 Q&A를 구분. Halozyme·REGENXBIO·Innate의 실제 Q&A 발언은 이번 편집에서 직접 검증하지 못함. EyePoint·Altimmune의 11/5 공지는 11/12 실적 예고로, 오늘 실적으로 집계하지 않음."
+    },
+    {
+      "source": "학회 임상 편집 검토",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "Madrigal AASLD 실제 진료 결과와 Lilly ACR 공개 자료 검토. 최초 등록 2건이 아니라 결과·발표 소식 2건. 발행일만 확인된 원문은 정확한 08/16 구간 귀속 미확정, 발행시각 null로 기록."
+    },
+    {
+      "source": "공개 소셜·신규 채용 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "reason": "X·LinkedIn 공개 검색과 Novo·Madrigal 채용 관련 결과를 확인했으나 해당 구간의 원 게시일과 유효한 공식 공고를 함께 검증한 신규 채용 없음. 실제 채용 소식이 없다는 뜻이 아니며 서버의 현재 공고와 구분."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-05T23:25:00Z",
+    "scheduled_at": "2026-11-05T23:00:00Z",
+    "delayed": true,
+    "reason": "08시 보고서 미생성 확인 후 조사·게시 지연 실행",
+    "source_review_count": 4
+  },
+  "section_status": {
+    "news": {
+      "message": "원문 검토한 실적 2건과 서버 피드 수집을 구분합니다. 컨콜 Q&A는 미확인입니다."
+    },
+    "clinical": {
+      "message": "학회 결과·발표 자료 2건을 검토했습니다. 신규 등록과 구분하며 시각 미확인 자료는 구간 귀속에 한계가 있습니다. 국가별 등록처 전수 검증은 하지 않았습니다."
+    },
+    "social": {
+      "message": "공식 현재 채용 공고와 신규 공고를 구분합니다. 이번 구간의 신규 게시 검증 미완료는 채용 소식 없음이 아닙니다."
+    }
+  },
+  "items": [
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "Halozyme: 3분기 매출 4.93억 달러·로열티 44% 증가, 연간 전망 상향",
+      "company": "Halozyme",
+      "drug": "ENHANZE",
+      "published_at": "2026-11-05T21:06:00Z",
+      "summary": "[확인된 사실] 회사가 배포한 실적 자료에서 3분기 매출은 4.93억 달러(+39%), 로열티 매출은 3.41억 달러(+44%)였습니다. 2026년 매출 전망을 18.60억~19.25억 달러, 로열티 전망을 12.35억~12.55억 달러로 높였습니다.\n[해석과 한계] 피하주사 전환 플랫폼의 상업화 확대를 보여주는 비교 사례입니다. 국내 기업의 계약이나 실적 증가를 직접 의미하지 않습니다. PRNewswire 배포문 재게시를 확인했으며 컨콜 질의응답은 별도 검증하지 못했습니다. 발행 시각은 재게시 매체 기준입니다.",
+      "highlight": "ENHANZE 로열티 44% 성장과 연간 전망 상향. 국내 SC 플랫폼 기업에는 경쟁·시장 비교 자료입니다.",
+      "id": "2026-11-06-AM-halozyme-q3-20261105",
+      "event_key": "halozyme-q3-20261105",
+      "report_date": "2026-11-06",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "원문 검토"
+      ],
+      "sources": [
+        {
+          "label": "회사 배포문 · PRNewswire 재게시",
+          "url": "https://www.marketscreener.com/news/halozyme-reports-third-quarter-2026-results-and-raises-full-year-2026-financial-guidance-ce785fdddb8efe26"
+        }
+      ],
+      "published_date": "2026-11-05",
+      "collected_at": "2026-11-05T23:23:00Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T23:23:00Z"
+      },
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 65
+      },
+      "content_hash": "278be76505d671a5e40c98f70ad0f895d8a2df44e5ae03ad2cd2cc0405e04e87"
+    },
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "REGENXBIO: 3분기 실적과 습성 AMD 핵심시험의 4분기 결과 일정 재확인",
+      "company": "REGENXBIO · AbbVie",
+      "drug": "sura-vec",
+      "published_at": "2026-11-05T12:05:00Z",
+      "summary": "[확인된 사실] 3분기 실적 발표에서 습성 황반변성(AMD) 대상 ATMOSPHERE·ASCENT 핵심시험의 톱라인 결과를 2026년 4분기에 발표할 계획이라고 재확인했습니다. 9월 말 현금·현금성 자산·유가증권 2.51억 달러와 10월 수령한 합의금 3,900만 달러를 바탕으로 2027년 4분기 후반까지 운영 자금을 예상했습니다.\n[해석과 한계] 이번 공지는 임상 결과 발표가 아닌 예상 일정 업데이트입니다. 안과 유전자치료의 추후 데이터 확인이 핵심이며 컨콜 Q&A는 미확인입니다.",
+      "highlight": "습성 AMD 2개 핵심시험 결과는 4분기 예정. 오늘 새 효능 결과가 나온 것은 아닙니다.",
+      "id": "2026-11-06-AM-regenxbio-q3-20261105",
+      "event_key": "regenxbio-q3-20261105",
+      "report_date": "2026-11-06",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "안과",
+        "원문 검토"
+      ],
+      "sources": [
+        {
+          "label": "공식 실적 발표",
+          "url": "https://ir.regenxbio.com/news-releases/news-release-details/regenxbio-reports-third-quarter-2026-financial-results-and"
+        }
+      ],
+      "published_date": "2026-11-05",
+      "collected_at": "2026-11-05T23:23:00Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T23:23:00Z"
+      },
+      "research": {
+        "topics": [
+          "안과"
+        ],
+        "category": "실적·컨콜",
+        "priority": 65
+      },
+      "content_hash": "5cfa10a14bc0cb70aa770dac42ef52e132c4d1892548d75b10c9aa087ad13a73"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Madrigal: Rezdiffra 실제 진료 자료에서 간 경직도·치료 지속성 발표",
+      "company": "Madrigal Pharmaceuticals",
+      "drug": "Rezdiffra · resmetirom",
+      "published_at": null,
+      "summary": "[확인된 사실] AASLD 공개 자료에서 여러 실제 진료 연구의 간 경직도 개선·안정화와 치료 지속성을 보고했습니다. Truveta의 전후 측정 환자 150명 중 55%가 12개월에 간 경직도 25% 이상 개선을 보였고, 93%는 개선 또는 안정화였습니다. 별도 지속성 연구에서는 최대 72%가 1년 시점 치료를 유지했습니다.\n[해석과 한계] 관찰 자료이며 93%는 조직학적 섬유화 개선율이 아닙니다. 서로 다른 연구의 최대값을 하나의 시험 결과처럼 합칠 수 없습니다. GLP-1 병용 영향과 선택 편향을 고려해야 하며 DD01 등과 직접 우열 비교는 불가합니다. 공식 발행일은 11월 5일, 정확한 원문 시각은 미확인입니다.",
+      "highlight": "Rezdiffra 1년 실제 진료 자료: 간 경직도 개선·안정화와 지속성 확인. 조직학적 개선율·무작위 비교 결과와 구분해야 합니다.",
+      "clinical": {
+        "conditions": [
+          "MASH"
+        ],
+        "study_type": "OBSERVATIONAL"
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 실제 진료 연구 결과 공개. 신규 등록으로 집계하지 않음."
+      },
+      "id": "2026-11-06-AM-madrigal-aasld-rwe-20261105",
+      "event_key": "madrigal-aasld-rwe-20261105",
+      "report_date": "2026-11-06",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "대사",
+        "원문 검토"
+      ],
+      "sources": [
+        {
+          "label": "공식 AASLD 자료 발표",
+          "url": "https://madrigalpharma.gcs-web.com/news-releases/news-release-details/madrigal-announces-new-real-world-data-aasld-2026-demonstrating"
+        }
+      ],
+      "published_date": "2026-11-05",
+      "collected_at": "2026-11-05T23:23:00Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T23:23:00Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상 결과",
+        "priority": 75
+      },
+      "content_hash": "967502fb22eeb7e8123f722983b53af4c731b5a1975ca1edbbdf4e93b3eb31d3"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Lilly: ACR에서 레타트루타이드·Taltz/Zepbound 비만 동반질환 자료 공개 예정",
+      "company": "Eli Lilly",
+      "drug": "retatrutide · ixekizumab · tirzepatide",
+      "published_at": null,
+      "summary": "[확인된 사실] 11월 6~11일 ACR 발표 계획과 함께 비만 동반 무릎 골관절염의 TRIUMPH-1·4, 건선성 관절염의 TOGETHER-PsA 자료를 소개했습니다. TOGETHER-PsA에서 52주 ACR50 반응률은 Taltz+Zepbound 43.7%, Taltz 단독 15.7%로 제시됐습니다.\n[해석과 한계] 대사 치료가 체중 외 동반질환 지표로 확장되는 연구입니다. 신규 임상 등록이 아니며 발표 예정 자료·회사 공개 결과와 학회 현장 검토를 구분합니다. 약물·시험 간 직접 비교나 허가 확대를 의미하지 않습니다. 공식 발행일은 11월 5일이나 정확한 발행 시각은 미확인입니다.",
+      "highlight": "비만 동반 관절질환으로 임상 가치 확대: Taltz+Zepbound 52주 자료와 retatrutide 3상 학회 발표를 추적합니다.",
+      "clinical": {
+        "conditions": [
+          "비만 동반 건선성 관절염 · 비만 동반 무릎 골관절염"
+        ],
+        "phase": "PHASE3"
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "회사 공개 결과·학회 발표 안내. 신규 등록으로 집계하지 않음."
+      },
+      "id": "2026-11-06-AM-lilly-acr-preview-20261105",
+      "event_key": "lilly-acr-preview-20261105",
+      "report_date": "2026-11-06",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "대사",
+        "원문 검토"
+      ],
+      "sources": [
+        {
+          "label": "공식 ACR 발표 안내·공개 데이터",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-showcase-new-retatrutide-taltz-ixekizumab-and-zepbound"
+        }
+      ],
+      "published_date": "2026-11-05",
+      "collected_at": "2026-11-05T23:23:00Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T23:23:00Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상 결과",
+        "priority": 75
+      },
+      "content_hash": "824308994fec545db3778e01faea1612f1e5058c1c960acb99145127ff006989"
+    }
+  ]
+}
