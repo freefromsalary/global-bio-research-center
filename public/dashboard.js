@@ -1,3 +1,4 @@
+import {renderChatgptMirror} from './chatgpt-mirror.js?v=20261105-1';
 import {sectionNames,searchItems,latestVersions,clinicalVisible,clinicalLabels,clinicalFieldLabels} from './archive.js?v=20261104-4';
 const $=s=>document.querySelector(s);let rows=[],reports=[],slot='PM',section='all',history=false,page=1;
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
@@ -6,6 +7,9 @@ function selected(){const found=searchItems(rows,{date:$('#date').value,slot,sec
 const statusNames={ok:'수집 성공',failed:'수집 실패',not_configured:'연결 대기',truncated:'일부 결과만 수집',unverified:'검증 전'};
 function render(){
   const items=selected(),query=$('#query').value.trim(),date=$('#date').value,report=reports.find(r=>r.report_date===date&&r.slot===slot);
+  if(report?.display_mode==='chatgpt_mirror' && !query){renderChatgptMirror({report,section,query,reports,el,onDate:d=>{$('#date').value=d;$('#query').value='';page=1;render();}});return;}
+  if(report?.display_mode==='chatgpt_mirror' && query){renderChatgptMirror({report,section,query,reports,el,onDate:d=>{$('#date').value=d;$('#query').value='';page=1;render();}});return;}
+  $('#clinicalNote').hidden=false;
   const pageCount=Math.max(1,Math.ceil(items.length/20));page=Math.min(page,pageCount);
   const registry=latestVersions((report?.items||[]).filter(i=>i.section==='clinical'));
   const total=t=>registry.filter(i=>(i.clinical_event?.type||'baseline')===t).length;
