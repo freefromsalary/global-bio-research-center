@@ -3,12 +3,39 @@
   "report_date": "2026-11-05",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-05T00:56:27.420Z",
+  "updated_at": "2026-11-05T00:59:29.390Z",
   "window": {
     "start": "2026-11-04T07:00:00.000Z",
     "end": "2026-11-04T23:00:00.000Z"
   },
   "coverage": [
+    {
+      "source": "BioSpace 바이오 산업 뉴스",
+      "status": "ok",
+      "section": "news",
+      "count": 10,
+      "checked_at": "2026-11-05T00:58:07.631Z"
+    },
+    {
+      "source": "BioPharma Dive 산업 뉴스",
+      "status": "ok",
+      "section": "news",
+      "count": 4,
+      "checked_at": "2026-11-05T00:58:07.739Z"
+    },
+    {
+      "source": "BioSpace 채용·조직 동향",
+      "status": "ok",
+      "section": "social",
+      "count": 0,
+      "checked_at": "2026-11-05T00:58:07.819Z"
+    },
+    {
+      "source": "호주 TGA 공식 발표",
+      "status": "failed",
+      "section": "news",
+      "reason": "The operation was aborted due to timeout"
+    },
     {
       "source": "GlobeNewswire 바이오 전체 기업",
       "status": "failed",
@@ -56,28 +83,28 @@
       "status": "ok",
       "section": "clinical",
       "count": 178,
-      "checked_at": "2026-11-05T00:56:25.684Z"
+      "checked_at": "2026-11-05T00:59:28.077Z"
     },
     {
       "source": "ClinicalTrials.gov 심혈관·신장",
       "status": "ok",
       "section": "clinical",
       "count": 433,
-      "checked_at": "2026-11-05T00:56:26.912Z"
+      "checked_at": "2026-11-05T00:59:28.850Z"
     },
     {
       "source": "ClinicalTrials.gov 안과",
       "status": "ok",
       "section": "clinical",
       "count": 26,
-      "checked_at": "2026-11-05T00:56:27.029Z"
+      "checked_at": "2026-11-05T00:59:28.944Z"
     },
     {
       "source": "Arrowhead 공식 채용",
       "status": "ok",
       "section": "social",
       "count": 19,
-      "checked_at": "2026-11-05T00:56:27.275Z"
+      "checked_at": "2026-11-05T00:59:29.279Z"
     },
     {
       "source": "Novo 공식 IR·실적·발표자료",
@@ -512,7 +539,7 @@
       "infographic": null,
       "event_key": "60aaa2f2cdcc56c925841bd9c9c0a10bb109f10e57a588de8d219f4f19738556",
       "content_hash": "45e0810e5bb6e6ce6577048ce1ca6b1c48bbb7bae5f15fd820bacbf8d64c23c0",
-      "collected_at": "2026-11-05T00:56:27.274Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5175155007",
         "first_posted_at": null,
@@ -551,7 +578,7 @@
       "infographic": null,
       "event_key": "80cd8eb96e8ff85f3cc6530ad18b84910bfeb282f923861c9f8b643f95b436dc",
       "content_hash": "afb966b59e6303087f3c0ea4754662f20c1395662049f4185207653135e81322",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5214730007",
         "first_posted_at": null,
@@ -590,7 +617,7 @@
       "infographic": null,
       "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
       "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5266183007",
         "first_posted_at": null,
@@ -629,7 +656,7 @@
       "infographic": null,
       "event_key": "82f52d45f5c54b3c906f0435f77bf2eaf6787b6221fc54999ac052d27ea737a5",
       "content_hash": "a1dad32b12e0e8866cf604f10bf0cf5c6445dba0e8e5a68ae5bbf6e300d28859",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5280910007",
         "first_posted_at": null,
@@ -668,7 +695,7 @@
       "infographic": null,
       "event_key": "ad081be5dd882333ff9900babad0b34e153cc415f09ad3f7b56db7481037c799",
       "content_hash": "6ce6c9840f51a56b28908969db231d41593c537e55ab7265be758038fa2519b5",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5281925007",
         "first_posted_at": null,
@@ -707,7 +734,7 @@
       "infographic": null,
       "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
       "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5133490007",
         "first_posted_at": null,
@@ -746,7 +773,7 @@
       "infographic": null,
       "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
       "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5124573007",
         "first_posted_at": null,
@@ -788,7 +815,7 @@
       "infographic": null,
       "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
       "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5279189007",
         "first_posted_at": null,
@@ -827,7 +854,7 @@
       "infographic": null,
       "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
       "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5221763007",
         "first_posted_at": null,
@@ -866,7 +893,7 @@
       "infographic": null,
       "event_key": "91dec04a058f29414aa523afa0625d5a70d961610c2fc2320c5ec3511b32ff97",
       "content_hash": "a11639ad089317a9a03ba30ed9f4fa8f0fd5d7d0238ba812faf53394a3b2ac66",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5197095007",
         "first_posted_at": null,
@@ -905,7 +932,7 @@
       "infographic": null,
       "event_key": "7403253f0b19fea611416bcc652a48df3e314a6deda33f51b60c24e23e8966ed",
       "content_hash": "27cc15ff72e3003add94dfae3cbffbac740f3f91babdd165aaea76f515ea8b30",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5232760007",
         "first_posted_at": null,
@@ -944,7 +971,7 @@
       "infographic": null,
       "event_key": "dab6010802370a574a8d56f80269147255408e45616072d86c95452509e4053a",
       "content_hash": "dbf5a35a157ccd4fd56d46d8a07d8b148b5643ba7d93d498f683d47d80bc836d",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5215350007",
         "first_posted_at": null,
@@ -983,7 +1010,7 @@
       "infographic": null,
       "event_key": "e26da7f285cc675fb58ab0607eb8c62ce949b116c0aa86a92ddc271a47965758",
       "content_hash": "cdeb1a9d2ed37c2fdb811a99c9121f04246265f80fd633fc2f38cdebacc69abf",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5269941007",
         "first_posted_at": null,
@@ -1022,7 +1049,7 @@
       "infographic": null,
       "event_key": "34fc398d0acda291b4d93641774a062f22183141cdd97cec8cf82457559316ff",
       "content_hash": "3fae9400e9d0745f8c7b5129642ec3312693dceb3cf6fa6d91f164cbfeb2d374",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5271926007",
         "first_posted_at": null,
@@ -1061,7 +1088,7 @@
       "infographic": null,
       "event_key": "9145b0361fa703e51b85bfa7355b9ddaed07e99b337f9122933672738d676fcd",
       "content_hash": "529eac16c15dc9ec8ff0a0413cf1efd195cfd6888fac37a6decc1a8a22e4f7cf",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5189599007",
         "first_posted_at": null,
@@ -1100,7 +1127,7 @@
       "infographic": null,
       "event_key": "bf6c09e1c99de9fd061c953c3667fa5a2157a5e96a3c052c2d7e31604837493e",
       "content_hash": "85235f4c2b55145caedc7b87b0290e878e1d82e5936e2f2d0209e61fe2aa5892",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5130292007",
         "first_posted_at": null,
@@ -1139,7 +1166,7 @@
       "infographic": null,
       "event_key": "1e4c304165f55ce3659409b53e49342ebb339b7f0b24d514f6975e52b304d0c6",
       "content_hash": "a83b510ae3bb48748c13315499a0bca7b2d651f7c2ce4537af9844084d9eda21",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5256733007",
         "first_posted_at": null,
@@ -1178,7 +1205,7 @@
       "infographic": null,
       "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
       "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5265643007",
         "first_posted_at": null,
@@ -1217,7 +1244,7 @@
       "infographic": null,
       "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
       "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
-      "collected_at": "2026-11-05T00:56:27.275Z",
+      "collected_at": "2026-11-05T00:59:29.279Z",
       "job": {
         "id": "5265558007",
         "first_posted_at": null,
@@ -1232,6 +1259,416 @@
       "report_date": "2026-11-05",
       "slot": "AM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Boehringer bets big on China, offering $7B biobucks for Sino cancer programs",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Boehringer Ingelheim is building up its China strategy, inking a deal to develop new cancer treatments with Sino Biopharmaceutical just weeks after opening an R&D facility in Shanghai.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/deals/boehringer-bets-big-on-china-offering-7b-biobucks-for-sino-cancer-programs"
+        }
+      ],
+      "published_at": "2026-11-04T19:32:28.000Z",
+      "infographic": null,
+      "event_key": "63fe39f1f35ecedd6e9275ddec93be59c601a8e3a8fe4942c6d4f946d54d5f59",
+      "content_hash": "a76c79fd0da537afff85fe2306cd447187618418446f52af2bae8addcc4a7aed",
+      "collected_at": "2026-11-05T00:58:07.629Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "c3c90810337f11ae882abd1c706073f344d88440b45d1d0dc85efb29f8a6a484"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Ultragenyx’s pivot to a smaller R&D footprint claims 20% of workforce",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Follow along as BioSpace tracks job cuts and restructuring initiatives.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/biospace-layoff-tracker"
+        }
+      ],
+      "published_at": "2026-11-04T16:44:00.000Z",
+      "infographic": null,
+      "event_key": "7029bb8f99f1664891096d3d01901806b9eeddfe292c1ac415803eff165d9777",
+      "content_hash": "524c31f672718d7cc8d7c6285ae0761bef4b8abfbb6cff29e0797138e562b38d",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "0302867e6ca8bf7023468bfde1483eedf00e6c9efba06c5127770c67cbf3ceee"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "AbbVie bets up to $1.47B for Nxera’s discarded IBD program",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): AbbVie’s $100 million upfront cash payment will purchase global rights to Nxera’s deprioritized oral small molecule, which has already completed Phase 1 testing.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/deals/abbvie-bets-up-to-1-47b-for-nxeras-discarded-ibd-program"
+        }
+      ],
+      "published_at": "2026-11-04T16:10:33.000Z",
+      "infographic": null,
+      "event_key": "5c58de44a916927f1240e9a53663e46936d9843a62f79d1a6a201ff7b3560088",
+      "content_hash": "d16ee7dae933ec588eb7f89f13989e93c3268cb75c82bac9e14163929a4961de",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "임상개발",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "8ad1969db08bad8e7d6f414a9cf1b2854e84903445234c9b17e22475b3c14054"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Amgen starts MariTide autoinjector study as pivotal readouts approach",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): With the first Phase 3 data expected for Amgen’s MariTide next year, analysts are looking for evidence that the GLP-1 candidate is tolerable. Meanwhile, the company has begun testing an autoinjector formulation.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/amgen-starts-maritide-autoinjector-study-as-pivotal-readouts-approach"
+        }
+      ],
+      "published_at": "2026-11-04T16:01:06.000Z",
+      "infographic": null,
+      "event_key": "64651bed59c337cf60fd8b5f3ae3c8e170a828c95989a5dfa2acfe78fc21bb9c",
+      "content_hash": "3d53648de8562e0ecbf4ae834e2180abff73ab0b033a88da145290242c0ad13b",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 50
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "61c244423104faea0988a6ce5e613d13b98e63f37a23f09afbf3854fdff2221c"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Sanofi’s axing of Nurix STAT6 program ‘not a target-related issue’",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Sanofi has discontinued an early-stage STAT6 degrader program licensed from Nurix Therapeutics, a decision analysts say is related to the asset itself or Sanofi’s strategic reprioritization rather than the drug class more broadly.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/drug-development/sanofis-axing-of-nurix-stat6-program-not-a-target-related-issue"
+        }
+      ],
+      "published_at": "2026-11-04T15:58:02.000Z",
+      "infographic": null,
+      "event_key": "56908f4d34d6c94b268c8a55c9afb17a0e435ac9e145c7e5356325fef685f463",
+      "content_hash": "89bcec8a971d617f0e281a99695f089bc556b117cc3672132b821a110e21393f",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 20
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "73f78253e073720f5569029aeeb88161073303ccc5a041cffa4f18b44a9d358b"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "With MFN now embedded in pharma, execs see little impact from Democrats’ blue wave",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Speaking on third quarter earnings calls this week, Novo and Pfizer’s CEOs see little change to their Most Favored Nation drug pricing deals, which were signed with the Trump administration last year.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/with-mfn-now-embedded-in-pharma-execs-see-little-impact-from-democrats-blue-wave"
+        }
+      ],
+      "published_at": "2026-11-04T13:33:26.000Z",
+      "infographic": null,
+      "event_key": "24dda43f523d63f1778102d540fba259d2502a89882306bbfb92c1fa04a91162",
+      "content_hash": "c5e226d3e912288a625d70e24402205792e52011d533b91b7c3fd47582c6b1b6",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "c873f1f924592485ff8967f8f41e1ea1d0e0f8ef2b45239e0cb74f83ca0ce2b2"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "2026 IPO stock tracker: How newly public biotechs are performing",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): BioSpace is launching an IPO dashboard to help the industry keep tabs on U.S. biotechs that have taken the public plunge in 2026.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/2026-ipo-stock-tracker-how-biotechs-new-to-public-markets-are-performing"
+        }
+      ],
+      "published_at": "2026-11-04T12:59:00.000Z",
+      "infographic": null,
+      "event_key": "5c4c6109471b182ca7cd17a5aaf85e8fa3fb2185a986ddeed8cdd8ec4922049e",
+      "content_hash": "4082e7ec75d1bef6655cc4c4ff5c93a82dfdc4df41cefc9c91134d2188c040ea",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "eb028602f8eccad1ed886b9dee495a64fe0cf5f16a9ec10ef82a599959a93320"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Novo, Lilly battle for oral GLP-1 dominance with data tit for tat",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Novo CEO Mike Maziar Doustdar insists that his company is ahead of fierce rival Eli Lilly as oral Wegovy rises to 8 million total prescriptions since its January launch.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/novo-lilly-battle-for-oral-glp-1-dominance-with-data-tit-for-tat"
+        }
+      ],
+      "published_at": "2026-11-04T12:25:20.000Z",
+      "infographic": null,
+      "event_key": "652be136079da7aa22529a82d87da4772a98256e59bcc559d2617db8358b73ee",
+      "content_hash": "6d03c64946599d8bdab5df49ff3895e6e4ee3f3af01fca2e73961daad3146447",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 30
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "d640e2ef160e5e503af0ad4d6f3b6ac060bb8cdae6e64bc0dd3018631317368d"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Pfizer eyes Europe first for Lyme vaccine as prevalence rises in US",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Since Pfizer already owns a tick-borne encephalitis franchise in Europe, the region is a natural first step for the pharma’s upcoming Lyme disease vaccine.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/pfizer-eyes-europe-first-for-lyme-vaccine-as-prevalence-rises-in-us"
+        }
+      ],
+      "published_at": "2026-11-04T12:12:00.000Z",
+      "infographic": null,
+      "event_key": "2c86e0cfce660c6ca3fdb613c3e983ccfd702b7d3964f3e9811d691c649f2317",
+      "content_hash": "97ec0c8b1fbab03d5e5f04ae14937c952fd57cd0fa808c45563612d6b8efe8e8",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "4e11c52049e422d8ecfe7b6b34e5e88b5bc06ad007f3520d99190e116f6b74fa"
+    },
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "Q3 earnings roll on, FDA pushes rare disease, uniQure’s Huntington’s therapy reaches review",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The majority of the large pharmas have now reported third quarter earnings—spoiler alert: Eli Lilly made more money than anyone expected. Plus, the FDA dropped another initiative aimed at accelerating rare disease treatments; HHS greenlights the compounding of six unapproved peptides; and uniQure’s embattled gene therapy for Huntington’s disease has finally been accepted for review.",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/q3-earnings-roll-on-fda-pushes-rare-disease-uniqures-huntingtons-therapy-reaches-review"
+        }
+      ],
+      "published_at": "2026-11-04T11:17:12.000Z",
+      "infographic": null,
+      "event_key": "07fb45a100936fca2cf9ae4c0912a10b477104b11a84e0c4e286878b9005b7d6",
+      "content_hash": "8f1d05251f15e8d5d3c2b2fb771ad73430cfe95a67ee3a9699d09ba149f3e0ae",
+      "collected_at": "2026-11-05T00:58:07.630Z",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 20
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "cdd1e4f06e5fa800a711c4b941a73031bb6ee5ef798c55082d4f818c5d4fa4fa"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Sanofi stops development of Nurix-partnered immune drug",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): <figure><div><img src=\"https://imgproxy.divecdn.com/FBR1IQNmU9Hqatva496Zg2G8JMHsqV0UGsf4LMARqYo/g:nowe:189:144/c:1776:1003/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80OTY5MDc4MzcxMl8yYTc1ZmQ5M2MyX28uanBn.webp\"/></div></figure><p>The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6.&nbsp;</p>",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/"
+        }
+      ],
+      "published_at": "2026-11-04T17:18:00.000Z",
+      "infographic": null,
+      "event_key": "e6f04483fe4d371fe7717a9e1cc99e92763fe040e6b587b66ccf5bdcbf2c91eb",
+      "content_hash": "179fa58be6c7688cec1cff9027fa44b3ac0fe006f2ddb68c7a6353ee665b4342",
+      "collected_at": "2026-11-05T00:58:07.739Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "a78edfb677ccc420d9ad20bebc068267c67bb580c3131f6d698709f0d879681b"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): <figure><div><img src=\"https://imgproxy.divecdn.com/VdqvvmORi87mCCjU3L6_SGAEVMxArSRaPHEeQ-JvdaY/g:nowe:7:772/c:1992:1125/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vcmlnaW5hbF8xLmpmaWY=.webp\"/></div></figure><p>The drug&rsquo;s third-quarter sales numbers came in well above consensus estimates, widening Novo&rsquo;s early edge over Eli Lilly in the latest battleground for weight loss medicines.</p>",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/"
+        }
+      ],
+      "published_at": "2026-11-04T16:13:00.000Z",
+      "infographic": null,
+      "event_key": "2d93765d9996193d429d8977ea752b8659346cdb271eaac54a014dc29ec2cdf9",
+      "content_hash": "30220806d922ea26d96fef54e7848dd1e53bf8d52ea0378283aab3621690285b",
+      "collected_at": "2026-11-05T00:58:07.739Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "3eeea1d83812762b6a094e35a8d9ae4c3b860df610657b494d488caf56c20072"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "CVS to split into two companies in stunning strategic about-face",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): <figure><div><img src=\"https://imgproxy.divecdn.com/dNegkVxFwnucovdoVAZMfnKsAsk7SBcWhjg72hTkCic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEzNjc0NTk2LmpwZw==.webp\"/></div></figure><p>The breakup, which will separate Aetna and Caremark from CVS&rsquo; retail pharmacies, is an indictment of the dogma that bigger is always better in the healthcare industry.</p>",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/"
+        }
+      ],
+      "published_at": "2026-11-04T15:47:46.000Z",
+      "infographic": null,
+      "event_key": "ed84bf3cfca4b32297d20878e17984be35ea0cdfd5381766ff3797888a67b3c4",
+      "content_hash": "308fc3a120baffee49d64df11d9b0281385ee2ec5be30967b1f43b95a2520626",
+      "collected_at": "2026-11-05T00:58:07.739Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "c3d3053270405c380a8061816c0529c7ac8054dbb91528f6f888fd6c69db8f8d"
+    },
+    {
+      "section": "news",
+      "kind": "news",
+      "title": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
+      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): <figure><div><img src=\"https://imgproxy.divecdn.com/L34bY0QCFnLRydTcMQcaYqh7Vc35DUVpi6PKrjpMyvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyOTg1NTQ5XzEuanBn.webp\"/></div></figure><p>Historical data suggests the sector outperforms after midterm elections. And Democrats, newly in control of Congress, have &ldquo;bigger fish to fry&rdquo; than drug pricing, analysts said.</p>",
+      "company": "",
+      "drug": "",
+      "nct": "",
+      "tags": "피드 원문 · 분석 전",
+      "sources": [
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/"
+        }
+      ],
+      "published_at": "2026-11-04T15:28:00.000Z",
+      "infographic": null,
+      "event_key": "0f0514f05f2ff54e6031d9a9ee18d2d160f6e6646fcd22bf93ea2440f9fa46c0",
+      "content_hash": "2090833f9b2f5e34636007c1e8599fe592273f0ad0730921df4641aafe5af6b4",
+      "collected_at": "2026-11-05T00:58:07.739Z",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 0
+      },
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "id": "f716c5bd7a672f0104c9a86a90d04c88992541c75705105c386f8e59a9b042f4"
     },
     {
       "section": "clinical",
