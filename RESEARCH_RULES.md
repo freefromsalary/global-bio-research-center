@@ -20,3 +20,6 @@ MASH·비만 등 관련 BD·임상개발·CMC·Medical Affairs·상업화 채용
 보고서.items에는 개별 구조화 항목만 저장한다. origin:chatgpt_original 긴 원문은 기본 목록에서 제외하고 과거 원문 파일은 보존한다. 날짜·회차와 section news/clinical/social, kind,title,summary,company,drug,nct,tags,sources,published_at,collected_at,event_key,content_hash를 유지한다. research에는 topics/category/priority를 담는다. 동일 사건·본문을 중복 제거하고 후속 내용만 버전 추가한다. 이미지와 건수를 지어내지 않는다. 사실/사업상 정황/추정은 구분한다. HTTPS 원문 링크만 허용한다.
 
 GitHub main 최신 보고서/index를 읽어 병합한다. 큰 파일의 fetch_file content가 비었으면 sha로 fetch_blob을 호출한다. 읽기 실패는 빈 보고서로 해석하지 않는다. 최신 tree/commit으로 두 JSON을 원자적으로 갱신하고 expected_sha를 검사한다. 동시 서버 쓰기가 있으면 최신 자료를 재조회해 병합한다. 임상 baseline·과거 뉴스·출처 실패·원문 자산을 보존한다. 배포 성공을 확인하고 사용자에게 사이트 링크를 제공한다. 실패를 완료라고 보고하지 않는다. 실패 출처와 실제 확인0건은 다르다. 유료 API는 임의 결제하지 않는다.
+
+## 화면 요약·필수 핵심 정보 (2026-11-05 추가)
+탭 이름은 01 글로벌 뉴스 / 02 신규 임상 소식 / 03 바이오 관련 채용 소식이다. 각 탭은 확인된 항목 중 중요 TOP3를 먼저 보여주며, 3건 미만이면 확인된 수만 표시한다. 개별 항목에는 가능하면 요점을 담은 highlight 필드를 추가한다. 채용은 company와 job.field(분야), job.expertise(찾는 전문가)를 원문 근거로 기록하고 경력·자격을 지어내지 않는다. 직무명 추론은 직무명 기준이라고 표시한다. 임상은 회사/의뢰자, clinical.conditions 적응증, 시험 약물, 단계/상태/등록 규모/주요 평가변수를 핵심으로 제시한다. 공개되지 않은 필드는 미확인으로 표시한다.

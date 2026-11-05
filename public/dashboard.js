@@ -1,5 +1,6 @@
-import {classifyResearch,orderResearch,consolidateResearch} from './research-policy.js?v=20261105-4';
-import {sectionNames,searchItems,latestVersions,clinicalVisible,clinicalLabels,clinicalFieldLabels} from './archive.js?v=20261104-4';
+import {jobFacts,clinicalFacts,highlights} from './card-briefs.js?v=20261105-5';
+import {classifyResearch,orderResearch,consolidateResearch} from './research-policy.js?v=20261105-5';
+import {sectionNames,searchItems,latestVersions,clinicalVisible,clinicalLabels,clinicalFieldLabels} from './archive.js?v=20261105-5';
 const $=s=>document.querySelector(s);let rows=[],reports=[],slot='PM',section='all',history=false,page=1;
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
 function url(s){try{const u=new URL(s);return u.protocol==='https:'?u.href:null;}catch{return null;}}
@@ -25,6 +26,38 @@ function render(){
   if(!items.length)$('#cards').append(el('p',report?.section_status?.[section]?.message||'현재 조건에서 검증·선별된 항목이 없습니다. 수집 범위와 미확인 출처를 확인하세요. 수집 실패나 검증 미완료는 소식이 없다는 뜻이 아닙니다.','empty'));
   if(report?.section_status && section!=='all')$('#cards').prepend(el('p',report.section_status[section]?.message||'','section-notice'));
   Array.from(document.querySelectorAll('#cards .card')).forEach((card,index)=>{const item=items[(page-1)*20+index],research=item.research||classifyResearch(item);card.prepend(el('p',[research.category,...research.topics,item.job?'현재 공고 · 신규 아님':item.editorial_review?.status==='reviewed'?'원문 검토':'피드 수집 · 분석 전'].join(' · '),'research-meta'));});
+
+  Array.from(document.querySelectorAll('#cards .card')).forEach((card,index)=>{
+    const item=items[(page-1)*20+index];card.id='article-'+item.id;
+    if(item.section!=='clinical'&&item.section!=='social')return;
+    const facts=el('dl',undefined,'card-facts');
+    const add=(label,value)=>{facts.append(el('dt',label),el('dd',value));};
+    if(item.section==='clinical'){
+      const info=clinicalFacts(item);add('회사 / 의뢰자',info.company);add('적응증',info.indication);add('시험 약물',info.drug);add('임상 핵심',info.overview);
+      if(info.endpoint)add('주요 평가변수',info.endpoint);
+    }else if(item.kind==='job'){
+      const info=jobFacts(item);add('채용 회사',info.company);add('채용 분야',info.field);add('찾는 전문가',info.expertise);add('분류 근거',info.basis);
+    }else {add('관련 회사',item.company||'회사 미확인');add('소식 핵심',item.summary.slice(0,180));}
+    card.querySelector('h3').after(facts);
+  });
+  const highlightRoot=$('#topHighlights');highlightRoot.replaceChildren();
+  for(const group of (section==='all'?['news','clinical','social']:[section])){
+    const top=highlights(items,group),panel=el('section',undefined,'highlights-panel');
+    panel.append(el('h3',sectionNames[group]+' · TOP 3 핵심 요약'),el('p',top.length<3?'현재 조건에서 확인된 '+top.length+'건을 표시합니다. 3건을 맞추기 위해 내용을 추가하지 않습니다.':'검토한 분석과 질환·사건 중요도를 우선해 선정했습니다.','highlight-note'));
+    const grid=el('div',undefined,'highlights-grid');
+    top.forEach(({item,takeaway},index)=>{
+      const box=el('article',undefined,'highlight-card');box.append(el('span',String(index+1).padStart(2,'0'),'highlight-rank'),el('h4',item.title),el('p',takeaway));
+      if(item.kind==='job')box.append(el('small','현재 공고 · 최초 게시일 미확인 시 신규로 집계하지 않음'));
+      const open=el('button','상세 보기');open.onclick=()=>{
+        section=group;$('#sections').querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.section===group));
+        page=Math.floor(Math.max(0,selected().findIndex(i=>i.id===item.id))/20)+1;render();
+        document.getElementById('article-'+item.id)?.scrollIntoView({behavior:'smooth',block:'start'});
+      };box.append(open);grid.append(box);
+    });
+    if(!top.length)grid.append(el('p','검증·선별된 요약 대상이 없습니다. 수집·검증 상태를 확인하세요.','highlight-note'));
+    panel.append(grid);highlightRoot.append(panel);
+  }
+
   $('#dates').replaceChildren(...[...new Set(reports.map(r=>r.report_date))].sort().reverse().map(d=>{const b=el('button',d,d===date?'active':'');b.onclick=()=>{$('#date').value=d;$('#query').value='';page=1;render();};return b;}));
   const figure=$('#infographic');figure.hidden=!items.length;figure.replaceChildren();if(items.length){const counts=Object.keys(sectionNames).map(k=>items.filter(i=>i.section===k).length),labels=['GLOBAL NEWS','CLINICAL TRIALS','SOCIAL / CAREERS'];const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170"><rect width="1000" height="170" rx="12" fill="#eaf0e7"/>${counts.map((n,k)=>`<text x="${35+k*330}" y="43" font-family="sans-serif" font-size="12" fill="#6a7a72">${labels[k]}</text><text x="${35+k*330}" y="112" font-family="sans-serif" font-size="48" fill="#16745b">${n}</text>`).join('')}<text x="35" y="151" font-family="sans-serif" font-size="11" fill="#6a7a72">ARCHIVE COUNTS / NOT CLINICAL OUTCOMES</text></svg>`;const img=el('img');img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);img.alt=`보관 자료 수: 뉴스 ${counts[0]}건, 임상 ${counts[1]}건, 소셜·채용 ${counts[2]}건`;figure.append(img);}
 }
