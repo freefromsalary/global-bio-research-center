@@ -4,7 +4,7 @@
   "slot": "AM",
   "display_mode": "research",
   "status": "partial",
-  "updated_at": "2026-11-05T23:25:00Z",
+  "updated_at": "2026-11-05T23:25:57Z",
   "window": {
     "start": "2026-11-05T07:00:00.000Z",
     "end": "2026-11-05T23:00:00.000Z"
@@ -33,6 +33,25 @@
       "section": "social",
       "status": "unverified",
       "reason": "X·LinkedIn 공개 검색과 Novo·Madrigal 채용 관련 결과를 확인했으나 해당 구간의 원 게시일과 유효한 공식 공고를 함께 검증한 신규 채용 없음. 실제 채용 소식이 없다는 뜻이 아니며 서버의 현재 공고와 구분."
+    },
+    {
+      "source": "GitHub 서버 자동 수집·저장",
+      "status": "failed",
+      "section": "news",
+      "reason": "08:23~08:24 KST 자동 수집은 실행됐으나 git push의 remote fatal error in commit_refs로 신규 피드·임상 스냅샷·채용 19건의 main 저장 및 배포 실패. 검토 완료 4건만 별도 게시. 수집 산출물은 30일 백업 artifact에 보존.",
+      "url": "https://github.com/freefromsalary/global-bio-research-center/actions/runs/42129019042"
+    },
+    {
+      "source": "임상 등록처·현재 채용",
+      "status": "unverified",
+      "section": "clinical",
+      "reason": "이번 서버 수집분의 저장 실패로 기존 임상 baseline을 갱신하지 않음. clinical 2건은 편집 검토한 학회 소식이며 신규 등록 집계가 아님."
+    },
+    {
+      "source": "공식 현재 채용",
+      "status": "unverified",
+      "section": "social",
+      "reason": "서버는 Arrowhead 공고 19개를 수집했으나 main 반영 실패. 미검증 신규 채용을 채우거나 전일 공고를 신규로 복사하지 않음."
     }
   ],
   "editorial_coverage": [
@@ -62,11 +81,14 @@
     }
   ],
   "editorial": {
-    "generated_at": "2026-11-05T23:25:00Z",
+    "generated_at": "2026-11-05T23:22:10Z",
     "scheduled_at": "2026-11-05T23:00:00Z",
     "delayed": true,
     "reason": "08시 보고서 미생성 확인 후 조사·게시 지연 실행",
-    "source_review_count": 4
+    "source_review_count": 4,
+    "published_at": "2026-11-05T23:25:57Z",
+    "completed_at": "2026-11-05T23:25:57Z",
+    "late_publication": true
   },
   "section_status": {
     "news": {
@@ -76,7 +98,7 @@
       "message": "학회 결과·발표 자료 2건을 검토했습니다. 신규 등록과 구분하며 시각 미확인 자료는 구간 귀속에 한계가 있습니다. 국가별 등록처 전수 검증은 하지 않았습니다."
     },
     "social": {
-      "message": "공식 현재 채용 공고와 신규 공고를 구분합니다. 이번 구간의 신규 게시 검증 미완료는 채용 소식 없음이 아닙니다."
+      "message": "현재 채용 수집분의 저장이 실패해 이번 회차에 반영하지 못했습니다. 신규 채용 없음으로 해석하면 안 됩니다."
     }
   },
   "items": [
@@ -104,11 +126,11 @@
         }
       ],
       "published_date": "2026-11-05",
-      "collected_at": "2026-11-05T23:23:00Z",
+      "collected_at": "2026-11-05T23:21:30Z",
       "infographic": null,
       "editorial_review": {
         "status": "reviewed",
-        "reviewed_at": "2026-11-05T23:23:00Z"
+        "reviewed_at": "2026-11-05T23:21:30Z"
       },
       "research": {
         "topics": [],
@@ -142,11 +164,11 @@
         }
       ],
       "published_date": "2026-11-05",
-      "collected_at": "2026-11-05T23:23:00Z",
+      "collected_at": "2026-11-05T23:21:30Z",
       "infographic": null,
       "editorial_review": {
         "status": "reviewed",
-        "reviewed_at": "2026-11-05T23:23:00Z"
+        "reviewed_at": "2026-11-05T23:21:30Z"
       },
       "research": {
         "topics": [
@@ -192,11 +214,11 @@
         }
       ],
       "published_date": "2026-11-05",
-      "collected_at": "2026-11-05T23:23:00Z",
+      "collected_at": "2026-11-05T23:21:30Z",
       "infographic": null,
       "editorial_review": {
         "status": "reviewed",
-        "reviewed_at": "2026-11-05T23:23:00Z"
+        "reviewed_at": "2026-11-05T23:21:30Z"
       },
       "research": {
         "topics": [
@@ -242,11 +264,11 @@
         }
       ],
       "published_date": "2026-11-05",
-      "collected_at": "2026-11-05T23:23:00Z",
+      "collected_at": "2026-11-05T23:21:30Z",
       "infographic": null,
       "editorial_review": {
         "status": "reviewed",
-        "reviewed_at": "2026-11-05T23:23:00Z"
+        "reviewed_at": "2026-11-05T23:21:30Z"
       },
       "research": {
         "topics": [
