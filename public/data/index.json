@@ -1,17 +1,16 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:38:36Z",
+  "updated_at": "2026-11-05T00:53:01Z",
   "reports": [
     {
       "date": "2026-11-05",
       "slot": "AM",
       "file": "2026-11-05-AM.json",
-      "count": 1,
+      "count": 9,
       "status": "partial",
-      "briefing_count": 1,
+      "briefing_count": 9,
       "baseline_count": 0,
-      "display_mode": "chatgpt_mirror",
-      "original_section_count": 1
+      "display_mode": "research"
     },
     {
       "date": "2026-11-04",

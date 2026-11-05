@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "basis": "2026-11-05 글로벌 바이오 뉴스 브리핑 및 기존 오후 브리핑의 실제 출처와 사용자 요구",
+  "limitations": "ChatGPT 내부 검색 설정이나 예약 지침 전체를 추출한 것은 아닙니다. 연결된 피드는 GitHub 서버가 수집하며 웹 검색·본문 검증은 로컬 앱 예약이 수행합니다.",
+  "sources": [
+    {
+      "name": "GlobeNewswire 바이오 전체 기업",
+      "section": "news",
+      "url": "https://www.globenewswire.com/RssFeed/industry/4573-Biotechnology/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Biotechnology",
+      "mode": "rss"
+    },
+    {
+      "name": "GlobeNewswire 제약 전체 기업",
+      "section": "news",
+      "url": "https://www.globenewswire.com/RssFeed/industry/4577-Pharmaceuticals/feedTitle/GlobeNewswire%20-%20Industry%20News%20on%20Pharmaceuticals",
+      "mode": "rss"
+    },
+    {
+      "name": "Adaptive 공식 실적·뉴스",
+      "section": "news",
+      "url": "https://investors.adaptivebiotech.com/rss/news-releases.xml?items=50",
+      "mode": "rss"
+    },
+    {
+      "name": "Harmony 공식 실적·뉴스",
+      "section": "news",
+      "url": "https://ir.harmonybiosciences.com/rss/news-releases.xml?items=50",
+      "mode": "rss"
+    },
+    {
+      "name": "Cytokinetics 공식 실적·뉴스",
+      "section": "news",
+      "url": "https://ir.cytokinetics.com/rss/news-releases.xml?items=50",
+      "mode": "rss"
+    },
+    {
+      "name": "Eli Lilly 공식 뉴스·실적",
+      "section": "news",
+      "url": "https://investor.lilly.com/rss/news-releases.xml?items=50",
+      "mode": "rss"
+    },
+    {
+      "name": "Eli Lilly 공식 IR 행사·컨콜",
+      "section": "news",
+      "url": "https://investor.lilly.com/rss/events.xml",
+      "mode": "rss"
+    },
+    {
+      "name": "ClinicalTrials.gov 대사",
+      "section": "clinical",
+      "url": "https://clinicaltrials.gov/",
+      "mode": "clinicaltrials"
+    },
+    {
+      "name": "ClinicalTrials.gov 심혈관·신장",
+      "section": "clinical",
+      "url": "https://clinicaltrials.gov/",
+      "mode": "clinicaltrials"
+    },
+    {
+      "name": "ClinicalTrials.gov 안과",
+      "section": "clinical",
+      "url": "https://clinicaltrials.gov/",
+      "mode": "clinicaltrials"
+    },
+    {
+      "name": "Arrowhead 공식 채용",
+      "section": "social",
+      "url": "https://arrowheadpharma.com/en-us/careers/job-openings",
+      "mode": "careers"
+    },
+    {
+      "name": "Novo 공식 IR·실적·발표자료",
+      "section": "news",
+      "url": "https://www.novonordisk.com/investors.html",
+      "mode": "web_review"
+    },
+    {
+      "name": "Boehringer 공식 뉴스룸",
+      "section": "news",
+      "url": "https://www.boehringer-ingelheim.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "SBP 공식 공시",
+      "section": "news",
+      "url": "https://www.en.sbpgroup.com/investor-relations/information-disclosure/p1/",
+      "mode": "web_review"
+    },
+    {
+      "name": "Evommune 공식 IR·공시",
+      "section": "news",
+      "url": "https://ir.evommune.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "Reuters 독립 취재",
+      "section": "news",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/",
+      "mode": "web_review"
+    },
+    {
+      "name": "전문매체 BioSpace",
+      "section": "news",
+      "url": "https://www.biospace.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "전문매체 Fierce Biotech",
+      "section": "news",
+      "url": "https://www.fiercebiotech.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "DART 국내 공시",
+      "section": "news",
+      "url": "https://dart.fss.or.kr/",
+      "mode": "web_review"
+    },
+    {
+      "name": "디앤디파마텍 공식",
+      "section": "news",
+      "url": "https://ddpharmatech.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "ANZCTR",
+      "section": "clinical",
+      "url": "https://www.anzctr.org.au/",
+      "mode": "web_review"
+    },
+    {
+      "name": "EU CTIS",
+      "section": "clinical",
+      "url": "https://euclinicaltrials.eu/",
+      "mode": "web_review"
+    },
+    {
+      "name": "WHO ICTRP",
+      "section": "clinical",
+      "url": "https://trialsearch.who.int/",
+      "mode": "web_review"
+    },
+    {
+      "name": "한국 CRIS",
+      "section": "clinical",
+      "url": "https://cris.nih.go.kr/",
+      "mode": "web_review"
+    },
+    {
+      "name": "중국 ChiCTR",
+      "section": "clinical",
+      "url": "https://www.chictr.org.cn/",
+      "mode": "web_review"
+    },
+    {
+      "name": "일본 jRCT",
+      "section": "clinical",
+      "url": "https://jrct.niph.go.jp/",
+      "mode": "web_review"
+    },
+    {
+      "name": "Madrigal 공식 채용",
+      "section": "social",
+      "url": "https://madrigalpharma.wd501.myworkdayjobs.com/Madrigal",
+      "mode": "web_review"
+    },
+    {
+      "name": "Novo 공식 채용",
+      "section": "social",
+      "url": "https://www.novonordisk.com/careers.html",
+      "mode": "web_review"
+    },
+    {
+      "name": "LinkedIn 공개 원문 검색",
+      "section": "social",
+      "url": "https://www.linkedin.com/",
+      "mode": "web_review"
+    },
+    {
+      "name": "X 공개 원문 검색",
+      "section": "social",
+      "url": "https://x.com/",
+      "mode": "web_review"
+    }
+  ]
+}

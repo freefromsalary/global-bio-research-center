@@ -22,11 +22,12 @@ export async function fetchRetry(url,format='json',fetcher=fetch){
   for(let attempt=0;attempt<3;attempt++){
     try{const r=await fetcher(url,{signal:AbortSignal.timeout(25000),headers:{Accept:format==='xml'?'application/rss+xml, application/xml':'application/json'}});
       if(!r.ok)throw Object.assign(Error(`HTTP ${r.status}`),{permanent:r.status!==429&&r.status<500});
-      const value=await r.text();if(value.length>5_000_000)throw Object.assign(Error('Source exceeds 5MB'),{permanent:true});return format==='xml'?value:JSON.parse(value);
+      const value=await r.text();if(value.length>5_000_000)throw Object.assign(Error('Source exceeds 5MB'),{permanent:true});return ['xml','html'].includes(format)?value:JSON.parse(value);
     }catch(e){if(e.permanent||attempt===2)throw e;await new Promise(r=>setTimeout(r,1000*2**attempt));}
   }
 }
 export async function collectFeed(feed,win,request=fetchRetry){
+  if(feed.type==='careers'){const {readCareerLinks}=await import('./source-adapters.mjs');return {items:readCareerLinks(await request(feed.url,'html'),feed),truncated:false};}
   if(feed.type==='rss')return {items:readRSS(await request(feed.url,'xml'),feed),truncated:false};
   if(feed.type==='clinicaltrials'){
     const items=[];let pageToken;

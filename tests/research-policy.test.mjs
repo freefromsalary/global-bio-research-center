@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {classifyResearch,orderResearch} from '../public/research-policy.js';
+import {readCareerLinks} from '../scripts/source-adapters.mjs';
+test('topics cross multiple diseases and importance sort is deterministic',()=>{const a={title:'MASH phase 3 results',section:'news'},b={title:'Company office update',section:'news'};assert.deepEqual(classifyResearch(a).topics,['대사']);assert.equal(orderResearch([b,a])[0],a);assert.deepEqual(classifyResearch({title:'Cardiometabolic trial',section:'news'}).topics,['대사','심혈관']);});
+test('official jobs retain links but never invent publication timestamps',()=>{const f={name:'Official careers',company:'Arrowhead',url:'https://arrowheadpharma.com/en-us/careers/job-openings'};const items=readCareerLinks('<a href="?gh_jid=123">Cardiometabolic Medical Science Liaison</a><a href="?gh_jid=123">Read More</a><a href="https://evil.example/?gh_jid=5">Clinical director</a>',f);assert.equal(items.length,1);assert.equal(items[0].published_at,null);assert.equal(items[0].job.temporal_status,'current_listing');assert.throws(()=>readCareerLinks('<p>Loading...</p>',f));});

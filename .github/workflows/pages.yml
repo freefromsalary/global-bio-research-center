@@ -3,12 +3,15 @@ on:
   push:
     branches: [main]
     paths: ['public/**', 'scripts/**', 'sources.json', '.github/workflows/pages.yml']
+  schedule:
+    - cron: '0 23 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
       collect:
         type: boolean
-        default: false
-        description: Legacy independent collection (does not import ChatGPT)
+        default: true
+        description: Collect configured research sources before publishing
 permissions:
   contents: write
   pages: write
@@ -46,7 +49,7 @@ jobs:
           fi
       - name: Collect official sources
         id: collection
-        if: false # Mirror mode: never substitute independent collection for ChatGPT output
+        if: github.event_name == 'schedule' || inputs.collect == true || contains(github.event.head_commit.message, '[collect]')
         continue-on-error: true
         run: node scripts/collect.mjs "$REPORT_DATE" "$SLOT" --dry-run
       - name: Preserve report and source coverage
@@ -78,3 +81,4 @@ jobs:
         run: |
           echo 'Website published with visible partial-coverage report; one or more sources failed.'
           exit 1
+
