@@ -3,7 +3,7 @@
   "report_date": "2026-11-05",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-04T23:29:41.506Z",
+  "updated_at": "2026-11-05T00:27:20Z",
   "window": {
     "start": "2026-11-04T07:00:00.000Z",
     "end": "2026-11-04T23:00:00.000Z"
@@ -56,7 +56,175 @@
       "source": "공식 채용 — 기업별 연결 대기",
       "status": "not_configured",
       "section": "social"
+    },
+    {
+      "source": "일반 웹 검색·공식 원문 편집 보강",
+      "section": "news",
+      "status": "ok",
+      "count": 4,
+      "checked_at": "2026-11-05T00:27:20Z",
+      "reason": "기업 미지정 산업검색과 Novo/Lilly/Regeneron/Amgen/Cytokinetics/Royalty Pharma/BioCryst/Ocugen 관련 검색 수행. 3개 실적 요약과 1개 안과 개발 현황 선별. 웹 전체/모든 기업 전수조사 아님. Amgen은 원문 발표일 11/3이므로 이번 구간에서 제외. 시·분 미확인 발표는 날짜 기준 후보로 포함."
+    },
+    {
+      "source": "컨콜 원문·Q&A",
+      "section": "news",
+      "status": "unverified",
+      "reason": "기업 공지의 예정 시각만 확인. 실제 개최·전문·Q&A 미확보. Novo의 11/4 21:00 KST 예정 컨콜 후속 발언도 미확인."
+    },
+    {
+      "source": "X·LinkedIn·공식 채용 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "reason": "공개 검색을 수행했으나 해당 구간 신규 게시·채용 원문과 발행 시각을 충분히 검증하지 못해 발행 제외. 확인된 뉴스 없음이라는 뜻이 아님."
+    },
+    {
+      "source": "Ocugen 공식 발표 접근",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "원문 직접 열기는 403, 검색엔진에 색인된 동일 기업 공식 발표 전문으로 검토. 직접 접속 재검증 필요."
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": "2026-11-05-AM-cytk-q3-2026",
+      "event_key": "cytk-q3-2026",
+      "content_hash": "editorial-v1-cytk-q3-2026",
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "section": "news",
+      "kind": "실적·심혈관 개발 업데이트",
+      "title": "Cytokinetics: MYQORZO 매출 4,450만 달러, 비폐색성 HCM 적응증 확대 신청 계획",
+      "summary": "3분기 총매출은 4,760만 달러, MYQORZO 순제품매출은 4,450만 달러였습니다. 회사는 기존 ACACIA-HCM 결과를 바탕으로 aficamten의 비폐색성 비후성심근병증 추가 적응증 신청을 2026년 4분기에 추진한다고 밝혔습니다. 기존 임상 결과의 재소개이며 오늘 새 3상 결과가 나온 것으로 계산하지 않습니다. COMET-HF 등록은 2027년까지 진행할 계획입니다. 실적발표 예정은 11/5 06:00, 컨콜 예정은 06:30 KST였으며 컨콜 전문·실제 발언은 확보하지 못했습니다. 국내 기업과의 직접 계약 관련성은 확인하지 않았습니다.",
+      "company": "Cytokinetics",
+      "drug": "aficamten, omecamtiv mecarbil",
+      "nct": null,
+      "tags": [
+        "실적",
+        "컨콜 전문 미확보"
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 발표",
+          "url": "https://ir.cytokinetics.com/press-releases/press-release-details/2026/Cytokinetics-Reports-Third-Quarter-2026-Financial-Results-and-Provides-Business-Update/default.aspx"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-04",
+      "collected_at": "2026-11-05T00:27:20Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T00:27:20Z"
+      }
+    },
+    {
+      "id": "2026-11-05-AM-rprx-q3-2026",
+      "event_key": "rprx-q3-2026",
+      "content_hash": "editorial-v1-rprx-q3-2026",
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "section": "news",
+      "kind": "실적·가이던스",
+      "title": "Royalty Pharma: 분기 Portfolio Receipts 8.90억 달러, 연간 전망 상향",
+      "summary": "3분기 Portfolio Receipts는 전년 대비 9% 늘어난 8.90억 달러, Royalty Receipts는 8.83억 달러였습니다. 연간 Portfolio Receipts 전망을 기존 34.00~35.00억 달러에서 35.00~35.50억 달러로 높였습니다. 이 지표는 제약사의 제품매출과 동일하지 않습니다. 컨콜 예정은 11/4 22:00 KST였으며 전문·Q&A는 미확보입니다. 발표문이 언급한 포트폴리오 임상·승인 성과를 이번 회차의 새로운 승인으로 재집계하지 않았습니다. 발표일은 확인했으나 발표 시·분은 미확인입니다.",
+      "company": "Royalty Pharma",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "실적",
+        "컨콜 전문 미확보"
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 발표",
+          "url": "https://www.royaltypharma.com/news/royalty-pharma-reports-third-quarter-2026-results/"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-04",
+      "collected_at": "2026-11-05T00:27:20Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T00:27:20Z"
+      }
+    },
+    {
+      "id": "2026-11-05-AM-bcrx-q3-2026",
+      "event_key": "bcrx-q3-2026",
+      "content_hash": "editorial-v1-bcrx-q3-2026",
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "section": "news",
+      "kind": "실적·가이던스",
+      "title": "BioCryst: ORLADEYO 매출 1.748억 달러, 총매출 전망 상향",
+      "summary": "3분기 총순매출 1.803억 달러, ORLADEYO 순매출 1.748억 달러를 발표했습니다. 연간 ORLADEYO 전망 6.25~6.45억 달러는 유지하고 총매출 전망은 7.15~7.30억 달러로 높였습니다. GAAP 영업이익은 5,330만 달러입니다. 컨콜 예정은 11/4 22:30 KST였으며 전문·실제 Q&A는 확인하지 못했습니다. 발표일은 확인했으나 발표 시·분은 미확인입니다. 국내 기업 수혜를 뒷받침하는 직접 근거는 확인하지 않았습니다.",
+      "company": "BioCryst",
+      "drug": "berotralstat (ORLADEYO)",
+      "nct": null,
+      "tags": [
+        "실적",
+        "컨콜 전문 미확보"
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 발표",
+          "url": "https://biocryst.gcs-web.com/news-releases/news-release-details/biocryst-reports-third-quarter-2026-financial-results"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-04",
+      "collected_at": "2026-11-05T00:27:20Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T00:27:20Z"
+      }
+    },
+    {
+      "id": "2026-11-05-AM-ocgn-q3-2026",
+      "event_key": "ocgn-q3-2026",
+      "content_hash": "editorial-v1-ocgn-q3-2026",
+      "report_date": "2026-11-05",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "안과·실적발표 내 개발 현황",
+      "title": "Ocugen: OCU400 3상 결과는 2027년 1분기 예정, OCU410 개발 현황 점검",
+      "summary": "3분기 실적발표에서 OCU400 망막색소변성 3상 140명 연구의 톱라인을 2027년 1분기로 예상했습니다. OCU410 지리적 위축 ArMaDa3는 240명, 2:1 배정, 12개월 병변 성장 평가 설계이며 첫 투여 사실을 개발 현황으로 재소개했습니다. 이번 검토만으로 당일 신규 등록·당일 첫 투여 또는 새로운 유효성 결과라고 판정하지 않습니다. 현금 등은 8,460만 달러, 회사가 제시한 자금 여력은 2028년까지이며 계획에는 불확실성이 있습니다. 원문은 한국 광동제약의 기존 OCU400 지역 라이선스를 언급하지만 새 한국 계약 발표는 아닙니다. 컨콜 예정은 11/4 22:30 KST, 전문은 미확보입니다.",
+      "company": "Ocugen",
+      "drug": "OCU400, OCU410",
+      "nct": null,
+      "tags": [
+        "안과",
+        "실적발표",
+        "개발현황",
+        "신규등록 아님"
+      ],
+      "sources": [
+        {
+          "label": "기업 공식 발표",
+          "url": "https://ir.ocugen.com/news-releases/news-release-details/ocugen-provides-business-update-third-quarter-2026-financial"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-04",
+      "collected_at": "2026-11-05T00:27:20Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T00:27:20Z"
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "reason": "실적발표 내 개발 현황 검토; 신규 등록/주요 필드 변경으로 판정하지 않음"
+      }
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-05T00:27:20Z",
+    "scheduled_at": "2026-11-04T23:00:00Z",
+    "delayed": true,
+    "window_time_caveat": "정확한 원문 발표 시각 미확인 항목은 published_at:null. 11/4 미국 실적발표일 및 예정 컨콜 근거로 회차 후보에 포함하며 정확한 구간 소속을 모두 확정한 것은 아님.",
+    "clinical_note": "안과 1건은 실적발표의 개발 현황 편집 검토. 신규 등록·신규 결과 0건으로 해석하며 레지스트리 기준자료와 구분."
+  }
 }
