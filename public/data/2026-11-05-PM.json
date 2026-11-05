@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-05",
+  "slot": "PM",
+  "display_mode": "research",
+  "status": "partial",
+  "updated_at": "2026-11-05T07:56:44Z",
+  "window": {
+    "start": "2026-11-04T23:00:00.000Z",
+    "end": "2026-11-05T07:00:00.000Z"
+  },
+  "items": [
+    {
+      "section": "news",
+      "kind": "partnering",
+      "title": "디앤디파마텍: BIO-Europe에서 DD18·DD01·ORALINK 파트너링 추진",
+      "company": "디앤디파마텍",
+      "drug": "DD18 · 자보페그두타이드(DD01) · TLY012 · ORALINK",
+      "published_at": "2026-11-05T03:01:00Z",
+      "summary": "[확인된 사실] 11월 9~11일 쾰른 BIO-Europe 참가와 DD18, DD01, TLY012, ORALINK 관련 파트너링 계획이 5일 보도됐습니다. DD18은 UCN2 표적 후보물질로 소개될 예정입니다. AASLD에서는 기존 협의 대상과, BIO-Europe에서는 추가 관심 기업과 미팅을 추진한다고 밝혔습니다.\n[해석과 한계] 파트너링 활동 확대 소식이며 신규 기술이전 계약 체결이나 선급금 수령을 뜻하지 않습니다. 이미 공개된 임상 성과를 당일 새 결과로 집계하지 않았습니다. 회사 홈페이지의 당일 개별 원문은 확보하지 못해 회사 발표를 인용한 보도들을 대조했습니다.",
+      "highlight": "DD18·DD01·ORALINK의 글로벌 협력 논의 확대 계획. 행사 참가·미팅 추진이며 계약 체결 발표는 아닙니다.",
+      "id": "2026-11-05-PM-dnd-bioeurope-20261105",
+      "event_key": "dnd-bioeurope-20261105",
+      "content_hash": "12f44f1cba113c14c0b732e924428ad666f47455047fa3514504abc261e97af8",
+      "report_date": "2026-11-05",
+      "slot": "PM",
+      "published_date": "2026-11-05",
+      "nct": null,
+      "tags": [
+        "오후 브리핑",
+        "원문·보도 대조"
+      ],
+      "sources": [
+        {
+          "label": "발표 인용 보도·12:01 KST",
+          "url": "https://www.finance-scope.com/article/view/scp202611050019"
+        },
+        {
+          "label": "메디파나 교차 확인",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421039"
+        }
+      ],
+      "collected_at": "2026-11-05T07:56:44Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T07:56:44Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "priority": 100,
+        "category": "사업개발"
+      }
+    },
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "Innate Pharma: 현금 9,680만 유로, IPH4502 데이터 발표 예고·컨콜은 22시 예정",
+      "company": "Innate Pharma",
+      "drug": "IPH4502 · lacutamab · monalizumab",
+      "published_at": null,
+      "summary": "[공식 발표] 9월 말 현금·금융자산은 9,680만 유로, 예상 자금 여력은 2028년 1분기 말까지입니다. IPH4502 Nectin-4 ADC 1상 자료를 11월 18일 ENA에서 공개하고, lacutamab TELLOMAK-3 첫 투약을 2027년 1분기로 계획했습니다.\n[구분] PACIFIC-9 결과 예상 시점인 2027년 상반기는 10월 27일 이미 공지된 내용의 재확인입니다. 이번 실적을 새로운 3상 성공으로 해석하지 않습니다. 오늘 14:00 CET(22:00 KST) 컨콜은 16시 마감 이후이므로 발언·Q&A는 포함하지 않았습니다. 원문은 11/5 07:00으로 표시하나 페이지 자체의 시간대 표기가 명확하지 않아 published_at은 비워두었습니다.",
+      "highlight": "현금·금융자산 9,680만 유로와 임상 일정 업데이트. 11/18 ADC 자료 공개 예정이며, 오늘 22시 컨콜은 후속 확인 대상입니다.",
+      "id": "2026-11-05-PM-innate-q3-20261105",
+      "event_key": "innate-q3-20261105",
+      "content_hash": "3bc4df7afea93eb535645c7052981c79813bf6029a7e42e3bbc5a618c945acae",
+      "report_date": "2026-11-05",
+      "slot": "PM",
+      "published_date": "2026-11-05",
+      "nct": null,
+      "tags": [
+        "오후 브리핑",
+        "원문·보도 대조"
+      ],
+      "sources": [
+        {
+          "label": "Innate 공식 실적·개발 현황",
+          "url": "https://www.innate-pharma.com/media/all-press-releases/innate-pharma-reports-third-quarter-2026-business-and-financial-update"
+        }
+      ],
+      "collected_at": "2026-11-05T07:56:44Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T07:56:44Z"
+      },
+      "research": {
+        "topics": [],
+        "priority": 90,
+        "category": "실적·컨콜"
+      }
+    },
+    {
+      "section": "news",
+      "kind": "clinical_development",
+      "title": "지아이이노베이션: GI-102·J&J 파스리타미그 병용 JET 첫 환자 투약 공개",
+      "company": "지아이이노베이션 · Janssen(J&J)",
+      "drug": "GI-102 · pasritamig",
+      "published_at": "2026-11-05T00:44:26Z",
+      "summary": "[확인된 사실] 회사 발표와 뉴시스·헤럴드 보도는 전이성 거세저항성 전립선암(mCRPC) 환자 대상 JET 임상에서 11월 2일 첫 투약이 이뤄졌다고 5일 공개했습니다. 미국·한국 9개 주요 기관이 참여하며, KLK2×CD3 T세포 인게이저 파스리타미그는 기존 임상시험용 의약품 공급 계약에 따라 제공됩니다.\n[해석과 한계] 첫 환자 투약은 개발 진행 이정표이며 효능 입증이나 새 기술이전 계약이 아닙니다. 사건일(11/2)과 보도일(11/5)을 구분했습니다. 대사·심혈관·안과 신규 등록 집계에는 포함하지 않았습니다.",
+      "highlight": "전립선암 병용 임상의 첫 투약을 5일 공개. 실제 투약일은 2일이며, 기존 J&J 의약품 공급 계약에 따른 개발 진행입니다.",
+      "id": "2026-11-05-PM-gi102-jet-firstdose-20261105",
+      "event_key": "gi102-jet-firstdose-20261105",
+      "content_hash": "14d9d9b19e0f6256ae1a742d96c0f1157a3ab318c3d31df3bba7af6bcdecefb2",
+      "report_date": "2026-11-05",
+      "slot": "PM",
+      "published_date": "2026-11-05",
+      "nct": null,
+      "tags": [
+        "오후 브리핑",
+        "원문·보도 대조"
+      ],
+      "sources": [
+        {
+          "label": "회사 보도자료(검색 색인 대조)",
+          "url": "https://www.gi-innovation.com/kr/sub/pr/press/press.asp?bid=2&idx=2390&mode=view"
+        },
+        {
+          "label": "뉴시스·09:44:26 KST",
+          "url": "https://nwww.newsis.com/view/NISX20261105_0003855805"
+        }
+      ],
+      "collected_at": "2026-11-05T07:56:44Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T07:56:44Z"
+      },
+      "research": {
+        "topics": [],
+        "priority": 80,
+        "category": "개발 현황"
+      }
+    },
+    {
+      "section": "news",
+      "kind": "development_plan",
+      "title": "셀트리온: 4중 작용 비만약 2030년 출시 목표 발언 보도",
+      "company": "셀트리온",
+      "drug": "CT-G32/SCO-940",
+      "published_at": "2026-11-05T02:04:00Z",
+      "summary": "[새 보도] 매일경제는 5일 11:04 기사에서 서정진 회장이 4일 서강대 강연에서 4중 작용 비만치료제의 2030년 출시 목표를 설명했다고 전했습니다. GLP-1·GIP·글루카곤·아밀린 경로를 겨냥한 CT-G32/SCO-940의 전임상 공개는 4일의 기존 발표입니다.\n[해석과 한계] 출시 목표는 경영진 계획으로 임상 성공·규제 승인·확정 출시일을 뜻하지 않습니다. 오늘 새로운 인체 효능 결과가 나온 것이 아닙니다. DD18과 함께 체중감량의 질·제지방 보존을 살필 비교 맥락은 있지만 서로 다른 시험 수치를 직접 비교하지 않았습니다.",
+      "highlight": "2030년 출시 목표를 다룬 신규 보도. 전임상 결과는 전날 공개됐으며, 인체 임상 성공이나 확정 출시 일정은 아닙니다.",
+      "id": "2026-11-05-PM-celltrion-2030-target-20261105",
+      "event_key": "celltrion-2030-target-20261105",
+      "content_hash": "fe844763caa47ee8b23b6cb2f06b2a9a6dbfdcf27f4d0db245d6c975f98fcdc1",
+      "report_date": "2026-11-05",
+      "slot": "PM",
+      "published_date": "2026-11-05",
+      "nct": null,
+      "tags": [
+        "오후 브리핑",
+        "원문·보도 대조"
+      ],
+      "sources": [
+        {
+          "label": "매일경제·발언 보도",
+          "url": "https://www.mk.co.kr/news/society/12198152"
+        },
+        {
+          "label": "회사 공식 발표 목록",
+          "url": "https://www.celltrion.com/ko-kr/company/media-center/press-release"
+        }
+      ],
+      "collected_at": "2026-11-05T07:56:44Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T07:56:44Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "priority": 70,
+        "category": "개발 현황"
+      }
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_analysis_update",
+      "title": "한미약품·GCCL: 에페 국내 3상 PK·센트럴랩 지원 내용 공개",
+      "company": "한미약품(개발사) · GCCL(분석기관)",
+      "drug": "에페글레나타이드(에페)",
+      "published_at": "2026-11-05T01:30:00Z",
+      "summary": "[확인된 사실] GCCL이 한미약품 에페의 국내 3상에 약동학(PK) 분석과 센트럴랩 서비스를 제공했다는 내용이 5일 공개됐습니다. 약 30개 임상기관의 검체 수거·운송·분석 지원을 다뤘습니다.\n[구분] 이 소식은 기존 3상의 분석 지원 역할 공개이며 당일 신규 임상 등록, 새 효능 결과 또는 레지스트리의 주요 필드 변경으로 판정하지 않았습니다. 연구 품질·검체 분석 인프라에 관한 개발 현황입니다. 원문 직접 열기에 실패해 동일 발표의 검색 색인과 복수 보도를 대조했습니다.",
+      "highlight": "에페 3상의 PK 분석·약 30개 기관 검체 분석 지원 역할 공개. 신규 시험이나 새로운 임상 효능 결과 발표는 아닙니다.",
+      "clinical": {
+        "version": 1,
+        "conditions": [
+          "비만"
+        ],
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "clinical_event": {
+        "type": "baseline",
+        "reason": "기존 임상 분석 지원 역할에 관한 개발 현황; 신규 등록·등록처 변경 아님"
+      },
+      "id": "2026-11-05-PM-gccl-efpeglenatide-analysis-20261105",
+      "event_key": "gccl-efpeglenatide-analysis-20261105",
+      "content_hash": "fdb07067f287add0f5b930277e8e1e5f77b17da31296c4423a361a4e66371fa9",
+      "report_date": "2026-11-05",
+      "slot": "PM",
+      "published_date": "2026-11-05",
+      "nct": null,
+      "tags": [
+        "오후 브리핑",
+        "원문·보도 대조"
+      ],
+      "sources": [
+        {
+          "label": "메디파나·10:30 KST",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421017"
+        },
+        {
+          "label": "전자신문·10:45 KST",
+          "url": "https://www.etnews.com/20261105000182"
+        }
+      ],
+      "collected_at": "2026-11-05T07:56:44Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-05T07:56:44Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "priority": 75,
+        "category": "임상 분석"
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "오후 일반 웹 검색·원문 편집",
+      "section": "news",
+      "status": "ok",
+      "count": 4,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "기업 미지정 바이오 검색과 Novo/Lilly/Regeneron/Innate/D&D/올릭스 등 기업·IR·국내 발표 점검. 오전 실적의 단순 재보도와 기간 밖 과거 자료 제외. 웹 전체 전수 아님."
+    },
+    {
+      "source": "임상 개발 현황·원문 대조",
+      "section": "clinical",
+      "status": "ok",
+      "count": 1,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "에페 3상 분석 지원 내용을 선별. 레지스트리 신규·실질 변경으로 집계하지 않음. WHO/CTIS/ANZCTR 등 국가별 전체 변경 이력 전수 대조는 미완료."
+    },
+    {
+      "source": "공식 채용·공개 소셜 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "오후 구간 최초 게시일이 검증된 신규 채용·소셜 원문은 확보하지 못함. Novo Obesity & MASH 직무는 마감일이 11/1로 확인되어 현재 채용에서 제외. Arrowhead 현재 공고는 서버가 별도 재조회한다."
+    },
+    {
+      "source": "접근 실패 및 대체 검증",
+      "section": "news",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "D&D·GII·GCCL 관련 다수 원문 직접 열기 실패. 기업 공식 발표 검색 색인과 복수 매체 색인에서 본문·날짜를 대조했으며 직접 접속 재확인 필요. Innate 공식 원문은 직접 열람 성공."
+    },
+    {
+      "source": "Innate 컨콜",
+      "section": "news",
+      "status": "unverified",
+      "reason": "11/5 22:00 KST 예정으로16시 회차 구간 밖. 실제 발언 미확보."
+    }
+  ],
+  "editorial_coverage": [
+    {
+      "source": "오후 일반 웹 검색·원문 편집",
+      "section": "news",
+      "status": "ok",
+      "count": 4,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "기업 미지정 바이오 검색과 Novo/Lilly/Regeneron/Innate/D&D/올릭스 등 기업·IR·국내 발표 점검. 오전 실적의 단순 재보도와 기간 밖 과거 자료 제외. 웹 전체 전수 아님."
+    },
+    {
+      "source": "임상 개발 현황·원문 대조",
+      "section": "clinical",
+      "status": "ok",
+      "count": 1,
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "에페 3상 분석 지원 내용을 선별. 레지스트리 신규·실질 변경으로 집계하지 않음. WHO/CTIS/ANZCTR 등 국가별 전체 변경 이력 전수 대조는 미완료."
+    },
+    {
+      "source": "공식 채용·공개 소셜 웹 검색",
+      "section": "social",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "오후 구간 최초 게시일이 검증된 신규 채용·소셜 원문은 확보하지 못함. Novo Obesity & MASH 직무는 마감일이 11/1로 확인되어 현재 채용에서 제외. Arrowhead 현재 공고는 서버가 별도 재조회한다."
+    },
+    {
+      "source": "접근 실패 및 대체 검증",
+      "section": "news",
+      "status": "unverified",
+      "checked_at": "2026-11-05T07:56:44Z",
+      "reason": "D&D·GII·GCCL 관련 다수 원문 직접 열기 실패. 기업 공식 발표 검색 색인과 복수 매체 색인에서 본문·날짜를 대조했으며 직접 접속 재확인 필요. Innate 공식 원문은 직접 열람 성공."
+    },
+    {
+      "source": "Innate 컨콜",
+      "section": "news",
+      "status": "unverified",
+      "reason": "11/5 22:00 KST 예정으로16시 회차 구간 밖. 실제 발언 미확보."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-05T07:56:44Z",
+    "scheduled_at": "2026-11-05T07:00:00Z",
+    "delayed": true,
+    "reason": "16시 보고서 미생성으로 실제 조사·게시를 지연 실행",
+    "source_review_count": 5
+  },
+  "section_status": {
+    "news": {
+      "message": "기업 발표·보도 원문을 대조했습니다. 국내 다수 원문 직접 접근 실패로 검색 색인·복수 보도를 대체 확인했으며, 계약 논의·출시 목표를 체결·임상 성공과 구분합니다."
+    },
+    "clinical": {
+      "message": "기존 3상 분석 지원 내용을 선별했습니다. 신규 등록·등록처 중요 변경으로 집계하지 않습니다. 등록처 비교·국가별 전수 검증 범위는 수집 출처 상태를 확인하세요."
+    },
+    "social": {
+      "message": "현재 공고와 오후 신규 공고를 구분합니다. 이번 오후 구간의 최초 게시일이 확인된 새 공고는 미확보입니다. Novo MASH 직무는 마감돼 제외했습니다."
+    }
+  }
+}

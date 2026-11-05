@@ -1,7 +1,15 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:01:25Z",
+  "updated_at": "2026-11-05T07:56:44Z",
   "reports": [
+    {
+      "date": "2026-11-05",
+      "slot": "PM",
+      "file": "2026-11-05-PM.json",
+      "count": 5,
+      "briefing_count": 5,
+      "status": "partial"
+    },
     {
       "date": "2026-11-05",
       "slot": "AM",
