@@ -238,7 +238,7 @@
       "section": "social",
       "kind": "job",
       "title": "Cardiometabolic Medical Science Liaison",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "summary": "[공식 공고 확인] RNAi·고중성지방혈증·가족성 킬로미크론혈증·고콜레스테롤혈증의 과학적 교류 및 임상 지원.\n[필수 요건] PhD·PharmD·MD·DO 학위, MSL 경력 5년과 심혈관·대사 경험을 갖춘 전문가.\n[시점과 한계] 최초 게시일·수정일은 미확인입니다. 기존 현재 공고의 직무 설명을 지연 보강한 것으로, 오늘 신규 채용이나 조직 확대 신호가 아닙니다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -256,13 +256,16 @@
       "published_at": null,
       "infographic": null,
       "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
-      "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-06T08:04:05.162Z",
+      "content_hash": "bb97c93066f98548cec3e63b13452dec62dcb0878f44986a1fb28956914adb28",
+      "collected_at": "2026-11-06T13:49:10Z",
       "job": {
         "id": "5124573007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "심혈관·대사 메디컬 어페어즈",
+        "expertise": "PhD·PharmD·MD·DO 학위, MSL 경력 5년과 심혈관·대사 경험을 갖춘 전문가",
+        "details_verified_at": "2026-11-06T13:49:10Z"
       },
       "research": {
         "topics": [
@@ -270,17 +273,22 @@
           "심혈관"
         ],
         "category": "채용·업계",
-        "priority": 30
+        "priority": 45
       },
       "report_date": "2026-11-06",
       "slot": "PM",
-      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd"
+      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd",
+      "highlight": "Arrowhead Pharmaceuticals · 심혈관·대사 메디컬 어페어즈 전문가 모집. 현재 공고이며 신규 게시 확인은 아닙니다.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      }
     },
     {
       "section": "social",
       "kind": "job",
       "title": "Director, Pharmacometrics & Clinical Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "summary": "[공식 공고 확인] siRNA 프로그램의 모델 기반 개발·용량 최적화·임상약리·글로벌 허가 전략을 이끌 직무.\n[필수 요건] 관련 박사급 학위, 계량약리·임상약리 경력 12년 이상 및 집단 PK/PD·NONMEM·허가 제출 경험을 갖춘 책임자.\n[시점과 한계] 최초 게시일·수정일은 미확인입니다. 기존 현재 공고의 직무 설명을 지연 보강한 것으로, 오늘 신규 채용이나 조직 확대 신호가 아닙니다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -298,22 +306,30 @@
       "published_at": null,
       "infographic": null,
       "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
-      "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-06T08:04:05.162Z",
+      "content_hash": "b854a57714945568d77dfde1894e4ea97c5ee20e0e9b56276a9f0ed68f3c51c0",
+      "collected_at": "2026-11-06T13:49:10Z",
       "job": {
         "id": "5279189007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "계량약리·임상약리",
+        "expertise": "관련 박사급 학위, 계량약리·임상약리 경력 12년 이상 및 집단 PK/PD·NONMEM·허가 제출 경험을 갖춘 책임자",
+        "details_verified_at": "2026-11-06T13:49:10Z"
       },
       "research": {
         "topics": [],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 15
       },
       "report_date": "2026-11-06",
       "slot": "PM",
-      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532"
+      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532",
+      "highlight": "Arrowhead Pharmaceuticals · 계량약리·임상약리 전문가 모집. 현재 공고이며 신규 게시 확인은 아닙니다.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      }
     },
     {
       "section": "social",
@@ -592,7 +608,7 @@
       "section": "social",
       "kind": "job",
       "title": "Senior Manager, CMC Regulatory Affairs",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "summary": "[공식 공고 확인] ICH Q12에 따른 허가 후 변경관리와 외부 제조소의 글로벌 규제 대응 직무.\n[필수 요건] 과학 분야 학사, 업계 경력 8년 이상 중 직접 Regulatory CMC 경험 5년 이상을 갖춘 전문가.\n[시점과 한계] 최초 게시일·수정일은 미확인입니다. 기존 현재 공고의 직무 설명을 지연 보강한 것으로, 오늘 신규 채용이나 조직 확대 신호가 아닙니다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -610,22 +626,30 @@
       "published_at": null,
       "infographic": null,
       "event_key": "bf6c09e1c99de9fd061c953c3667fa5a2157a5e96a3c052c2d7e31604837493e",
-      "content_hash": "85235f4c2b55145caedc7b87b0290e878e1d82e5936e2f2d0209e61fe2aa5892",
-      "collected_at": "2026-11-06T08:04:05.163Z",
+      "content_hash": "3a713306d660d39b1cd7b7d6a6c2a8ee3f9c2b4e9ce8533b46345930d461057c",
+      "collected_at": "2026-11-06T13:49:10Z",
       "job": {
         "id": "5130292007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "CMC 규제·허가 후 변경관리",
+        "expertise": "과학 분야 학사, 업계 경력 8년 이상 중 직접 Regulatory CMC 경험 5년 이상을 갖춘 전문가",
+        "details_verified_at": "2026-11-06T13:49:10Z"
       },
       "research": {
         "topics": [],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 15
       },
       "report_date": "2026-11-06",
       "slot": "PM",
-      "id": "f2c8962df819d2025ea384f322a552e29eeeab6d9d63cdd0b87a9d99d43177d6"
+      "id": "f2c8962df819d2025ea384f322a552e29eeeab6d9d63cdd0b87a9d99d43177d6",
+      "highlight": "Arrowhead Pharmaceuticals · CMC 규제·허가 후 변경관리 전문가 모집. 현재 공고이며 신규 게시 확인은 아닙니다.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      }
     },
     {
       "section": "social",
@@ -743,6 +767,240 @@
       "report_date": "2026-11-06",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "파마리서치: 3분기 매출 1,715억원, 해외 비중 48%로 확대",
+      "company": "파마리서치",
+      "drug": "리쥬란",
+      "published_at": "2026-11-06T02:31:00Z",
+      "summary": "[확인된 사실] 6일 회사 발표·공시를 인용한 보도에 따르면 3분기 매출은 1,715억원(+26.7%), 영업이익은 626억원(+1.2%)입니다. 해외 매출 비중은 약 48%로 확대됐고, 화장품·의료기기 수출이 성장에 기여했습니다.\n[해석과 한계] 매출 성장률과 이익 성장률의 차이를 함께 봐야 합니다. 회사 발표를 인용한 독립 보도들을 대조했으나 DART 원문과 실제 컨콜 Q&A는 확보하지 못했습니다. 표기 시각은 11:31 KST 보도 기준으로 공시 시각과 다릅니다.",
+      "highlight": "매출 +26.7%, 영업이익 +1.2%. 해외 확대와 매출·이익 성장률 차이를 함께 확인합니다.",
+      "sources": [
+        {
+          "label": "회사 발표 인용 · 메디칼업저버",
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=415206"
+        },
+        {
+          "label": "공시 인용 · 팜이데일리 교차 확인",
+          "url": "https://pharm.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05490726645643096"
+        }
+      ],
+      "id": "2026-11-06-PM-pharmaresearch-q3-20261106",
+      "event_key": "pharmaresearch-q3-20261106",
+      "report_date": "2026-11-06",
+      "slot": "PM",
+      "published_date": "2026-11-06",
+      "nct": null,
+      "tags": [
+        "한국어 편집 검토"
+      ],
+      "collected_at": "2026-11-06T13:49:10Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      },
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      },
+      "content_hash": "a240f59631e8e30d73137bc97c2d2210c15c7fef144fbef828f12eb5554b9ebf"
+    },
+    {
+      "section": "news",
+      "kind": "earnings",
+      "title": "씨젠: 3분기 매출 1,231억원·영업이익 116억원, 비호흡기 진단 성장",
+      "company": "씨젠",
+      "drug": "",
+      "published_at": "2026-11-06T06:39:00Z",
+      "summary": "[확인된 사실] 15:39 KST 공시 인용 보도에서 3분기 매출 1,231억1,800만원(+8.4%), 영업이익 116억4,300만원(+21.1%)을 확인했습니다. 16:01 회사 발표 인용 후속 보도는 HPV·GI·STI 등 비호흡기 제품 매출 624억원(+12.3%)을 설명했습니다.\n[해석과 한계] 실적 핵심 수치는 16시 이전 보도에 근거하고, 사업별 설명은 마감 1분 후 후속 보강임을 구분합니다. DART 원문·컨콜 발언은 미확인입니다. 매체별 영업이익 증가율의 21.1%·21.2% 표기 차이가 있어 정밀 수치 인용 보도 기준으로 적었습니다.",
+      "highlight": "매출 +8.4%, 영업이익 약 +21%. 15:39 실적 확인과 16:01 사업별 후속 설명을 구분했습니다.",
+      "sources": [
+        {
+          "label": "15:39 KST 공시 인용 보도",
+          "url": "https://m.datatooza.com/article/20261106153916173252ef3be7d3_80"
+        },
+        {
+          "label": "16:01 KST · 마감 후 후속 보강",
+          "url": "https://www.fnnews.com/news/202611061600003794"
+        }
+      ],
+      "after_cutoff_supplement": true,
+      "id": "2026-11-06-PM-seegene-q3-20261106",
+      "event_key": "seegene-q3-20261106",
+      "report_date": "2026-11-06",
+      "slot": "PM",
+      "published_date": "2026-11-06",
+      "nct": null,
+      "tags": [
+        "한국어 편집 검토"
+      ],
+      "collected_at": "2026-11-06T13:49:10Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      },
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      },
+      "content_hash": "e3dd5669aa7144bc4248159a16c7aeec2b80cdd9c4a870f2dfbb38e374ed9a98"
+    },
+    {
+      "section": "news",
+      "kind": "business_update",
+      "title": "휴젤: 미국 CSO·직판 전환과 매출 인식 변화 설명",
+      "company": "휴젤",
+      "drug": "레티보 · 보툴렉스",
+      "published_at": "2026-11-06T04:31:00Z",
+      "summary": "[확인된 사실] 6일 추가 취재에 휴젤은 미국 유통 계약을 CSO 방식으로 전환하면서 3분기에 일회성 영향이 반영됐다고 설명했습니다. 기존 공급 시점에서 현지 고객 판매 시점으로 매출 인식이 달라지며, 4분기부터 직판과 CSO 활동을 병행할 예정입니다. 별도 보도는 전략 거래처의 50% 이상이 계정 활성화 단계라고 전했습니다.\n[해석과 한계] 11월 4일 실적을 오늘 신규 실적처럼 재집계하지 않고 판매체계 설명을 후속 소식으로 선별했습니다. 계정 활성화는 계약 논의·교육 단계도 포함하므로 확정 매출이나 판매 완료와 같지 않습니다. 재고 재매입 규모는 미공개입니다.",
+      "highlight": "미국 판매체계 전환의 후속 설명. 거래처 ‘활성화’는 확정 매출과 구분해야 합니다.",
+      "sources": [
+        {
+          "label": "회사 질의응답 인용 · 디지틀조선",
+          "url": "https://digitalchosun.dizzo.com/m/article.amp.html?contid=2026110680118"
+        },
+        {
+          "label": "거래처 활성화 정의 · 아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026110516345596768"
+        }
+      ],
+      "id": "2026-11-06-PM-hugel-us-commercial-followup-20261106",
+      "event_key": "hugel-us-commercial-followup-20261106",
+      "report_date": "2026-11-06",
+      "slot": "PM",
+      "published_date": "2026-11-06",
+      "nct": null,
+      "tags": [
+        "한국어 편집 검토"
+      ],
+      "collected_at": "2026-11-06T13:49:10Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      },
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 35
+      },
+      "content_hash": "9bdd0c4f42816be45c6903e8f4ecf14228088ec0e384d124f9914f80b869c3a0"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] MSD·한미: 에피노페그듀타이드 MASH 2b상 52주 결과 보도",
+      "company": "MSD · 한미약품",
+      "drug": "efinopegdutide · MK-6024",
+      "published_at": "2026-11-05T16:22:00Z",
+      "summary": "[확인된 사실] AASLD 초록을 인용한 전문매체 보도들을 대조했습니다. MASH·F2~F3 성인 381명의 52주 시험에서 7mg군의 ‘섬유화 악화 없는 MASH 해소’는 63%(위약 13%), ‘MASH 악화 없는 섬유화 1단계 이상 개선’은 52%(위약 21%)로 보도됐습니다.\n[해석과 한계] 최초 확인 보도는 6일 01:22 KST로 오전 구간 소식이며, 이번에는 누락 보강입니다. 오늘 오후 신규 결과나 신규 등록으로 집계하지 않습니다. 학회 초록 원문을 직접 확보하지 못해 수치 검증은 전문 보도 교차 확인 수준입니다. 오픈라벨 세마글루타이드군의 수치만으로 직접 우월성을 주장하거나 다른 시험의 DD01과 단순 비교할 수 없습니다. 후속 3상 진입·마일스톤 수령은 별도 확인 사항입니다.",
+      "highlight": "7mg군 52주 MASH 해소 63%·섬유화 개선 52%로 보도. 오전 누락 보강이며 학회 원문은 미확보입니다.",
+      "sources": [
+        {
+          "label": "01:22 KST 초록 인용 · 더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=29922"
+        },
+        {
+          "label": "13:05 KST 교차 확인 · 메디파나",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421159"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "MASH · F2~F3 간 섬유화"
+        ],
+        "phase": "PHASE2",
+        "enrollment": 381
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 결과의 보도 교차 확인. 신규 등록 아님."
+      },
+      "temporal_status": "late_discovery",
+      "verification_status": "secondary_sources_reviewed_primary_unavailable",
+      "id": "2026-11-06-PM-efinopegdutide-aasld-20261106",
+      "event_key": "efinopegdutide-aasld-20261106",
+      "report_date": "2026-11-06",
+      "slot": "PM",
+      "published_date": "2026-11-06",
+      "nct": null,
+      "tags": [
+        "한국어 편집 검토",
+        "지연 발견"
+      ],
+      "collected_at": "2026-11-06T13:49:10Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 75
+      },
+      "content_hash": "5d08026bb7143b9195932139fce12b61f6c0a7626128bfdd72ddc243a09639e5"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] MetaVia: DA-1726 소규모 1상 중간분석과 간질환 2상 계획",
+      "company": "MetaVia · 동아에스티",
+      "drug": "DA-1726",
+      "published_at": null,
+      "published_date": "2026-11-05",
+      "summary": "[확인된 사실] 공식 11월 5일 발표를 확인했습니다. 비만 성인 1상 Part 3B의 16주 중간분석에서 체중은 위약 보정 13.5% 감소했습니다(투약 15명·위약 4명). MRI 하위연구(12명·4명)의 간 지방은 위약 대비 기하평균비 0.32로, 68% 감소로 제시됐습니다. 투약군 9명에서 위장관 이상반응, 치료 관련 가능성이 있는 중증 구토 중대한 이상사례 1건이 보고됐습니다.\n[해석과 한계] 11월 4일 학회 발표·5일 회사 공지·6일 한국 보도·이번 수집을 구분한 누락 보강입니다. 작은 표본의 중간분석이며 MASH 조직학적 섬유화 개선을 입증한 결과가 아닙니다. MetALD·ALD 최대 150명 48주 2상은 2027년 하반기 목표이지 현재 개시 확정이 아닙니다. 정확한 원문 발행 시각은 미확인입니다.",
+      "highlight": "16주 체중·간 지방 신호와 안전성 함께 확인. 소규모 1상이며 MetALD·ALD 2상은 향후 계획입니다.",
+      "sources": [
+        {
+          "label": "공식 원문 · 11월 5일",
+          "url": "https://ir.metaviatx.com/news-releases/news-release-details/metavia-announces-statistically-significant-68-reduction-liver"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "비만 · MetALD/ALD 개발 계획"
+        ],
+        "phase": "PHASE1",
+        "enrollment": 19
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 시험 중간 결과 지연 발견. 신규 등록 아님."
+      },
+      "temporal_status": "late_discovery",
+      "event_date": "2026-11-04",
+      "id": "2026-11-06-PM-metavia-da1726-part3b-20261105",
+      "event_key": "metavia-da1726-part3b-20261105",
+      "report_date": "2026-11-06",
+      "slot": "PM",
+      "nct": null,
+      "tags": [
+        "한국어 편집 검토",
+        "지연 발견"
+      ],
+      "collected_at": "2026-11-06T13:49:10Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-06T13:49:10Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 75
+      },
+      "content_hash": "f47193aecc6baaf6d4ff0c0650fb0c08a946b17d6992493f5187da26e76dc4c4"
     }
   ],
   "display_mode": "research",
@@ -750,7 +1008,7 @@
   "report_date": "2026-11-06",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-06T08:04:05.350Z",
+  "updated_at": "2026-11-06T13:49:10Z",
   "window": {
     "start": "2026-11-05T23:00:00.000Z",
     "end": "2026-11-06T07:00:00.000Z"
@@ -966,17 +1224,78 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "11/6 오후 일반 웹 검색·원문 검토",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 바이오·제약, Novo/Boehringer·Roche/Novartis/Sanofi/AstraZeneca·일본 제약, 국내 관심 기업, 실적·임상·채용 검색을 수행했습니다. 검색 결과는 선택적이며 웹 전체 전수 검사가 아닙니다. 신규 보강: 파마리서치·씨젠 실적, 휴젤 판매체계 후속 설명. 공식 공시 원문을 확보하지 못한 수치는 회사 발표/공시 인용 보도 대조로 한계를 명시했습니다."
+    },
+    {
+      "source": "학회 임상 자료·지연 발견",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "MetaVia 공식 11/5 원문 검토, MSD·한미 에피노페그듀타이드 학회 초록 인용 보도 교차 확인(초록 원문 미확보). 두 사건은 원 공개가 오후 구간 이전인 누락 보강이며 오후 신규 등록 2건이 아닙니다. NCT·국가별 등록처 전체 검증은 미완료."
+    },
+    {
+      "source": "공식 채용 개별 원문",
+      "section": "social",
+      "status": "reviewed",
+      "reason": "Arrowhead 현재 공고 19개 중 심혈관·대사 MSL, 계량약리/임상약리 Director, CMC Regulatory Senior Manager 3개의 상세 책임·필수 경력을 직접 확인해 보강했습니다. 나머지 공고 전체를 검토 완료로 표시하지 않았습니다. 최초 게시/수정 시각 미확인, 신규 채용 아님. 공개 X·LinkedIn의 구간 내 신규 원문은 검증하지 못했습니다."
+    },
+    {
+      "source": "회차 마감·제외 처리",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "수집 구간은 11/6 08~16 KST, 실제 편집은 22시대 지연 실행입니다. 씨젠 16:01 후속 설명은 마감 후 보강으로 표기했습니다. 알테오젠 16:20·제노스코17:48 기사는 마감 후라 이번 신규 목록에서 제외. HLB 08:11 공개 기사는 11/5 선공개·11/4 사건으로 단순 재집계하지 않았습니다."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "한국어 실적·사업 후속 3건을 보강했습니다. 공식 공시·컨콜 원문 미확보와 보도 대조를 구분하며 일부 서버 출처 403·시간초과는 미해결입니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "임상 결과 2건은 오전 이전 원 공개의 지연 발견입니다. 신규 등록·오후 최초 발표로 집계하지 않으며 MSD 학회 초록 원문은 미확보입니다. 심혈관·안과 소식의 실제 부재를 보장하지 않습니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "공식 현재 공고 19개를 보존하고 3개 상세 직무를 검토했습니다. 게시일 미확인으로 신규 채용이 아니며, X·LinkedIn 확인 실패는 소식 없음과 다릅니다."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "11/6 오후 일반 웹 검색·원문 검토",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 바이오·제약, Novo/Boehringer·Roche/Novartis/Sanofi/AstraZeneca·일본 제약, 국내 관심 기업, 실적·임상·채용 검색을 수행했습니다. 검색 결과는 선택적이며 웹 전체 전수 검사가 아닙니다. 신규 보강: 파마리서치·씨젠 실적, 휴젤 판매체계 후속 설명. 공식 공시 원문을 확보하지 못한 수치는 회사 발표/공시 인용 보도 대조로 한계를 명시했습니다."
+    },
+    {
+      "source": "학회 임상 자료·지연 발견",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "MetaVia 공식 11/5 원문 검토, MSD·한미 에피노페그듀타이드 학회 초록 인용 보도 교차 확인(초록 원문 미확보). 두 사건은 원 공개가 오후 구간 이전인 누락 보강이며 오후 신규 등록 2건이 아닙니다. NCT·국가별 등록처 전체 검증은 미완료."
+    },
+    {
+      "source": "공식 채용 개별 원문",
+      "section": "social",
+      "status": "reviewed",
+      "reason": "Arrowhead 현재 공고 19개 중 심혈관·대사 MSL, 계량약리/임상약리 Director, CMC Regulatory Senior Manager 3개의 상세 책임·필수 경력을 직접 확인해 보강했습니다. 나머지 공고 전체를 검토 완료로 표시하지 않았습니다. 최초 게시/수정 시각 미확인, 신규 채용 아님. 공개 X·LinkedIn의 구간 내 신규 원문은 검증하지 못했습니다."
+    },
+    {
+      "source": "회차 마감·제외 처리",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "수집 구간은 11/6 08~16 KST, 실제 편집은 22시대 지연 실행입니다. 씨젠 16:01 후속 설명은 마감 후 보강으로 표기했습니다. 알테오젠 16:20·제노스코17:48 기사는 마감 후라 이번 신규 목록에서 제외. HLB 08:11 공개 기사는 11/5 선공개·11/4 사건으로 단순 재집계하지 않았습니다."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-06T13:49:10Z",
+    "scheduled_at": "2026-11-06T07:00:00Z",
+    "published_at": "2026-11-06T13:49:10Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "16시 서버 보고서는 존재했으나 한국어 웹 편집 작업은 22시대 지연 실행",
+    "reviewed_item_count": 8,
+    "new_editorial_events": 5,
+    "current_job_details_reviewed": 3
   }
 }
