@@ -2,32 +2,50 @@
   "items": [
     {
       "section": "news",
-      "kind": "news",
-      "title": "Moderna enjoys stable vaccine sales thanks to global COVID uptake",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): While Moderna preps an entry to the oncology market next year with a personalized cancer vaccine, COVID sales are holding steady with several other vaccine launches underway around the world.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "earnings",
+      "title": "Moderna: 3분기 매출 13.13억 달러·흑자 전환, 연간 성장 전망 상향",
+      "summary": "[확인된 사실] 회사 배포문에서 3분기 매출 13.13억 달러(+29%), 순이익 1.62억 달러, 희석 EPS 0.38달러를 확인했습니다. 연간 매출 성장 전망은 기존 최대 10%에서 15~25%로 높였습니다. 해외 COVID 백신 매출과 장기 정부 공급이 기여했습니다.\n[해석과 한계] 분기 이익 개선과 현금 증가의 원인을 구분해야 합니다. 9월 말 현금·투자자산 80억 달러에는 전환사채 관련 순조달 26억 달러가 반영됐으므로 전부 영업현금 창출로 해석할 수 없습니다. 컨콜은 6일 08:00 ET(22:00 KST)로 공지됐으나 Q&A를 직접 검증하지 못했습니다. 10월 암 백신 결과를 오늘 새 결과로 재집계하지 않았습니다.",
+      "company": "Moderna",
+      "drug": "COVID 백신 · mFLUSIVA · intismeran",
+      "nct": null,
+      "tags": [
+        "원문·근거 검토"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/business/moderna-enjoys-stable-vaccine-sales-thanks-to-global-covid-uptake"
+        },
+        {
+          "label": "Moderna 공식 배포 실적 원문",
+          "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-reports-third-quarter-2026-financial-results-and-provides-bus-1247635"
         }
       ],
-      "published_at": "2026-11-06T16:43:26.000Z",
+      "published_at": "2026-11-06T11:45:00Z",
       "infographic": null,
       "event_key": "7adc4454e7809a28cbed5c42388b5de01260801b7aa44e3921be89f770803058",
-      "content_hash": "4fe7f07e9a71665900d7b877369ded6e75ecf74dbe0141d39183dfc471eb66e3",
-      "collected_at": "2026-11-06T23:34:58.607Z",
+      "content_hash": "8bf85e0a07cac3709d4ff0dfb82782b30ae6dcc85b46063fb24a0b7de6ffbd3f",
+      "collected_at": "2026-11-07T00:35:07Z",
       "research": {
         "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
+        "category": "실적·컨콜",
+        "priority": 35
       },
       "report_date": "2026-11-07",
       "slot": "AM",
-      "id": "14eeda7d1318a3a9e9987588e28384491048783f60d955b52810b4011d7c3355"
+      "id": "14eeda7d1318a3a9e9987588e28384491048783f60d955b52810b4011d7c3355",
+      "highlight": "매출 +29%·순이익 1.62억 달러. 현금 증가에는 전환사채 조달이 포함됐습니다.",
+      "published_date": "2026-11-06",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "feed_original": {
+        "title": "Moderna enjoys stable vaccine sales thanks to global COVID uptake",
+        "summary": "출처 피드 발췌 (원문 언어 · 분석 전): While Moderna preps an entry to the oncology market next year with a personalized cancer vaccine, COVID sales are holding steady with several other vaccine launches underway around the world.",
+        "published_at": "2026-11-06T16:43:26.000Z"
+      },
+      "previous_content_hash": "4fe7f07e9a71665900d7b877369ded6e75ecf74dbe0141d39183dfc471eb66e3"
     },
     {
       "section": "news",
@@ -205,63 +223,103 @@
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The occurrence of cancer in nine recipients &mdash; two of which involved evidence that a viral delivery tool integrated into patient DNA &mdash; could raise new questions for the gene therapy field.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "safety_update",
+      "title": "Novartis: Zolgensma 투여 후 종양 보고 9건·2건의 벡터 DNA 통합 증거 확인",
+      "summary": "[확인된 사실] 회사가 환자단체에 제공한 공개 성명과 6일 후속 보도를 대조했습니다. 2019년 허가 이후 종양 보고는 누적 9건이며, 그중 2건에서 환자 DNA 내 벡터 DNA 통합 증거가 확인됐다고 설명했습니다. 회사는 두 환자가 치료를 받았고 추적 중이라고 밝혔습니다.\n[해석과 한계] 6일 하루에 신규 종양 9건이 발생했다는 뜻이 아닙니다. 보고 건수만으로 발생률이나 모든 사례의 인과관계를 확정할 수 없습니다. 최초 공개는 4~5일 의료진·환자단체 통지이고 이번 항목은 6일 추가 보도 검토입니다. 벡터 통합·종양 위험은 기존 제품정보에도 기재돼 있어 새 경고·판매중지로 단정하지 않습니다. 시각은 Fierce 후속 보도 기준입니다.",
+      "company": "Novartis",
+      "drug": "Zolgensma · onasemnogene abeparvovec",
+      "nct": null,
+      "tags": [
+        "원문·근거 검토"
+      ],
       "sources": [
         {
           "label": "BioPharma Dive 산업 뉴스",
           "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/"
+        },
+        {
+          "label": "회사 성명 공개 · SMA UK",
+          "url": "https://smauk.org.uk/treatments-research/zolgensma/"
+        },
+        {
+          "label": "11/6 회사 확인 후속 취재 · Fierce Pharma",
+          "url": "https://www.fiercepharma.com/pharma/novartis-confirms-more-reported-tumor-cases-zolgensma-patients-sma-groups-seek-details"
         }
       ],
-      "published_at": "2026-11-06T16:51:00.000Z",
+      "published_at": "2026-11-06T14:59:00Z",
       "infographic": null,
       "event_key": "5dbecba8b78de5d93397f4f2d592460f1f67246fc0f1a8b8e48abc76ab6bc658",
-      "content_hash": "93104c622a1945ea89e4494eafe02bd66b7e01d74aa3463c1a744d5bec9a963e",
-      "collected_at": "2026-11-06T23:34:58.740Z",
+      "content_hash": "34982a616a38d373feb6af3e9abb4805886471bffa3d39bb40648af94d5a5365",
+      "collected_at": "2026-11-07T00:35:07Z",
       "research": {
         "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
+        "category": "규제",
+        "priority": 15
       },
       "report_date": "2026-11-07",
       "slot": "AM",
-      "id": "706e663ad2c0a6043dc3a4e57324a96105d965414a8b413ec72c0ffd7bce1495"
+      "id": "706e663ad2c0a6043dc3a4e57324a96105d965414a8b413ec72c0ffd7bce1495",
+      "highlight": "누적 보고 9건 중 2건에 통합 증거. 발생일·공개일과 인과관계를 구분하는 장기 안전성 후속 소식입니다.",
+      "published_date": "2026-11-06",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "feed_original": {
+        "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
+        "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The occurrence of cancer in nine recipients &mdash; two of which involved evidence that a viral delivery tool integrated into patient DNA &mdash; could raise new questions for the gene therapy field.",
+        "published_at": "2026-11-06T16:51:00.000Z"
+      },
+      "previous_content_hash": "93104c622a1945ea89e4494eafe02bd66b7e01d74aa3463c1a744d5bec9a963e"
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier recently acquired failed a key trial and Ultragenyx announced staff cuts.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "partnership",
+      "title": "Lilly·Hims & Hers: 비만약을 플랫폼 안에서 직접 처방·구매하는 협력",
+      "summary": "[확인된 사실] 11월 6일 공식 발표에서 적격 환자가 Hims & Hers를 떠나지 않고 진료·처방·약 배송을 이용하도록 협력한다고 밝혔습니다. 약제 자비부담 시작 가격은 Foundayo 월 149달러, Zepbound 월 299달러입니다. Hims는 Lilly GLP-1 복제 조제약을 제공하지 않겠다는 약속도 포함했습니다.\n[해석과 한계] 비만약의 소비자 접근 경로·자비부담 시장 경쟁 소식입니다. 기술이전 선급금이나 판매 보장 계약은 아니며 공개되지 않은 수익 배분을 추정하지 않습니다. 시작 가격은 모든 용량·진료 서비스의 총비용을 뜻하지 않습니다. 공식 발행일만 확인해 시각은 비웠습니다.",
+      "company": "Eli Lilly · Hims & Hers",
+      "drug": "Zepbound · tirzepatide / Foundayo · orforglipron",
+      "nct": null,
+      "tags": [
+        "원문·근거 검토"
+      ],
       "sources": [
         {
           "label": "BioPharma Dive 산업 뉴스",
           "url": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/"
+        },
+        {
+          "label": "Lilly 공식 협력 발표",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-and-hims-hers-expand-access-fda-approved-lilly-medicines"
         }
       ],
-      "published_at": "2026-11-06T13:13:00.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "a438e81d1a9a68f2bfd2d97f10b8cb7cda1ebbd898f5d77d799a5a55ee50c7ff",
-      "content_hash": "208dca3c89103a906800523171bd7e231de87fcdc12aa9f0b293b9f7c2b0dec4",
-      "collected_at": "2026-11-06T23:34:58.740Z",
+      "content_hash": "6a044373c5692a9b8019c31fb40fef5f11cde6e7b75d07d18d3c9c2014c594aa",
+      "collected_at": "2026-11-07T00:35:07Z",
       "research": {
         "topics": [
           "대사"
         ],
         "category": "계약·사업개발",
-        "priority": 50
+        "priority": 45
       },
       "report_date": "2026-11-07",
       "slot": "AM",
-      "id": "e223896db48bf3d1e09b4074f9f13011191af18208b709859f6a8d7a9c154679"
+      "id": "e223896db48bf3d1e09b4074f9f13011191af18208b709859f6a8d7a9c154679",
+      "highlight": "경구·주사 비만약의 플랫폼 내 접근 확대. 약제 시작 가격과 전체 서비스 비용·매출 보장은 구분합니다.",
+      "published_date": "2026-11-06",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "feed_original": {
+        "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
+        "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier recently acquired failed a key trial and Ultragenyx announced staff cuts.",
+        "published_at": "2026-11-06T13:13:00.000Z"
+      },
+      "previous_content_hash": "208dca3c89103a906800523171bd7e231de87fcdc12aa9f0b293b9f7c2b0dec4"
     },
     {
       "section": "news",
@@ -14985,6 +15043,166 @@
       "report_date": "2026-11-07",
       "slot": "AM",
       "id": "f855b3374491e271e3b11249d94feaf798f24c74cbe3e7a2452fa821cf186a79"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Novo: Wegovy MASH 실제 진료 연구의 간효소·체중·혈당 자료 공개",
+      "company": "Novo Nordisk",
+      "drug": "Wegovy · semaglutide 2.4mg / resmetirom 비교",
+      "published_at": "2026-11-06T20:07:00Z",
+      "summary": "[확인된 사실] 6일 공식 자료에서 후향적 관찰연구 PLATINUM-Truveta·RHODIUM-2 결과를 확인했습니다. 전자는 semaglutide 2.4mg 시작 2,873명과 resmetirom 시작 2,285명을 비교했습니다. 후자는 semaglutide 시작 2,479명과 미시작 70,702명을 비교했고, 12개월 ALT·AST·체중 감소의 연관성을 보고했습니다.\n[해석과 한계] 치료가 무작위 배정되지 않았고 기저 차이·미측정 교란·추적자료 선택의 영향을 받습니다. 간효소나 체중 개선은 조직학적 섬유화 개선·임상 사건 감소와 같지 않으며 resmetirom 대비 약물 우월성을 확정하지 못합니다. DD01 등 별도 시험과 직접 비교할 수 없습니다. 20:07 UTC는 배포 피드 시각, 공식 페이지는 날짜만 제공합니다.",
+      "highlight": "MASH 실제 진료 자료에서 간효소·대사지표 개선 연관성. 관찰연구여서 약물 우월성·섬유화 개선 입증과 구분합니다.",
+      "sources": [
+        {
+          "label": "Novo 공식 원문",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=919926"
+        },
+        {
+          "label": "PRNewswire 배포문·시각 교차 확인",
+          "url": "https://pressreleasefeed.org/releases/novo-real-world-studies-link-wegovy-2-4-mg-to-reductions-in-liver-enzymes-weight-dc4d1c88"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "MASH"
+        ],
+        "study_type": "OBSERVATIONAL"
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 관찰연구 결과. 신규 등록 아님."
+      },
+      "id": "2026-11-07-AM-novo-mash-rwe-20261106",
+      "event_key": "novo-mash-rwe-20261106",
+      "report_date": "2026-11-07",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "원문·근거 검토"
+      ],
+      "published_date": "2026-11-06",
+      "collected_at": "2026-11-07T00:35:07Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 75
+      },
+      "content_hash": "a7a8500710178e0486fab16f84c5cd10ae6acb6ffcbee47b303e6ef38363f61c"
+    },
+    {
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "GSK: efimosfermin MASH F2~F4 공개 2상 52주 비침습 지표 자료",
+      "company": "GSK · Boston Pharmaceuticals",
+      "drug": "efimosfermin alfa · GSK6519754",
+      "published_at": null,
+      "summary": "[확인된 사실] GSK 학회 안내와 6일 전문매체의 초록 #2299 해설을 대조했습니다. F2~F3 24명·F4 15명의 공개 2상 코호트에서 최대 52주 간 경직도·ELF·PRO-C3 감소가 보고됐습니다. F4의 중대한 이상사례는 3명(20%)이었고 치료 관련으로 평가된 사례는 없다고 보도됐습니다.\n[해석과 한계] 위약군 없는 소규모 공개 코호트이며 추적 가능한 환자 수가 군별로 줄었습니다. 비침습 지표를 조직학적 개선이나 장기 임상 효과로 바꿔 해석하면 안 됩니다. 학회 초록 원문 자체는 확보하지 못했으며 공식 11/5 발표의 11/6 해설 보강입니다. 과거 24주 무작위시험·48주 연장시험과 이번 52주 코호트를 섞지 않았습니다. 발행 시각·AM 구간 귀속은 미확정입니다.",
+      "highlight": "MASH·보상성 간경변의 52주 비침습 지표 신호. 소규모 비대조 자료·추적 탈락·안전성 한계를 함께 확인합니다.",
+      "sources": [
+        {
+          "label": "GSK 공식 AASLD 발표 목록",
+          "url": "https://us.gsk.com/en-us/media/press-releases/under-edit-gsk-showcases-progress-in-liver-portfolio-at-aasld-2026/"
+        },
+        {
+          "label": "초록 #2299 해설·11/6 · HCPLive",
+          "url": "https://www.hcplive.com/view/once-monthly-efimosfermin-improves-fibrosis-markers-in-phase-2-mash-study"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "MASH · F2~F4 · 보상성 간경변"
+        ],
+        "phase": "PHASE2",
+        "enrollment": {
+          "count": 39,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "2상 공개 코호트 학회 해설. 신규 등록 아님."
+      },
+      "verification_status": "official_presentation_confirmed_abstract_secondary_review",
+      "id": "2026-11-07-AM-efimosfermin-aasld52w-20261106",
+      "event_key": "efimosfermin-aasld52w-20261106",
+      "report_date": "2026-11-07",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "원문·근거 검토"
+      ],
+      "published_date": "2026-11-06",
+      "collected_at": "2026-11-07T00:35:07Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 75
+      },
+      "content_hash": "d321482c7c916060c4cbf38ec055d7b7d10445dc48d604484316da1fcc85648f"
+    },
+    {
+      "section": "social",
+      "kind": "job",
+      "title": "Akero·Novo Nordisk: 글로벌 3상 지역·CRO·벤더 관리 Clinical Program Manager",
+      "company": "Akero Therapeutics · Novo Nordisk",
+      "drug": "",
+      "published_at": null,
+      "summary": "[공식 공고 확인] 글로벌 3상 프로그램에서 지역별 시험 운영, CRO·벤더 성과, 등록·모니터링, 실사 준비를 감독할 Clinical Program Manager를 모집합니다. 관련 과학 학사 또는 간호 자격과 임상연구 경력 8년 이상을 요구하며 MASH·MASLD·대사질환 경험은 우대합니다.\n[시점과 한계] 공고상 예상 마감은 11월 13일이며 최초 게시일·수정일은 미확인입니다. 이번에 발견한 현재 공고로, 오늘 신규 채용·새 임상 개시·조직 확대의 증거는 아닙니다.",
+      "highlight": "Akero·Novo의 글로벌 3상 운영·CRO/벤더 감독 전문가. 임상연구 8년 이상, MASH 경험 우대. 현재 공고·신규 아님.",
+      "sources": [
+        {
+          "label": "공식 Greenhouse 채용 원문",
+          "url": "https://job-boards.greenhouse.io/akerotherapeutics/jobs/4747956005"
+        }
+      ],
+      "job": {
+        "id": "4747956005",
+        "field": "글로벌 임상 3상 운영·CRO/벤더 관리",
+        "expertise": "임상연구 8년 이상, 관련 과학 학사 또는 간호 자격. MASH·MASLD·대사질환 경험 우대.",
+        "first_posted_at": null,
+        "status": "active",
+        "temporal_status": "current_listing",
+        "expected_close_date": "2026-11-13",
+        "first_observed_at": "2026-11-07T00:35:07Z"
+      },
+      "id": "2026-11-07-AM-akero-clinical-manager-4747956005",
+      "event_key": "akero-clinical-manager-4747956005",
+      "report_date": "2026-11-07",
+      "slot": "AM",
+      "nct": null,
+      "tags": [
+        "현재 공고·신규 아님"
+      ],
+      "published_date": null,
+      "collected_at": "2026-11-07T00:35:07Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T00:35:07Z"
+      },
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "채용·업계",
+        "priority": 75
+      },
+      "content_hash": "c79bfa4c2496c1404b1d65a19917715ca52acbcdd3868db962292070f4c2e820"
     }
   ],
   "display_mode": "research",
@@ -14992,7 +15210,7 @@
   "report_date": "2026-11-07",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-06T23:36:22.782Z",
+  "updated_at": "2026-11-07T00:35:07Z",
   "window": {
     "start": "2026-11-06T07:00:00.000Z",
     "end": "2026-11-06T23:00:00.000Z"
@@ -15208,17 +15426,88 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "11/7 오전 글로벌 웹 검색·편집",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 글로벌 바이오·제약 검색과 Lilly/Hims·Novo·Moderna·Novartis·GSK·Cytokinetics·Agios 관련 검색을 병행했습니다. 공식 회사 배포문·환자단체 공개 회사 성명·Reuters/Fierce 등 독립 보도를 대조했습니다. 웹 전체 전수조사는 아니며 서버 피드만 읽은 결과와 구분합니다. 한국어 뉴스 3건은 기존 피드 항목에 원문 링크·해설을 병합해 중복 추가하지 않았습니다."
+    },
+    {
+      "source": "실적·컨콜 검증",
+      "section": "news",
+      "status": "partial",
+      "reason": "Moderna 실적 배포문과 컨콜 일정(11/6 08ET)을 확인했으나 실제 Q&A를 직접 검증하지 못했습니다. 신규 컨콜 발언을 지어내지 않았고 이전 10월 암백신 결과·11/5 ANI 실적을 이번 최초 공개로 재집계하지 않았습니다."
+    },
+    {
+      "source": "MASH 학회 결과 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Novo 11/6 PLATINUM-Truveta·RHODIUM-2 공식 원문을 검토했습니다. GSK 발표 목록 및 11/6 HCPLive 초록 #2299 해설을 대조했으나 학회 초록 원문은 미확보입니다. 임상 결과 2건이며 신규 등록 2건 아님. GSK는 발행시각이 불명확해 구간 귀속 한계를 기록했습니다."
+    },
+    {
+      "source": "임상 등록처·안과/심혈관",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버의 baseline·스냅샷을 보존했습니다. NCT05786443 현재 원문은 웹 도구에서 상세값을 읽지 못해 수집 후보를 reviewed로 바꾸지 않았습니다. 국가별 등록처 전수 검증은 미완료입니다. Cytokinetics HCMS 일정은 11/2 예고이며 실제 현장 데이터는 미검증, K8 안과 수치는 7/17 원 공개로 11/6 새 결과 재집계 제외. VeonGen도 11/5 원 발표라 새 결과로 재집계하지 않았습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용 원문",
+      "section": "social",
+      "status": "partial",
+      "reason": "X/LinkedIn과 Novo/Madrigal/Sanofi·Akero 공식 공고를 검색했습니다. Akero Clinical Program Manager 공식 상세 원문 1건을 직접 검토했습니다. 최초 게시일 미확인으로 현재 공고로만 추가, 11/13은 예상 마감일입니다. Novo MASH 시장접근 공고는 11/1 마감이라 제외. Sanofi 원문은 검색 색인은 있으나 본문이 비어 현재 활성 검증 미완료로 추가하지 않았습니다. X/LinkedIn의 구간 내 신규 게시 확인 실패는 소식 없음이 아닙니다."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "주요 뉴스 3건에 한국어 분석·공식 원문을 병합했습니다. 미검토 피드·컨콜 Q&A 미확인과 구분하며 일부 서버 출처의 403·시간초과는 남아 있습니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "MASH 학회 결과 2건을 검토했습니다. 신규 등록 수와 다르며 GSK 초록 원문은 미확보입니다. 기준자료·변경 후보 전체를 검토 완료로 표시하지 않았습니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "Arrowhead 현재 공고 17건을 보존하고 Akero·Novo의 임상 운영 직무 1건을 상세 검토했습니다. 최초 게시일 미확인으로 신규 채용은 아닙니다."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "11/7 오전 글로벌 웹 검색·편집",
+      "section": "news",
+      "status": "reviewed",
+      "reason": "기업 미지정 글로벌 바이오·제약 검색과 Lilly/Hims·Novo·Moderna·Novartis·GSK·Cytokinetics·Agios 관련 검색을 병행했습니다. 공식 회사 배포문·환자단체 공개 회사 성명·Reuters/Fierce 등 독립 보도를 대조했습니다. 웹 전체 전수조사는 아니며 서버 피드만 읽은 결과와 구분합니다. 한국어 뉴스 3건은 기존 피드 항목에 원문 링크·해설을 병합해 중복 추가하지 않았습니다."
+    },
+    {
+      "source": "실적·컨콜 검증",
+      "section": "news",
+      "status": "partial",
+      "reason": "Moderna 실적 배포문과 컨콜 일정(11/6 08ET)을 확인했으나 실제 Q&A를 직접 검증하지 못했습니다. 신규 컨콜 발언을 지어내지 않았고 이전 10월 암백신 결과·11/5 ANI 실적을 이번 최초 공개로 재집계하지 않았습니다."
+    },
+    {
+      "source": "MASH 학회 결과 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Novo 11/6 PLATINUM-Truveta·RHODIUM-2 공식 원문을 검토했습니다. GSK 발표 목록 및 11/6 HCPLive 초록 #2299 해설을 대조했으나 학회 초록 원문은 미확보입니다. 임상 결과 2건이며 신규 등록 2건 아님. GSK는 발행시각이 불명확해 구간 귀속 한계를 기록했습니다."
+    },
+    {
+      "source": "임상 등록처·안과/심혈관",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버의 baseline·스냅샷을 보존했습니다. NCT05786443 현재 원문은 웹 도구에서 상세값을 읽지 못해 수집 후보를 reviewed로 바꾸지 않았습니다. 국가별 등록처 전수 검증은 미완료입니다. Cytokinetics HCMS 일정은 11/2 예고이며 실제 현장 데이터는 미검증, K8 안과 수치는 7/17 원 공개로 11/6 새 결과 재집계 제외. VeonGen도 11/5 원 발표라 새 결과로 재집계하지 않았습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용 원문",
+      "section": "social",
+      "status": "partial",
+      "reason": "X/LinkedIn과 Novo/Madrigal/Sanofi·Akero 공식 공고를 검색했습니다. Akero Clinical Program Manager 공식 상세 원문 1건을 직접 검토했습니다. 최초 게시일 미확인으로 현재 공고로만 추가, 11/13은 예상 마감일입니다. Novo MASH 시장접근 공고는 11/1 마감이라 제외. Sanofi 원문은 검색 색인은 있으나 본문이 비어 현재 활성 검증 미완료로 추가하지 않았습니다. X/LinkedIn의 구간 내 신규 게시 확인 실패는 소식 없음이 아닙니다."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-07T00:35:07Z",
+    "scheduled_at": "2026-11-06T23:00:00Z",
+    "published_at": "2026-11-07T00:35:07Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "08시 서버 수집 뒤 09시대 로컬 원문 조사·한국어 편집 지연 실행",
+    "reviewed_item_count": 6
   }
 }
