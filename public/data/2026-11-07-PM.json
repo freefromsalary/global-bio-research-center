@@ -198,8 +198,8 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Associate Medical Director / Medical Director",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead: 심혈관·대사 siRNA 임상개발 Associate Medical Director / Medical Director",
+      "summary": "[공식 공고 확인] 심혈관·대사 임상개발 책임자 산하에서 지질·비만 siRNA 프로그램의 임상 설계, 효능·안전성·용량·임상약리 평가와 NDA/MAA 문서에 참여할 의사를 모집합니다. MD 또는 MD/PhD와 연구·중개연구 경험이 필요하며 심장학·내분비 펠로십, 지질·비만 연구를 우대합니다. 근무지는 Pasadena 현장입니다.\n[시점과 한계] 기존 현재 공고의 상세 보강입니다. 최초 게시일·수정일 미확인으로 오늘 신규 채용이나 임상 성공·새 조직 확대 신호가 아닙니다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -217,22 +217,33 @@
       "published_at": null,
       "infographic": null,
       "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
-      "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
-      "collected_at": "2026-11-07T07:47:33.273Z",
+      "content_hash": "81e91023f4fd1d732b25151874839e74d6fc3abd132f6dfd4b4b293d8262eb36",
+      "collected_at": "2026-11-07T11:04:45Z",
       "job": {
         "id": "5133490007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "심혈관·대사 siRNA 임상개발",
+        "expertise": "MD 또는 MD/PhD 및 연구·중개연구 경험. 심장학·내분비 펠로십, 지질·비만 연구 우대.",
+        "details_verified_at": "2026-11-07T11:04:45Z"
       },
       "research": {
-        "topics": [],
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 45
       },
       "report_date": "2026-11-07",
       "slot": "PM",
-      "id": "10314b602f4b3428cdd1c7eeb3a161af9450e24d1ec1d99ece330fa8ed25fb31"
+      "id": "10314b602f4b3428cdd1c7eeb3a161af9450e24d1ec1d99ece330fa8ed25fb31",
+      "highlight": "Arrowhead · 지질·비만 siRNA 임상개발 의사. MD/MD-PhD·중개연구 경험, 심장학·내분비 경험 우대. 현재 공고·신규 아님.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T11:04:45Z"
+      }
     },
     {
       "section": "social",
@@ -665,6 +676,64 @@
       "report_date": "2026-11-07",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "id": "2026-11-07-PM-braveheart-oHCM52w-20261106",
+      "event_key": "braveheart-oHCM52w-20261106",
+      "report_date": "2026-11-07",
+      "slot": "PM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] Braveheart·헝루이: HRS/BHB-1893 oHCM 2상 52주 공개 연장 결과",
+      "company": "Braveheart Bio · Hengrui Pharma",
+      "drug": "HRS/BHB-1893",
+      "nct": "NCT06516068",
+      "summary": "[확인된 사실] 11월 6일 공식 발표에서 폐쇄성 비후성심근증(oHCM) 환자 42명의 52주 공개 연장 결과를 확인했습니다. 33명(79%)이 발살바 LVOT 압력차 30mmHg 미만에 도달했고, 연장시험 기저치 대비 최대산소섭취량은 평균 2.7mL/kg/min, KCCQ-CSS는 17.3점 증가했습니다. 투약 중 중증·중대한 이상사례는 없었으나 2명에서 일시적 LVEF 50% 미만이 관찰돼 감량 후 재투여했습니다.\n[해석과 한계] 오전 이전에 공개된 자료의 누락 보강이며 오후 신규 등록·최초 결과가 아닙니다. 위약 없는 공개 연장이므로 자연경과·선택 편향을 배제할 수 없고 경쟁 CMI와의 우월성이나 질병변형 효과는 입증되지 않았습니다. 별도 nHCM 사후분석·후속 TRUEHEART 계획과 구분했습니다. 원문 날짜만 확정돼 발행시각은 비웠습니다.",
+      "highlight": "52주 공개 연장 42명 중 79%가 LVOT 기준 달성. 대조군 부재와 LVEF 저하 2건을 함께 확인하는 오전 누락 보강입니다.",
+      "tags": [
+        "심혈관",
+        "지연 발견",
+        "공식 원문"
+      ],
+      "sources": [
+        {
+          "label": "Braveheart·헝루이 공식 발표",
+          "url": "https://ir.braveheart.bio/news-releases/news-release-details/hengrui-pharma-and-braveheart-bio-present-data-52-week-open"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-06",
+      "collected_at": "2026-11-07T11:04:45Z",
+      "infographic": null,
+      "temporal_status": "late_discovery",
+      "clinical": {
+        "conditions": [
+          "폐쇄성 비후성심근증(oHCM)"
+        ],
+        "phases": [
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 42,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 2상 52주 공개 연장 결과 지연 발견. 신규 등록 아님."
+      },
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-07T11:04:45Z"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      },
+      "content_hash": "ec0ce11ad031f7ca23e300f623685c77f4a204ab73f497ca6630dd1f55919a9a"
     }
   ],
   "display_mode": "research",
@@ -672,7 +741,7 @@
   "report_date": "2026-11-07",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-07T07:47:33.392Z",
+  "updated_at": "2026-11-07T11:04:45Z",
   "window": {
     "start": "2026-11-06T23:00:00.000Z",
     "end": "2026-11-07T07:00:00.000Z"
@@ -888,17 +957,79 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "11/7 오후 일반 웹 검색·편집",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약, Novo/Lilly/Roche/GSK, Cytokinetics·Braveheart/헝루이, AASLD·AHA·SITC 관련 검색을 수행했습니다. 선택적 검색이며 웹 전체 전수조사 아님. 08~16 KST 안의 새 뉴스로 원 공개 시각까지 확정해 선별한 항목은 없었습니다. 일부 출처 실패가 있어 실제 뉴스 부재나 전수 확인을 의미하지 않습니다. 과거 거래·컨콜·학회 예고를 신규 사건으로 채우지 않았습니다."
+    },
+    {
+      "source": "임상 결과·학회 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Braveheart·헝루이 11/6 공식 2상 52주 결과를 직접 검토해 오전 이전 공개의 지연 발견으로 보강했습니다. 신규 등록 아님. Cytokinetics HCMS는 11/2 사전 공지 외 실제 후속 자료를 검증하지 못했습니다. Arrowhead 11/7 미국 오후 발표는 KST 11/8이므로 11/7 오후 완료 결과로 집계하지 않았습니다. 국가별 등록처·컨콜 Q&A 전수 검증 미완료."
+    },
+    {
+      "source": "공개 소셜·채용 원문",
+      "section": "social",
+      "status": "partial",
+      "reason": "공개 LinkedIn/X 및 채용 검색을 수행하고 Arrowhead 심혈관·대사 임상개발 Medical Director 공식 상세 원문 1건을 검토했습니다. 기존 공고의 상세 보강이며 최초 게시일·수정일 미확인, 신규 채용 아님. Aragen 인도 행사 등은 검색 게시일과 회차 귀속을 확정하지 못해 신규 목록에서 제외했습니다. 공식 현재 공고 17건을 보존했습니다."
+    },
+    {
+      "source": "로컬 실행·GitHub 연결",
+      "section": "news",
+      "status": "partial",
+      "reason": "16시 회차에 대한 원문 조사는 19시대 이후 지연 실행됐고 초기 GitHub fetch_file 조회가 시간 초과됐습니다. 대체 GitHub fetch 경로로 최신 main·편집 규칙·기존 보고서를 재조회한 뒤 병합했습니다. 컴퓨터·앱 의존 로컬 웹 편집과 서버 수집은 별개입니다."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "오후 구간의 새 뉴스로 확정해 선별한 항목은 없습니다. 선택적 웹 조사와 출처 실패에 따른 한계가 있으며 실제 소식 없음·전수 확인을 뜻하지 않습니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "Braveheart·헝루이 2상 결과 1건은 오전 이전 공개의 지연 발견입니다. 오후 신규 등록·새 결과로 집계하지 않습니다. 국가별 등록처·학회 현장 후속 자료 검증은 미완료입니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "현재 공고 17건을 보존하고 Arrowhead의 심혈관·대사 임상개발 의사 직무 상세 1건을 보강했습니다. 게시일 미확인으로 신규 채용은 아닙니다."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "11/7 오후 일반 웹 검색·편집",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약, Novo/Lilly/Roche/GSK, Cytokinetics·Braveheart/헝루이, AASLD·AHA·SITC 관련 검색을 수행했습니다. 선택적 검색이며 웹 전체 전수조사 아님. 08~16 KST 안의 새 뉴스로 원 공개 시각까지 확정해 선별한 항목은 없었습니다. 일부 출처 실패가 있어 실제 뉴스 부재나 전수 확인을 의미하지 않습니다. 과거 거래·컨콜·학회 예고를 신규 사건으로 채우지 않았습니다."
+    },
+    {
+      "source": "임상 결과·학회 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Braveheart·헝루이 11/6 공식 2상 52주 결과를 직접 검토해 오전 이전 공개의 지연 발견으로 보강했습니다. 신규 등록 아님. Cytokinetics HCMS는 11/2 사전 공지 외 실제 후속 자료를 검증하지 못했습니다. Arrowhead 11/7 미국 오후 발표는 KST 11/8이므로 11/7 오후 완료 결과로 집계하지 않았습니다. 국가별 등록처·컨콜 Q&A 전수 검증 미완료."
+    },
+    {
+      "source": "공개 소셜·채용 원문",
+      "section": "social",
+      "status": "partial",
+      "reason": "공개 LinkedIn/X 및 채용 검색을 수행하고 Arrowhead 심혈관·대사 임상개발 Medical Director 공식 상세 원문 1건을 검토했습니다. 기존 공고의 상세 보강이며 최초 게시일·수정일 미확인, 신규 채용 아님. Aragen 인도 행사 등은 검색 게시일과 회차 귀속을 확정하지 못해 신규 목록에서 제외했습니다. 공식 현재 공고 17건을 보존했습니다."
+    },
+    {
+      "source": "로컬 실행·GitHub 연결",
+      "section": "news",
+      "status": "partial",
+      "reason": "16시 회차에 대한 원문 조사는 19시대 이후 지연 실행됐고 초기 GitHub fetch_file 조회가 시간 초과됐습니다. 대체 GitHub fetch 경로로 최신 main·편집 규칙·기존 보고서를 재조회한 뒤 병합했습니다. 컴퓨터·앱 의존 로컬 웹 편집과 서버 수집은 별개입니다."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-07T11:04:45Z",
+    "scheduled_at": "2026-11-07T07:00:00Z",
+    "published_at": "2026-11-07T11:04:45Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "로컬 지연 실행 및 초기 GitHub 연결 시간 초과 후 대체 조회로 복구",
+    "reviewed_item_count": 2,
+    "in_window_new_editorial_news_count": 0,
+    "late_discovery_clinical_count": 1,
+    "current_job_details_reviewed": 1
   }
 }
