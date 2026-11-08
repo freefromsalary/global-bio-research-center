@@ -81,8 +81,8 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Associate Director, Medical Value, Evidence, and Outcomes (MVEO)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead: 심혈관·대사 Medical Value, Evidence & Outcomes 부책임자",
+      "summary": "[공식 공고 확인] 심혈관·대사 포트폴리오의 실제 진료 근거(RWE), 성과연구, 보험자 대상 과학 커뮤니케이션을 담당할 Associate Director를 모집합니다. 보건경제·성과연구·역학·공중보건·약학·생물통계 등 관련 고급학위와 관련 업계 경력 5년 이상을 요구합니다. Pasadena 주 5일 현장 근무입니다.\n[시점과 한계] 기존 현재 공고의 상세 보강입니다. 최초 게시일·수정일 미확인으로 이번 회차 신규 채용·조직 확대·임상 성공 신호로 집계하지 않습니다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -100,22 +100,33 @@
       "published_at": null,
       "infographic": null,
       "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
-      "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
-      "collected_at": "2026-11-07T23:34:29.486Z",
+      "content_hash": "346ed55cabc24d5ebd3ce970bc3845afe15a5609a53f61cac4c8352d4ba3ff15",
+      "collected_at": "2026-11-08T03:10:54Z",
       "job": {
         "id": "5266183007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "심혈관·대사 RWE·성과연구·의료가치",
+        "expertise": "관련 고급학위 및 RWE·보건경제·역학·Medical Affairs 등 업계 경력 5년 이상",
+        "details_verified_at": "2026-11-08T03:10:54Z"
       },
       "research": {
-        "topics": [],
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 45
       },
       "report_date": "2026-11-08",
       "slot": "AM",
-      "id": "a22d2e18b41ed81ea34574e41937e09a0d21297b64e74c6613c9d7a78d21694b"
+      "id": "a22d2e18b41ed81ea34574e41937e09a0d21297b64e74c6613c9d7a78d21694b",
+      "highlight": "Arrowhead · 심혈관·대사 RWE·성과연구·보험자 근거 전문가. 관련 고급학위·경력 5년 이상. 현재 공고·신규 아님.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-08T03:10:54Z"
+      }
     },
     {
       "section": "social",
@@ -665,6 +676,184 @@
       "report_date": "2026-11-08",
       "slot": "AM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "title": "Novartis: Lp(a)HORIZON 상세 결과, Lp(a) 감소가 심혈관 사건 감소로 이어지지 않음",
+      "company": "Novartis · Cleveland Clinic",
+      "drug": "pelacarsen",
+      "summary": "[확인된 사실] AHA 상세 결과에서 8,322명·중앙 4.7년 추적의 주요 심혈관 사건 발생은 pelacarsen 12.3%, 위약 12.1%였습니다. 1년 Lp(a)는 위약 대비 약 77.7%p 더 감소했습니다. 투약 중단으로 이어진 독감 유사 증상·주사부위 반응 등이 보고됐습니다.\n[해석과 한계] 9월 톱라인 실패의 재발표가 아니라 11월 7일 상세 자료 공개입니다. 바이오마커 개선과 임상 사건 감소를 구분해야 합니다. 이 한 시험만으로 모든 Lp(a) 저하 기전·다른 환자군의 실패를 확정할 수 없습니다. 연구기관 원문·과거 회사 자료를 대조했으며 NEJM 논문 전문은 직접 검토하지 않았습니다. 원문 발행 시각은 미확인입니다.",
+      "highlight": "Lp(a)는 크게 낮췄지만 MACE 12.3% 대 12.1%. 9월 톱라인 이후 공개된 상세 임상 근거입니다.",
+      "sources": [
+        {
+          "label": "연구 주도기관 상세 발표 · 11/7",
+          "url": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years"
+        },
+        {
+          "label": "기존 톱라인 실패 확인 · Novartis Q3",
+          "url": "https://www.novartis.com/news/media-releases/novartis-delivered-sales-growth-and-core-margin-expansion-q3-raised-fy-core-operating-income-guidance"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "기존 심혈관질환 · 고 Lp(a)"
+        ],
+        "phases": [
+          "PHASE3"
+        ],
+        "enrollment": {
+          "count": 8322,
+          "type": "ACTUAL"
+        }
+      },
+      "id": "2026-11-08-AM-lpahorizon-full-20261107",
+      "event_key": "lpahorizon-full-20261107",
+      "report_date": "2026-11-08",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "학회 후속 결과"
+      ],
+      "published_at": null,
+      "published_date": "2026-11-07",
+      "collected_at": "2026-11-08T03:10:54Z",
+      "infographic": null,
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 상세·후속 결과 공개. 신규 등록 아님."
+      },
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-08T03:10:54Z"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 45
+      },
+      "content_hash": "9518b64de2e42f97664c3d330ab363748f1004669acb21bf864f45c3cdf8dd7c"
+    },
+    {
+      "title": "Arrowhead: ARO-DIMER-PA 1/2a상 상세자료, LDL·중성지방 동시 저하와 안전성",
+      "company": "Arrowhead Pharmaceuticals · Cleveland Clinic",
+      "drug": "ARO-DIMER-PA",
+      "summary": "[확인된 사실] 31명(투약 21·위약 10)의 단회 용량증량 자료에서 LDL-C 평균 26~65%, 중성지방 중앙값 56~78%의 기저치 대비 감소를 보고했습니다. 중대한 이상사례·사망은 없었으나 주사부위 홍반은 투약군 20/21명, 400mg군 1명은 Grade 3 실신이 있었습니다.\n[해석과 한계] 9월 중간 톱라인에 이은 상세 공개입니다. 용량·측정시점이 다른 최대값이며 위약 보정 효과가 아닙니다. 소규모 단회 자료로 장기 심혈관 사건 예방을 입증하지 못합니다.",
+      "highlight": "이중 PCSK9/APOC3 RNAi의 상세 지질·안전성 자료. 최대 감소율을 위약 보정 효과나 사건 예방으로 해석하지 않습니다.",
+      "sources": [
+        {
+          "label": "Arrowhead 공식 AHA 상세자료",
+          "url": "https://arrowheadpharma.gcs-web.com/news-releases/news-release-details/arrowhead-pharmaceuticals-presents-plozasiran-data-highlighting"
+        },
+        {
+          "label": "연구기관 원문",
+          "url": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "혼합형 고지혈증"
+        ],
+        "phases": [
+          "PHASE1",
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 31,
+          "type": "ACTUAL"
+        }
+      },
+      "id": "2026-11-08-AM-arodimer-aha-detail-20261107",
+      "event_key": "arodimer-aha-detail-20261107",
+      "report_date": "2026-11-08",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "학회 후속 결과"
+      ],
+      "published_at": null,
+      "published_date": "2026-11-07",
+      "collected_at": "2026-11-08T03:10:54Z",
+      "infographic": null,
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 상세·후속 결과 공개. 신규 등록 아님."
+      },
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-08T03:10:54Z"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      },
+      "content_hash": "0b0e56e5cff66b6878382f776e6d56f135829bb912fe15f97f937a7f84b242fc"
+    },
+    {
+      "title": "Arrowhead: plozasiran 췌장염 위험군 후속분석·FCS 장기 추적",
+      "company": "Arrowhead Pharmaceuticals",
+      "drug": "plozasiran",
+      "summary": "[확인된 사실] SHASTA-3/4 통합 후속분석에서 최근 5년 췌장염 병력군의 사건률이 위약 대비 91% 낮았다고 보고했습니다. 기존 전체 78% 수치와 구분합니다. PALISADE 공개 연장에서는 총 투약 최대 36개월까지 중성지방 감소 지속을 보고했습니다. SHASTA의 혈당조절 악화는 14% 대 8.7%, 연장시험에서는 HbA1c 상승 관련 중단 2건이 있었습니다.\n[해석과 한계] 하위군 분석과 위약 없는 장기 연장은 확증시험과 구분해야 하며 사건률 감소는 절대위험 감소가 아닙니다. 이번 결과는 신규 등록·새 허가가 아닙니다.",
+      "highlight": "기존 3상에 대한 위험군·장기 후속자료. 췌장염 상대 사건률과 혈당 안전성을 함께 봅니다.",
+      "sources": [
+        {
+          "label": "Arrowhead 공식 AHA 후속자료",
+          "url": "https://arrowheadpharma.gcs-web.com/news-releases/news-release-details/arrowhead-pharmaceuticals-presents-plozasiran-data-highlighting"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "중증 고중성지방혈증 · 가족성 킬로미크론혈증(FCS)"
+        ],
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "related_ncts": [
+        "NCT06347003",
+        "NCT06347016",
+        "NCT05089084"
+      ],
+      "id": "2026-11-08-AM-plozasiran-aha-followup-20261107",
+      "event_key": "plozasiran-aha-followup-20261107",
+      "report_date": "2026-11-08",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "학회 후속 결과"
+      ],
+      "published_at": null,
+      "published_date": "2026-11-07",
+      "collected_at": "2026-11-08T03:10:54Z",
+      "infographic": null,
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "학회 상세·후속 결과 공개. 신규 등록 아님."
+      },
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-08T03:10:54Z"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "규제",
+        "priority": 45
+      },
+      "content_hash": "2f7ca570e603c06e8090d65f1add30e7e9af4b3f260ba295b6d31efb5ee57099"
     }
   ],
   "display_mode": "research",
@@ -672,7 +861,7 @@
   "report_date": "2026-11-08",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-07T23:34:29.660Z",
+  "updated_at": "2026-11-08T03:10:54Z",
   "window": {
     "start": "2026-11-07T07:00:00.000Z",
     "end": "2026-11-07T23:00:00.000Z"
@@ -888,17 +1077,79 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "11/8 오전 일반 웹 검색·뉴스 선별",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약 및 Novartis·Arrowhead·Agenus·Gilead·Lilly·Novo·Roche·Boehringer·Altimmune의 학회/기업 소식을 검색했습니다. 웹 전체 전수조사 아님. 이번 검토에서 독립적인 신규 계약·실적·규제 뉴스로 확정한 항목은 없었습니다. 11/6 Lilly 협력·Novo MASH 재보도와 이전 학회 예고를 새 뉴스로 반복하지 않았습니다. 출처 실패가 있어 실제 뉴스 부재로 단정할 수 없습니다."
+    },
+    {
+      "source": "AHA 심혈관 상세·후속 임상 원문",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "Lp(a)HORIZON 연구기관 원문·Novartis 과거 자료, Arrowhead AHA 공식 상세자료·Cleveland Clinic 원문을 검토해 3개 사건을 선별했습니다. Lp(a)HORIZON 실패는 9월 톱라인, ARO-DIMER-PA는 9월 중간 톱라인, plozasiran 전체 췌장염78% 감소는 8월 공개와 구분했습니다. 이번 항목은 상세/후속 분석이며 신규 등록 3건이 아닙니다. 날짜만 확인한 공식 자료는 published_at=null로 기록해 엄밀한 구간 귀속 한계를 남겼습니다."
+    },
+    {
+      "source": "국가별 등록처·다른 학회",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버 임상 baseline을 보존하고 전체에 reviewed를 붙이지 않았습니다. 국가별 등록처·MASH/신장/안과의 전수 검증은 미완료입니다. Altimmune 검색 결과는 이전 학회 예고 중심으로, 현재 새 결과로 검증하지 못했습니다. 논문의 다운로드 날짜·일정표만으로 신규 결과를 만들지 않았고 HORIZON의 NEJM 논문 전문은 직접 검토하지 않았습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "reason": "공개 LinkedIn/X 및 Madrigal·Novo 관련 채용을 검색했습니다. Madrigal 임상약리 공고는 공식 검색 색인에 상세가 있으나 직접 본문이 비어 활성 상태·절대 게시일 재확인 미완료로 추가하지 않았습니다. Arrowhead MVEO 1개 공식 상세를 직접 검토해 기존 17개 공고 중 해당 직무만 보강했습니다. 최초 공고일 미확인, 신규 채용 아님. 검색 상대시간·색인일을 절대 게시일로 환산하지 않았습니다."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "이번 검토에서 새 계약·실적·규제 항목으로 확정해 선별한 뉴스는 없습니다. 주요 심혈관 상세 자료는 02에 정리했습니다. 출처 실패·선택적 조사 한계가 있어 실제 뉴스 없음과 다릅니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "심혈관 상세·후속 결과 3건을 검토했습니다. 과거 톱라인·신규 등록과 구분하며 시각 미확인 자료의 엄밀한 회차 귀속에는 한계가 있습니다. 국가별 등록처 전수 검증은 미완료입니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "공식 현재 공고 17건을 보존하고 Arrowhead의 심혈관·대사 RWE·성과연구 직무 상세 1건을 보강했습니다. 게시일 미확인으로 신규 채용은 아닙니다."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "11/8 오전 일반 웹 검색·뉴스 선별",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약 및 Novartis·Arrowhead·Agenus·Gilead·Lilly·Novo·Roche·Boehringer·Altimmune의 학회/기업 소식을 검색했습니다. 웹 전체 전수조사 아님. 이번 검토에서 독립적인 신규 계약·실적·규제 뉴스로 확정한 항목은 없었습니다. 11/6 Lilly 협력·Novo MASH 재보도와 이전 학회 예고를 새 뉴스로 반복하지 않았습니다. 출처 실패가 있어 실제 뉴스 부재로 단정할 수 없습니다."
+    },
+    {
+      "source": "AHA 심혈관 상세·후속 임상 원문",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "Lp(a)HORIZON 연구기관 원문·Novartis 과거 자료, Arrowhead AHA 공식 상세자료·Cleveland Clinic 원문을 검토해 3개 사건을 선별했습니다. Lp(a)HORIZON 실패는 9월 톱라인, ARO-DIMER-PA는 9월 중간 톱라인, plozasiran 전체 췌장염78% 감소는 8월 공개와 구분했습니다. 이번 항목은 상세/후속 분석이며 신규 등록 3건이 아닙니다. 날짜만 확인한 공식 자료는 published_at=null로 기록해 엄밀한 구간 귀속 한계를 남겼습니다."
+    },
+    {
+      "source": "국가별 등록처·다른 학회",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버 임상 baseline을 보존하고 전체에 reviewed를 붙이지 않았습니다. 국가별 등록처·MASH/신장/안과의 전수 검증은 미완료입니다. Altimmune 검색 결과는 이전 학회 예고 중심으로, 현재 새 결과로 검증하지 못했습니다. 논문의 다운로드 날짜·일정표만으로 신규 결과를 만들지 않았고 HORIZON의 NEJM 논문 전문은 직접 검토하지 않았습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "reason": "공개 LinkedIn/X 및 Madrigal·Novo 관련 채용을 검색했습니다. Madrigal 임상약리 공고는 공식 검색 색인에 상세가 있으나 직접 본문이 비어 활성 상태·절대 게시일 재확인 미완료로 추가하지 않았습니다. Arrowhead MVEO 1개 공식 상세를 직접 검토해 기존 17개 공고 중 해당 직무만 보강했습니다. 최초 공고일 미확인, 신규 채용 아님. 검색 상대시간·색인일을 절대 게시일로 환산하지 않았습니다."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-08T03:10:54Z",
+    "scheduled_at": "2026-11-07T23:00:00Z",
+    "published_at": "2026-11-08T03:10:54Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "08시 서버 수집 뒤 정오대 로컬 원문 조사·한국어 편집 지연 실행",
+    "reviewed_item_count": 4,
+    "new_registration_editorial_count": 0,
+    "clinical_followup_count": 3,
+    "current_job_details_reviewed": 1
   }
 }
