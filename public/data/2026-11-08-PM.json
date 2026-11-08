@@ -665,6 +665,69 @@
       "report_date": "2026-11-08",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "id": "2026-11-08-PM-zeus-aha-detail-20261107",
+      "event_key": "zeus-aha-detail-20261107",
+      "report_date": "2026-11-08",
+      "slot": "PM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] Novo: ZEUS 상세 결과, 염증 억제가 ASCVD·CKD 심혈관 사건 감소로 이어지지 않음",
+      "company": "Novo Nordisk · Mass General Brigham",
+      "drug": "ziltivekimab",
+      "nct": null,
+      "summary": "[확인된 사실] AHA 공식 상세 자료에서 ASCVD·CKD·전신 염증 동반 성인 6,376명의 3상 결과를 확인했습니다. 주요 심혈관 사건은 투약군 561명(17.6%), 위약군 565명(17.7%)으로 유의한 감소가 없었습니다(HR 0.99, 95% CI 0.88~1.11). hs-CRP·IL-6는 위약 대비 감소했지만 임상적 이득으로 이어지지 않았습니다. 중증 감염은 20% 대 18%로 보고됐습니다.\n[해석과 한계] 7월 톱라인 이후 11월 7일 AHA 상세 공개이며 오전에 빠진 자료의 지연 보강입니다. 오늘 오후 신규 등록·최초 실패 발표가 아닙니다. 고위험 ASCVD·CKD 환자군의 결과를 모든 항염증 기전·다른 환자군으로 일반화할 수 없습니다. 원문 학회 발표·학회 해설을 검토했으며 NEJM 논문 전문과 컨콜 Q&A는 직접 확인하지 않았습니다.",
+      "highlight": "ZEUS 주요 사건 17.6% 대 17.7%로 중립. 염증 지표 개선과 실제 심혈관 이득을 구분하는 오전 누락 보강입니다.",
+      "tags": [
+        "심혈관",
+        "신장",
+        "지연 발견"
+      ],
+      "sources": [
+        {
+          "label": "AHA 공식 상세 발표 · 11/7",
+          "url": "https://newsroom.heart.org/news/researchers-say-inflammation-as-a-treatment-target-still-important-despite-neutral-results-of-zeus-trial"
+        },
+        {
+          "label": "AHA 학회 해설 · HR·비율 대조",
+          "url": "https://sessions.hub.heart.org/late-breaking-science/article/22978108/lessons-from-landmark-trials"
+        }
+      ],
+      "published_at": null,
+      "published_date": "2026-11-07",
+      "published_at_basis": "공식 엠바고 해제는 11/7 09:35 ET이나 실제 게시시각은 미확인으로 null.",
+      "collected_at": "2026-11-08T09:58:56Z",
+      "infographic": null,
+      "temporal_status": "late_discovery",
+      "clinical": {
+        "conditions": [
+          "ASCVD · 만성콩팥병(CKD) · 전신 염증"
+        ],
+        "phases": [
+          "PHASE3"
+        ],
+        "enrollment": {
+          "count": 6376,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 3상 상세 결과의 지연 발견. 신규 등록 아님."
+      },
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-08T09:58:56Z"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 65
+      },
+      "content_hash": "910097b3935e4ae9062694a55e838d6b7e3ba5b363ae485fa60acf2d9aa0fb23"
     }
   ],
   "display_mode": "research",
@@ -672,7 +735,7 @@
   "report_date": "2026-11-08",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-08T07:49:41.165Z",
+  "updated_at": "2026-11-08T09:58:56Z",
   "window": {
     "start": "2026-11-07T23:00:00.000Z",
     "end": "2026-11-08T07:00:00.000Z"
@@ -888,17 +951,77 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "11/8 오후 글로벌 웹 검색·뉴스 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약 검색과 Novo·Lilly·Roche·Boehringer·Novartis·Sanofi 및 AHA/AASLD 관련 검색을 수행했습니다. 이번 08~16 KST 구간에 최초 공개된 계약·실적·규제 뉴스로 확정해 선별한 항목은 없습니다. T-Therapeutics 11/8 기사는 11/5 투자 발표의 재보도로 신규 계약으로 집계하지 않았습니다. 선택적 검색·출처 실패가 있어 실제 뉴스 부재나 웹 전체 전수 확인을 뜻하지 않습니다."
+    },
+    {
+      "source": "ZEUS AHA 상세 원문 검토",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "AHA 공식 발표·학회 해설을 직접 검토해 ziltivekimab ZEUS 상세 결과 1건을 보강했습니다. 7월 톱라인 실패와 11/7 상세 공개를 구분하며 오늘 오전 이전 공개의 지연 발견입니다. 신규 등록·오후 최초 결과로 집계하지 않았습니다. 회사 ScienceHub는 엠바고 안내를 보여 학회 공개 원문을 합법 대체 출처로 확인했습니다."
+    },
+    {
+      "source": "임상 등록처·학회 검증 한계",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버 baseline·이전 스냅샷을 보존했습니다. 국가별 등록처 전체와 NEJM 논문 전문·컨콜 Q&A는 검증하지 못했습니다. 일요일 미국 발표 예정인 AASLD·ACR 소식을 KST 11/8 오후 완료 결과로 앞당겨 쓰지 않았습니다. 심혈관/신장 외 MASH·안과 새 결과의 실제 부재를 보장하지 않습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용 검색",
+      "section": "social",
+      "status": "unverified",
+      "reason": "LinkedIn·Madrigal·Novo 채용 관련 공개 검색에서 해당 구간의 원 게시일과 유효한 개별 원문을 함께 검증한 신규 항목은 확보하지 못했습니다. 서버의 Arrowhead 현재 공고 17건은 보존하고 신규 채용으로 집계하지 않았습니다. 확인 못함과 실제 소식 없음을 구분합니다."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "이번 오후 구간의 새 계약·실적·규제 뉴스로 확정해 선별한 항목은 없습니다. 선택적 조사·접근 실패 한계가 있어 실제 뉴스 없음과는 다릅니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "ZEUS 상세 결과 1건은 오전 이전 공개의 지연 발견입니다. 신규 등록·오후 최초 결과가 아닙니다. 국가별 등록처·논문 전문 검증은 미완료입니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "기존 Arrowhead 현재 공고 17건을 보존했습니다. 이번 구간 신규 게시를 검증한 공고는 없으며, 실제 채용 소식 부재를 의미하지 않습니다."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "11/8 오후 글로벌 웹 검색·뉴스 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 바이오·제약 검색과 Novo·Lilly·Roche·Boehringer·Novartis·Sanofi 및 AHA/AASLD 관련 검색을 수행했습니다. 이번 08~16 KST 구간에 최초 공개된 계약·실적·규제 뉴스로 확정해 선별한 항목은 없습니다. T-Therapeutics 11/8 기사는 11/5 투자 발표의 재보도로 신규 계약으로 집계하지 않았습니다. 선택적 검색·출처 실패가 있어 실제 뉴스 부재나 웹 전체 전수 확인을 뜻하지 않습니다."
+    },
+    {
+      "source": "ZEUS AHA 상세 원문 검토",
+      "section": "clinical",
+      "status": "reviewed",
+      "reason": "AHA 공식 발표·학회 해설을 직접 검토해 ziltivekimab ZEUS 상세 결과 1건을 보강했습니다. 7월 톱라인 실패와 11/7 상세 공개를 구분하며 오늘 오전 이전 공개의 지연 발견입니다. 신규 등록·오후 최초 결과로 집계하지 않았습니다. 회사 ScienceHub는 엠바고 안내를 보여 학회 공개 원문을 합법 대체 출처로 확인했습니다."
+    },
+    {
+      "source": "임상 등록처·학회 검증 한계",
+      "section": "clinical",
+      "status": "unverified",
+      "reason": "서버 baseline·이전 스냅샷을 보존했습니다. 국가별 등록처 전체와 NEJM 논문 전문·컨콜 Q&A는 검증하지 못했습니다. 일요일 미국 발표 예정인 AASLD·ACR 소식을 KST 11/8 오후 완료 결과로 앞당겨 쓰지 않았습니다. 심혈관/신장 외 MASH·안과 새 결과의 실제 부재를 보장하지 않습니다."
+    },
+    {
+      "source": "공개 소셜·공식 채용 검색",
+      "section": "social",
+      "status": "unverified",
+      "reason": "LinkedIn·Madrigal·Novo 채용 관련 공개 검색에서 해당 구간의 원 게시일과 유효한 개별 원문을 함께 검증한 신규 항목은 확보하지 못했습니다. 서버의 Arrowhead 현재 공고 17건은 보존하고 신규 채용으로 집계하지 않았습니다. 확인 못함과 실제 소식 없음을 구분합니다."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-08T09:58:56Z",
+    "scheduled_at": "2026-11-08T07:00:00Z",
+    "published_at": "2026-11-08T09:58:56Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "16시 서버 수집 후 18시대 로컬 원문 조사·한국어 편집 지연 실행",
+    "reviewed_item_count": 1,
+    "late_discovery_clinical_count": 1
   }
 }
