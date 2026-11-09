@@ -31,32 +31,45 @@
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "FDA’s new rare disease framework aims to leverage patient voices for better innovation",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Inclusion of the patient perspective is currently an “optional” part of the rare disease drug development process, CBER Director Karim Mikhail told BioSpace. Mikhail, along with his CDER counterpart Michael Davis and other agency rare disease leaders, is trying to change that.",
-      "company": "",
+      "kind": "regulatory_update",
+      "title": "FDA 희귀질환 후속 인터뷰: 환자 관점을 임상 설계 초기부터 반영하도록 강조",
+      "summary": "[사실] BioSpace의 11월 9일 인터뷰에서 FDA CBER·CDER 지도부는 환자 의견을 임상 개발 초기부터 평가변수, 대조군, 분석계획과 편익·위험 판단에 반영해야 한다고 설명했다. FDA 공식 발표에 따르면 Rare Disease Framework Initiative는 10월 14일 시작됐으며 질환별 증거 요건과 검토 일관성 등을 개선하는 틀을 개발하고 있다. [해석] 국내 희귀질환 개발사도 환자에게 의미 있는 평가변수와 자연사 자료의 적합성을 조기에 논의할 필요가 있다. 외부 대조군이나 단일군 시험의 자동 수용, 승인 기준 완화가 확정됐다는 뜻은 아니다.",
+      "company": "FDA",
       "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "nct": null,
+      "tags": [
+        "희귀질환",
+        "환자 중심 개발",
+        "규제 후속 취재"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/fda/fdas-new-rare-disease-framework-aims-to-leverage-patient-voices-for-better-innovation"
+        },
+        {
+          "label": "FDA 10/14 공식 발표 · 제도 배경",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease"
         }
       ],
       "published_at": "2026-11-09T05:02:00.000Z",
       "infographic": null,
       "event_key": "8bb8053dc0f8d8eb771024cffbdc9c9bfdc2de1633179fc33271694c4f582a97",
-      "content_hash": "d7d0a8a29e22932d5ccb394df893d16eee2f643129bf409eb07ace7f61d37273",
-      "collected_at": "2026-11-09T08:11:16.213Z",
+      "content_hash": "bfd53e40d630e4c432bc2fde249818976e4ae4f8b97dbf71d6c6b0d66387a7d8",
+      "collected_at": "2026-11-09T11:43:53Z",
       "research": {
         "topics": [],
         "category": "규제",
-        "priority": 20
+        "priority": 35
       },
       "report_date": "2026-11-09",
       "slot": "PM",
-      "id": "2f3f05e9e42091ee740e274a1397ea15b4825b179f329c3fe3ae2170ce054c98"
+      "id": "2f3f05e9e42091ee740e274a1397ea15b4825b179f329c3fe3ae2170ce054c98",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T11:43:53Z"
+      },
+      "highlight": "오늘의 후속 취재. 10월 시작된 프레임워크는 개발 중이며 새로운 승인 경로가 확정된 것은 아님."
     },
     {
       "section": "news",
@@ -678,15 +691,18 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Senior Manager, Medical Publications",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead | 심혈관·대사 의학논문·학회 발표 전문가 채용",
+      "summary": "[사실] Arrowhead의 공식 공고는 초기 담당 영역을 심혈관·대사 프로그램으로 명시한다. 초록·포스터·논문과 학회 발표 자료 작성, 출판 계획, 임상·통계 자료 해석 및 외부 저자 협업을 맡는다. PhD·PharmD·MD 등 고급 과학 학위와 의학 출판·과학 커뮤니케이션·Medical Affairs 관련 경력 2년 이상을 요구한다. 근무지는 미국 Pasadena이며 주 5일 출근 조건이다. [해석] 임상 근거 전달·출판 실행 직무다. 최초 공고일은 미확인으로 이번 회차 신규 채용·조직 확대 또는 거래 신호로 집계하지 않는다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
       "tags": [
         "공식 채용",
         "현재 공고",
-        "최초 공고일 미확인"
+        "심혈관",
+        "대사",
+        "Medical Affairs",
+        "의학 출판"
       ],
       "sources": [
         {
@@ -697,22 +713,33 @@
       "published_at": null,
       "infographic": null,
       "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
-      "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
-      "collected_at": "2026-11-09T08:12:36.544Z",
+      "content_hash": "700658512064f40a0887212b6d764b84fd7bd3146dcb65a3993dcf711350bd2c",
+      "collected_at": "2026-11-09T11:43:53Z",
       "job": {
         "id": "5265643007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "심혈관·대사 Medical Affairs / 의학 출판",
+        "expertise": "PhD·PharmD·MD 등 고급 학위, 의학 출판·과학 커뮤니케이션 등 관련 경력 2년 이상",
+        "details_verified_at": "2026-11-09T11:43:53Z"
       },
       "research": {
-        "topics": [],
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 45
       },
       "report_date": "2026-11-09",
       "slot": "PM",
-      "id": "f055f72c36a275fbfbfd8cff268806dcaa4ccd717ec8e7daa9215e90e40b3fd3"
+      "id": "f055f72c36a275fbfbfd8cff268806dcaa4ccd717ec8e7daa9215e90e40b3fd3",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T11:43:53Z"
+      },
+      "highlight": "Senior Manager, Medical Publications · 박사·약학박사·의사 등 고급 학위와 관련 경력 2년 이상. 현재 공고 · 신규 아님."
     },
     {
       "section": "social",
@@ -752,6 +779,138 @@
       "report_date": "2026-11-09",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "report_date": "2026-11-09",
+      "slot": "PM",
+      "collected_at": "2026-11-09T11:43:53Z",
+      "infographic": null,
+      "published_at": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T11:43:53Z"
+      },
+      "id": "dd01-aasld-presentation-20261109",
+      "event_key": "dd01-aasld-presentation-20261109",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "DD01: AASLD 48주 조직생검 발표 후속 — 기존 수치 재확인, 새 시험 아님",
+      "highlight": "MASH 해소 62.5% 대 5.3%, 섬유화 개선 50.0% 대 15.8%. 프로토콜 준수 35명 분석이며 이미 공개됐던 핵심 수치.",
+      "summary": "[사실] 디앤디파마텍은 11월 9일 자보페그두타이드(DD01) 2상 결과를 AASLD의 11월 8일 현지 오후 구두 발표 세션에서 공개했다고 밝혔다. MASH 해소는 62.5% 대 위약 5.3%, MASH 악화 없는 섬유화 개선은 50.0% 대 15.8%, 두 지표 동시 달성은 37.5% 대 5.3%였다. 공식 IR 채널의 앞선 CSR 설명에 따르면 조직학적 평가는 프로토콜을 준수하고 전후 생검을 완료한 35명(투약 16·위약 19) 대상이다. [해석] 이 핵심 수치는 5월 EASL·8월 CSR 때 이미 공개된 결과로, 오늘의 새 시험 성공으로 중복 집계하지 않는다. 작은 분석 표본과 결측·분석집단 차이를 고려해야 하며 타 약물과 단순 수치 비교나 기술이전 성사 판단은 곤란하다.",
+      "company": "디앤디파마텍 (D&D Pharmatech)",
+      "drug": "zabopegdutide (DD01)",
+      "nct": null,
+      "tags": [
+        "MASH",
+        "DD01",
+        "AASLD 2026",
+        "기존 결과 학회 후속",
+        "분석집단 주의"
+      ],
+      "published_date": "2026-11-09",
+      "sources": [
+        {
+          "label": "디앤디파마텍 11/9 공식 발표",
+          "url": "https://ddpharmatech.com/board/board.php?bo_table=press&idx=111"
+        },
+        {
+          "label": "회사 공식 IR 공개 채널 · 11/9 발표 및 기존 CSR 설명",
+          "url": "https://t.me/s/dndpharmatech"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "과체중·비만 동반 MASLD/MASH; 조직학적 분석군"
+        ],
+        "phases": [
+          "PHASE2"
+        ],
+        "enrollment": {
+          "count": 35,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 48주 결과의 학회 발표 후속. 신규 등록·첫 효능 발표가 아님."
+      },
+      "temporal_status": "conference_followup",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "계약·사업개발",
+        "priority": 75
+      },
+      "content_hash": "d8acbbe48a8a7702478ea10d2dc9ff6df04e03740a64386433db59c9d9893219"
+    },
+    {
+      "report_date": "2026-11-09",
+      "slot": "PM",
+      "collected_at": "2026-11-09T11:43:53Z",
+      "infographic": null,
+      "published_at": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T11:43:53Z"
+      },
+      "id": "credit5-tafolecimab-20261109",
+      "event_key": "credit5-tafolecimab-20261109",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Innovent: PCSK9 항체 tafolecimab 단독요법 3상, 12주 LDL-C 약 64~65% 감소",
+      "highlight": "CREDIT-5 198명 · 2주/4주 투여 모두 1차 평가변수 충족. 심혈관 사건 예방을 입증한 시험은 아님.",
+      "summary": "[사실] Innovent가 배포한 CREDIT-5 결과에 따르면 중국 비가족성 고콜레스테롤혈증·혼합형 고지혈증 환자 198명의 무작위 위약대조 3상에서 tafolecimab 단독요법은 12주 LDL-C 변화율의 1차 평가변수를 충족했다. 150 mg 2주 간격군은 -65.19%(위약 -6.61%), 450 mg 4주 간격군은 -64.01%(위약 -4.31%)였다(각 p<0.0001). 회사는 새 안전성 신호가 없었고 중국 NMPA에 새 적응증 신청을 계획한다고 밝혔다. [해석] 스타틴 병용 효과가 아닌 단독요법 자료다. LDL-C 감소가 이번 시험에서 심근경색·뇌졸중 감소로 입증됐다는 뜻은 아니며, 국내 허가·급여 확대와 직접 연결되는 근거도 확인되지 않았다. 원문 날짜는 11/9지만 배포본 간 시간 표시가 달라 정확한 최초 시각은 미확인이다.",
+      "company": "Innovent Biologics",
+      "drug": "tafolecimab (SINTBILO, IBI306)",
+      "nct": "NCT07473960",
+      "tags": [
+        "심혈관",
+        "고지혈증",
+        "PCSK9",
+        "Phase 3",
+        "CREDIT-5"
+      ],
+      "published_date": "2026-11-09",
+      "sources": [
+        {
+          "label": "Innovent 공식 배포 결과",
+          "url": "https://www.prnewswire.com/news-releases/innovent-announces-phase-3-credit-5-study-met-primary-endpoint-sintbilo-tafolecimab-injection-as-first-line-monotherapy-treatment-for-hyperlipidemia-demonstrated-potent-lipid-lowering-efficacy-302932681.html"
+        },
+        {
+          "label": "공식 배포 APAC판 · 날짜 확인",
+          "url": "https://en.prnasia.com/releases/global/innovent-announces-phase-3-credit-5-study-met-primary-endpoint-sintbilo-tafolecimab-injection-as-first-line-monotherapy-treatment-for-hyperlipidemia-demonstrated-potent-lipid-lowering-efficacy-555329.shtml"
+        },
+        {
+          "label": "ClinicalTrials.gov · CREDIT-5 의뢰자·시험 확인",
+          "url": "https://clinicaltrials.gov/study/NCT07473960"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "비가족성 고콜레스테롤혈증",
+          "혼합형 고지혈증"
+        ],
+        "phases": [
+          "PHASE3"
+        ],
+        "enrollment": {
+          "count": 198,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 CREDIT-5의 결과 발표. 등록처 신규·중요 변경과 구분."
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "규제",
+        "priority": 65
+      },
+      "content_hash": "806cc3dd2aa0eca9980d42ae02f28d457bcd2272f7210705f3a5cb9972e18b58"
     }
   ],
   "display_mode": "research",
@@ -759,7 +918,7 @@
   "report_date": "2026-11-09",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-09T08:12:36.645Z",
+  "updated_at": "2026-11-09T11:43:53Z",
   "window": {
     "start": "2026-11-08T23:00:00.000Z",
     "end": "2026-11-09T07:00:00.000Z"
@@ -975,17 +1134,75 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 조사 · 글로벌 뉴스",
+      "section": "news",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "기업 미지정 바이오·제약·실적·계약 검색과 Lilly IR/컨콜 목록, Novo·Gilead 및 Innovent 공식 배포 자료 점검. BioSpace FDA 후속 인터뷰를 공식 10/14 발표와 대조해 한국어 검토. 이번 구간 새 실적·컨콜·계약 전수 검증 아님. Anika 실적 보도는 11/9 02:25 ET(16:25 KST)로 오후 마감 이후여서 제외. Cullinan/CRISPR 학회 결과는 공식 본문·최초 시각 추가 검증 미완료로 발행 제외."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상 결과",
+      "section": "clinical",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "DD01 11/9 회사 발표와 공식 IR 공개 채널·이전 CSR 설명 대조: 기존 수치의 학회 후속으로 분리. Innovent CREDIT-5 회사 배포와 NCT 시험명·의뢰자 검증. 회사 배포본의 발행시각 차이로 정확한 최초 공개시각은 미확인, published_at=null. 안과 새 결과는 이번 검색 범위에서 검증 못함. 등록처 전체 이전 스냅샷 비교는 미수행: 기준자료 227개를 신규로 세지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 채용·소셜",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "Arrowhead Medical Publications 공식 개별 공고 본문을 확인해 심혈관·대사 분야, 고급 학위·2년 경력 요건을 기존 공고에 보강. 최초 게시일 미확인·신규 아님. 공개 LinkedIn/Madrigal 및 X/DD01 검색은 신규 게시시각·개별 원문 검증 부족으로 신규 채용/발언 추가 없음. 관련 소식이 실제 없다는 뜻 아님. 비바이오 MASH 동명 검색 결과 제외."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "FDA 후속 인터뷰 1건 한국어 검토 · 피드 2건은 분석 전 유지. 실적·컨콜·계약 전수 확인 아님."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "CREDIT-5 결과 1건 및 DD01 기존 결과 학회 후속 1건. 신규 등록으로 집계하지 않음."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "현재 공고 17건 유지 · Medical Publications 요건 보강 1건. 신규 게시일 미확인."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 조사 · 글로벌 뉴스",
+      "section": "news",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "기업 미지정 바이오·제약·실적·계약 검색과 Lilly IR/컨콜 목록, Novo·Gilead 및 Innovent 공식 배포 자료 점검. BioSpace FDA 후속 인터뷰를 공식 10/14 발표와 대조해 한국어 검토. 이번 구간 새 실적·컨콜·계약 전수 검증 아님. Anika 실적 보도는 11/9 02:25 ET(16:25 KST)로 오후 마감 이후여서 제외. Cullinan/CRISPR 학회 결과는 공식 본문·최초 시각 추가 검증 미완료로 발행 제외."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상 결과",
+      "section": "clinical",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "DD01 11/9 회사 발표와 공식 IR 공개 채널·이전 CSR 설명 대조: 기존 수치의 학회 후속으로 분리. Innovent CREDIT-5 회사 배포와 NCT 시험명·의뢰자 검증. 회사 배포본의 발행시각 차이로 정확한 최초 공개시각은 미확인, published_at=null. 안과 새 결과는 이번 검색 범위에서 검증 못함. 등록처 전체 이전 스냅샷 비교는 미수행: 기준자료 227개를 신규로 세지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 채용·소셜",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T11:43:53Z",
+      "reason": "Arrowhead Medical Publications 공식 개별 공고 본문을 확인해 심혈관·대사 분야, 고급 학위·2년 경력 요건을 기존 공고에 보강. 최초 게시일 미확인·신규 아님. 공개 LinkedIn/Madrigal 및 X/DD01 검색은 신규 게시시각·개별 원문 검증 부족으로 신규 채용/발언 추가 없음. 관련 소식이 실제 없다는 뜻 아님. 비바이오 MASH 동명 검색 결과 제외."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-09T11:43:53Z",
+    "published_at": "2026-11-09T11:43:53Z",
+    "scheduled_at": "2026-11-09T07:00:00Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "로컬 앱 예약 20:41 KST 지연 실행 후 원문 보강. 오후 수집구간 08~16 KST 유지. 기존 ChatGPT 예약 변경 없음."
   }
 }
