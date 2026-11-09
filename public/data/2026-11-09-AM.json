@@ -665,6 +665,112 @@
       "report_date": "2026-11-09",
       "slot": "AM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "report_date": "2026-11-09",
+      "slot": "AM",
+      "published_at": null,
+      "collected_at": "2026-11-09T00:14:35Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T00:14:35Z"
+      },
+      "nct": null,
+      "id": "essence-bmi27-aasld-20261108",
+      "event_key": "essence-bmi27-aasld-20261108",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Novo: ESSENCE 비비만 MASH 106명 분석, 72주 간 손상·섬유화 지표 개선",
+      "highlight": "BMI 27 미만 하위군의 추가 분석. 일부 바이오마커는 개선됐지만 간 경직도 신뢰구간은 효과 없음도 포함.",
+      "summary": "[사실] Novo Nordisk는 11월 8일 ESSENCE 3상 중 BMI 27 kg/m² 미만인 MASH·간 섬유화 환자 106명의 사후 분석을 발표했다. 주 1회 semaglutide 2.4 mg의 72주 위약 대비 ALT 비율은 0.61, ELF 차이는 -0.45, PRO-C3 비율은 0.82였다. VCTE-LSM 비율 0.88의 95% 신뢰구간은 0.73–1.06으로 1을 포함했다. [해석] 비만이 없는 MASH에서도 치료 가능성을 탐색하는 근거지만 사후 하위군 분석이며 확증 결과가 아니다. 신규 임상 등록이나 간 관련 임상 사건 감소 입증으로 집계하지 않는다. 국내 MASH 개발 비교 시 환자 BMI·평가변수 차이를 함께 봐야 하며 국내 기업과의 직접 연관은 확인되지 않았다.",
+      "company": "Novo Nordisk",
+      "drug": "semaglutide 2.4 mg (Wegovy)",
+      "tags": [
+        "MASH",
+        "ESSENCE",
+        "사후 분석",
+        "AASLD 2026",
+        "BMI<27"
+      ],
+      "published_date": "2026-11-08",
+      "sources": [
+        {
+          "label": "Novo 공식 결과 발표",
+          "url": "https://www.novonordisk-us.com/media/news-archive/news-details.html?id=920081"
+        },
+        {
+          "label": "Novo 공식 AASLD 발표 일정",
+          "url": "https://sciencehub.novonordisk.com/congresses/aasld2026.html"
+        }
+      ],
+      "clinical": {
+        "conditions": [
+          "MASH, 중등도~진행성 간 섬유화(F2/F3), BMI<27 하위군"
+        ],
+        "phases": [
+          "PHASE3"
+        ],
+        "enrollment": {
+          "count": 106,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 ESSENCE의 학회 사후 분석 결과. 최초 등록·등록처 중요 변경과 구분."
+      },
+      "event_at": "2026-11-08T18:45:00Z",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 75
+      },
+      "content_hash": "678742879fc72f5be4dbcf473987937d177af9a1d0e53f6f8ed82556c2213797"
+    },
+    {
+      "report_date": "2026-11-09",
+      "slot": "AM",
+      "published_at": null,
+      "collected_at": "2026-11-09T00:14:35Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-09T00:14:35Z"
+      },
+      "nct": null,
+      "id": "icotrokinra-pSA1-20261107-late",
+      "event_key": "icotrokinra-pSA1-20261107",
+      "section": "news",
+      "kind": "clinical_result",
+      "title": "[지연 발견] J&J: 경구 icotrokinra, 건선성 관절염 3상 ACR20 58% 대 41%",
+      "highlight": "16주 관절 반응의 1차 평가변수 충족. 11월 7일 발표이며 이번 오전 신규 발표로 집계하지 않음.",
+      "summary": "[사실] J&J의 11월 7일 공식 발표에 따르면 생물학적 제제 미사용 활동성 건선성 관절염 환자의 ICONIC-PsA 1에서 icotrokinra 200 mg은 16주 ACR20 반응률 58%로 위약 41% 대비 1차 평가변수를 충족했다. ACR50은 29% 대 16%였다. 24주까지 새 안전성 신호는 보고되지 않았으며 건선성 관절염 적응증은 미승인 상태다. [해석] IL-23 수용체 표적 경구 펩타이드의 관절·피부 질환 확장 가능성을 보여주지만 주사제와의 직접 비교 결과는 아니다. 국내 기업과의 직접 관련성은 확인되지 않았다. 공식 발행일이 수집 구간보다 앞서 지연 발견으로 분리했다.",
+      "company": "Johnson & Johnson",
+      "drug": "icotrokinra (ICOTYDE)",
+      "tags": [
+        "건선성 관절염",
+        "IL-23R",
+        "Phase 3",
+        "ACR 2026",
+        "지연 발견"
+      ],
+      "published_date": "2026-11-07",
+      "sources": [
+        {
+          "label": "J&J 공식 ICONIC-PsA 1 결과",
+          "url": "https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-announces-ICOTYDE-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide/default.aspx"
+        }
+      ],
+      "temporal_status": "late_discovery",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      },
+      "content_hash": "b736063f374e8a0757147024c883e44227a6bcff338de96a82917f1ab4485736"
     }
   ],
   "display_mode": "research",
@@ -672,7 +778,7 @@
   "report_date": "2026-11-09",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-08T23:35:38.043Z",
+  "updated_at": "2026-11-09T00:14:35Z",
   "window": {
     "start": "2026-11-08T07:00:00.000Z",
     "end": "2026-11-08T23:00:00.000Z"
@@ -888,17 +994,78 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 조사 · 글로벌 웹 검색",
+      "section": "news",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "기업 미지정 바이오·제약 검색 및 Novo, Lilly, Gilead, Precision, uniQure, J&J, Altimmune 공식 자료를 교차 점검. J&J 11/7 결과 1건은 지연 발견으로 추가. 구간 내 실적·컨콜·계약 새 발표는 이번 확인 범위에서 검증하지 못했으며 전수 확인·실제 0건을 뜻하지 않음. uniQure AMT-130 우선심사는 11/2 발표라 신규에서 제외. Gilead IDEAL 11/8 17시 MST 구두 발표는 오전 08시 KST 마감 이후라 완료 결과로 취급하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 학회 임상",
+      "section": "clinical",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "Novo 11/8 ESSENCE BMI<27 결과 및 공식 AASLD 일정 검증. 미국 발표는 11/9 03:45 KST 세션으로 구간 내. 원문 날짜만 확정하여 published_at은 null. 직접 열기 실패 후 검색엔진이 제공한 공식 원문 본문으로 확인. 기존 AHA 항목 반복 제외. 등록처 신규·중요변경 전수 비교는 미수행이며 서버 기준자료 227개를 신규로 집계하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 공개 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "count": 0,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "공개 X/LinkedIn 검색과 Gilead 공식 채용 안내 확인. 개별 공고 원문·최초 게시일을 이번 구간 신규로 검증한 추가 항목 없음. 기존 Arrowhead 현재 공고 17건 보존. 소셜 검색 결과 부족·개별 공고 미확인은 채용 소식 없음과 다름."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "status": "partial",
+      "message": "지연 발견 1건 보강 · 구간 내 새 실적·컨콜·계약 미검증. 확인 범위 제한."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "status": "partial",
+      "message": "ESSENCE 사후 분석 1건 · 신규 등록 아님. 미검토 등록처 항목을 신규로 집계하지 않음."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "status": "partial",
+      "message": "현재 공고 17건 보존 · 이번 구간 신규 게시로 검증한 추가 채용 없음. 개별 공고 조사 범위 제한."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 조사 · 글로벌 웹 검색",
+      "section": "news",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "기업 미지정 바이오·제약 검색 및 Novo, Lilly, Gilead, Precision, uniQure, J&J, Altimmune 공식 자료를 교차 점검. J&J 11/7 결과 1건은 지연 발견으로 추가. 구간 내 실적·컨콜·계약 새 발표는 이번 확인 범위에서 검증하지 못했으며 전수 확인·실제 0건을 뜻하지 않음. uniQure AMT-130 우선심사는 11/2 발표라 신규에서 제외. Gilead IDEAL 11/8 17시 MST 구두 발표는 오전 08시 KST 마감 이후라 완료 결과로 취급하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 학회 임상",
+      "section": "clinical",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "Novo 11/8 ESSENCE BMI<27 결과 및 공식 AASLD 일정 검증. 미국 발표는 11/9 03:45 KST 세션으로 구간 내. 원문 날짜만 확정하여 published_at은 null. 직접 열기 실패 후 검색엔진이 제공한 공식 원문 본문으로 확인. 기존 AHA 항목 반복 제외. 등록처 신규·중요변경 전수 비교는 미수행이며 서버 기준자료 227개를 신규로 집계하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 공개 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "count": 0,
+      "checked_at": "2026-11-09T00:14:35Z",
+      "reason": "공개 X/LinkedIn 검색과 Gilead 공식 채용 안내 확인. 개별 공고 원문·최초 게시일을 이번 구간 신규로 검증한 추가 항목 없음. 기존 Arrowhead 현재 공고 17건 보존. 소셜 검색 결과 부족·개별 공고 미확인은 채용 소식 없음과 다름."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-09T00:14:35Z",
+    "published_at": "2026-11-09T00:14:35Z",
+    "scheduled_at": "2026-11-08T23:00:00Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "로컬 예약이 08:48 KST 실행되었고 원문 검증 후 지연 발행. 기존 ChatGPT 예약 변경 없음."
   }
 }
