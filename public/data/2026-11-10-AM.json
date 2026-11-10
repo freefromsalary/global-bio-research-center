@@ -2,96 +2,171 @@
   "items": [
     {
       "section": "news",
-      "kind": "news",
-      "title": "FDA orders class-wide GLP-1 label update to include potential risk for rare eye disease",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Twelve marketed drugs, including Eli Lilly’s and Novo’s weight loss mega-blockbusters, will require a label change under the new FDA update.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "regulatory_update",
+      "title": "FDA: GLP-1 계열 전체에 드문 시신경질환 NAION 위험 경고 추가 요구",
+      "summary": "[사실] FDA는 11월 9일 GLP-1 수용체 작용제 전체의 경고·주의사항에 비동맥염성 전방허혈성 시신경병증(NAION)의 잠재 위험을 추가하도록 요구했다. 126개 무작위 시험 통합 분석에서 발생률은 투약군 10만 인년당 6.4건, 비교군 3.8건이었다. Sentinel 관찰 연구에서는 SGLT2 억제제 대비 통계적으로 유의한 위험 증가는 없었지만 DPP-4 억제제 대비 증가는 관찰됐다. [해석] 드문 사건과 연구별 차이를 함께 봐야 하며 모든 환자에게 시력 손상이 생긴다는 의미가 아니다. 국내 GLP-1 개발에서도 안과 안전성 평가의 중요성이 커지는 정황이며 국내 라벨 변경까지 확인한 것은 아니다.",
+      "company": "FDA / GLP-1 계열 허가권자",
+      "drug": "GLP-1 receptor agonists",
+      "nct": null,
+      "tags": [
+        "GLP-1",
+        "안과",
+        "NAION",
+        "FDA",
+        "안전성"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/fda/fda-orders-class-wide-glp-1-label-update-to-include-potential-risk-for-rare-eye-disease"
+        },
+        {
+          "label": "FDA 공식 안전성 공지",
+          "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential"
         }
       ],
-      "published_at": "2026-11-09T18:47:04.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "b3e6ef0617bec32c3cf37e45b4a92b10b7adc08bbe67016de93a6a26faa24e2a",
-      "content_hash": "f2bed4539db8a5a50555ac479a57e1d96601180db72d49761732c778de39ec30",
-      "collected_at": "2026-11-09T23:37:40.674Z",
+      "content_hash": "590010f017446b70dca4cfa5b16d73b97a3ff21657870ca1fe3b24105756eb80",
+      "collected_at": "2026-11-10T00:21:30Z",
       "research": {
         "topics": [
-          "대사"
+          "대사",
+          "안과"
         ],
         "category": "규제",
-        "priority": 50
+        "priority": 65
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "980464df7e97001a0c149c82dd5109e98821ad60e82026b67549be9146221e08"
+      "id": "980464df7e97001a0c149c82dd5109e98821ad60e82026b67549be9146221e08",
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "highlight": "잠재 위험에 대한 라벨 변경. 임상시험 통합 분석 발생률 10만 인년당 6.4 대 3.8건."
     },
     {
-      "section": "news",
-      "kind": "news",
-      "title": "Boehringer, Zealand’s obesity drug doesn’t elevate heart risk in key late-stage test",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The Phase 3 results help clarify the safety profile of Zealand and Boehringer Ingelheim’s survodutide, but analysts do not think the drug will find utility beyond patients with liver-related risk factors.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Boehringer·Zealand: survodutide 심혈관 3상 비열등성 충족",
+      "summary": "[사실] Zealand 공식 배포에 따르면 SYNCHRONIZE-CVOT에서 비만·과체중과 심혈관·신장 질환 또는 위험인자를 가진 성인의 survodutide는 위약 대비 5P-MACE 비열등성 1차 평가변수를 충족했다. 치료전략 추정치의 위험비는 0.89(95% CI 0.67–1.18), 비열등성 p<0.0001이었다. 3P-MACE 위험비는 0.84(0.60–1.18)였다. [해석] 신뢰구간이 1을 포함하므로 심혈관 사건 감소의 우월성이 입증됐다고 표현하면 안 된다. 국내 GLP-1/글루카곤 이중작용제 개발의 비교 자료이지만 다른 약물의 안전성까지 보장하지 않는다.",
+      "company": "Boehringer Ingelheim / Zealand Pharma",
+      "drug": "survodutide (BI 456906)",
+      "nct": null,
+      "tags": [
+        "비만",
+        "심혈관",
+        "Phase 3",
+        "SYNCHRONIZE-CVOT",
+        "비열등성"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/drug-development/boehringer-zealands-obesity-drug-doesnt-elevate-heart-risk-in-key-late-stage-test"
+        },
+        {
+          "label": "Zealand 공식 결과 배포",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398585/0/en/zealand-pharma-announces-boehringer-ingelheim-s-survodutide-is-the-first-glucagon-glp-1-dual-agonist-to-demonstrate-a-favorable-cardiovascular-safety-profile-in-global-phase-3-sync.html"
         }
       ],
-      "published_at": "2026-11-09T18:33:07.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "c7d1228ec772e8d044df43b243ce7f21d2d570e3f9cdb094bfbfc5af8b0d47d8",
-      "content_hash": "01fa8cbeaa20a4a988a3ab95660aaad8652d262897f0f9a32a2a3db89e0837e2",
-      "collected_at": "2026-11-09T23:37:40.675Z",
+      "content_hash": "fda02f60263617f4999a615ef3a63a2df668f97af3b33b958134f7381f20bf9a",
+      "collected_at": "2026-11-10T00:21:30Z",
       "research": {
         "topics": [
-          "대사"
+          "대사",
+          "심혈관"
         ],
         "category": "임상개발",
-        "priority": 50
+        "priority": 65
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "3ff7e2c10253c0081b96cb5ca77d1b0b9b9c1c2b4a001f40d19dc9cac283964d"
+      "id": "3ff7e2c10253c0081b96cb5ca77d1b0b9b9c1c2b4a001f40d19dc9cac283964d",
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "highlight": "5P-MACE HR 0.89(95% CI 0.67–1.18). 심혈관 안전성 결과이며 사건 감소 우월성 입증과 구분.",
+      "clinical": {
+        "conditions": [
+          "비만·과체중 및 심혈관 위험"
+        ],
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "심혈관 결과 발표. 신규 등록 아님."
+      }
     },
     {
-      "section": "news",
-      "kind": "news",
-      "title": "Lilly to seek second sleep apnea approval after Foundayo reduces disease severity in Phase 3",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): If approved, the oral GLP-1 would be Eli Lilly’s second marketed drug for obstructive sleep apnea after the GIP/GLP-1 injectable Zepbound secured the first approval in the space in December 2024.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Lilly: 경구 orforglipron 수면무호흡 3상 성공, 연내 적응증 신청 계획",
+      "summary": "[사실] ATTAIN-OSA에서 중등도~중증 폐쇄성 수면무호흡과 비만·과체중 성인을 대상으로 Foundayo(orforglipron)가 52주 AHI 1차 평가변수를 충족했다. PAP 미사용군의 AHI 변화는 -21.1회/시간(위약 -4.3), 사용군은 -18.3회/시간(위약 -5.5)이었다. 이상반응 중단율은 각각 12.2% 대 3.8%, 6.8% 대 0.6%로 투약군에서 높았다. 회사는 2026년 말까지 미국 FDA 적응증 신청을 계획한다. [해석] 44%라는 수치는 투약군의 기저치 대비 감소로 위약 보정 효과와 다르다. 수면무호흡 허가 완료나 심혈관 사건 감소 입증으로 볼 수 없다. 국내 비만 치료제의 동반질환 확장 전략에 참고할 자료다.",
+      "company": "Eli Lilly",
+      "drug": "orforglipron (Foundayo)",
+      "nct": null,
+      "tags": [
+        "비만",
+        "폐쇄성 수면무호흡",
+        "Phase 3",
+        "ATTAIN-OSA"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/drug-development/lilly-to-seek-second-sleep-apnea-approval-after-foundayo-reduces-disease-severity-in-phase-3"
+        },
+        {
+          "label": "Lilly 공식 ATTAIN-OSA 결과",
+          "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-foundayo-orforglipron-significantly-reduced-obstructive"
         }
       ],
-      "published_at": "2026-11-09T18:21:52.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "6521f6bf14c2b47583614830399260233b798d3052abfd48488d5e7ad1e11967",
-      "content_hash": "c5a86d46af8a69bbd552b2671d94ec0e2b2f9f2e0de7171ef7a819be3a5183b6",
-      "collected_at": "2026-11-09T23:37:40.675Z",
+      "content_hash": "f0fda0c6244e29017e22b50c40f99d1bcb6cbb529ace6ffa6e3a1ac1fc02a876",
+      "collected_at": "2026-11-10T00:21:30Z",
       "research": {
         "topics": [
-          "대사"
+          "대사",
+          "심혈관"
         ],
         "category": "규제",
-        "priority": 50
+        "priority": 65
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "69704edcaa1bc00501f7ad063d5c54bd568e6aa6e0a4608c76b9df4568dc8350"
+      "id": "69704edcaa1bc00501f7ad063d5c54bd568e6aa6e0a4608c76b9df4568dc8350",
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "highlight": "52주 AHI 감소: PAP 미사용 -21.1 대 -4.3회/시간, 사용 -18.3 대 -5.5회/시간.",
+      "clinical": {
+        "conditions": [
+          "중등도~중증 폐쇄성 수면무호흡",
+          "비만·과체중"
+        ],
+        "phases": [
+          "PHASE3"
+        ]
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "ATTAIN-OSA 결과 발표. 최초 등록과 구분."
+      }
     },
     {
       "section": "news",
@@ -213,32 +288,56 @@
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "Argenx buyout of peptide engine and Big Pharma favorite UNP could top $1B",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Unnatural Products has risen from founder Joshua Schwochert’s garage to an acquisition deal, valued at up to $1.15 billion, to join argenx.",
-      "company": "",
+      "kind": "acquisition",
+      "title": "[지연 발견] argenx, 경구 펩타이드 플랫폼 UNP 인수 계약",
+      "summary": "[사실] argenx는 11월 9일 07:00 CET(한국 15:00)에 Unnatural Products 인수 확정 계약을 발표했다. 선급 대가는 보유 현금 5억5,000만 달러이며 개발·규제 마일스톤에 따른 최대 5억9,500만 달러가 추가될 수 있다. 인수 종결 후 UNP 팀은 미국 Santa Cruz에서 펩타이드 발굴을 계속할 계획이다. [해석] 최대 약 11억5,000만 달러 전액을 즉시 지급하거나 인수가 이미 종결됐다는 뜻은 아니다. 경구 펩타이드 발굴 역량 확보 거래로 국내 관련 플랫폼과의 비교 관찰점은 있으나 직접 계약 관계는 확인되지 않았다. 발행시각이 전일 오후 구간이라 지연 발견으로 표시했다.",
+      "company": "argenx / Unnatural Products",
       "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "nct": null,
+      "tags": [
+        "인수 계약",
+        "펩타이드",
+        "선급금",
+        "조건부 마일스톤",
+        "지연 발견"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/deals/argenx-buyout-of-peptide-engine-and-big-pharma-favorite-unp-could-top-1b"
+        },
+        {
+          "label": "argenx 공식 계약 발표",
+          "url": "https://argenx.com/news/2026/press-release-3398049"
+        },
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/"
         }
       ],
-      "published_at": "2026-11-09T15:24:00.000Z",
+      "published_at": "2026-11-09T06:00:00Z",
       "infographic": null,
       "event_key": "ac8a772a08191872b7350764531498c8e69e685a9926959b5628e7821077a70a",
-      "content_hash": "66690b0b817ae22572697e737bb34b446b72f9aa99ab582fba04d9082c9f48d8",
-      "collected_at": "2026-11-09T23:37:40.676Z",
+      "content_hash": "721e9a8fece186ce87c1a5125a91452e8441f9ae779bdff3d2a4e747d23b991c",
+      "collected_at": "2026-11-10T00:21:30Z",
       "research": {
         "topics": [],
         "category": "계약·사업개발",
-        "priority": 20
+        "priority": 45
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "ccf28891dbb8992e4f5d8da4598ec5f40a4a5ccf7f0323626fe49b84cdbcd99c"
+      "id": "ccf28891dbb8992e4f5d8da4598ec5f40a4a5ccf7f0323626fe49b84cdbcd99c",
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "temporal_status": "late_discovery",
+      "highlight": "선급 현금 5.5억 달러 + 조건부 개발·규제 지급 최대 5.95억 달러. 최대 총액과 확정 대가를 구분.",
+      "merged_event_keys": [
+        "825f89c58da1f79312702759a30e92de5f6c9815e03b7820d5b48b1d875342eb"
+      ]
     },
     {
       "section": "news",
@@ -331,32 +430,49 @@
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "Bayer wins FDA nod for a new kind of blood thinner",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Sunharbo&rsquo;s U.S. approval is the first for a &ldquo;Factor XIa&rdquo; inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "regulatory_approval",
+      "title": "FDA, Bayer asundexian 승인: 특정 비심인성 뇌졸중 후 재발 위험 감소",
+      "summary": "[사실] FDA는 Sunharbo(asundexian) 50 mg을 최근 경도~중등도 비심인성 허혈성 뇌졸중 또는 고위험 TIA 이후 성인의 뇌졸중 위험 감소를 위해 항혈소판제와 병용하도록 승인했다. OCEANIC-STROKE 3상은 12,327명이 참여했고 허혈성 뇌졸중 위험을 위약 대비 26% 낮췄다. 전체 주요 출혈률은 비슷했지만 75세 초과와 치료 초기 90일에는 증가했고 위장관 출혈도 더 많았다. [해석] ‘출혈 위험이 없는 항응고제’로 일반화할 수 없다. 심방세동의 뇌졸중 예방 적응증은 미승인이며 국내 승인·급여와도 별개다.",
+      "company": "Bayer / FDA",
+      "drug": "asundexian (Sunharbo)",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "뇌졸중",
+        "FXIa",
+        "FDA 승인"
+      ],
       "sources": [
         {
           "label": "BioPharma Dive 산업 뉴스",
           "url": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/"
+        },
+        {
+          "label": "FDA 11/9 공식 승인 발표",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk"
         }
       ],
-      "published_at": "2026-11-09T22:40:00.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "d7360cbf4d2d7bfb1756020b942bbf748641fb5c3533d215574d3086526ae216",
-      "content_hash": "7bf791bd0b55830757300b4bdd3868b47cd55a0ef962a0d3650904f31fd04056",
-      "collected_at": "2026-11-09T23:37:40.764Z",
+      "content_hash": "0b29499c611c52d4b833a42ee11c482e0a87aad146a1460bf6b2ccc2d68dd238",
+      "collected_at": "2026-11-10T00:21:30Z",
       "research": {
-        "topics": [],
+        "topics": [
+          "심혈관"
+        ],
         "category": "규제",
-        "priority": 20
+        "priority": 65
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "0f153560497118e8039f6d47ac1d650c9a28a38c2a01880258a3a505445fc5d2"
+      "id": "0f153560497118e8039f6d47ac1d650c9a28a38c2a01880258a3a505445fc5d2",
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "highlight": "첫 FXIa 억제제 승인. 항혈소판제 병용 적응증이며 심방세동 뇌졸중 예방 승인은 아님."
     },
     {
       "section": "news",
@@ -386,35 +502,6 @@
       "report_date": "2026-11-10",
       "slot": "AM",
       "id": "f5c5a8a044b0f64157eee3f5f379f7f2f5afd08a58bd9b42905580a59ca6e4ed"
-    },
-    {
-      "section": "news",
-      "kind": "news",
-      "title": "Argenx to buy peptide platform in potentially billion-dollar deal",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): For $550 million up front, Argenx will take control of Unnatural Products&rsquo; &ldquo;macrocyclic peptide&rdquo; technology and direct it to develop oral, durable medicines for serious immune-mediated diseases.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioPharma Dive 산업 뉴스",
-          "url": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/"
-        }
-      ],
-      "published_at": "2026-11-09T16:27:00.000Z",
-      "infographic": null,
-      "event_key": "825f89c58da1f79312702759a30e92de5f6c9815e03b7820d5b48b1d875342eb",
-      "content_hash": "447d3b77b58906515c01cc884668fc50b5b51e662257ef18c4a39285094e1c01",
-      "collected_at": "2026-11-09T23:37:40.764Z",
-      "research": {
-        "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
-      },
-      "report_date": "2026-11-10",
-      "slot": "AM",
-      "id": "6fbe16951bfa3913525dd12dbbcc21b8b0cd20c55ce7fdf53d157e4b46f90431"
     },
     {
       "section": "news",
@@ -1162,15 +1249,17 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Senior Scientist I, Discovery Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead | 신약 발굴 약리·세포시험 선임연구원",
+      "summary": "[사실] Arrowhead Discovery Pharmacology 팀은 작용기전 연구, 세포 기능시험 개발, in vitro·ex vivo·in vivo 실험 설계·해석을 담당할 선임연구원을 찾고 있다. 면역학·세포생물학·분자독성학·약학·약리학 분야 PharmD 또는 PhD, 제약업계 또는 관련 박사후 경력 2년 이상과 약물대사·안전성 경험을 요구한다. 근무지는 미국 Madison이다. [해석] 신약 발굴 단계의 약리·시험법 전문가 직무이며 특정 대사 프로그램 전담 여부는 미확인이다. 최초 공고일 미확인으로 신규 채용이나 조직 확대 신호로 세지 않는다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
-      "nct": "",
+      "nct": null,
       "tags": [
         "공식 채용",
         "현재 공고",
-        "최초 공고일 미확인"
+        "발굴 약리",
+        "세포시험",
+        "독성"
       ],
       "sources": [
         {
@@ -1181,22 +1270,33 @@
       "published_at": null,
       "infographic": null,
       "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
-      "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
-      "collected_at": "2026-11-09T23:39:00.363Z",
+      "content_hash": "48156c36364b2cbffd7ed0b106bbc88f3c33f59f1599964c24726aac60cdc8dd",
+      "collected_at": "2026-11-10T00:21:30Z",
       "job": {
         "id": "5265558007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "신약 발굴 약리 / Biology",
+        "expertise": "관련 PharmD·PhD, 제약업계 또는 관련 박사후 경력 2년 이상, 세포시험·약물대사·안전성 경험",
+        "details_verified_at": "2026-11-10T00:21:30Z"
       },
       "research": {
-        "topics": [],
+        "topics": [
+          "대사"
+        ],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 45
       },
       "report_date": "2026-11-10",
       "slot": "AM",
-      "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+      "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7",
+      "published_date": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "highlight": "PharmD·PhD 및 제약업계 또는 관련 박사후 경력 2년 이상. 현재 공고 · 신규 아님."
     },
     {
       "section": "clinical",
@@ -14188,6 +14288,89 @@
       "report_date": "2026-11-10",
       "slot": "AM",
       "id": "8e831bf462c28a74293f2851cbe4832584d6f2d0b0b04d110faca49616d88b17"
+    },
+    {
+      "report_date": "2026-11-10",
+      "slot": "AM",
+      "collected_at": "2026-11-10T00:21:30Z",
+      "infographic": null,
+      "published_at": null,
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "nct": null,
+      "id": "tg-q3-20261109",
+      "event_key": "tg-q3-20261109",
+      "section": "news",
+      "kind": "earnings",
+      "title": "TG Therapeutics 3분기: 매출 약 2.6억 달러, 연간 가이던스 상향",
+      "highlight": "BRIUMVI 미국 매출 약 2.33억 달러. 연간 전체 매출 전망 약 10억 달러로 상향.",
+      "summary": "[사실] TG Therapeutics는 3분기 글로벌 매출 약 2억6,000만 달러와 BRIUMVI 미국 순제품 매출 약 2억3,300만 달러를 발표했다. 연간 글로벌 매출 전망은 약 9억5,000만에서 10억 달러로, BRIUMVI 미국 전망은 8억9,000만~9억500만에서 9억1,500만~9억2,000만 달러로 올렸다. 11월 9일 08:30 ET 컨콜을 안내했다. [해석] BRIUMVI 성장에 따른 상향이지만 가이던스는 미래 전망이다. 이번 확인은 공식 실적 발표 자료이며 컨콜 Q&A 전문을 검토했다는 뜻은 아니다.",
+      "company": "TG Therapeutics",
+      "drug": "ublituximab (BRIUMVI)",
+      "tags": [
+        "실적",
+        "3Q 2026",
+        "컨콜",
+        "가이던스"
+      ],
+      "sources": [
+        {
+          "label": "TG 공식 실적·컨콜 안내",
+          "url": "https://tgtherapeutics.gcs-web.com/news-releases/news-release-details/tg-therapeutics-reports-third-quarter-2026-financial-results-and"
+        }
+      ],
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      },
+      "content_hash": "2b44813fffcbcad9be74ddc72ff7f25a93d7dd3056861460a74a746947af27af"
+    },
+    {
+      "report_date": "2026-11-10",
+      "slot": "AM",
+      "collected_at": "2026-11-10T00:21:30Z",
+      "infographic": null,
+      "published_at": null,
+      "published_date": "2026-11-09",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T00:21:30Z"
+      },
+      "nct": null,
+      "id": "mbx-q3-20261109",
+      "event_key": "mbx-q3-20261109",
+      "section": "news",
+      "kind": "earnings",
+      "title": "MBX 3분기: 현금·투자자산 4.816억 달러, 월 1회 비만 후보 데이터 대기",
+      "highlight": "회사 추정 운영자금 2029년까지. MBX4291 12주 다회투여 1상 결과는 4분기 예정이며 아직 결과 발표 아님.",
+      "summary": "[사실] MBX의 11월 9일 실적 공시에 따르면 9월 말 현금·투자자산은 4억8,160만 달러이며 현재 운영계획상 2029년까지 자금을 확보했다고 추정한다. 회사는 월 1회 투여를 목표로 하는 GLP-1/GIP 후보 MBX4291의 12주 다회투여 1상 데이터를 4분기에 보고할 계획을 유지했다. 주 1회 canvuparatide의 부갑상선기능저하증 3상 개시도 분기 성과로 설명했다. [해석] 월 1회 효과·내약성은 개발 목표로 확인 데이터와 구분해야 한다. 국내 장기지속형 비만 후보와 비교할 다음 관찰점이며 임상 성공이나 자금 충분성 보장은 아니다.",
+      "company": "MBX Biosciences",
+      "drug": "MBX4291 / canvuparatide",
+      "tags": [
+        "실적",
+        "비만",
+        "GLP-1/GIP",
+        "PEP",
+        "3Q 2026"
+      ],
+      "sources": [
+        {
+          "label": "MBX 공식 8-K 및 실적 발표",
+          "url": "https://investors.mbxbio.com/node/8851/html"
+        }
+      ],
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "실적·컨콜",
+        "priority": 65
+      },
+      "content_hash": "9637b71c78ac9cb8681ddc00f6af5604c11801ff96ca0972169572f67155fd7c"
     }
   ],
   "display_mode": "research",
@@ -14195,7 +14378,7 @@
   "report_date": "2026-11-10",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-09T23:39:00.483Z",
+  "updated_at": "2026-11-10T00:22:33Z",
   "window": {
     "start": "2026-11-09T07:00:00.000Z",
     "end": "2026-11-09T23:00:00.000Z"
@@ -14411,17 +14594,75 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 조사 · 뉴스·실적·계약",
+      "section": "news",
+      "status": "partial",
+      "count": 5,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "기업 미지정 글로벌 뉴스·실적·계약 검색 및 FDA, argenx, Zealand, Lilly, TG Therapeutics, MBX, ArriVent, Heron 등 공식 발표·공시 후보 점검. 직접 본문 검토한 FDA 안전성·승인, argenx, TG, MBX를 반영. argenx는 11/9 15시 KST 발표라 전일 오후 지연 발견. 동일 argenx 기사 2건은 출처를 합쳐 1건으로 통합. TG 08:30 ET 컨콜 일정은 확인했으나 Q&A 전문 미검토. 기타 실적 후보 전부 검증한 것은 아님."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상",
+      "section": "clinical",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "SYNCHRONIZE-CVOT·ATTAIN-OSA 공식 결과를 기존 피드 항목에 한국어로 보강하고 clinical로 이동해 중복 발행 방지. 정확한 원문 최초 시각은 미확인이라 published_at=null. AHA 발표 예정과 실제 결과를 구분. CTX310 상세 결과와 별도 안과 효능 결과는 추가 검증 미완료. 기존 등록처 후보·baseline 177건은 직접 검토 완료로 바꾸지 않음. 국가별 등록처 전수·이전 스냅샷 비교 미수행."
+    },
+    {
+      "source": "한국어 원문 조사 · 공개 소셜·채용",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "공개 X·LinkedIn/Madrigal 검색 및 Arrowhead 공식 개별 공고 검증. Discovery Pharmacology 직무·학위·경력 요건을 기존 공고 1건에 보강. 현재 공고 17건이며 신규 아님. 게시일·원문 미확인 소셜은 추가 발행하지 않았고 소식 없음으로 단정하지 않음."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "직접 검토 5건: FDA 안전성·승인, 인수 계약, 실적 2건. 나머지 피드는 분석 전이며 전체 기업 전수 검증 아님."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "심혈관·수면무호흡 결과 2건 한국어 보강. 기존 등록처 후보는 미검토 상태를 보존하며 신규로 일괄 집계하지 않음."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "현재 공고 17건 · 발굴 약리 선임연구원 요건 보강 1건. 이번 구간 신규 채용으로 검증한 공고 없음."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 조사 · 뉴스·실적·계약",
+      "section": "news",
+      "status": "partial",
+      "count": 5,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "기업 미지정 글로벌 뉴스·실적·계약 검색 및 FDA, argenx, Zealand, Lilly, TG Therapeutics, MBX, ArriVent, Heron 등 공식 발표·공시 후보 점검. 직접 본문 검토한 FDA 안전성·승인, argenx, TG, MBX를 반영. argenx는 11/9 15시 KST 발표라 전일 오후 지연 발견. 동일 argenx 기사 2건은 출처를 합쳐 1건으로 통합. TG 08:30 ET 컨콜 일정은 확인했으나 Q&A 전문 미검토. 기타 실적 후보 전부 검증한 것은 아님."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상",
+      "section": "clinical",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "SYNCHRONIZE-CVOT·ATTAIN-OSA 공식 결과를 기존 피드 항목에 한국어로 보강하고 clinical로 이동해 중복 발행 방지. 정확한 원문 최초 시각은 미확인이라 published_at=null. AHA 발표 예정과 실제 결과를 구분. CTX310 상세 결과와 별도 안과 효능 결과는 추가 검증 미완료. 기존 등록처 후보·baseline 177건은 직접 검토 완료로 바꾸지 않음. 국가별 등록처 전수·이전 스냅샷 비교 미수행."
+    },
+    {
+      "source": "한국어 원문 조사 · 공개 소셜·채용",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T00:22:33Z",
+      "reason": "공개 X·LinkedIn/Madrigal 검색 및 Arrowhead 공식 개별 공고 검증. Discovery Pharmacology 직무·학위·경력 요건을 기존 공고 1건에 보강. 현재 공고 17건이며 신규 아님. 게시일·원문 미확인 소셜은 추가 발행하지 않았고 소식 없음으로 단정하지 않음."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-10T00:22:33Z",
+    "published_at": "2026-11-10T00:22:33Z",
+    "scheduled_at": "2026-11-09T23:00:00Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "로컬 앱 08:38 KST 지연 실행 후 원문 검증·저장. 기존 ChatGPT 예약 변경 없음."
   }
 }
