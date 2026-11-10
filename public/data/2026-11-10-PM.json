@@ -31,61 +31,92 @@
     },
     {
       "section": "news",
-      "kind": "news",
-      "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Oyster says a tweak it&#39;s made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer&rsquo;s drug research.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "financing",
+      "title": "Oyster, tau 분해제 개발에 6,000만 달러 조달…Lilly 등 참여",
+      "summary": "[사실] Oyster Therapeutics(구 Kesmalea)는 4BIO Capital 주도로 6,000만 달러 Series A-2 투자를 마감했다고 밝혔다. 신규 투자자로 Lilly 등이 참여했고, 경구·뇌 투과 tau 분해제와 SELFTAC 플랫폼 개발을 지원할 계획이다. Massachusetts General Hospital과 tau 연구 협력도 발표했다. 배포본 시각은 11월 10일 02:00 EST(한국 16:00)로 오후 마감 시각에 해당한다. [해석] 투자 참여는 인수나 기술이전 계약을 뜻하지 않는다. 뇌 투과·병적 tau 선택성·임상 효능은 후속 검증이 필요하며 국내 TPD 개발과의 직접 관계는 확인되지 않았다.",
+      "company": "Oyster Therapeutics / 4BIO Capital",
+      "drug": "tau degrader (후보명 미공개)",
+      "nct": null,
+      "tags": [
+        "투자 유치",
+        "TPD",
+        "tau",
+        "신경퇴행",
+        "Series A-2"
+      ],
       "sources": [
         {
           "label": "BioPharma Dive 산업 뉴스",
           "url": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/"
+        },
+        {
+          "label": "Oyster 공식 배포문 · 합법 재배포",
+          "url": "https://www.streetinsider.com/Business%2BWire/Kesmalea%2BTherapeutics%2BAnnounces%2B%2460%2BMillion%2BSeries%2BA%2BFinancing%2Bto%2BAdvance%2BNext-Generation%2BTargeted%2BProtein%2BDegraders%2Bfor%2BAlzheimer%E2%80%99s%2Band%2BOther%2BNeurodegenerative%2BDiseases%2Band%2BRebrands%2Bas%2BOyster%2BThera/27317155.html"
         }
       ],
-      "published_at": "2026-11-10T07:00:00.000Z",
+      "published_at": "2026-11-10T07:00:00Z",
       "infographic": null,
       "event_key": "d6f9e3dc2c6e5fdd81ed0db225af75f538302977509968656bb474f64d089af5",
-      "content_hash": "a8f5fa9e9d8833a86cea7835c15d8a4540f56085acc45ff6a2283abae9711915",
-      "collected_at": "2026-11-10T07:58:49.336Z",
+      "content_hash": "6e30551c098150e3c7b826e0c98bff5bbc434e321f666030cbcb831c0ff88a32",
+      "collected_at": "2026-11-10T08:55:30Z",
       "research": {
         "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
+        "category": "계약·사업개발",
+        "priority": 15
       },
       "report_date": "2026-11-10",
       "slot": "PM",
-      "id": "a05d7b3d2ae2b2ee26ddec4e43c766a93111e6ce84c492b56da685e781ec2a1f"
+      "id": "a05d7b3d2ae2b2ee26ddec4e43c766a93111e6ce84c492b56da685e781ec2a1f",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T08:55:30Z"
+      },
+      "published_date": "2026-11-10",
+      "highlight": "Series A-2 완료. 경구·뇌 투과 tau 분해제를 임상 개발로 진전시키기 위한 자금이며 임상 효능 결과는 아님."
     },
     {
       "section": "news",
       "kind": "news",
-      "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China&rsquo;s fast rise.",
-      "company": "",
+      "title": "BIO, 미국 바이오 경쟁력 강화 7대 정책 제안 발표",
+      "summary": "[사실] 미국 바이오협회 BIO는 BioAdvance 7대 제안을 발표했다. 백악관 바이오 전담 조직, 최초 인체시험 진입 가속, 개발 절차 현대화, 임상 접근성 개선, 생명의학 연구 지원, 미국 내 바이오 생산 역량, 지식재산권·자본 접근 강화가 포함된다. [해석] 이는 산업협회의 정책 제안이며 시행 확정이나 법률 변경이 아니다. 국내 기업의 미국 임상·생산·투자 전략을 점검할 논의지만 신규 의무가 생겼다고 해석하면 안 된다.",
+      "company": "Biotechnology Innovation Organization (BIO)",
       "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "nct": null,
+      "tags": [
+        "산업 정책",
+        "BioAdvance",
+        "미국",
+        "정책 제안"
+      ],
       "sources": [
         {
           "label": "BioPharma Dive 산업 뉴스",
           "url": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/"
+        },
+        {
+          "label": "BIO 공식 7대 정책 제안",
+          "url": "https://www.bio.org/press-release/bio-unveils-seven-point-plan-secure-americas-leadership-biotech-century"
         }
       ],
-      "published_at": "2026-11-10T05:01:00.000Z",
+      "published_at": null,
       "infographic": null,
       "event_key": "66113f99d6695c8de9de273a1a2573f24a09a8d530387bd1eb0df1a47f370a56",
-      "content_hash": "ac410e3a0bdba2f14ea3ecf6e8315d90780fe0e821140996ff5573237682cc6d",
-      "collected_at": "2026-11-10T07:58:49.336Z",
+      "content_hash": "585a947a8c7ae46fb5e95ffa1549156e000b7fe9fd0f77fac12612873f86b42e",
+      "collected_at": "2026-11-10T08:55:30Z",
       "research": {
         "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
+        "category": "임상개발",
+        "priority": 15
       },
       "report_date": "2026-11-10",
       "slot": "PM",
-      "id": "4bd09a080ab428a9c263d20150f6cc8077e979e620d266a52a6bf291abdd1e01"
+      "id": "4bd09a080ab428a9c263d20150f6cc8077e979e620d266a52a6bf291abdd1e01",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T08:55:30Z"
+      },
+      "published_date": "2026-11-10",
+      "highlight": "백악관 전담 조직·임상 개발·생산 역량·자본 접근 개선 제안. 정부 확정 정책과 구분."
     },
     {
       "section": "social",
@@ -405,15 +436,16 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Director, Regulatory Affairs (Labeling)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead | 글로벌 의약품 라벨링 규제 책임자 채용",
+      "summary": "[사실] Arrowhead의 Director, Regulatory Affairs (Labeling)는 개발부터 허가 후까지 글로벌 라벨링 전략과 CCDS·미국 USPI·유럽 SmPC 문서의 개발·검토·버전 관리를 담당한다. 관련 과학 분야 학사와 바이오·제약업계 라벨링 개발·유지 경력 8년 이상, 주요 지역 2곳 이상 경험을 요구한다. 근무지는 Pasadena 또는 San Diego다. [해석] 규제 문서·당국 협의 전문가를 찾는 직무이며 특정 제품 허가 임박을 입증하지 않는다. 최초 게시일 미확인으로 이번 회차 신규 채용·조직 확대 신호로 집계하지 않는다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
-      "nct": "",
+      "nct": null,
       "tags": [
         "공식 채용",
         "현재 공고",
-        "최초 공고일 미확인"
+        "규제",
+        "라벨링"
       ],
       "sources": [
         {
@@ -424,22 +456,30 @@
       "published_at": null,
       "infographic": null,
       "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
-      "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
-      "collected_at": "2026-11-10T08:00:09.596Z",
+      "content_hash": "06921cf16e36c2b71ce23e3884555e7b63ad4ab863827ba98bf5918f36ef4133",
+      "collected_at": "2026-11-10T08:55:30Z",
       "job": {
         "id": "5221763007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "글로벌 규제 라벨링",
+        "expertise": "관련 과학 학사, 제약/바이오 라벨링 경력 8년 이상, 주요 지역 2곳 이상 경험",
+        "details_verified_at": "2026-11-10T08:55:30Z"
       },
       "research": {
         "topics": [],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 15
       },
       "report_date": "2026-11-10",
       "slot": "PM",
-      "id": "aba4441f3d561bedd54de11e5e24bd0731fbd1ff0d029e3537b75d1ca4eee3b8"
+      "id": "aba4441f3d561bedd54de11e5e24bd0731fbd1ff0d029e3537b75d1ca4eee3b8",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T08:55:30Z"
+      },
+      "highlight": "생명과학 등 학사·제약/바이오 라벨링 경력 8년 이상, 주요 지역 2곳 이상 경험. 현재 공고 · 신규 아님."
     },
     {
       "section": "social",
@@ -752,6 +792,67 @@
       "report_date": "2026-11-10",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "report_date": "2026-11-10",
+      "slot": "PM",
+      "collected_at": "2026-11-10T08:55:30Z",
+      "infographic": null,
+      "published_at": null,
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-10T08:55:30Z"
+      },
+      "id": "ctx310-phase1b-20261109-late",
+      "event_key": "ctx310-phase1b-20261109",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "published_date": "2026-11-09",
+      "temporal_status": "late_discovery",
+      "title": "[지연 발견] CTX310 1b상 10명: 1회 유전자 편집 후 30일 중성지방 평균 63% 감소",
+      "highlight": "AHA 11/9 발표 · 작은 초기 시험. 장기 지속성과 심혈관·췌장염 예방 효과는 미확립.",
+      "summary": "[사실] Cleveland Clinic은 중증 고중성지방혈증 성인 10명을 대상으로 ANGPTL3 표적 CRISPR-Cas9 치료 CTX310을 1회 정맥투여한 1b상 결과를 11월 9일 발표했다. 30일에 중성지방은 평균 63%, ANGPTL3는 65% 이상 감소했다. 연구진은 치료 관련 중대한 부작용이 관찰되지 않았다고 보고했다. [해석] 10명의 단기 초기 자료이므로 장기·희귀 안전성이나 심혈관 사건·췌장염 예방을 입증한 결과가 아니다. 기존 혼합 이상지질혈증 1a상 결과와도 구분해야 한다. 전일 발표를 이번 조사에서 검증해 지연 발견으로 분리했으며 신규 등록으로 집계하지 않는다. 국내 지질 치료제와 비교 시 약물 중단 가능성·유전자 편집 지속성 등 차이를 고려해야 한다.",
+      "company": "CRISPR Therapeutics / Cleveland Clinic",
+      "drug": "CTX310",
+      "tags": [
+        "중증 고중성지방혈증",
+        "심혈관",
+        "ANGPTL3",
+        "유전자 편집",
+        "Phase 1b",
+        "지연 발견"
+      ],
+      "clinical": {
+        "conditions": [
+          "중증 고중성지방혈증"
+        ],
+        "phases": [
+          "PHASE1"
+        ],
+        "enrollment": {
+          "count": 10,
+          "type": "ACTUAL"
+        }
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "11/9 학회 결과의 지연 검증. 신규 등록 아님."
+      },
+      "sources": [
+        {
+          "label": "Cleveland Clinic 연구기관 공식 결과",
+          "url": "https://newsroom.clevelandclinic.org/2026/11/09/gene-editing-therapy-trial-dramatically-lowers-dangerous-blood-fat-levels"
+        }
+      ],
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 45
+      },
+      "content_hash": "bce588ed9722215c36158dd032b349517f973fbe1f3d205f33c76e272b850657"
     }
   ],
   "display_mode": "research",
@@ -759,7 +860,7 @@
   "report_date": "2026-11-10",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-10T08:00:09.719Z",
+  "updated_at": "2026-11-10T08:56:39Z",
   "window": {
     "start": "2026-11-09T23:00:00.000Z",
     "end": "2026-11-10T07:00:00.000Z"
@@ -975,17 +1076,75 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 조사 · 글로벌 뉴스·실적",
+      "section": "news",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "기업 미지정 글로벌 뉴스·실적·계약 검색과 BIO, Oyster, Bayer, AstraZeneca, MSD 공식 자료 점검. BIO 정책 제안·Oyster 자금조달을 검증해 기존 피드에 병합. Oyster 공식 BusinessWire 직접 접근 실패 후 회사 배포문 합법 재배포에서 02:00 EST(16:00 KST) 확인. Bayer·AZ 실적은 이전 날짜로 당일 신규 제외. Legend 실적 컨콜 11/10 08:00 EST는 다음 오전 대상이며 실행 완료로 취급하지 않음. 해당 구간 전체 기업 실적·컨콜 Q&A 전수 확인 아님."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상 결과",
+      "section": "clinical",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "CTX310 11/9 AHA 1b 결과를 Cleveland Clinic 공식 본문으로 검증해 지연 발견으로 추가. 신규 등록 아님. MSD efinopegdutide·Novo PLATINUM/RHODIUM의 11/10 재보도는 기존 회차와 같은 핵심 결과여서 중복 제외. 신규 안과 결과는 이번 범위에서 검증 못함. 국가별 등록처 및 이전 임상 스냅샷 전수 비교 미수행: 실제 신규 임상 0건을 뜻하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "공개 LinkedIn·X 검색 및 Arrowhead 라벨링 책임자 공식 개별 공고 검증. 회사·분야·학위·경력 요건을 기존 1건에 보강. 최초 게시일 미확인 현재 공고 17건 보존. 검색에 잡힌 날짜만으로 신규 채용이라고 쓰지 않음. 원문·게시일 미확인 공개 소셜 추가 발행 없음."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "정책 제안·자금조달 2건 한국어 검토. 피드 1건 분석 전 유지. 구간 내 실적·컨콜 전수 검증 아님."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "전일 CTX310 결과 지연 발견 1건. 새 등록으로 집계하지 않음. 당일 새 결과 없음으로 단정하지 않음."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "현재 공고 17건 · 글로벌 라벨링 책임자 요건 보강 1건. 신규 게시일 미확인."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 조사 · 글로벌 뉴스·실적",
+      "section": "news",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "기업 미지정 글로벌 뉴스·실적·계약 검색과 BIO, Oyster, Bayer, AstraZeneca, MSD 공식 자료 점검. BIO 정책 제안·Oyster 자금조달을 검증해 기존 피드에 병합. Oyster 공식 BusinessWire 직접 접근 실패 후 회사 배포문 합법 재배포에서 02:00 EST(16:00 KST) 확인. Bayer·AZ 실적은 이전 날짜로 당일 신규 제외. Legend 실적 컨콜 11/10 08:00 EST는 다음 오전 대상이며 실행 완료로 취급하지 않음. 해당 구간 전체 기업 실적·컨콜 Q&A 전수 확인 아님."
+    },
+    {
+      "source": "한국어 원문 조사 · 임상 결과",
+      "section": "clinical",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "CTX310 11/9 AHA 1b 결과를 Cleveland Clinic 공식 본문으로 검증해 지연 발견으로 추가. 신규 등록 아님. MSD efinopegdutide·Novo PLATINUM/RHODIUM의 11/10 재보도는 기존 회차와 같은 핵심 결과여서 중복 제외. 신규 안과 결과는 이번 범위에서 검증 못함. 국가별 등록처 및 이전 임상 스냅샷 전수 비교 미수행: 실제 신규 임상 0건을 뜻하지 않음."
+    },
+    {
+      "source": "한국어 원문 조사 · 소셜·공식 채용",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-10T08:56:39Z",
+      "reason": "공개 LinkedIn·X 검색 및 Arrowhead 라벨링 책임자 공식 개별 공고 검증. 회사·분야·학위·경력 요건을 기존 1건에 보강. 최초 게시일 미확인 현재 공고 17건 보존. 검색에 잡힌 날짜만으로 신규 채용이라고 쓰지 않음. 원문·게시일 미확인 공개 소셜 추가 발행 없음."
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-10T08:56:39Z",
+    "published_at": "2026-11-10T08:56:39Z",
+    "scheduled_at": "2026-11-10T07:00:00Z",
+    "delayed": true,
+    "late_publication": true,
+    "reason": "로컬 앱 17:53 KST 지연 실행. 조사 구간 08~16 KST 유지. 기존 ChatGPT 예약 변경 없음."
   }
 }
