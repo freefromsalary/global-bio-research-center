@@ -88,33 +88,49 @@
       "id": "70a7bfa9af2526028d38133d8a5cfecfc82c8c9dc342f7e31cd54330f3b497a4"
     },
     {
+      "id": "0ea8d618b59c9010b03e1310edd99c2af977a3a1b132dc8cf5e95f14412b4252",
+      "event_key": "b747f208e424e0c0a1b1cca67ae863aa10aac0a9bb011599f059de5a1ee355e5",
       "section": "news",
-      "kind": "news",
-      "title": "Beam preps FDA run for industry-first base-edited therapy after pivotal sickle cell success",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Beam Therapeutics' risto-cel provided at least 12 consecutive months of freedom from severe pain crises for patients with sickle cell disease in a mid-stage trial, setting the stage for an FDA application as early as this year.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
+      "kind": "clinical_result",
+      "title": "Beam, 겸상적혈구병 risto-cel 핵심 평가변수 충족",
+      "summary": "[사실] BEACON 1/2상 사전 지정 중간 분석에서 중증 혈관폐쇄 위기 없이 12개월을 유지하는 일차 유효성 평가변수와 일차 안전성 평가변수를 충족했다고 회사가 밝혔다. 미국 BLA 제출 목표는 이르면 연말이다. [해석] 상세 결과는 2027년 학회 발표 예정이며 현재 공개는 회사의 주요 결과 발표다.",
+      "highlight": "[사실] BEACON 1/2상 사전 지정 중간 분석에서 중증 혈관폐쇄 위기 없이 12개월을 유지하는 일차 유효성 평가변수와 일차 안전성 평가변수를 충족했다고 회사가 밝혔다. 미국 BLA 제출 목표는 이르면 연말이다.",
+      "company": "Beam Therapeutics",
+      "drug": "risto-cel",
+      "nct": null,
+      "tags": [
+        "겸상적혈구병",
+        "BEACON"
+      ],
       "sources": [
         {
           "label": "BioSpace 바이오 산업 뉴스",
           "url": "https://www.biospace.com/drug-development/beam-preps-fda-run-for-industry-first-base-edited-therapy-after-pivotal-sickle-cell-success"
+        },
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/"
+        },
+        {
+          "label": "Beam 공식 결과",
+          "url": "https://beamtherapeutics.gcs-web.com/news-releases/news-release-details/beam-therapeutics-announces-positive-topline-pivotal-data-beacon"
         }
       ],
-      "published_at": "2026-11-10T15:23:08.000Z",
-      "infographic": null,
-      "event_key": "b747f208e424e0c0a1b1cca67ae863aa10aac0a9bb011599f059de5a1ee355e5",
-      "content_hash": "5f74f1fc6fbd9fd00399399103b346e28b4891858c3cb3d38fa2d1cd181ba9df",
-      "collected_at": "2026-11-10T23:33:20.370Z",
-      "research": {
-        "topics": [],
-        "category": "규제",
-        "priority": 20
-      },
+      "published_at": "2026-11-10T12:00:00Z",
+      "collected_at": "2026-11-11T00:15:05Z",
       "report_date": "2026-11-11",
       "slot": "AM",
-      "id": "0ea8d618b59c9010b03e1310edd99c2af977a3a1b132dc8cf5e95f14412b4252"
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T00:15:05Z"
+      },
+      "content_hash": "6b2587519633137412dc02fa7cbc44737dcbfe61836d2b28eb84f140f0418efa",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 15
+      }
     },
     {
       "section": "news",
@@ -233,35 +249,6 @@
       "report_date": "2026-11-11",
       "slot": "AM",
       "id": "dc445b26fd9ed2311a0d70665d93e0e076576ec52a050bd5ec5c94de76ec7fb4"
-    },
-    {
-      "section": "news",
-      "kind": "news",
-      "title": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioPharma Dive 산업 뉴스",
-          "url": "https://www.biopharmadive.com/news/beam-sickle-cell-base-editing-risto-cel-results/874242/"
-        }
-      ],
-      "published_at": "2026-11-10T17:06:00.000Z",
-      "infographic": null,
-      "event_key": "7b9fa2165fd955d94cf09bde9398f1033ba350257c2f1a2cf9176132236916e0",
-      "content_hash": "0262e96645dd5080a2cd2f4f64844e6a5d74d0a5decd9180b13871a6e91c96f2",
-      "collected_at": "2026-11-10T23:33:20.588Z",
-      "research": {
-        "topics": [],
-        "category": "규제",
-        "priority": 20
-      },
-      "report_date": "2026-11-11",
-      "slot": "AM",
-      "id": "0679f3d2adcfcf0494b3a0ffd30fb3cad708af349c9e7343633642f08885bbfc"
     },
     {
       "section": "social",
@@ -500,32 +487,34 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Cardiometabolic Medical Science Liaison",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead 심혈관·대사 MSL 현재 공고",
+      "summary": "[사실] 심장내과·내분비 의료진과 임상 근거를 공유하고 고중성지방혈증과 가족성 킬로미크론혈증 등 관련 연구를 지원한다. PhD·PharmD·MD·DO 학위, MSL 5년, 심혈관·대사 및 업계 Medical Affairs 경험이 요구된다. 최초 게시일 미확인.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
-      "nct": "",
+      "nct": null,
       "tags": [
-        "공식 채용",
         "현재 공고",
-        "최초 공고일 미확인"
+        "심혈관",
+        "대사"
       ],
       "sources": [
         {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5124573007?gh_jid=5124573007"
+          "label": "공식 원문",
+          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5124573007"
         }
       ],
       "published_at": null,
       "infographic": null,
       "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
-      "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-10T23:34:42.315Z",
+      "content_hash": "9db0405ba6116933c9429a998416446b2debb76640fcd9b5a84c5c10e519656f",
+      "collected_at": "2026-11-11T00:15:05Z",
       "job": {
         "id": "5124573007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "심혈관·대사 Medical Affairs",
+        "expertise": "관련 박사·의료 전문 학위, MSL 5년, 심혈관·대사 및 업계 Medical Affairs 경험"
       },
       "research": {
         "topics": [
@@ -533,11 +522,16 @@
           "심혈관"
         ],
         "category": "채용·업계",
-        "priority": 30
+        "priority": 45
       },
       "report_date": "2026-11-11",
       "slot": "AM",
-      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd"
+      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd",
+      "highlight": "[사실] 심장내과·내분비 의료진과 임상 근거를 공유하고 고중성지방혈증과 가족성 킬로미크론혈증 등 관련 연구를 지원한다. PhD·PharmD·MD·DO 학위, MSL 5년, 심혈관·대사 및 업계 Medical Affairs 경험이 요구된다. 최초 게시일 미확인.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T00:15:05Z"
+      }
     },
     {
       "section": "social",
@@ -17310,6 +17304,126 @@
       "report_date": "2026-11-11",
       "slot": "AM",
       "id": "44594df07cbcbcf08e1c093dcd8a029dbd11c1722739488ff9008bb985927743"
+    },
+    {
+      "id": "liquidia-q3-20261110",
+      "event_key": "liquidia-q3-20261110",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Liquidia 3분기 YUTREPIA 매출 2억 2,270만 달러",
+      "summary": "[사실] 흡입 treprostinil 순제품 매출은 전분기 대비 31% 늘었다. 순손실 2억 3,630만 달러에는 소송 합의 비용 3억 8,970만 달러가 반영됐다. [해석] 제품 성장과 합의 비용을 구분해 분기 실적을 읽어야 한다.",
+      "highlight": "[사실] 흡입 treprostinil 순제품 매출은 전분기 대비 31% 늘었다. 순손실 2억 3,630만 달러에는 소송 합의 비용 3억 8,970만 달러가 반영됐다.",
+      "company": "Liquidia",
+      "drug": "YUTREPIA",
+      "nct": null,
+      "tags": [],
+      "sources": [
+        {
+          "label": "공식 원문",
+          "url": "https://investors.liquidia.com/news-releases/news-release-details/liquidia-corporation-reports-third-quarter-2026-financial"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-11T00:15:05Z",
+      "report_date": "2026-11-11",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T00:15:05Z"
+      },
+      "content_hash": "039aabfc9376b559d4dd7e12690729438de7dc12dda9ba893f2b3c0e61bc9b24",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "legend-q3-20261110",
+      "event_key": "legend-q3-20261110",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Legend 3분기 CARVYKTI 순거래 매출 약 7억 1,000만 달러",
+      "summary": "[사실] CARVYKTI 순거래 매출은 전년 동기 대비 36% 증가했다. Legend는 9월 말 현금·현금성자산·정기예금 약 8억 5,300만 달러를 발표했다. 공식 실적 행사 안내 시각은 11월 10일 08:00 EST(한국 22:00)다. [해석] 제품 순거래 매출과 Legend의 회사 전체 매출은 별도 지표다.",
+      "highlight": "[사실] CARVYKTI 순거래 매출은 전년 동기 대비 36% 증가했다. Legend는 9월 말 현금·현금성자산·정기예금 약 8억 5,300만 달러를 발표했다. 공식 실적 행사 안내 시각은 11월 10일 08:00 EST(한국 22:00)다.",
+      "company": "Legend Biotech",
+      "drug": "CARVYKTI",
+      "nct": null,
+      "tags": [],
+      "sources": [
+        {
+          "label": "공식 원문",
+          "url": "https://legendbiotech.gcs-web.com/news-releases/news-release-details/legend-biotech-reports-third-quarter-2026-results-and-recent"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-11T00:15:05Z",
+      "report_date": "2026-11-11",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T00:15:05Z"
+      },
+      "content_hash": "f0e4e23699af073716a7f2920062a90acc77f3d26ba03a14d6d5cd10a42bba66",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "impact-aasld-20261109-late",
+      "event_key": "impact-aasld-20261109-late",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] Altimmune, pemvidutide MASH 48주 추가 분석 공개",
+      "summary": "[사실] Altimmune은 기존 IMPACT 2b상의 AASLD 추가 분석에서 간 경직도·ELF 점수와 간 지방·ALT가 위약 대비 함께 감소했다고 보고했다. 회사 발표는 11월 9일 12:30 EST(한국 11월 10일 02:30)였다. [해석] 비침습 지표 분석의 의미는 조직생검과 장기 임상 사건 결과를 함께 봐야 판단할 수 있다.",
+      "highlight": "[사실] Altimmune은 기존 IMPACT 2b상의 AASLD 추가 분석에서 간 경직도·ELF 점수와 간 지방·ALT가 위약 대비 함께 감소했다고 보고했다. 회사 발표는 11월 9일 12:30 EST(한국 11월 10일 02:30)였다.",
+      "company": "Altimmune",
+      "drug": "pemvidutide",
+      "nct": null,
+      "tags": [
+        "MASH",
+        "IMPACT",
+        "지연 발견"
+      ],
+      "sources": [
+        {
+          "label": "공식 원문",
+          "url": "https://altimmune.gcs-web.com/news-releases/news-release-details/altimmune-presents-positive-late-breaking-pemvidutide-data-aasld"
+        }
+      ],
+      "published_at": "2026-11-09T17:30:00Z",
+      "collected_at": "2026-11-11T00:15:05Z",
+      "report_date": "2026-11-11",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T00:15:05Z"
+      },
+      "clinical": {
+        "conditions": [
+          "MASH"
+        ],
+        "phases": [
+          "PHASE2"
+        ]
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "기존 시험의 학회 추가 분석"
+      },
+      "content_hash": "5752199c86683da4a851d8af5f16eab4f7890c33f88e0697198c00ceb3df6374",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "임상개발",
+        "priority": 75
+      }
     }
   ],
   "display_mode": "research",
@@ -17317,7 +17431,7 @@
   "report_date": "2026-11-11",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-10T23:34:42.792Z",
+  "updated_at": "2026-11-11T00:15:05Z",
   "window": {
     "start": "2026-11-10T07:00:00.000Z",
     "end": "2026-11-10T23:00:00.000Z"
@@ -17533,17 +17647,72 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "reason": "글로벌 검색 및 Liquidia·Legend·Beam·Delix·Altimmune 공식 원문 확인. 컨콜 일정 확인 범위이며 Q&A와 전체 기업 발표 검증은 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 3
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "reason": "IMPACT 학회 후속 분석은 지연 발견으로 보강. 등록처 신규 및 중요 변경의 전체 스냅샷 대조는 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 1
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "reason": "공개 소셜 검색과 Arrowhead 공식 직무 확인. 최초 게시일 미확인 공고는 현재 공고로 표시.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 1
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "글로벌 검색 및 Liquidia·Legend·Beam·Delix·Altimmune 공식 원문 확인. 컨콜 일정 확인 범위이며 Q&A와 전체 기업 발표 검증은 미완료."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "IMPACT 학회 후속 분석은 지연 발견으로 보강. 등록처 신규 및 중요 변경의 전체 스냅샷 대조는 미완료."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "공개 소셜 검색과 Arrowhead 공식 직무 확인. 최초 게시일 미확인 공고는 현재 공고로 표시."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "reason": "글로벌 검색 및 Liquidia·Legend·Beam·Delix·Altimmune 공식 원문 확인. 컨콜 일정 확인 범위이며 Q&A와 전체 기업 발표 검증은 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 3
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "reason": "IMPACT 학회 후속 분석은 지연 발견으로 보강. 등록처 신규 및 중요 변경의 전체 스냅샷 대조는 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 1
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "reason": "공개 소셜 검색과 Arrowhead 공식 직무 확인. 최초 게시일 미확인 공고는 현재 공고로 표시.",
+      "status": "partial",
+      "checked_at": "2026-11-11T00:15:05Z",
+      "count": 1
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-11T00:15:05Z",
+    "scheduled_at": "2026-11-10T23:00:00Z",
+    "delayed": true
   }
 }
