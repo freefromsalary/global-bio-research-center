@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-12",
+  "slot": "AM",
+  "display_mode": "research",
+  "window": {
+    "start": "2026-11-11T07:00:00Z",
+    "end": "2026-11-11T23:00:00Z"
+  },
+  "items": [
+    {
+      "id": "alvotech-q3-20261111",
+      "event_key": "alvotech-q3-20261111",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Alvotech 3분기 매출 1억1,160만 달러, 전년 대비 2% 감소",
+      "summary": "[사실] 3분기 제품·서비스 매출은 78.3% 증가했고 라이선스·기타 매출은 34.4% 감소했다. 9개월 누적 매출은 3억2,340만 달러로 23% 감소했다. 연간 가이던스는 유지했으나 하단에 가까울 것으로 전망했다. 컨콜은 11월 12일 한국시간 22시 예정이다. [해석] 제품 매출 성장에도 라이선스 수익 감소로 분기 총매출은 줄었다.",
+      "company": "Alvotech",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "실적",
+        "바이오시밀러"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 발표",
+          "url": "https://www.globenewswire.com/news-release/2026/11/11/3401138/0/en/alvotech-announces-financial-results-for-the-nine-months-to-september-30-2026-with-a-business-update.html"
+        }
+      ],
+      "published_at": "2026-11-11T21:15:00Z",
+      "collected_at": "2026-11-11T23:32:23Z",
+      "report_date": "2026-11-12",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T23:32:23Z"
+      },
+      "content_hash": "da7c9cd8c12a9dc24c8e947c1d2fa6c4671e3801f4a44c64bfa97cf2dcf0c0e8",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "biontech-prv-20261110",
+      "event_key": "biontech-prv-20261110",
+      "section": "news",
+      "kind": "acquisition",
+      "title": "[지연 발견] BioNTech, FDA 우선심사 바우처 2억500만 달러 인수 계약",
+      "summary": "[사실] BioNTech는 11월 10일 Scholar Rock과 현금 2억500만 달러에 바우처 인수 계약을 체결했다고 발표했다. 거래 종결에는 경쟁당국 심사 등 조건이 붙는다. [해석] 후기 항암 후보의 향후 심사 기간을 단축할 수 있으며 사용 후보는 미공개다.",
+      "company": "BioNTech / Scholar Rock",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "FDA",
+        "지연 발견",
+        "인수 계약"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 발표",
+          "url": "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000083/a991261109_prvxbntstatement.htm"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-11T23:32:23Z",
+      "report_date": "2026-11-12",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T23:32:23Z"
+      },
+      "content_hash": "fcd133642fa202472724f41bd522e31e8764c7c3d41a454769a8e6aa62a75bf2",
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 65
+      }
+    },
+    {
+      "id": "transform-htn-aha-20261108",
+      "event_key": "transform-htn-aha-20261108",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "[지연 발견] Lorundrostat 공개 연장시험에서 48주 수축기혈압 17.8 mmHg 감소",
+      "summary": "[사실] Mineralys는 11월 8일 AHA에서 Launch-HTN 투약군의 Transform-HTN 연장 분석을 발표했다. 48주 자동 진료실 수축기혈압은 원시험 기저치보다 17.8 mmHg 낮았다. [해석] 공개 연장시험의 기저치 대비 변화이며 장기 위약 보정 효과와 심혈관 사건 감소는 이 결과로 판단하기 어렵다.",
+      "company": "Mineralys Therapeutics",
+      "drug": "lorundrostat",
+      "nct": "NCT05968430",
+      "tags": [
+        "심혈관",
+        "고혈압",
+        "지연 발견"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 발표",
+          "url": "https://ir.mineralystx.com/news-events/press-releases/detail/129/mineralys-therapeutics-presents-new-late-breaking-data-from"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-11T23:32:23Z",
+      "report_date": "2026-11-12",
+      "slot": "AM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-11T23:32:23Z"
+      },
+      "clinical": {
+        "conditions": [
+          "고혈압"
+        ]
+      },
+      "clinical_event": {
+        "type": "clinical_result",
+        "reason": "공개 연장시험 학회 결과"
+      },
+      "content_hash": "4dee4813eea2905f2d10b5071e631f022e0eb86766faf52c98400b7f1a8b62be",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 2,
+      "reason": "글로벌 산업 검색 및 Alvotech 실적·BioNTech 공시 확인. 컨콜은 일정까지 확인. BioNTech는 지연 발견.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 1,
+      "reason": "Mineralys 학회 결과 지연 발견. 대사·안과 검색에서 이번 구간 신규 결과 미확인. 등록처 전체 스냅샷 비교 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 0,
+      "reason": "LinkedIn 채용 검색과 Arrowhead 공고 확인. 최초 게시일이 검증된 추가 공고 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    }
+  ],
+  "updated_at": "2026-11-11T23:32:23Z",
+  "status": "partial",
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 2,
+      "reason": "글로벌 산업 검색 및 Alvotech 실적·BioNTech 공시 확인. 컨콜은 일정까지 확인. BioNTech는 지연 발견.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 1,
+      "reason": "Mineralys 학회 결과 지연 발견. 대사·안과 검색에서 이번 구간 신규 결과 미확인. 등록처 전체 스냅샷 비교 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 0,
+      "reason": "LinkedIn 채용 검색과 Arrowhead 공고 확인. 최초 게시일이 검증된 추가 공고 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-11T23:32:23Z"
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-11T23:32:23Z",
+    "scheduled_at": "2026-11-11T23:00:00Z",
+    "delayed": true
+  },
+  "section_status": {
+    "news": {
+      "message": "글로벌 산업 검색 및 Alvotech 실적·BioNTech 공시 확인. 컨콜은 일정까지 확인. BioNTech는 지연 발견."
+    },
+    "clinical": {
+      "message": "Mineralys 학회 결과 지연 발견. 대사·안과 검색에서 이번 구간 신규 결과 미확인. 등록처 전체 스냅샷 비교 미완료."
+    },
+    "social": {
+      "message": "LinkedIn 채용 검색과 Arrowhead 공고 확인. 최초 게시일이 검증된 추가 공고 미확인."
+    }
+  }
+}
