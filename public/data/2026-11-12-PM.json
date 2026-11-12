@@ -30,7 +30,7 @@
       "id": "35b960a227e190784d8a9a7ad9049b4edb0e72db980286e113fcc2116aaaabb9"
     },
     {
-      "section": "news",
+      "section": "social",
       "kind": "news",
       "title": "2026 Q3 Job Market Report: Job opportunities, layoffs show YOY improvement",
       "summary": "출처 피드 발췌 (원문 언어 · 분석 전): During Q3, there was a 31% year-over-year increase in job postings live on BioSpace. The number of employees affected by layoffs dropped 90%.",
@@ -40,23 +40,23 @@
       "tags": "피드 원문 · 분석 전",
       "sources": [
         {
-          "label": "BioSpace 바이오 산업 뉴스",
+          "label": "BioSpace 채용·조직 동향",
           "url": "https://www.biospace.com/job-trends/2026-q3-job-market-report-job-opportunities-layoffs-show-yoy-improvement"
         }
       ],
       "published_at": "2026-11-12T06:01:00.000Z",
       "infographic": null,
       "event_key": "811b460a296441ea60bd0c4bd6a8e3a1061f1034ec52e193e4475f701e1dbb7e",
-      "content_hash": "392acc2704f0636062d9f55c118beece0059286ccef136b0113b03e4126c935c",
-      "collected_at": "2026-11-12T08:08:31.260Z",
+      "content_hash": "81f03841d32a69eeb47c3fe1eb92c7ec02b0824140fe33f2188f3f5ae4aef5e4",
+      "collected_at": "2026-11-12T08:08:31.411Z",
       "research": {
         "topics": [],
-        "category": "산업 뉴스",
+        "category": "채용·업계",
         "priority": 0
       },
       "report_date": "2026-11-12",
       "slot": "PM",
-      "id": "0a4cd383c189079193949d1796a8eccc630613bc9f98165e0c9d32a62b9b6174"
+      "id": "ab6f8645c4ddcf4bd33c74da45288d944d3931a7de0e45dcccb89c5e19257ae0"
     },
     {
       "section": "news",
@@ -86,35 +86,6 @@
       "report_date": "2026-11-12",
       "slot": "PM",
       "id": "042b322cf9b5ffafe602e59aa988d952ea20c0e5f692928b9f179b0fa9bbb1ec"
-    },
-    {
-      "section": "social",
-      "kind": "news",
-      "title": "2026 Q3 Job Market Report: Job opportunities, layoffs show YOY improvement",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): During Q3, there was a 31% year-over-year increase in job postings live on BioSpace. The number of employees affected by layoffs dropped 90%.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 채용·조직 동향",
-          "url": "https://www.biospace.com/job-trends/2026-q3-job-market-report-job-opportunities-layoffs-show-yoy-improvement"
-        }
-      ],
-      "published_at": "2026-11-12T06:01:00.000Z",
-      "infographic": null,
-      "event_key": "811b460a296441ea60bd0c4bd6a8e3a1061f1034ec52e193e4475f701e1dbb7e",
-      "content_hash": "81f03841d32a69eeb47c3fe1eb92c7ec02b0824140fe33f2188f3f5ae4aef5e4",
-      "collected_at": "2026-11-12T08:08:31.411Z",
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-12",
-      "slot": "PM",
-      "id": "ab6f8645c4ddcf4bd33c74da45288d944d3931a7de0e45dcccb89c5e19257ae0"
     },
     {
       "section": "social",
@@ -356,8 +327,8 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Director, Pharmacometrics & Clinical Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead 약물계량학·임상약리 책임자 현재 공고",
+      "summary": "[사실] Arrowhead는 임상개발 프로그램 전반에서 약물계량학과 임상약리 전략을 이끌 책임자를 모집한다. 최초 게시일은 미확인이다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -375,22 +346,29 @@
       "published_at": null,
       "infographic": null,
       "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
-      "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-12T08:09:51.665Z",
+      "content_hash": "1e3e38b63dcb95805efdf8eeb28616bdf81f24eb34a0d7f578556fe2fbdaee0b",
+      "collected_at": "2026-11-12T09:15:03Z",
       "job": {
         "id": "5279189007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "약물계량학·임상약리",
+        "expertise": "임상개발 전반의 약물계량학·임상약리 전략을 이끄는 책임자"
       },
       "research": {
         "topics": [],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 15
       },
       "report_date": "2026-11-12",
       "slot": "PM",
-      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532"
+      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532",
+      "highlight": "임상개발 프로그램의 약물계량학·임상약리 전략 총괄.",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-12T09:15:03Z"
+      }
     },
     {
       "section": "social",
@@ -742,6 +720,48 @@
       "report_date": "2026-11-12",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "id": "merck-kgaa-q3-20261112",
+      "event_key": "merck-kgaa-q3-20261112",
+      "report_date": "2026-11-12",
+      "slot": "PM",
+      "section": "news",
+      "kind": "earnings",
+      "title": "독일 Merck KGaA 3분기 매출 56억2,700만 유로, 전년 대비 5.8% 증가",
+      "highlight": "Life Science 매출 7.6%, Healthcare 매출 2.9% 증가. 애널리스트 콜은 한국시간 22시 예정.",
+      "summary": "[사실] 독일 Merck KGaA의 그룹 3분기 매출은 56억2,700만 유로였다. Life Science는 24억1,100만 유로로 7.6%, Healthcare는 22억6,800만 유로로 2.9% 늘었다. 유기적 성장률은 각각 6.1%, 0.9%였다. 회사는 07:00 CET 자료 공개와 14:00 CET 애널리스트 콜을 안내했다. [해석] 보고 매출 증가율과 유기적 성장률의 차이를 고려하면 사업 자체의 성장 속도는 보고 매출 수치보다 낮다.",
+      "company": "Merck KGaA",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "실적",
+        "컨콜",
+        "Life Science"
+      ],
+      "published_at": "2026-11-12T06:00:00Z",
+      "collected_at": "2026-11-12T09:15:03Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-12T09:15:03Z"
+      },
+      "sources": [
+        {
+          "label": "Merck KGaA 공식 실적",
+          "url": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
+        },
+        {
+          "label": "공식 컨콜 일정",
+          "url": "https://www.emdgroup.com/en/investors/reports-and-financials.html"
+        }
+      ],
+      "content_hash": "ea6d08bd9bf158ab5a92248d41657c06d0cf9ab308fc75aeb57aa05d10d26142",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
     }
   ],
   "display_mode": "research",
@@ -749,7 +769,7 @@
   "report_date": "2026-11-12",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-12T08:09:51.818Z",
+  "updated_at": "2026-11-12T09:15:03Z",
   "window": {
     "start": "2026-11-11T23:00:00.000Z",
     "end": "2026-11-12T07:00:00.000Z"
@@ -965,17 +985,72 @@
       "status": "not_configured",
       "section": "social",
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 1,
+      "reason": "글로벌·국내 산업 검색과 Merck KGaA 실적 원문 확인. 컨콜은 마감 이후 예정. ExpreS2ion 08:30 CET 실적은 한국 16:30으로 마감 이후.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 0,
+      "reason": "대사·심혈관·안과 검색 범위에서 구간 내 신규 결과 미확인. 등록처 신규 및 변경의 전체 스냅샷 대조 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 1,
+      "reason": "공개 X·LinkedIn 검색 및 Arrowhead 공식 공고 확인. 최초 게시일을 검증한 신규 채용 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "글로벌·국내 산업 검색과 Merck KGaA 실적 원문 확인. 컨콜은 마감 이후 예정. ExpreS2ion 08:30 CET 실적은 한국 16:30으로 마감 이후."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "대사·심혈관·안과 검색 범위에서 구간 내 신규 결과 미확인. 등록처 신규 및 변경의 전체 스냅샷 대조 미완료."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "공개 X·LinkedIn 검색 및 Arrowhead 공식 공고 확인. 최초 게시일을 검증한 신규 채용 미확인."
     }
+  },
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 1,
+      "reason": "글로벌·국내 산업 검색과 Merck KGaA 실적 원문 확인. 컨콜은 마감 이후 예정. ExpreS2ion 08:30 CET 실적은 한국 16:30으로 마감 이후.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 0,
+      "reason": "대사·심혈관·안과 검색 범위에서 구간 내 신규 결과 미확인. 등록처 신규 및 변경의 전체 스냅샷 대조 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 1,
+      "reason": "공개 X·LinkedIn 검색 및 Arrowhead 공식 공고 확인. 최초 게시일을 검증한 신규 채용 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-12T09:15:03Z"
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-12T09:15:03Z",
+    "scheduled_at": "2026-11-12T07:00:00Z",
+    "delayed": true
   }
 }
