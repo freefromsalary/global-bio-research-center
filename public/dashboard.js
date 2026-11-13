@@ -62,6 +62,26 @@ function render(){
   const figure=$('#infographic');figure.hidden=!items.length;figure.replaceChildren();if(items.length){const counts=Object.keys(sectionNames).map(k=>items.filter(i=>i.section===k).length),labels=['GLOBAL NEWS','CLINICAL TRIALS','SOCIAL / CAREERS'];const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170"><rect width="1000" height="170" rx="12" fill="#eaf0e7"/>${counts.map((n,k)=>`<text x="${35+k*330}" y="43" font-family="sans-serif" font-size="12" fill="#6a7a72">${labels[k]}</text><text x="${35+k*330}" y="112" font-family="sans-serif" font-size="48" fill="#16745b">${n}</text>`).join('')}<text x="35" y="151" font-family="sans-serif" font-size="11" fill="#6a7a72">ARCHIVE COUNTS / NOT CLINICAL OUTCOMES</text></svg>`;const img=el('img');img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);img.alt=`보관 자료 수: 뉴스 ${counts[0]}건, 임상 ${counts[1]}건, 소셜·채용 ${counts[2]}건`;figure.append(img);}
 }
 async function read(path){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error(`보고서 불러오기 실패 (${r.status})`);return r.json();}
+function briefingRows(items){
+  const seenJobs = new Set();
+  const sorted = [...items].sort((a,b) =>
+    String(a.report_date).localeCompare(String(b.report_date)) ||
+    String(a.slot).localeCompare(String(b.slot)) ||
+    String(a.collected_at).localeCompare(String(b.collected_at)));
+  return sorted.filter(item => {
+    if(item.section === 'news'){
+      return item.editorial_review?.status === 'reviewed' &&
+        /[가-힣]/.test(item.title || '') && /[가-힣]/.test(item.summary || '');
+    }
+    if(item.section !== 'social' || item.kind !== 'job') return true;
+    const company = String(item.company || '').trim().toLowerCase();
+    const title = String(item.title || '').trim().toLowerCase().replace(/\s+/g,' ');
+    const key = company + ':' + (item.job?.id || item.sources?.[0]?.url || title);
+    if(seenJobs.has(key)) return false;
+    seenJobs.add(key);
+    return true;
+  });
+}
 async function load(){
   try{
     const index=await read('data/index.json'),result=[];
@@ -71,7 +91,7 @@ async function load(){
         return read('data/'+r.file);
       }));result.push(...batch);
     }
-    reports=result;rows=reports.flatMap(r=>r.items||[]);
+    reports=result;rows=briefingRows(reports.flatMap(r=>r.items||[]));
     if(reports[0]){$('#date').value=reports[0].report_date;slot=reports[0].slot;}
     else $('#date').value=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
     syncSlots();render();
