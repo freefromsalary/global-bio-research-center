@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-13",
+  "slot": "PM",
+  "display_mode": "research",
+  "window": {
+    "start": "2026-11-12T23:00:00Z",
+    "end": "2026-11-13T07:00:00Z"
+  },
+  "items": [
+    {
+      "id": "ligachem-q3-filing-20261113",
+      "event_key": "ligachem-q3-filing-20261113",
+      "section": "news",
+      "kind": "earnings",
+      "title": "리가켐바이오 3분기 분기보고서 제출",
+      "summary": "[사실] 회사 공시 목록에서 11월 13일 분기보고서 제출을 확인했다. 공시 목록은 한국시간 15:00 기준이다. [해석] 실적 수치와 IR 발언은 해당 자료의 본문 확인이 필요하다.",
+      "company": "리가켐바이오",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "실적"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://ligachembio.com/invest/disclosure.php"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-13T07:08:20Z",
+      "report_date": "2026-11-13",
+      "slot": "PM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-13T07:08:20Z"
+      },
+      "content_hash": "a307131bbcd205f1fca002cf44e9274794b408c03e0eaa4a06fd72b48790ccc1",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "bavarian-nordic-q3-call-20261113",
+      "event_key": "bavarian-nordic-q3-call-20261113",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Bavarian Nordic 3분기 실적 컨콜 한국시간 22시 예정",
+      "summary": "[사실] 회사는 11월 13일 3분기 및 9개월 실적 공개와 14:00 CET 컨콜을 안내했다. [확인 범위] 오후 마감 시점의 실적 수치와 질의응답은 미확인이다.",
+      "company": "Bavarian Nordic",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "실적"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://www.bavarian-nordic.com/investor/events.aspx?event=7290"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-13T07:08:20Z",
+      "report_date": "2026-11-13",
+      "slot": "PM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-13T07:08:20Z"
+      },
+      "content_hash": "5b8abb9a2a3d7a5d56bf32a3d9bafa6b295147bb07bff0da23c9eb65f995c0e1",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "alnylam-4480977009",
+      "event_key": "alnylam-4480977009",
+      "section": "social",
+      "kind": "job",
+      "title": "Alnylam ATTR-CM 메디컬 어페어즈 연수직 현재 공고",
+      "summary": "[사실] 공식 채용 공고는 ATTR-CM 국제 Medical Affairs 전략의 계획·운영을 지원하는 대학원 졸업자 대상 연수직이다. 지역·국가별 메디컬 팀과 협업한다. 최초 게시일과 수정일은 미확인이다.",
+      "company": "Alnylam Pharmaceuticals",
+      "drug": "",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "ATTR-CM",
+        "현재 공고"
+      ],
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4480977009"
+        }
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-13T07:08:20Z",
+      "report_date": "2026-11-13",
+      "slot": "PM",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-13T07:08:20Z"
+      },
+      "job": {
+        "id": "4480977009",
+        "field": "ATTR-CM Medical Affairs",
+        "expertise": "대학원 졸업자 대상 국제 메디컬 전략 지원 연수직",
+        "first_posted_at": null,
+        "temporal_status": "current_listing"
+      },
+      "content_hash": "bf2791792274c310d6787c9262bb73c35fbeebce5f185a11af645e8064450635",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "채용·업계",
+        "priority": 45
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 2,
+      "reason": "글로벌·국내 검색과 리가켐 공시 목록, Bavarian Nordic 공식 일정 확인. 두 회사의 상세 실적 수치 및 컨콜 발언 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 0,
+      "reason": "대사·신장·안과 후보 검색. Regeneron 2상 예상 완료일은 결과 공개 증거가 아니며 등록처 전체 스냅샷 비교 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 1,
+      "reason": "기업 공식 채용 21곳의 진입 페이지 및 공개 X·LinkedIn 검색 점검. Arrowhead·Alnylam 채용 목록 확인, Alnylam 개별 공고 원문 확인. Madrigal·Novo·Boehringer 등 일부 페이지는 목록이 제한됐으며 그 외 다수 기업도 개별 공고 전수 검토 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    }
+  ],
+  "updated_at": "2026-11-13T07:08:20Z",
+  "status": "partial",
+  "editorial_coverage": [
+    {
+      "source": "한국어 원문 검토",
+      "section": "news",
+      "count": 2,
+      "reason": "글로벌·국내 검색과 리가켐 공시 목록, Bavarian Nordic 공식 일정 확인. 두 회사의 상세 실적 수치 및 컨콜 발언 미확인.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "clinical",
+      "count": 0,
+      "reason": "대사·신장·안과 후보 검색. Regeneron 2상 예상 완료일은 결과 공개 증거가 아니며 등록처 전체 스냅샷 비교 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    },
+    {
+      "source": "한국어 원문 검토",
+      "section": "social",
+      "count": 1,
+      "reason": "기업 공식 채용 21곳의 진입 페이지 및 공개 X·LinkedIn 검색 점검. Arrowhead·Alnylam 채용 목록 확인, Alnylam 개별 공고 원문 확인. Madrigal·Novo·Boehringer 등 일부 페이지는 목록이 제한됐으며 그 외 다수 기업도 개별 공고 전수 검토 미완료.",
+      "status": "partial",
+      "checked_at": "2026-11-13T07:08:20Z"
+    }
+  ],
+  "editorial": {
+    "generated_at": "2026-11-13T07:08:20Z",
+    "scheduled_at": "2026-11-13T07:00:00Z",
+    "delayed": true
+  },
+  "section_status": {
+    "news": {
+      "message": "글로벌·국내 검색과 리가켐 공시 목록, Bavarian Nordic 공식 일정 확인. 두 회사의 상세 실적 수치 및 컨콜 발언 미확인."
+    },
+    "clinical": {
+      "message": "대사·신장·안과 후보 검색. Regeneron 2상 예상 완료일은 결과 공개 증거가 아니며 등록처 전체 스냅샷 비교 미완료."
+    },
+    "social": {
+      "message": "기업 공식 채용 21곳의 진입 페이지 및 공개 X·LinkedIn 검색 점검. Arrowhead·Alnylam 채용 목록 확인, Alnylam 개별 공고 원문 확인. Madrigal·Novo·Boehringer 등 일부 페이지는 목록이 제한됐으며 그 외 다수 기업도 개별 공고 전수 검토 미완료."
+    }
+  }
+}
