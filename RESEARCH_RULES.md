@@ -27,3 +27,8 @@ GitHub main 최신 보고서/index를 읽어 병합한다. 큰 파일의 fetch_f
 ## 뉴스 발행과 채용 재수집 (2026-11-13)
 01 글로벌 뉴스에는 공식 원문을 검토하고 한국어 제목과 해설을 작성한 항목만 표시한다. 영문 피드 후보는 조사 자료로 보관하고, 검토한 항목은 기존 후보에 병합한다.
 03 채용은 회사와 공고 ID로 전체 아카이브를 대조한다. ID가 없으면 원문 URL을 비교한다. 이미 취합한 공고는 최초 회차에만 표시하고, 후속 확인에서 얻은 직무·자격 정보는 최초 항목에 보강한다. 최초 게시일 확인과 최초 수집 기록은 별도로 관리한다.
+
+## 채용 검색 범위 (2026-11-13)
+- 매 회차 sources.json의 채용 웹 확인 대상을 검색한다. 공식 채용 페이지와 회사가 연결한 채용 플랫폼에서 원문을 검증한다. Roche와 Genentech는 공식 채용 창구를 각각 확인하며 동일 공고는 합친다.
+- 명시된 기업 외 상장 바이오·제약사도 검색한다. [Nasdaq Biotechnology Index](https://indexes.nasdaqomx.com/Index/Overview/NBI), [SEC 거래소별 상장사 자료](https://www.sec.gov/files/company_tickers_exchange.json), [한국거래소 상장법인 목록](https://kind.krx.co.kr/corpgeneral/corpList.do), [홍콩거래소 주식 목록](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities) 등 지역별 공식 목록과 기업 미지정 직무 검색으로 후보군을 확장한다. 북미·유럽·아시아를 폭넓게 검색하고, 기존 목록 밖에서 관련 공고를 발견하면 공식 채용 URL을 확인해 두 출처 파일에 추가한다.
+- 검색은 대사·심혈관·신장·안과 및 사업개발·임상개발·CMC·Medical Affairs·상업화 관련 직무를 우선한다. LinkedIn·X는 공개 탐색 경로로 사용한다. coverage에 확인한 기업과 미확인 출처를 기록한다. 상장 여부가 검색 대상이라는 의미이며 매회 전 세계 상장사 전수 확인을 뜻하지 않는다.

@@ -232,6 +232,150 @@
       "url": "https://x.com/",
       "enabled": false,
       "reason": "일반 웹 검색·원문 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Eli Lilly 공식 채용",
+      "company": "Eli Lilly",
+      "url": "https://careers.lilly.com/us/en/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Pfizer 공식 채용",
+      "company": "Pfizer",
+      "url": "https://www.pfizer.com/about/careers/join-us",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Roche 공식 채용",
+      "company": "Roche",
+      "url": "https://careers.roche.com/global/en/search-results",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Bristol Myers Squibb 공식 채용",
+      "company": "Bristol Myers Squibb",
+      "url": "https://careers.bms.com/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "GSK 공식 채용",
+      "company": "GSK",
+      "url": "https://www.gsk.com/en-gb/careers/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Genentech 공식 채용",
+      "company": "Genentech",
+      "url": "https://careers.gene.com/us/en/search-results",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Alnylam Pharmaceuticals 공식 채용",
+      "company": "Alnylam Pharmaceuticals",
+      "url": "https://www.alnylam.com/careers-open-positions",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Ionis Pharmaceuticals 공식 채용",
+      "company": "Ionis Pharmaceuticals",
+      "url": "https://ionis.com/careers",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Merck & Co. (MSD) 공식 채용",
+      "company": "Merck & Co. (MSD)",
+      "url": "https://jobs.merck.com/us/en",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Altimmune 공식 채용",
+      "company": "Altimmune",
+      "url": "https://altimmune.com/careers/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Boehringer Ingelheim 공식 채용",
+      "company": "Boehringer Ingelheim",
+      "url": "https://www.boehringer-ingelheim.com/careers",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "AstraZeneca 공식 채용",
+      "company": "AstraZeneca",
+      "url": "https://careers.astrazeneca.com/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Novartis 공식 채용",
+      "company": "Novartis",
+      "url": "https://www.novartis.com/careers",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Sanofi 공식 채용",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Amgen 공식 채용",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Gilead Sciences 공식 채용",
+      "company": "Gilead Sciences",
+      "url": "https://www.gilead.com/careers",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Regeneron 공식 채용",
+      "company": "Regeneron",
+      "url": "https://careers.regeneron.com/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "section": "social",
+      "name": "Vertex Pharmaceuticals 공식 채용",
+      "company": "Vertex Pharmaceuticals",
+      "url": "https://www.vrtx.com/careers/",
+      "enabled": false,
+      "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
     }
   ]
 }
