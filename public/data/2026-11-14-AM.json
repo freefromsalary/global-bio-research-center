@@ -177,35 +177,6 @@
     {
       "section": "news",
       "kind": "news",
-      "title": "Regeneron’s POTS antibody curbs heart rate spikes, teeing up Phase 3 trial",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Regeneron’s mid-stage success in postural orthostatic tachycardia syndrome has the company gearing up to launch a Phase 3 study in the first half of 2027.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 바이오 산업 뉴스",
-          "url": "https://www.biospace.com/drug-development/regenerons-pots-antibody-curbs-heart-rate-spikes-teeing-up-phase-3-trial"
-        }
-      ],
-      "published_at": "2026-11-13T13:59:44.000Z",
-      "infographic": null,
-      "event_key": "fcc1f993727805d4edb346961c677002570001e173d310b2c4dd6e7b6d2c30a4",
-      "content_hash": "d7c1c0e28d027cbc8911e924c23ad895701620826e11e951dbe16fd9992afb27",
-      "collected_at": "2026-11-13T23:38:16.106Z",
-      "research": {
-        "topics": [],
-        "category": "임상개발",
-        "priority": 20
-      },
-      "report_date": "2026-11-14",
-      "slot": "AM",
-      "id": "943fb4668bc6a1eacf583c4177d0341129f471d8114f5bf80d3e369436b7dcda"
-    },
-    {
-      "section": "news",
-      "kind": "news",
       "title": "Biopharma pushes beyond GLP-1s, weight loss at ObesityWeek 2026",
       "summary": "출처 피드 발췌 (원문 언어 · 분석 전): ObesityWeek 2026, which kicks off on Saturday, will spotlight presentations on the ascendant amylin pathway, as well as therapies looking to improve the quality of weight loss and patients’ persistence on treatment.",
       "company": "",
@@ -13409,6 +13380,147 @@
       "report_date": "2026-11-14",
       "slot": "AM",
       "id": "7a578f4d579a8fc8b47bce71cfde07364ba2f0ccaa0443c3c2f62a083ff6ee9a"
+    },
+    {
+      "id": "bavarian-nordic-q3-results-20261113",
+      "event_key": "bavarian-nordic-q3-results-20261113",
+      "section": "news",
+      "kind": "earnings",
+      "title": "Bavarian Nordic 3분기 여행백신 매출 22% 증가, 연간 가이던스 유지",
+      "summary": "[사실] 3분기 매출은 18억 500만 덴마크크로네로 전년 17억 9,500만 크로네와 비슷했다. 여행백신 부문 매출은 11억 4,400만 크로네로 22% 증가했다. 연간 매출 61억 크로네 및 EBITDA 마진 32% 전망을 유지했다. 실적은 전일 15:42 KST에 공개돼 지연 발견으로 기록했다. 컨콜은 조사 구간 내 전일 22:00 KST 예정이었고 질의응답은 미확인이다. [해석] 여행백신 성장률이 전사 매출 성장률을 크게 웃돌았다.",
+      "company": "Bavarian Nordic",
+      "tags": [
+        "실적",
+        "여행백신",
+        "컨콜",
+        "지연 발견"
+      ],
+      "published_at": "2026-11-13T06:42:00Z",
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://www.globenewswire.com/news-release/2026/11/13/3402385/0/en/bavarian-nordic-reports-strong-travel-health-growth-in-the-third-quarter-and-confirms-solid-momentum-for-the-rest-of-the-year.html"
+        },
+        {
+          "label": "회사 IR 컨콜 일정",
+          "url": "https://www.bavarian-nordic.com/investor/events.aspx?event=7290"
+        }
+      ],
+      "report_date": "2026-11-14",
+      "slot": "AM",
+      "collected_at": "2026-11-14T14:33:07Z",
+      "infographic": null,
+      "drug": "",
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-14T14:33:07Z"
+      },
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      },
+      "content_hash": "a0ec9ab5"
+    },
+    {
+      "id": "943fb4668bc6a1eacf583c4177d0341129f471d8114f5bf80d3e369436b7dcda",
+      "event_key": "fcc1f993727805d4edb346961c677002570001e173d310b2c4dd6e7b6d2c30a4",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Regeneron, 기립성 빈맥 증후군 항체 baloncibart 2상 결과 공개",
+      "summary": "[사실] PINNACLE POTS 2상은 기립성 빈맥 증후군 환자 82명을 대상으로 했다. 450mg군에서 기립 심박수 변화의 위약 대비 최소제곱평균 차이는 8일차 −11.4bpm, 29일차 −7.4bpm이었다. 사전에 정한 공식 가설 검정은 없었다. 회사는 2027년 상반기 3상 시작을 계획한다. 회사 발표는 전일 07:00 KST에 공개됐고 조사 구간 내 후속 보도를 통해 확인했다. [해석] 심박수 변화가 환자에게 얼마나 의미 있는지는 후속 시험에서 확인할 부분이다.",
+      "company": "Regeneron",
+      "tags": [
+        "심혈관",
+        "기립성 빈맥 증후군",
+        "임상 2상",
+        "지연 발견"
+      ],
+      "published_at": "2026-11-12T22:00:00Z",
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://investor.regeneron.com/news-releases/news-release-details/pots-phase-2-trial-shows-baloncibart-first-class-npr1-blocking/"
+        },
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/drug-development/regenerons-pots-antibody-curbs-heart-rate-spikes-teeing-up-phase-3-trial"
+        }
+      ],
+      "report_date": "2026-11-14",
+      "slot": "AM",
+      "collected_at": "2026-11-14T14:33:07Z",
+      "infographic": null,
+      "drug": "baloncibart",
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-14T14:33:07Z"
+      },
+      "clinical": {
+        "sponsor": "Regeneron",
+        "condition": "기립성 빈맥 증후군",
+        "phase": "2상"
+      },
+      "clinical_event": {
+        "type": "result",
+        "changed_fields": [],
+        "note": "회사 발표에서 확인한 2상 결과"
+      },
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "임상개발",
+        "priority": 45
+      },
+      "content_hash": "6f67a851"
+    },
+    {
+      "id": "alnylam-4435359009",
+      "event_key": "alnylam-4435359009",
+      "section": "social",
+      "kind": "job",
+      "title": "Alnylam, 미국 서부 지역 커뮤니티 MSL 현재 공고",
+      "summary": "[사실] Alnylam Pharmaceuticals는 미국 서부 지역에서 의료진과 과학적 정보를 교류하는 현장 메디컬 전문가를 모집한다. 최초 게시일과 수정일은 미확인으로 현재 공고로 기록했다.",
+      "company": "Alnylam Pharmaceuticals",
+      "tags": [
+        "메디컬 어페어즈",
+        "MSL",
+        "현재 공고"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "회사 공식 원문",
+          "url": "https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4435359009"
+        }
+      ],
+      "report_date": "2026-11-14",
+      "slot": "AM",
+      "collected_at": "2026-11-14T14:33:07Z",
+      "infographic": null,
+      "drug": "",
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-14T14:33:07Z"
+      },
+      "job": {
+        "id": "4435359009",
+        "field": "현장 메디컬 어페어즈",
+        "expertise": "미국 서부 지역 의료진과 과학적 정보를 교류하는 MSL",
+        "first_posted_at": null,
+        "first_seen_at": "2026-11-14T14:33:07Z",
+        "temporal_status": "current_listing"
+      },
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 15
+      },
+      "content_hash": "3224c8a2"
     }
   ],
   "display_mode": "research",
@@ -13416,7 +13528,7 @@
   "report_date": "2026-11-14",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-13T23:39:37.128Z",
+  "updated_at": "2026-11-14T14:33:07Z",
   "window": {
     "start": "2026-11-13T07:00:00.000Z",
     "end": "2026-11-13T23:00:00.000Z"
@@ -13740,17 +13852,35 @@
       "status": "not_configured",
       "section": "social",
       "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업명 미지정 및 복수 기업 웹 검색, IR·공시·전문매체 확인. Bavarian Nordic 컨콜 질의응답은 미확인."
+    },
+    {
+      "source": "원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Regeneron 공식 2상 결과 확인. 등록소 기준자료를 보존했고 신규 등록·중요 변경 추가 확인은 없음."
+    },
+    {
+      "source": "원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "Alnylam 공식 현재 공고 확인. 최초 게시일·수정일, 공개 X·LinkedIn 및 전체 기업 공고는 미확인."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "기업명 미지정 및 복수 기업 웹 검색, IR·공시·전문매체 확인. Bavarian Nordic 컨콜 질의응답은 미확인."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "Regeneron 공식 2상 결과 확인. 등록소 기준자료를 보존했고 신규 등록·중요 변경 추가 확인은 없음."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "Alnylam 공식 현재 공고 확인. 최초 게시일·수정일, 공개 X·LinkedIn 및 전체 기업 공고는 미확인."
     }
   }
 }
