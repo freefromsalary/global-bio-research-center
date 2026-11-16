@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-11-16",
+  "slot": "PM",
+  "display_mode": "research",
+  "window": {
+    "start": "2026-11-15T23:00:00.000Z",
+    "end": "2026-11-16T07:00:00.000Z"
+  },
+  "items": [
+    {
+      "id": "biocon-pebrilzo-fda-20261116",
+      "event_key": "biocon-pebrilzo-fda-20261116",
+      "report_date": "2026-11-16",
+      "slot": "PM",
+      "section": "news",
+      "kind": "regulatory",
+      "title": "Biocon, 퍼제타 바이오시밀러 Pebrilzo 미국 허가 발표",
+      "summary": "[사실] Biocon은 HER2 양성 유방암에 쓰이는 퍼제타의 바이오시밀러 Pebrilzo(pertuzumab-qcay)가 FDA 허가를 받았다고 11월 16일 발표했다. 인도 거래소 공시는 한국시간 12:08경 공개됐다. 기존 Genentech 합의상 미국 출시를 허용하는 최초 시점은 2028년 3분기다. [해석] 허가 발표와 실제 미국 출시 시점에는 시차가 있다.",
+      "highlight": "미국 허가 발표. 기존 합의상 미국 출시 가능 시점은 2028년 3분기입니다.",
+      "company": "Biocon",
+      "drug": "pertuzumab-qcay",
+      "tags": [
+        "FDA",
+        "바이오시밀러",
+        "HER2 양성 유방암"
+      ],
+      "published_at": "2026-11-16T03:08:00Z",
+      "sources": [
+        {
+          "label": "Biocon 공식 발표",
+          "url": "https://www.biocon.com/biocon-gets-u-s-fda-approval-for-pebrilzo-pertuzumab-qcay-injection-a-biosimilar-to-perjeta-expanding-its-oncology-portfolio/"
+        },
+        {
+          "label": "인도 NSE 공시",
+          "url": "https://nsearchives.nseindia.com/corporate/Bioconlimited_16112026083851_Pressrelease16112026.pdf"
+        }
+      ],
+      "collected_at": "2026-11-16T07:29:32Z",
+      "infographic": null,
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-16T07:29:32Z"
+      },
+      "content_hash": "e78829ad",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      }
+    },
+    {
+      "id": "lilly-surmount-adolescents-jama-20261115",
+      "event_key": "lilly-surmount-adolescents-jama-20261115",
+      "report_date": "2026-11-16",
+      "slot": "PM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Lilly 청소년 비만 3상, tirzepatide의 72주 상세 결과 공개",
+      "summary": "[사실] 12~17세 160명을 무작위 배정한 SURMOUNT-ADOLESCENTS 3상에서 72주 BMI 변화는 치료 중단을 고려한 분석에서 tirzepatide군 −18.5%, 위약군 +0.5%였다. 차이는 −19.0%p였다(95% CI −23.9~−14.1). 배정 치료를 계속한다고 가정한 별도 분석은 −21.4% 대 +0.4%였다. 약물을 받은 투여군의 이상반응에 따른 치료 중단은 10/108명(9.3%)이었다. 논문은 미국 현지 11월 15일자이며 정확한 게시 시각은 미확인이다. 학회 구두 발표 일정은 11월 16일 08:10 KST였다. [해석] 회사가 예고한 수치와 중단을 반영한 분석의 차이를 논문에서 확인할 수 있다.",
+      "highlight": "72주 BMI −18.5% 대 +0.5%. 치료 중단을 고려한 분석입니다.",
+      "company": "Eli Lilly",
+      "drug": "tirzepatide",
+      "tags": [
+        "비만",
+        "대사",
+        "청소년",
+        "3상",
+        "ObesityWeek"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "JAMA 무작위시험 논문",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2856796"
+        },
+        {
+          "label": "ObesityWeek 공식 프로그램",
+          "url": "https://obesityweek.org/wp-content/uploads/2026/11/OW26-Program_11-09.pdf"
+        }
+      ],
+      "collected_at": "2026-11-16T07:29:32Z",
+      "infographic": null,
+      "nct": "NCT06075667",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-16T07:29:32Z"
+      },
+      "clinical": {
+        "sponsor": "Eli Lilly",
+        "conditions": [
+          "청소년 비만",
+          "체중 관련 합병증을 동반한 청소년 과체중"
+        ],
+        "phase": "3상",
+        "enrollment": 160,
+        "primary_outcome": "72주 BMI 변화율"
+      },
+      "clinical_event": {
+        "type": "result",
+        "changed_fields": [],
+        "note": "기존 3상의 상세 논문 및 학회 발표"
+      },
+      "event_at": "2026-11-15T23:10:00Z",
+      "content_hash": "1959cccb",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      }
+    },
+    {
+      "id": "boehringer-1448072933",
+      "event_key": "boehringer-1448072933",
+      "report_date": "2026-11-16",
+      "slot": "PM",
+      "section": "social",
+      "kind": "job",
+      "title": "베링거인겔하임, 암스테르담 심혈관·신장·대사 일차의료 협력 매니저 모집",
+      "summary": "[사실] 베링거인겔하임은 암스테르담에서 일차의료 의사, 간호인력, 약사와 협력하는 심혈관·신장·대사 분야 매니저를 모집한다. 공식 공고의 지원 마감은 11월 30일이며 정확한 최초 게시일과 수정일은 미확인이다. 공개 LinkedIn에도 같은 직무가 올라와 있어 한 건으로 기록했다.",
+      "highlight": "심혈관·신장·대사 분야에서 일차의료진과 협력할 현장 전문가를 찾습니다.",
+      "company": "Boehringer Ingelheim",
+      "drug": "",
+      "tags": [
+        "심혈관",
+        "신장",
+        "대사",
+        "상업화",
+        "현재 공고"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "회사 공식 채용",
+          "url": "https://jobs.boehringer-ingelheim.com/job/Amsterdam-Primary-Care-Engagement-Manager-HP-Neth/1448072933/"
+        },
+        {
+          "label": "공개 LinkedIn 공고",
+          "url": "https://nl.linkedin.com/jobs/view/primary-care-engagement-manager-hp-at-boehringer-ingelheim-4479891362"
+        }
+      ],
+      "collected_at": "2026-11-16T07:29:32Z",
+      "infographic": null,
+      "nct": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-16T07:29:32Z"
+      },
+      "job": {
+        "id": "1448072933",
+        "field": "심혈관·신장·대사 상업화 및 일차의료 협력",
+        "expertise": "의사·간호인력·약사와 협력할 현장 매니저",
+        "first_posted_at": null,
+        "first_seen_at": "2026-11-16T07:29:32Z",
+        "temporal_status": "current_listing"
+      },
+      "content_hash": "f0187ecf",
+      "research": {
+        "topics": [
+          "대사",
+          "심혈관"
+        ],
+        "category": "채용·업계",
+        "priority": 45
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "웹 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "일반 글로벌·아시아 바이오 검색과 Biocon 거래소 공시·기업 발표 확인. 주요 기업 실적·컨콜, 기타 규제 당국 원문은 전수 확인하지 못함."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Lilly JAMA 상세 논문과 ObesityWeek 프로그램 확인. 신장·안과 등록소 최초 공개 및 이전 스냅샷 대비 중요 변경은 미확인."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "베링거인겔하임 공식 채용과 공개 LinkedIn 동일 공고를 대조. 정확한 최초 게시일·수정일은 미확인. X 및 모든 등록 기업의 채용은 미확인. 11월 4일 오후 아카이브 파일은 대조하지 못함."
+    }
+  ],
+  "section_status": {
+    "news": {
+      "message": "일반 글로벌·아시아 바이오 검색과 Biocon 거래소 공시·기업 발표 확인. 주요 기업 실적·컨콜, 기타 규제 당국 원문은 전수 확인하지 못함."
+    },
+    "clinical": {
+      "message": "Lilly JAMA 상세 논문과 ObesityWeek 프로그램 확인. 신장·안과 등록소 최초 공개 및 이전 스냅샷 대비 중요 변경은 미확인."
+    },
+    "social": {
+      "message": "베링거인겔하임 공식 채용과 공개 LinkedIn 동일 공고를 대조. 정확한 최초 게시일·수정일은 미확인. X 및 모든 등록 기업의 채용은 미확인. 11월 4일 오후 아카이브 파일은 대조하지 못함."
+    }
+  },
+  "updated_at": "2026-11-16T07:29:32Z",
+  "status": "partial"
+}
