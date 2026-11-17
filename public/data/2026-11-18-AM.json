@@ -3,35 +3,6 @@
     {
       "section": "news",
       "kind": "news",
-      "title": "Isomorphic Labs breaks biotech VC fundraising record with $5B series C",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): After securing $2.1 billion this May, AI-driven drug designer Isomorphic Labs is back with more money—a lot more—securing the industry’s largest private fundraise ever.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 바이오 산업 뉴스",
-          "url": "https://www.biospace.com/drug-development/isomorphic-labs-breaks-biotech-vc-fundraising-record-with-5b-series-c"
-        }
-      ],
-      "published_at": "2026-11-17T15:52:03.000Z",
-      "infographic": null,
-      "event_key": "84a57ba0773847a653edd32083be5228fe7a5b6076a68c93b7052beb742559f7",
-      "content_hash": "a6a448ec6e19d2e18d7dd30b24918ccab91a1d8ad8d1552014e76bd75ee5b8fb",
-      "collected_at": "2026-11-17T23:48:17.720Z",
-      "research": {
-        "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "59221b434940bc339260fa59f2a0f3860b06dd06a8546354481dd4b7b9bd8581"
-    },
-    {
-      "section": "news",
-      "kind": "news",
       "title": "AstraZeneca, Calidi, Tempest make significant workforce cuts",
       "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Follow along as BioSpace tracks job cuts and restructuring initiatives.",
       "company": "",
@@ -115,64 +86,6 @@
       "report_date": "2026-11-18",
       "slot": "AM",
       "id": "902e91b54fff9e08102bd90227419dd8ee9d89d4a46e1665c61151fc17f145e9"
-    },
-    {
-      "section": "news",
-      "kind": "news",
-      "title": "Sellas’ cancer vaccine slashes death risk by 41% in late-stage AML study",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Sellas Life Sciences’ investigational cancer vaccine prolonged median overall survival by over nine months compared to standard of care in a Phase 3 trial for difficult-to-treat acute myeloid leukemia.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 바이오 산업 뉴스",
-          "url": "https://www.biospace.com/drug-development/sellas-cancer-vaccine-slashes-death-risk-by-41-in-late-stage-aml-study"
-        }
-      ],
-      "published_at": "2026-11-17T14:13:03.000Z",
-      "infographic": null,
-      "event_key": "bc0ef79475be70587acb62a76ce6dab363b76a71383329063fc4ed3311d78f46",
-      "content_hash": "fbec29069ab90c0de71a4d75bd1864abf143651fde5b3d50d00014d9e0c3c005",
-      "collected_at": "2026-11-17T23:48:17.722Z",
-      "research": {
-        "topics": [],
-        "category": "임상개발",
-        "priority": 20
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "f42806800dc51aecedafc598a7afd2d164ee7389f792266d2a978c58b2ea6d19"
-    },
-    {
-      "section": "news",
-      "kind": "news",
-      "title": "Lilly pens another deal, inking up to $5.9B oncology pact with Stipple",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): A licensing pact with Stipple Bio was one of two announced by Eli Lilly on Monday, after the up to $1.5 billion buyout of blood cancer-focused Calytrix Bio.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 바이오 산업 뉴스",
-          "url": "https://www.biospace.com/business/lilly-pens-another-deal-inking-up-to-5-9b-oncology-pact-with-stipple"
-        }
-      ],
-      "published_at": "2026-11-17T13:52:01.000Z",
-      "infographic": null,
-      "event_key": "b620229793acc82b1260ced279f9e906db5ee3061db5cb4fe9fcf9c6b645e830",
-      "content_hash": "5e9cb6887d42c85ea34a934958182d44064f3fb0cd3c58e500b1266a3ae2141a",
-      "collected_at": "2026-11-17T23:48:17.722Z",
-      "research": {
-        "topics": [],
-        "category": "계약·사업개발",
-        "priority": 20
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "0712a72d47c438b52a1598cb59dd641c1a792462c8d9a57f062f5c15d222a928"
     },
     {
       "section": "news",
@@ -264,35 +177,6 @@
     {
       "section": "news",
       "kind": "news",
-      "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioPharma Dive 산업 뉴스",
-          "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/"
-        }
-      ],
-      "published_at": "2026-11-17T15:51:00.000Z",
-      "infographic": null,
-      "event_key": "84440e5ef1921ae924df8cc0799a355095c29975e600a3406edf0e0df37e5474",
-      "content_hash": "c9f017df6995038921d96c0bbbfe688bfb8614d95c6dcd5cb6fd61d5a6e40c67",
-      "collected_at": "2026-11-17T23:48:17.838Z",
-      "research": {
-        "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "829e6303599984ad7cc764e015d71d6d22b07dfc6fa852be9d55c39aa09f3224"
-    },
-    {
-      "section": "news",
-      "kind": "news",
       "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
       "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
       "company": "",
@@ -318,84 +202,6 @@
       "report_date": "2026-11-18",
       "slot": "AM",
       "id": "2c7920ae1565419e86897b755c95072269e0e38629418f5ff1ee558fd63669db"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Director/ Director, Regulatory Affairs (Global Regulatory Advertising and Promotion)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5175155007?gh_jid=5175155007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "60aaa2f2cdcc56c925841bd9c9c0a10bb109f10e57a588de8d219f4f19738556",
-      "content_hash": "45e0810e5bb6e6ce6577048ce1ca6b1c48bbb7bae5f15fd820bacbf8d64c23c0",
-      "collected_at": "2026-11-17T23:49:39.201Z",
-      "job": {
-        "id": "5175155007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "860aedb285719fdc9e7cf9eb6c279b8cfd17ed31918ebff7023f20794623c4b2"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Director, Medical Value, Evidence, and Outcomes (MVEO)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5266183007?gh_jid=5266183007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
-      "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
-      "collected_at": "2026-11-17T23:49:39.201Z",
-      "job": {
-        "id": "5266183007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "a22d2e18b41ed81ea34574e41937e09a0d21297b64e74c6613c9d7a78d21694b"
     },
     {
       "section": "social",
@@ -435,516 +241,6 @@
       "report_date": "2026-11-18",
       "slot": "AM",
       "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Manufacturing Scientist I (3rd Shift)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5280910007?gh_jid=5280910007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "82f52d45f5c54b3c906f0435f77bf2eaf6787b6221fc54999ac052d27ea737a5",
-      "content_hash": "a1dad32b12e0e8866cf604f10bf0cf5c6445dba0e8e5a68ae5bbf6e300d28859",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5280910007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "85d4eb46dcb2e57360bcc1aa61f3ec6fbfcfe2803bb93e5598e9fc3e3fd702de"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Manufacturing Scientist II (2nd Shift)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5281925007?gh_jid=5281925007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "ad081be5dd882333ff9900babad0b34e153cc415f09ad3f7b56db7481037c799",
-      "content_hash": "6ce6c9840f51a56b28908969db231d41593c537e55ab7265be758038fa2519b5",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5281925007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "5498b31d8424052b1e695e4223b562789112fcbd053d49bd7d9dc2f64dd722f1"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Medical Director / Medical Director",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5133490007?gh_jid=5133490007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
-      "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5133490007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "10314b602f4b3428cdd1c7eeb3a161af9450e24d1ec1d99ece330fa8ed25fb31"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Cardiometabolic Medical Science Liaison",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5124573007?gh_jid=5124573007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
-      "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5124573007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [
-          "대사",
-          "심혈관"
-        ],
-        "category": "채용·업계",
-        "priority": 30
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Director, Pharmacometrics & Clinical Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5279189007?gh_jid=5279189007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
-      "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5279189007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Director, Regulatory Affairs (Labeling)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5221763007?gh_jid=5221763007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
-      "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5221763007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "aba4441f3d561bedd54de11e5e24bd0731fbd1ff0d029e3537b75d1ca4eee3b8"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Manager, Regulatory Affairs",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5232760007?gh_jid=5232760007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "7403253f0b19fea611416bcc652a48df3e314a6deda33f51b60c24e23e8966ed",
-      "content_hash": "27cc15ff72e3003add94dfae3cbffbac740f3f91babdd165aaea76f515ea8b30",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5232760007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "458e040d28d12ca3acc18628fd0af042aab78772194b6f49021d0377b93922f4"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Clinical Research Associate",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5269941007?gh_jid=5269941007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "e26da7f285cc675fb58ab0607eb8c62ce949b116c0aa86a92ddc271a47965758",
-      "content_hash": "cdeb1a9d2ed37c2fdb811a99c9121f04246265f80fd633fc2f38cdebacc69abf",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5269941007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "dd4c3c2c56db8408a275c5b1dae13be3a07a82e33559ce6e6455e5cc26b43c40"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Director, Medical Capabilities",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5271926007?gh_jid=5271926007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "34fc398d0acda291b4d93641774a062f22183141cdd97cec8cf82457559316ff",
-      "content_hash": "3fae9400e9d0745f8c7b5129642ec3312693dceb3cf6fa6d91f164cbfeb2d374",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5271926007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "a37790b1a0edfe95059ad95568f8047334ac1bcbc93d8919388ac2050c174aeb"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Clinical and PV Quality Assurance (Inspection Readiness and Management)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5189599007?gh_jid=5189599007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "9145b0361fa703e51b85bfa7355b9ddaed07e99b337f9122933672738d676fcd",
-      "content_hash": "529eac16c15dc9ec8ff0a0413cf1efd195cfd6888fac37a6decc1a8a22e4f7cf",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5189599007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "a547a9d3e6325c2315130320c61d684edba389782099fb21e9c3940916b8514a"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Medical Device Quality/Product Complaints",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5256733007?gh_jid=5256733007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1e4c304165f55ce3659409b53e49342ebb339b7f0b24d514f6975e52b304d0c6",
-      "content_hash": "a83b510ae3bb48748c13315499a0bca7b2d651f7c2ce4537af9844084d9eda21",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5256733007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "ef989ed8642ed0a78c949d06b1a5afab7bffecf7e8f0423e3735b65e9995405b"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Medical Publications",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265643007?gh_jid=5265643007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
-      "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5265643007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "f055f72c36a275fbfbfd8cff268806dcaa4ccd717ec8e7daa9215e90e40b3fd3"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Scientist I, Discovery Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265558007?gh_jid=5265558007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
-      "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
-      "collected_at": "2026-11-17T23:49:39.202Z",
-      "job": {
-        "id": "5265558007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-18",
-      "slot": "AM",
-      "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
     },
     {
       "section": "clinical",
@@ -12211,6 +11507,188 @@
       "report_date": "2026-11-18",
       "slot": "AM",
       "id": "73f25437492aa88c9bc554428aa8f06b231727e3eceb1207cffe490467b1da32"
+    },
+    {
+      "id": "59221b434940bc339260fa59f2a0f3860b06dd06a8546354481dd4b7b9bd8581",
+      "event_key": "84a57ba0773847a653edd32083be5228fe7a5b6076a68c93b7052beb742559f7",
+      "report_date": "2026-11-18",
+      "slot": "AM",
+      "section": "news",
+      "kind": "funding",
+      "title": "Isomorphic Labs, AI 신약개발에 50억 달러 시리즈 C 조달",
+      "summary": "[사실] Greenoaks와 Sequoia Capital이 공동 주도했고 Alphabet이 후속 투자했다. 회사는 자체 AI 신약 설계 엔진과 후보물질 개발에 자금을 투입할 계획이다. 공식 발표의 정확한 게시 시각은 미확인이다. [해석] 이번 발표는 개발 자금 조달에 관한 내용이다.",
+      "company": "Isomorphic Labs",
+      "drug": "",
+      "tags": [
+        "투자유치",
+        "AI 신약개발"
+      ],
+      "published_at": null,
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-17T23:58:17Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T23:58:17Z"
+      },
+      "sources": [
+        {
+          "label": "회사 공식 발표",
+          "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
+        },
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/drug-development/isomorphic-labs-breaks-biotech-vc-fundraising-record-with-5b-series-c"
+        },
+        {
+          "label": "BioPharma Dive 산업 뉴스",
+          "url": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/"
+        }
+      ],
+      "content_hash": "a5415cd5",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 15
+      }
+    },
+    {
+      "id": "f42806800dc51aecedafc598a7afd2d164ee7389f792266d2a978c58b2ea6d19",
+      "event_key": "bc0ef79475be70587acb62a76ce6dab363b76a71383329063fc4ed3311d78f46",
+      "report_date": "2026-11-18",
+      "slot": "AM",
+      "section": "news",
+      "kind": "trial_result",
+      "title": "SELLAS 급성골수성백혈병 3상, 전체생존기간 중앙값 24.0개월 대 14.7개월",
+      "summary": "[사실] 두 번째 이상 관해에 도달하고 동종 조혈모세포 이식이 어려운 환자를 대상으로 한 REGAL 3상에서 galinpepimut-S군과 최선 가용 치료군의 전체생존기간 중앙값은 24.0개월과 14.7개월이었다(HR 0.59, p=0.035). 회사는 FDA와 허가 신청 전략을 논의할 계획이다. 11월 17일 21:45 KST에 웹캐스트가 예정됐고 질의응답은 미확인이다. [해석] 회사가 공개한 주요 결과이며 심사 결과는 아직 확인할 단계가 아니다.",
+      "company": "SELLAS Life Sciences",
+      "drug": "galinpepimut-S",
+      "tags": [
+        "급성골수성백혈병",
+        "3상",
+        "컨콜"
+      ],
+      "published_at": "2026-11-17T12:00:00Z",
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-17T23:58:17Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T23:58:17Z"
+      },
+      "sources": [
+        {
+          "label": "SEC 공시 첨부 원문",
+          "url": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926128825/tm2629947d1_ex99-1.htm"
+        },
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/drug-development/sellas-cancer-vaccine-slashes-death-risk-by-41-in-late-stage-aml-study"
+        }
+      ],
+      "content_hash": "d6488b09",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      }
+    },
+    {
+      "id": "0712a72d47c438b52a1598cb59dd641c1a792462c8d9a57f062f5c15d222a928",
+      "event_key": "b620229793acc82b1260ced279f9e906db5ee3061db5cb4fe9fcf9c6b645e830",
+      "report_date": "2026-11-18",
+      "slot": "AM",
+      "section": "news",
+      "kind": "partnership",
+      "title": "Lilly·Stipple, 다중 표적 항암 연구·라이선스 계약",
+      "summary": "[사실] Lilly는 선급금과 지분 투자를 제공하며 규모는 미공개다. Stipple은 연구·개발·상업화 조건을 충족하면 최대 59억 달러의 마일스톤과 별도 단계별 판매 로열티를 받을 수 있다. 회사 원문 날짜는 미국 현지 11월 16일이고 정확한 시각은 미확인이다. 이번 회차 후속 보도를 계기로 원문을 확인했다. [해석] 59억 달러는 성과 달성에 따라 지급되는 잠재 금액이다.",
+      "company": "Eli Lilly · Stipple Bio",
+      "drug": "",
+      "tags": [
+        "항암",
+        "라이선스",
+        "조건부 마일스톤"
+      ],
+      "published_at": null,
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-17T23:58:17Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T23:58:17Z"
+      },
+      "sources": [
+        {
+          "label": "Stipple 공식 발표",
+          "url": "https://stipple.bio/stipple-bio-announces-multi-target-multi-modality-oncology-research-collaboration-with-lilly/"
+        },
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/business/lilly-pens-another-deal-inking-up-to-5-9b-oncology-pact-with-stipple"
+        }
+      ],
+      "content_hash": "5918abc8",
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 45
+      }
+    },
+    {
+      "id": "rhythm-transcend-2y-20261116",
+      "event_key": "rhythm-transcend-2y-20261116",
+      "report_date": "2026-11-18",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Rhythm, 후천성 시상하부 비만 TRANSCEND 3상 연장 연구 2년 결과 공개",
+      "summary": "[사실] ObesityWeek에서 공개한 TRANSCEND 연장 연구에서 setmelanotide를 계속 투여받은 군의 2년 평균 BMI 변화는 −18.8%였고, 1년 후 위약에서 전환한 군은 −16.5%였다. 회사 발표는 11월 17일 06:00 KST에 공개돼 전 회차 자료를 지연 반영했다. [해석] 2년 시점에는 두 군 모두 약물을 투여받아 장기 위약 대조 효과를 직접 비교하기 어렵다.",
+      "company": "Rhythm Pharmaceuticals",
+      "drug": "setmelanotide",
+      "tags": [
+        "대사",
+        "후천성 시상하부 비만",
+        "ObesityWeek",
+        "지연 발견"
+      ],
+      "published_at": "2026-11-16T21:00:00Z",
+      "nct": "NCT05774756",
+      "infographic": null,
+      "collected_at": "2026-11-17T23:58:17Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T23:58:17Z"
+      },
+      "sources": [
+        {
+          "label": "회사 공식 배포",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3404077/0/en/rhythm-pharmaceuticals-announces-presentation-of-new-data-at-obesityweek-2026.html"
+        },
+        {
+          "label": "임상 등록",
+          "url": "https://clinicaltrials.gov/study/NCT05774756"
+        }
+      ],
+      "clinical": {
+        "sponsor": "Rhythm Pharmaceuticals",
+        "conditions": [
+          "후천성 시상하부 비만"
+        ],
+        "phase": "3상 연장"
+      },
+      "clinical_event": {
+        "type": "result",
+        "changed_fields": [],
+        "note": "기존 3상 연장 연구 2년 결과"
+      },
+      "content_hash": "b5b49c78",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      }
     }
   ],
   "display_mode": "research",
@@ -12218,7 +11696,7 @@
   "report_date": "2026-11-18",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-17T23:49:39.399Z",
+  "updated_at": "2026-11-17T23:58:17Z",
   "window": {
     "start": "2026-11-17T07:00:00.000Z",
     "end": "2026-11-17T23:00:00.000Z"
@@ -12542,17 +12020,35 @@
       "status": "not_configured",
       "section": "social",
       "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 산업 검색, 전문매체 및 Isomorphic·Stipple·SELLAS 원문과 SEC 공시 확인. SELLAS 웹캐스트 질의응답은 미확인."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Rhythm 3상 연장 결과를 지연 반영. 등록소 신규 공개·주요 변경과 신장·안과 전체 범위는 미확인. 기존 비교 기준자료 유지."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "이전 회차 동일 Arrowhead 공고 15건 제외. 공개 채용 검색에서 추가 발행할 공식 공고를 검증하지 못함. X·LinkedIn과 전체 기업 검증 미완료."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "기업 미지정 산업 검색, 전문매체 및 Isomorphic·Stipple·SELLAS 원문과 SEC 공시 확인. SELLAS 웹캐스트 질의응답은 미확인."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "Rhythm 3상 연장 결과를 지연 반영. 등록소 신규 공개·주요 변경과 신장·안과 전체 범위는 미확인. 기존 비교 기준자료 유지."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "이전 회차 동일 Arrowhead 공고 15건 제외. 공개 채용 검색에서 추가 발행할 공식 공고를 검증하지 못함. X·LinkedIn과 전체 기업 검증 미완료."
     }
   }
 }
