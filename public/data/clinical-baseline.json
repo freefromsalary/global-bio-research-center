@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T23:42:12.344Z",
+  "updated_at": "2026-11-17T08:10:13.936Z",
   "items": [
     {
       "section": "clinical",
@@ -336,7 +336,7 @@
       },
       "event_key": "e4dbf665d0e520ee320c6cc5eb240e80143db4d56ed861862d349e0a281e7ccd",
       "content_hash": "c38c7cd465b7ca17b120e3b2d55d055c37fbd1b6e937807bb145e5edc6d36b45",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사",
@@ -1023,7 +1023,7 @@
       },
       "event_key": "90f202c1306f5127a9cbdb5bef39d99eeaba5f843799c7efa2e8a6af53ba3a58",
       "content_hash": "ed056da211a7b35f9c2f86cd5aa8c541dc8915f9ba27eb01155156f93db9344b",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -1971,7 +1971,7 @@
       },
       "event_key": "a265990cad7d40537c6c696c08ac090caa467c5f88ab4c090540b92a137e2028",
       "content_hash": "6b5fe259792e7d95bec2cc7685fc43fd510a6996d35074c55cf0a7930ddf3c04",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -2845,7 +2845,7 @@
       },
       "event_key": "c7ba8080622edee5c2c13b46d0226d3a45ce586f229d87967213cbd947bf28de",
       "content_hash": "788bf766e01955167fa6f4c9030aa2e935348bf8b1a122847fe1ad7f0b96ae0d",
-      "collected_at": "2026-11-16T23:42:11.353Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -3732,7 +3732,7 @@
       },
       "event_key": "5a3b41d4ceda8dd1d083b8e0a575d1a37d405b3642e42dd2748c4a59bece5b19",
       "content_hash": "99f1deb576ba5751cd4dc36a84025f1f4822f8bbc5922bb142e6891216dd219a",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -4315,7 +4315,7 @@
       },
       "event_key": "3f3e4c9fe84b1c53d52383f1557a50c59c44ef932123b95322a15e700324f642",
       "content_hash": "91f0b4ab1029a593c0306a0a1c95f171a89087ebe051b203e93a2c8122cfc507",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -11062,7 +11062,7 @@
       },
       "event_key": "b51b72b9e41ffca0e8e72f2735dae733d25cbe814360e11c6752eb98d23813e4",
       "content_hash": "f30e37c926cb58c9909fd41070f2ec7cea2c0530997e9bc14a9f83dbb90d0af8",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -16479,7 +16479,7 @@
       },
       "event_key": "644becfb2e4d1cdd24b0ba2f11c2f9e5f33cb7840dc24c574996a90cbc6509e6",
       "content_hash": "fe6e66e34f68eb6b9f307dc7a30d5784947a1561bbcec3bf28747f41ea33c480",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -18048,7 +18048,7 @@
       },
       "event_key": "c811b8bb73989777b41cd81a20a51cfe20dfd4c33437800f0f78f576f69366a1",
       "content_hash": "ca1df5a19769b4ebef9d4f68ba328da243da4321c60f2085ddc8541bc0fb8d73",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -19507,7 +19507,7 @@
       },
       "event_key": "c4daed24b616e097976a1f8d68ef0d71b225292c777eab4a7502ab14c13c694b",
       "content_hash": "9b11750588e740636147add08013676187b90ea3cf767156b588efcddde88513",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -21805,7 +21805,7 @@
       },
       "event_key": "50354f9b514621b94dfffb14e83274105feaa97fd81141d9d387d8f1cc9abd1a",
       "content_hash": "73465d0caad76bd52c800606a1124f366392370e47da6bdc238296d817f2ea08",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22241,7 +22241,7 @@
       },
       "event_key": "08ec171393bd225a162799985793e642c5dd5dc4007303cf38c146d501fc493e",
       "content_hash": "d5935071d1af7831ecd7d9ae4114c97bcf01a4823b479b61afa4e6e7e9de77c3",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22574,7 +22574,7 @@
       },
       "event_key": "64716620d49b03273fa56b4dcfb404c972ef9f465e8b9d9bc67ce7bb5f67f05e",
       "content_hash": "eba7f99b739d76bb161f6d060dcacf69012f35605ce570632f1ea3da1429836d",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22704,7 +22704,7 @@
       },
       "event_key": "577b2e50357579fc7a215b419d0ecab209286cef35e7f776520c3dbf44428349",
       "content_hash": "2879b01b6c26ba23f966ff2807a907fed3891eca30b761fae07ee774653d27b7",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -35528,7 +35528,7 @@
       },
       "event_key": "4c7fb00be210f73841a3afc3f48b91ad0f10a3a156fc24b78f9b4a869232afe9",
       "content_hash": "e69d2533988878f6ae2ead1c6b4a6fde0f0c8d22c969757c598624a48a493e12",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -38368,7 +38368,7 @@
       },
       "event_key": "6d9413b74af35b36224c8dc2c5155e5a667c49cce22c199b02c25d3caa553a5c",
       "content_hash": "a329ee98f0c8870ac7628529f9b57419c27837bc90704efa0250b33593054eab",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -38377,18 +38377,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "important_change",
-        "changed_fields": [
-          "status"
-        ],
-        "changes": [
-          {
-            "field": "status",
-            "before": "NOT_YET_RECRUITING",
-            "after": "RECRUITING"
-          }
-        ],
-        "note": "주요 등록 필드 변경 후보. 원문 대조·분석 필요."
+        "type": "administrative_update",
+        "changed_fields": [],
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -38796,7 +38787,7 @@
       },
       "event_key": "9ef3927e5d0c286ee7b9e55e834b9031dd812fc6d7010e6d958b05bc0f8342cb",
       "content_hash": "35ba3a38c7f05a93017c7bebc49cc142459a7e83f7411fd23c94f04ddc0df745",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -42185,7 +42176,7 @@
       },
       "event_key": "e53cedc4f1a0ff18c03c261e11ca59a124f22e80890a95fe0cf0d1f389199964",
       "content_hash": "9e4dbbd94e1c0b24f3c2f35a9b12e52b98590d69098a69ebce4d5217e67ddd33",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "대사",
@@ -69481,7 +69472,7 @@
       },
       "event_key": "1f943948e9a8ed7031797865b72ce9cbd7aa57034b751f1aee692a9bf0938074",
       "content_hash": "1608965ddd3546656f372f8beeff81bf9da3db58de79a18ca3e71fa8de8fcdb5",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -73457,7 +73448,7 @@
       },
       "event_key": "970bbf977153d70462a35ec2f7a7339865a5f154942f104933a78f84e8624458",
       "content_hash": "c4fb57663df8f48f2bae169c7fb1074155a6d485b931bdcb37231d803ebf49c1",
-      "collected_at": "2026-11-16T23:42:11.353Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사",
@@ -77418,7 +77409,7 @@
       },
       "event_key": "17095c95bbc90a685c0600120608c2e3b0c22b157ff2009f81f3b4f1208235cc",
       "content_hash": "baaf9ec8f8fb17fc40c10a4e9c4dbf0419368246e69038fce202a880bab560aa",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -77427,18 +77418,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "important_change",
-        "changed_fields": [
-          "status"
-        ],
-        "changes": [
-          {
-            "field": "status",
-            "before": "RECRUITING",
-            "after": "NOT_YET_RECRUITING"
-          }
-        ],
-        "note": "주요 등록 필드 변경 후보. 원문 대조·분석 필요."
+        "type": "administrative_update",
+        "changed_fields": [],
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -78065,7 +78047,7 @@
       },
       "event_key": "e1d1ee0e5b4a37fa961318a2ca7b2d0954ba64d5d169e275da918e8f9a992f38",
       "content_hash": "5c7ab9af4a898b19d23515071ccbb709b07047aa7e50ac5a8d3944340773aa6d",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -84671,7 +84653,7 @@
       },
       "event_key": "c8ab44f4c9f0eefd95c60b7d519684166f37d452a991c3c6ffc5bb0f6f7da357",
       "content_hash": "b1e21a69531e92ad0e5149bdbd6311826fcaef1a20da64519ce7d368e69aacd7",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -84680,28 +84662,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "important_change",
-        "changed_fields": [
-          "primary_outcomes"
-        ],
-        "changes": [
-          {
-            "field": "primary_outcomes",
-            "before": [
-              {
-                "measure": "ncidence of post-induction hypotension",
-                "timeFrame": "defined as within 15 minutes after induction"
-              }
-            ],
-            "after": [
-              {
-                "measure": "Incidence of post-induction hypotension",
-                "timeFrame": "defined as within 15 minutes after induction"
-              }
-            ]
-          }
-        ],
-        "note": "주요 등록 필드 변경 후보. 원문 대조·분석 필요."
+        "type": "administrative_update",
+        "changed_fields": [],
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -90249,7 +90212,7 @@
       },
       "event_key": "806df38a98d1c40456ad24b885ceb7a27a3caf1f66424c02e9fce7aa6033419b",
       "content_hash": "edae9ad21da698fc776aa397340e29db4169d3a6af0956bfb2dad5ac0776932d",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -90517,7 +90480,7 @@
       },
       "event_key": "f598203ed00e3bfd67e97571d6eba7220a7ac54adbc1a367ac0f276a74c1d32b",
       "content_hash": "aa4e3aa8f43aa4ab7f504cf2520bda478b0c9cc68c114d09d90502052a560dea",
-      "collected_at": "2026-11-16T23:42:11.353Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -99092,7 +99055,7 @@
       },
       "event_key": "23a96074be8d29872a1b4393a55048b9ca832425c057fe34c2a7de91de87a762",
       "content_hash": "9cb5077494696d4a7a6a6f9ddd52eeeee78a8d0362032af493d9fdefc64c3a7b",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -100282,7 +100245,7 @@
       },
       "event_key": "91cfc6838bbfcce28971e4c0e3e55080e03d80cee49f40c9873c56b877628986",
       "content_hash": "60c97db1d25461b652ec68f4cf1e3f27dc010a0b11915cc9d41fd7d55ee20710",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.594Z",
       "research": {
         "topics": [
           "안과"
@@ -100350,7 +100313,7 @@
       },
       "event_key": "e1a83b8e669c6333684544f5f5e92cb2ff70586c486f8fd38bbc0439b1d4019a",
       "content_hash": "2fb054166c74b7b0411d99a2262f0cb547d801dd01f5c0b6608ee1b23b1ac5f6",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.594Z",
       "research": {
         "topics": [
           "안과"
@@ -101882,7 +101845,7 @@
       },
       "event_key": "be72b366a068aae877a41b90acd439e2b095881b182704817077b7706ba4f4b2",
       "content_hash": "6b4478dbef78ffa0a08efbf769e9ab5e67ed5624fa87b27b033e89c4a11452d6",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -105536,7 +105499,7 @@
       },
       "event_key": "2e5fe7f7603658b8733d506aa4016d4ca7d977412c2bf4421e6a43653d96dec3",
       "content_hash": "94192f214045e65a77a200c678295b8e6e06be14e51f67a3224ac2c7a9b9e975",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -107675,7 +107638,7 @@
       },
       "event_key": "5b9643c45289240c7029096b472e2e88cd1315c1726ee31b5b70223b4635ffa9",
       "content_hash": "6013c5f9031ac6f9638eeb7a154dd2c0929f2f8e44f5c16af58c878f715ef10c",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -108443,7 +108406,7 @@
       },
       "event_key": "b18747d3e7d15a98682d22a2c5245151d10c8260e9f187e2d749cb7c26e4a6b0",
       "content_hash": "cca48d944829230b3a0a240c5245bfcd8a608501bd831473ff37c98e5dfef9ec",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -109504,7 +109467,7 @@
       },
       "event_key": "f9d1c08ca5720592f371beb19ef9711f41d79ee65eff350b3303a804fddf32a5",
       "content_hash": "fa73b0e02b447bdcc81a13a212de40dca989fefae0e0df9ee77175712f4edbdd",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -120489,7 +120452,7 @@
       },
       "event_key": "e9423470f1001e3d851b116da0095cfdce28bbaccce62b4100aeeb825278ede4",
       "content_hash": "b4af08faea3b6d08ab8bc458b67a3f35e7fd976de25cd5a6e41674376e02fccc",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -134740,7 +134703,7 @@
       },
       "event_key": "f175838662926a0d54646943636f83263366d11092820924967a7262269bae4c",
       "content_hash": "a2eb6ffcc88517943532337551c63356d4ec5c1d091e8409015ddcc98e249c29",
-      "collected_at": "2026-11-16T23:42:11.353Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -134749,9 +134712,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -134809,7 +134772,7 @@
       },
       "event_key": "6482f5b8bb944b589ab7d77207e05c814ed0b7980830c8927f36d04c705b8b0b",
       "content_hash": "6901ca124129d6ed12604853b19cfd7447a7fe5fe4d712e3834de2f32b1ff174",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -134818,9 +134781,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -134900,7 +134863,7 @@
       },
       "event_key": "3ecb81b41988aa7ff8b5ebb10d380e44bddce1fe9764922ef841a16fa1475d49",
       "content_hash": "d0d7a5766499b552a96c43aa801b6c2938123eb0e566a8e266016206e9b5f73f",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -134909,9 +134872,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -134971,7 +134934,7 @@
       },
       "event_key": "ccd6345718ff0b9723d92172f50838dca683fa519b72048ffc8382d5fcf96d04",
       "content_hash": "a2865d830d6ee359e0a6a4976238b27edb06b117973221e8a6c0efb54e6892e1",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -134980,9 +134943,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135039,7 +135002,7 @@
       },
       "event_key": "cdb824b623814fd13d7a59f2a6b59bd28afb0634721e09a187719c2b00210308",
       "content_hash": "95d2435c5bf396013fa9df808af47e7806c7562ddbcd583a93373353b957892f",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -135048,9 +135011,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135108,7 +135071,7 @@
       },
       "event_key": "e007f35b3f3e840d1aef6eeaeb20655b8dd714822bdd5607ca934f6e5fbcdc3f",
       "content_hash": "022575d57862977377db61ca7b6d7765f2fc9f85c20caa9368019490a54c1288",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사",
@@ -135118,9 +135081,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135182,7 +135145,7 @@
       },
       "event_key": "f1019c243ad425cb78b48e0371a18a2b115f170f2c5c41214e3522bc229d8fca",
       "content_hash": "059153982b74cf0667eac6e7142a1ebf04b44cc34d582c966ae4119a79d3fb6c",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -135191,9 +135154,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135250,7 +135213,7 @@
       },
       "event_key": "0ca21efc172cc2cbccf216e15cebbf45045bd3a3190228f654e30cc9fcd38859",
       "content_hash": "b15f2df2e502f8fac7fd94e4e0c8479d98239523e422156c7b185fe55798554d",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.185Z",
       "research": {
         "topics": [
           "대사"
@@ -135259,9 +135222,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135318,7 +135281,7 @@
       },
       "event_key": "ecd7755a35fc5146189de45f2275d70bcd07fcd4676f5f6e3ad2ce6e1b660cf6",
       "content_hash": "b460573fcfaa0c720867897b26b918f4e9fbe3793503398aa15da0be8b44ff14",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.186Z",
       "research": {
         "topics": [
           "대사"
@@ -135327,9 +135290,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135387,7 +135350,7 @@
       },
       "event_key": "4456adb0388c2ed3971383b7d975cc4b7d9970ae307d8f56382e6e7fd9d6e9d9",
       "content_hash": "2a0935dee2122351398c674c3fc27427bf0602438e369128411a9fd6b6a0eda8",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.186Z",
       "research": {
         "topics": [
           "대사"
@@ -135396,9 +135359,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135496,7 +135459,7 @@
       },
       "event_key": "7944768f452663b43dfc0105cd18c1e28d723058d0620fad7c2b38a11854d2f0",
       "content_hash": "1b207fc787cee6d7bcd5ac2b6370a43b952e9094fae977f056941adea6146c88",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135505,9 +135468,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135564,7 +135527,7 @@
       },
       "event_key": "07fe43eb78613cd58da7d4e757740c164d8aa8a555b044544f4c533b5e905bcf",
       "content_hash": "d19096cb5b4ca9a5e935896b0708e20feb66f4e5b934b199ea5e06219bab5f2f",
-      "collected_at": "2026-11-16T23:42:11.354Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135573,9 +135536,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135653,7 +135616,7 @@
       },
       "event_key": "5ab8bd4b719a980030cbd4a26af93ba070693af446a44ac2aa5d184708ea4256",
       "content_hash": "d13f9292e672c85e05dd661d2ded4276c3ed61b2b1524ee92d8c4ddcb2d80504",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사",
@@ -135663,9 +135626,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135732,7 +135695,7 @@
       },
       "event_key": "db175f34d9ed2a44089017eba29a6211b7832fdf26b132ec06cef72b98bb1d33",
       "content_hash": "5fed4ec52ba9402436df18bc96dbdb6854fc8a8ee7281e940a0c487139cb4bb6",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135741,9 +135704,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135800,7 +135763,7 @@
       },
       "event_key": "d3d937f0b38956520cb738d9e63f62e9aff137f4b55cf5748d9367d01fd475e5",
       "content_hash": "74125a4566d21b6abd6988d4163605a5b3ebe4c404ff24030e0b3600d8f60174",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135809,9 +135772,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135871,7 +135834,7 @@
       },
       "event_key": "d9ca04e700ca3a6ccf5d11723bfffb301f5fe074ac0ad8d65145a22423e23f59",
       "content_hash": "4e649e9695bafe023577c6c78e31bed4dbf70498a8a4533e7b7b60f214977b66",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135880,9 +135843,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -135944,7 +135907,7 @@
       },
       "event_key": "6ffbb3ae2b2c96d045a08e15f030c6c3b4a8e8e71efe31784bbdab40315ccf75",
       "content_hash": "a1a2f9d21e27f178136e42d2dc9b31e69382d0b861b4d38ea921dafb6d7f2ac0",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -135953,9 +135916,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136012,7 +135975,7 @@
       },
       "event_key": "278dd9fe45a8aa023d80e830799a2d7242c4cacc2191ab4670326deb3eba31e9",
       "content_hash": "dc8fa799612f4f43279344775c2eb2e864961822aa981e610da5377bbc48f42c",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136021,9 +135984,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136082,7 +136045,7 @@
       },
       "event_key": "ab8f1d143cb1ae58e4ec6e1dcd5af7aa9cdb25b067dd3bad394171aec6bc01dc",
       "content_hash": "434493f25584387df7100b07a30349ca071906999683aeb7cfbb0487b4fb0afe",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136091,9 +136054,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136150,7 +136113,7 @@
       },
       "event_key": "50f089e9b0edcb12cb80e20abfa0294aa76d77a0046058598539e48ca7247ab7",
       "content_hash": "cd5ce3a7de54e351c8b4c47595522559e9afac9d50876affbe28f4444f24cb7c",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136159,9 +136122,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136221,7 +136184,7 @@
       },
       "event_key": "3204de6cb127ff3d5d3c7e1082384455a974e37b035a5667fcf7fa612a76352f",
       "content_hash": "9c6e7e08a309ff40c1c7bd57e82f0177969ad4b27e14bb9afa9feafaacc3a9d8",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136230,9 +136193,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136289,7 +136252,7 @@
       },
       "event_key": "0439169bba8c4c9eb4f5b2e14ecf5f69ac32b0ae9f2d291edaba037f4064fd07",
       "content_hash": "454c7e9799955809cbcb277887f0fc2fab2955c3580f14978f4630e33fd345b3",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136298,9 +136261,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136358,7 +136321,7 @@
       },
       "event_key": "20fc86bfa7b2ed6b1cf47e5ba0a2d8276fb2191080829b5d5dedd7d1b2023c9e",
       "content_hash": "c372aa040958e3a6cb2b30919fa30ec8a0013b46e9d48cdb86fdf8c8797245b8",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136367,9 +136330,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136507,7 +136470,7 @@
       },
       "event_key": "08d5b3ce3e25fe092f6a698ae30d8ea036888dde7e8459f13ddc4e13fac10061",
       "content_hash": "b4a3a794c80db6da414edc4e25a360b18bed256be3bcc40bbc1fd7735321e967",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136516,9 +136479,9 @@
         "priority": 60
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136576,7 +136539,7 @@
       },
       "event_key": "522584776050df7a5c3efc37893d6e6fb230b22af6e08ccb8f7ad8cc5fbbdb12",
       "content_hash": "87760f07b0b03da238f001208b45c322f7a4d62f9b132a623ee6a25ea6f569e1",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136585,9 +136548,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136644,7 +136607,7 @@
       },
       "event_key": "0c7b78c8dc6f87423b54c5c5b15cb8fecfd13769ca93ee7fcbb96222f0256d33",
       "content_hash": "1aaba90143484b7b58d3a5dcf157aa2ce6ca0cd0287fa3a2ab4893c8cf17d924",
-      "collected_at": "2026-11-16T23:42:11.355Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136653,9 +136616,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136726,7 +136689,7 @@
       },
       "event_key": "32841d0ae75298b906f3f27313e7e314ad48e43a054dfb00d69283b1559085bc",
       "content_hash": "607f0e81571b6211f02acee39bbe1faeca6d606294222bba3318183f836864a3",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136735,9 +136698,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136841,7 +136804,7 @@
       },
       "event_key": "095a6e8c8c0dd2623f6b6d14d6bb36e98ed794e4f93a7158ee42ec8829ab0c42",
       "content_hash": "67e200e7d5c2c141b94779db52db3e070e47f5a70145a2031efaad5db0e01b6f",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136850,9 +136813,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136915,7 +136878,7 @@
       },
       "event_key": "952e31ab3929901b70c6132c7ff89fdf2b6531191634957ed926e82cc0a5d01d",
       "content_hash": "4f3cbf1d23d0f54aab24c852631f1ab90c52b54033070774676b87254901cb0f",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136924,9 +136887,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -136982,7 +136945,7 @@
       },
       "event_key": "421bad638ce2e244ed4f584bb200db8fc23a52b6f5448f9ef2012e9e13fe47f8",
       "content_hash": "5fad614fbda8727f7ffe21aa388aa3a5b0e336535143933ffc2af07b35d0a4b5",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -136991,9 +136954,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137053,7 +137016,7 @@
       },
       "event_key": "fcf3d7bcb245a9b65978441e645da9fe8e94a09583bae7d456225ca19adccf64",
       "content_hash": "0669c666f1d92570777a0bb81a9a2a0b6a90b9ae0cbf1aefdff5f10654ce321f",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137062,9 +137025,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137131,7 +137094,7 @@
       },
       "event_key": "377426453f9f4372ec82d3962374baae76d264b6ed1edfd924d5ef1320ecfe9f",
       "content_hash": "3262db499a365c5df7d716ad9a134a21d0de0d3b97cfa33caf3d04c4b51a55a8",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사",
@@ -137141,9 +137104,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137204,7 +137167,7 @@
       },
       "event_key": "b52d47f03a729da6f187b312c3c88cd5ceab2ce5f06b0515fcca1ed442ae04df",
       "content_hash": "c10f9ebd3e7cc598c3dc2523266cb956d974fc3753066712945d0f8fcc902a23",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137213,9 +137176,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137273,7 +137236,7 @@
       },
       "event_key": "ee73c79e1d5674ba5bfec1879d32c3aca141f817d886ac44c4c4d8b19470ba34",
       "content_hash": "b947c01c990603093d306e81ce8d099d03316c371c86fd22a4a800aeeb4064b6",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137282,9 +137245,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137395,7 +137358,7 @@
       },
       "event_key": "9667e8adb27708c828d75575c942cbb8d65e96cc12a0de587b3b11f0a797fba6",
       "content_hash": "5274e41cde0920fb68d03b6f27fc774d2055a38e2130d4f52fee62ca9af1f399",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사",
@@ -137405,9 +137368,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137461,7 +137424,7 @@
       },
       "event_key": "4e31f4b829354a47a9019278b4da71f4e622f407560473d38e0f756da5026fc4",
       "content_hash": "155fe81f3b167f2e85ca32ce85e04d3e013bd002ae1c42e92039d501200a9c07",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사",
@@ -137471,9 +137434,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137538,7 +137501,7 @@
       },
       "event_key": "5b68a64cad3453d8b6c37d204570ae617e8cb9dda79fab50a21947cca6b78ab1",
       "content_hash": "04fd9115a7c05d68a41afaa1e919264d6b4f02efa377f0303d107168933b3d31",
-      "collected_at": "2026-11-16T23:42:11.356Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137547,9 +137510,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137623,7 +137586,7 @@
       },
       "event_key": "38986bedd32ddd1916e319fb9b03f4575fee9319160ab8c7cd29d1405701bff6",
       "content_hash": "1c93ff25b566dd4eb0cded2a633fdb11f478a33756471a05f4f717fde1afc245",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137632,9 +137595,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137696,7 +137659,7 @@
       },
       "event_key": "36f0ba784019d4d58f60124c9f78c56f46e1e073fa84c3679aa850e18dd3d38d",
       "content_hash": "f32b3fa2e6480b9927c7ec9f5714b8015387fa115cf7fd09d0a0a2003d23b858",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137705,9 +137668,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137806,7 +137769,7 @@
       },
       "event_key": "4c890a142b9fed603cd1958eedc8279581e8f8afdc9832f1991cdaa0b729c0ae",
       "content_hash": "ca35a27a2d98013c09fdf7bd408fc3e4c70ce1f39d76445598d94c8348558420",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137815,9 +137778,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137874,7 +137837,7 @@
       },
       "event_key": "e3ebc894c3d2c2a8833e980def4f5ce414287495304ac5b22d01c75dff3707e1",
       "content_hash": "6d4e5f3a247e52dd78bb9052225f682182a19ed73b18aa3cec19d821d46b0078",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137883,9 +137846,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -137965,7 +137928,7 @@
       },
       "event_key": "b38f34ce224a498fbdf1217a21ef74c619caf11e1a2453927636ffb31db4be35",
       "content_hash": "0c965ff8d994d460da8e9a6d6206d2e751695654f834f7a5b5a774bad7a1d9b6",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -137974,9 +137937,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138033,7 +137996,7 @@
       },
       "event_key": "cab08e43d692db9275778ab3f0ac66a7c71effc81754e3402b2feecefa1791b2",
       "content_hash": "7cc11615a6cb14a4acf0e6d71439994c1a6e62914deefa2ae014846df1f2601b",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -138042,9 +138005,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138101,7 +138064,7 @@
       },
       "event_key": "e47e0e50e28d81a50d04204dd7db4a85508a61e59524d2aaa72161ffebbe9ffb",
       "content_hash": "9ed949027f468ad59ffb591f2df0226a9da8d82b7c3ec2c0169e78a5ebfc2615",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.187Z",
       "research": {
         "topics": [
           "대사"
@@ -138110,9 +138073,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138191,7 +138154,7 @@
       },
       "event_key": "addd027f5eb023e927d1af393a0bff44d27f9b934a05903c100f49caab8bf104",
       "content_hash": "8967d71b303277548d2b798d4f389d8e002c5d3f35d166dd087b9ee59fc55a07",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138200,9 +138163,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138259,7 +138222,7 @@
       },
       "event_key": "1e117ae7150b6eb96f59ae596e3faaedff0cec56e2ea3dd2d3bcd9bd7dd69ee8",
       "content_hash": "beda11882a1eee48ab9e2c0e2a028a1e12950d60e997be564472d055858765e2",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138268,9 +138231,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138326,7 +138289,7 @@
       },
       "event_key": "a002a03680e1c90653ab536ddfe15548aabd4813c2b14008e51c41bddb6b291d",
       "content_hash": "8e5d2b0775243904fd9bdfe7188e212d8517b7268de3ffd1b62ee57bdca74d62",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138335,9 +138298,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138394,7 +138357,7 @@
       },
       "event_key": "ec0acf81b972bf765336568ffad7ee9a9f84afb4b3de9c5728f6fe579dcd694f",
       "content_hash": "b0a9d2854812209b70d4e300580d1d83d0d5f748e1aeb5594fbe55a0206f017d",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138403,9 +138366,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138471,7 +138434,7 @@
       },
       "event_key": "576af1b971814f510dc3688060da63d74a925eb78b7baf6b2b2f609949a7e06c",
       "content_hash": "0adefd037b815187e767dbc054051676043877e935c84a8b60da35f4512a193c",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138480,9 +138443,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138555,7 +138518,7 @@
       },
       "event_key": "af048ce6ad5ab435f030de16454a6b4bdfc6b8bd878559ef5674d5190e3a2228",
       "content_hash": "74b430d538927ec3b3212ce8ed3c3d2b85b29b7e25152f15980b06301086864a",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138564,9 +138527,9 @@
         "priority": 60
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138625,7 +138588,7 @@
       },
       "event_key": "1a9a8cb7dd3b6ffe4e19bbef6205fd3520dc4bb7eda7d2944f00f36f2138a65b",
       "content_hash": "03d57ea4ecf1eb0d2774f4b83b2f75f06a372f1e60863dc4fd09197bfac0c32d",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138634,9 +138597,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138691,7 +138654,7 @@
       },
       "event_key": "8d870bddb68a1f16b2cfa7da088abf0a4c34a74bee397568203d659ed600ef1a",
       "content_hash": "40b3799d328bf7896d97285d236e164b467ca2d184a59ef6c0649ce7d8a26451",
-      "collected_at": "2026-11-16T23:42:11.357Z",
+      "collected_at": "2026-11-17T08:10:13.188Z",
       "research": {
         "topics": [
           "대사"
@@ -138700,9 +138663,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138769,7 +138732,7 @@
       },
       "event_key": "941b4345496785189c404ab3c10fa375db5689a44684cc5c21df1e059f2a7f21",
       "content_hash": "b008521646b6abcff448169f706752d40569da549fa52c71315220b9a3abdfdb",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -138778,9 +138741,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138838,7 +138801,7 @@
       },
       "event_key": "30d3be180ef057a19d98947a47ecfbc4afd6c77795c83e7a837eb87bc62568f3",
       "content_hash": "4dbc542ef915e64c622de284938be51fb95b8843e0c6b74b48b8ac45f97fb098",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -138847,9 +138810,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138906,7 +138869,7 @@
       },
       "event_key": "45f482e829169caa9194b7a890748c25bd04129190d436d5ca6111e1a620bdd1",
       "content_hash": "a8b4aad4e561e616952785a74030c9a7baafdfa1b9a0bb7de8830521356b23db",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -138915,9 +138878,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -138974,7 +138937,7 @@
       },
       "event_key": "bc19a02c8e5e03f3234f4d96a1c3b653ae3c9f2175f54d44a14e78b4fff71a19",
       "content_hash": "7c1cf4b2c37ffb24e6122e50e8140d17b82d778f00d23dcbbeb9ce3d7e2743d5",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -138983,9 +138946,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139070,7 +139033,7 @@
       },
       "event_key": "f633a234bdeb083a2c73d5c707d6112727dbbaaafb60647392d3fcbae23add0f",
       "content_hash": "70bb26ad45e570a8c409b0d02cccd6685cc4a5c825a1a921fa64a0b3fdf98733",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139079,9 +139042,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139138,7 +139101,7 @@
       },
       "event_key": "19aa07add51cf5337327b30c21f934d109c0e91e5fbe2541ffaaeae512f6b111",
       "content_hash": "1f37a9e58e93e0829c45d5ba058a7d99084de06c324664a74a3bb78222d2fdd9",
-      "collected_at": "2026-11-16T23:42:11.915Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139147,9 +139110,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139222,7 +139185,7 @@
       },
       "event_key": "b5b807e2ed3d5b2c6edf7d86fc728ab7601365e43177eb2510a8a13c5313a69a",
       "content_hash": "f4b359755d3f7c344a1baf469bab20e476f2c507dbada1513e3d271dc412894f",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139231,9 +139194,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139299,7 +139262,7 @@
       },
       "event_key": "d327f59ffaf33ca69667f31a7d5dc4032d78c569aa40ab2aa76042ed6bb35688",
       "content_hash": "4ef922abdc1ba5f9687fc1706dc9fcd8f259623d40b10f90f4276cee6c8d6316",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139308,9 +139271,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139367,7 +139330,7 @@
       },
       "event_key": "92df27152b821d2b4abfaabf4ab6d427667db96d74e1a1b32a3cedab7bb04d71",
       "content_hash": "8b91d52db2d989ade43d5cd3636a30fed87b7fc2a0ec05d5dcc0227c7e173fe5",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139376,9 +139339,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139435,7 +139398,7 @@
       },
       "event_key": "9faae32474fbd6431bf7fc2d3af995b42053cb777da5aaa35f0dd66be2bd6611",
       "content_hash": "52ee0143c1db8d7b514573bd361c70129d724408512800ff09c77d6fdd8d6454",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139444,9 +139407,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139512,7 +139475,7 @@
       },
       "event_key": "7ea0f78998978c8855c3a15bcbc356b729ca61807ad5f540015632e1ed8e8883",
       "content_hash": "fc1038685fe2bd4644073f1a279e2cba44fedf594fdcd63f2eab6a7305e005a9",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139521,9 +139484,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139576,7 +139539,7 @@
       },
       "event_key": "633ee600a3e88640da005b84a1ca877d4cae5564cb4f4e119376a4cbb6daf01b",
       "content_hash": "214f22fcbe58325e8642fd1e70caf8a730902bd52d6eaafa3afdcf0b03d648fe",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139585,9 +139548,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139635,7 +139598,7 @@
       },
       "event_key": "0c5cde9389bde3375071afed0b7a331bfe6251d5780de2f800593eacfe350992",
       "content_hash": "c93480268b435dc25a24c98927b7b19e8333fea1961a41a8092ca881fd47681c",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139644,9 +139607,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139710,7 +139673,7 @@
       },
       "event_key": "4c29f2c3fb78e38beb00c156643e079878dc36fbd1f6579a6eb7b9a06e240c54",
       "content_hash": "5e4bcecb56903384ea93abc979bce25e48b98aed745585996ac58ae704d59416",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.494Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139719,9 +139682,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139774,7 +139737,7 @@
       },
       "event_key": "1849ae9dcc5923fe575d1ab8adb59bf765e335d3d7073cd56cd5ccd13adb5df5",
       "content_hash": "d56677550b2d74d5d0fe01cd2f35e8a12baefac3468a9004726eae9a58d68be6",
-      "collected_at": "2026-11-16T23:42:11.916Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139783,9 +139746,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139838,7 +139801,7 @@
       },
       "event_key": "9e09bb1f25bf3dfe95a87c63d078923c6a22f799be980b0d43e4cb8c16dca3d5",
       "content_hash": "b5e909ec1a15b9e4df8855f9d1d3b72f2a2846fddff8935301f3bab272cf85bb",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139847,9 +139810,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139915,7 +139878,7 @@
       },
       "event_key": "1d79073db24efd655b9b8ce8efcf3e597b4882e4f5f5a6d8b6d2d38bb874f947",
       "content_hash": "c101445090175075c369426e91cf16259f6981e8fb328614fb006aec394c8af7",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139924,9 +139887,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -139976,7 +139939,7 @@
       },
       "event_key": "c8fd11295919af6151c6f0414f3a11a1c16b7e06d7f318a069b4a8a8fa16e0e0",
       "content_hash": "846a4ccb888b72a6e45ea3da3ee5d9027a1e9799176a40c0a033863cdbf4e6ff",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -139985,9 +139948,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140048,7 +140011,7 @@
       },
       "event_key": "989a7852ba14ab3506fa43dc095324e68e88081741b3630f14b2bcb56d818e44",
       "content_hash": "792c92535e75350081f24498e50a1bc9ce885031e6e7144c55aa87bc0452df5e",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140057,9 +140020,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140111,7 +140074,7 @@
       },
       "event_key": "ef76155dda676e354f7b2e52f04d4301645a49493d174f7912804eff7c52b757",
       "content_hash": "01ab0e2e8a3f27eada5e6893da5a715e377e5db4dd6749c79da8d75961522415",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140120,9 +140083,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140203,7 +140166,7 @@
       },
       "event_key": "c9e8c8374dd06b30aff50c6b880cedd573f3872c0507e453be32e4e3a3d74abb",
       "content_hash": "f401add5de80c083bed1d601e918c6bebefd2bd8cbae8099312c7c19f0a56d74",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140212,9 +140175,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140274,7 +140237,7 @@
       },
       "event_key": "a41519cabc8e98c12dd88effd048a5d1f854fb800d3831b19236c2df10a85abd",
       "content_hash": "f44c29860fe7b9e749a2a7c29c8b3750b51a5be37e5f4299f9c8bcfa0c40a311",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140283,9 +140246,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140338,7 +140301,7 @@
       },
       "event_key": "08ff16fc9eddd4ec583638e79facf72bcb14c467ce208663a0f85d1bcf5fb625",
       "content_hash": "8bb38b14c3ed2184e3a532b6463790d2a65ee24c2256386db683b29e8d761fc2",
-      "collected_at": "2026-11-16T23:42:11.917Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140347,9 +140310,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140402,7 +140365,7 @@
       },
       "event_key": "a12cee3e51f445b64dc3106cdd8331e3e6be9f30a1b72d8e48312cf0fd0a01ec",
       "content_hash": "9831de54ddfa16cd484daf303c695cbefc5aee91c1a922b4877f6f99de81a700",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140411,9 +140374,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140474,7 +140437,7 @@
       },
       "event_key": "39cf1237101db865c4e83676203701eeb15d5789d76898c1f7d94a37e152c184",
       "content_hash": "85b65df2d06f2e57ea8de055aa5f858f5aea6be7a7174743fc07ef3ef3e164f3",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140483,9 +140446,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140542,7 +140505,7 @@
       },
       "event_key": "d04845888903503e090795305b3cf91409e2632b7e3b709d44d17e1b5975306f",
       "content_hash": "ffd8702200f36fc0d8e4532cbf949e864ced1d388fb4368a2cdfb3f446fef804",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140551,9 +140514,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140624,7 +140587,7 @@
       },
       "event_key": "57d54f4ea1483dbc30d1470b70d889ba68b65af490193823fc8d76636191bd0a",
       "content_hash": "14600b02f03eecffd45c45e8b2bb31453553154fdfd01a905cdf946f873e0671",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140633,9 +140596,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140700,7 +140663,7 @@
       },
       "event_key": "e8fcd46e1e73b3e99991d95e0b6299908a1570cd3ee7888cb38bc42e2f82d3b3",
       "content_hash": "5f6b9412542fed072d1936ef96bb57e37800bf6285a206f6db89b0580c1be45d",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140709,9 +140672,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140766,7 +140729,7 @@
       },
       "event_key": "9d874206f7ac7d1951ac5bda372c612945a9fe881217078952fa38b292fcb40e",
       "content_hash": "953c7aaa4889044bc030fb1af3d95b7fe29be3e838516b42ab2d1dcca75e15ec",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140775,9 +140738,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140834,7 +140797,7 @@
       },
       "event_key": "4fb1d4a1db38001ea3e58cc6baf74e75ad4924bff109b656cc528e91afc973aa",
       "content_hash": "8e271fe067dd39b20bf321788e9bd9175a5efff30220c9a53436504b2f0566c5",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140843,9 +140806,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140908,7 +140871,7 @@
       },
       "event_key": "6133d60f7ce69d1ae4b76cf45ff2f4c3f1a147d5bf65484ddf080cb68a13dedb",
       "content_hash": "f3f1def93b1dc2433546239d3ecdacff9104707a4e19038234eebb6191c4bed0",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140917,9 +140880,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -140974,7 +140937,7 @@
       },
       "event_key": "4327c53387f130f4afdd12bc25b70bd2452d7260575183fc3df270dc2275c334",
       "content_hash": "bc2e6d2db9692319f0ec0eb7618f6d20e96aed722bde89635514bb8e19496d88",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -140983,9 +140946,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141048,7 +141011,7 @@
       },
       "event_key": "59650548deba8bf0a651657f82c73ed1285413db5becd2c0341d12c7b7c0da8d",
       "content_hash": "f9fae72d460c2e9d092493c2fd994f7f2f9820d7a4e393692312ce95409cd50a",
-      "collected_at": "2026-11-16T23:42:11.918Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141057,9 +141020,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141120,7 +141083,7 @@
       },
       "event_key": "c760f0561386c6e1bdd0fcd3974167ac9e15ff2ca6ceaa73f535fbecad280c32",
       "content_hash": "715b55aff509af5fc1dd8b0142938213b02107a1dc6ea838662d06473006fc7e",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141129,9 +141092,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141205,7 +141168,7 @@
       },
       "event_key": "031e59ab9c0623a61486824fb08ddd69a7cc8cc071b32a42e1a8fd9f9406723c",
       "content_hash": "23543f89d640db70c5075eb8753d6130e05da89392f358ad9ccbfa5feeb63000",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141214,9 +141177,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141268,7 +141231,7 @@
       },
       "event_key": "0125549152c24b47d9b459881c852f41fc74a1724671b7a7df88310a66733c56",
       "content_hash": "5b252fbb43ae20bd60fe855de660d68a66a8e63fe5cec0e7e166c4061fd20e35",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141277,9 +141240,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141339,7 +141302,7 @@
       },
       "event_key": "4f85e7f74246442069ea9ca07c3e3640a34cc0dec2b07a00c84ce09301a7d348",
       "content_hash": "7766eafdf5992c367c9bf1e9614fd6af8d65f243e30ba5e2da8a0d2868a131f1",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141348,9 +141311,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141418,7 +141381,7 @@
       },
       "event_key": "d5a986717921686566c620f83b61388b3c470cbc623eedc6194129bb71151e21",
       "content_hash": "21a98062b91eac8798f82ebc88dd5e1028f9fd9d8d60c7aadf9557b4f1d3212b",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141427,9 +141390,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141497,7 +141460,7 @@
       },
       "event_key": "807c79a9ede2234a22b73b7436232c2a5c8be818e854317c357378abe05abe08",
       "content_hash": "1c5b39f9aa633c30d4bff04c0da97122d3443ee7f309b95ddfd55dc57536411a",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141506,9 +141469,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141568,7 +141531,7 @@
       },
       "event_key": "727f21a2d39fc349b2b9c3f6519db39b9561a9f0beaf262016178d69441b9930",
       "content_hash": "1e121afaec05c274b3ff734e6163921df458bbe6f3b749f923a2352f28a0563b",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141577,9 +141540,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141644,7 +141607,7 @@
       },
       "event_key": "5502468a37dd0753375f0eb0633e2b934a7d124a6e767d65c22d9a45d99b4f33",
       "content_hash": "736cbef706144e4b85dcd8ca3902ba677cb9e4fe5aea3bd2a1a868c88e9518e8",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141653,9 +141616,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141710,7 +141673,7 @@
       },
       "event_key": "7e189550f69fb5c36441546e81922c2d861bf47d09f0700efc4cc8186101be4f",
       "content_hash": "0b88cc742910e89072e645e6f0a8214d60f78ec929f1c43665da9a3117c7de02",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.495Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141719,9 +141682,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141783,7 +141746,7 @@
       },
       "event_key": "3ac93e76850808520222dd79919684464ac6ad44d57ff61de07573a6bedaff37",
       "content_hash": "89e09c56fb2955bfe863e10a3089a5906c510b0e14e455f4f4ee9ecb93351335",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141792,9 +141755,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141855,7 +141818,7 @@
       },
       "event_key": "8d4a656ed16f0b1d3ee06044487b5d257fd74dbc291e5227f24727539cdedf1f",
       "content_hash": "ea758c2ea70667b12e4649085afba9d8cfb1751021c5ef3ff17696413250e61c",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141864,9 +141827,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141919,7 +141882,7 @@
       },
       "event_key": "d802fc1222bd54ed39fade3f32bcd19c4de451d576a2a4597eda704e7d33be08",
       "content_hash": "82eb64fe6f4d0a4527bf3f64ef033161592262cc8d7870179b77949e220dc493",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141928,9 +141891,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -141987,7 +141950,7 @@
       },
       "event_key": "fe34550a5cae7fdfed1e6a11c18f36479eea32a941e5d846444bf627cb077837",
       "content_hash": "bf6bbee86a6c339d29d337115b690f101b9d838f8e66ea448e66ae071526a9c7",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -141996,9 +141959,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142045,7 +142008,7 @@
       },
       "event_key": "9d5315da4d9246b004d5f0376aa9a0466adbc4dacbefaad63d30852e1e9d647e",
       "content_hash": "d264dfc6fb145223c4c436ed6fa73ccc8ce0b30452e393c7e7c6cbdfe268dd06",
-      "collected_at": "2026-11-16T23:42:11.919Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142054,9 +142017,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142113,7 +142076,7 @@
       },
       "event_key": "6342b57968966d6691bf54f46299f33c5444132e7c572b8ca32bbf4238924e19",
       "content_hash": "58dcd142e36a7b0f9b689a87e49db1261a0d98b9072a47d3e4d04275433afcea",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142122,9 +142085,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142189,7 +142152,7 @@
       },
       "event_key": "e57ceed334a733419933244a593f62bd47c77589a1764ba47493903105f05e9e",
       "content_hash": "c5519c3f89638ba063e973beca5bfa37d8499d19aea029ff34b030bde1c313c5",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142198,9 +142161,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142260,7 +142223,7 @@
       },
       "event_key": "a410ee1b06ece6547ca1c173f31ec79263c1e6263a7a308e698d5c1818fabf38",
       "content_hash": "d54b1129b966c44ead92f339a8887d630355e0f2a4146897cdfb0b8c0cd5ee6f",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142269,9 +142232,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142338,7 +142301,7 @@
       },
       "event_key": "b7fe6b45397ee862260ac2dade905ac8642e7171b09873230f03e864192fba1a",
       "content_hash": "98b2fb88e4502ba585c7e60d2e1074d3d4fa9c85c2bf6a617fd25a648fbd30f5",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142347,9 +142310,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142416,7 +142379,7 @@
       },
       "event_key": "8c2632ba12f3ac8121c4e1e160e0b4df155ddf20a8ede7022a94c7d6ec9d79dc",
       "content_hash": "451a958f02a3074272f1d68554b855d66fd26bfcea809dbbfb3fd64744823276",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142425,9 +142388,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142492,7 +142455,7 @@
       },
       "event_key": "4c2cb23a5e66469a615c043c9b55867180074b53ba57ce008a95bc61b1f300f4",
       "content_hash": "4af8a99aab155da975c766927b3c49f446a6bf478ea8fc20f6048961700b662f",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142501,9 +142464,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142561,7 +142524,7 @@
       },
       "event_key": "8c267bc830be8f6d24c76979ea325071ff2c37230cad5c8ef149048de1ff0e84",
       "content_hash": "b236a74071d4e590f698e59b76e880d2d34dc671af0d922aa3ef0e1828cb94fa",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142570,9 +142533,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142642,7 +142605,7 @@
       },
       "event_key": "35793b7c50cddc2de8e478d7a1b24dbe5328b9fb3e75eb2da1fb15764da5edf4",
       "content_hash": "00d8a8c9c63fd964ad30d1cf290537737dc29a145641f705a43dcf191e4d2689",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142651,9 +142614,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142714,7 +142677,7 @@
       },
       "event_key": "4b27c90c8e30911e7c70ac3d435e254faa309acc3ff31b45b73b8303927f7a17",
       "content_hash": "3d4cdcd0241f96450f5c5db24d25a4a04bb99180a821b7743b946ebdd15bc2e7",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142723,9 +142686,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142772,7 +142735,7 @@
       },
       "event_key": "2274403197092fa738ca413227f4f581ffc38ffa533315242b6867d8ab7827aa",
       "content_hash": "e6d30567e16de20f26503a299a2ae5bfc939856f8293fa0913d985535bc60866",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142781,9 +142744,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142847,7 +142810,7 @@
       },
       "event_key": "a24634f7850aaa43aff89f6927ee40263d90eca1fb8c6ac2a7940612e4ba9c24",
       "content_hash": "8328c7216557ec0e686011a3eedebe7fe75e065ab1ee222599d04c56d54a8982",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142856,9 +142819,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142906,7 +142869,7 @@
       },
       "event_key": "0109dd74e5f30b03cf5810782c78266892f32f3be1c56ba6be019b43647e4ca9",
       "content_hash": "44c4925cf7bebf346019a356dd2c7e7af2657237243611495adc7401f896abd6",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -142915,9 +142878,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -142976,7 +142939,7 @@
       },
       "event_key": "e611f4175a956f86efd6a9d419e67c9ea63f03dcec97a832fbf2f4db969f96f5",
       "content_hash": "8e4b4a1a459407c3448c552f0d9aecc6a482cb99674777a0bd9dace893654dcb",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "대사",
@@ -142986,9 +142949,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143042,7 +143005,7 @@
       },
       "event_key": "90edb71f3a37e2b6c06d915d88637bcb083506746a441f25ecc7a9fe38961b29",
       "content_hash": "cff549b5ffb6d56575a9418512e79bf75807d038b8d7d864ec0fc28e0a7fbe42",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143051,9 +143014,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143108,7 +143071,7 @@
       },
       "event_key": "a22f477e3fc998af1f68d40c889b227f3d12030daf5f08a8e5ebd1bb61959ce1",
       "content_hash": "110b8302e6cb1b1cbc8ba5df9e463386e44fb020e82b574b187c1018cd516d7b",
-      "collected_at": "2026-11-16T23:42:11.920Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143117,9 +143080,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143173,7 +143136,7 @@
       },
       "event_key": "9233ff7b61ad0108da627107335dbffb59af88b1aafcbc67aaf78b3548c42224",
       "content_hash": "f231bb5c3d74ccf757ae97c64656e9e682a932d72652150391b137ff0546c566",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143182,9 +143145,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143255,7 +143218,7 @@
       },
       "event_key": "96cb1188d4447c6fdc14aca3bd31ca0ca18865b2885bdf6e4af750b6517c1973",
       "content_hash": "9f4e4c2a0f32e73b94b8ab42909b15aaf9e8c0f9eed03f7b32ecd8b45f587b9e",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143264,9 +143227,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143323,7 +143286,7 @@
       },
       "event_key": "adab27d300590fabd66571d4cd6bd280e647ff6b3684b0abe83739337e2d3254",
       "content_hash": "dd8dd0f3a4d6c78478a89654d56db49dfe04f4f09bfa074421b33213184a2f7d",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143332,9 +143295,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143412,7 +143375,7 @@
       },
       "event_key": "76a4c4346ce25085be2a83e3f87fdb522ea7fed8938285ba18ebeda34c72d06e",
       "content_hash": "74ea6d433b9bba63da714f79908346ef0ba2e3b2dc7029b25327c475356565a7",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143421,9 +143384,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143480,7 +143443,7 @@
       },
       "event_key": "c6f45d390078eb07cf09286a545491aa4f65378efdaba51c49aa23b8a162ba52",
       "content_hash": "62eea310b9661bb3f20ad3354eec92f71f84efcd330874405561b91fd1ce4a77",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143489,9 +143452,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143550,7 +143513,7 @@
       },
       "event_key": "4c8319a69df785a7e046387af5a4906cb2b4a7a5ce5e9cf513c42fed4692945a",
       "content_hash": "146032641666286adca63e586c866809639835b6c97d12c3efa093c7691ed6c5",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143559,9 +143522,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143619,7 +143582,7 @@
       },
       "event_key": "c3c8ba250bccb9afb895e38c9e9636f54a0a96aee62573d00320b4ba741e4964",
       "content_hash": "06d76ee8422526cf07fcdb5f936d4140befa6b351c6dff92ff9285e2b80ce314",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143628,9 +143591,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143685,7 +143648,7 @@
       },
       "event_key": "99b61c00d31d093963ae01b77645face37d1157c3dbe0bb804596e12c1031af1",
       "content_hash": "ce39269ea4d530cb13b9a2dbbc826e778d67ea14a4cee96bcccd694db0d3ced4",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.496Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143694,9 +143657,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143762,7 +143725,7 @@
       },
       "event_key": "ee7718844472e898ec023800b7bb902b8f379648631fc40a6d84416f43bcd890",
       "content_hash": "02bcce497b553691a9fc772383b7df2393f450fa4f7476b6a431823c7363e756",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143771,9 +143734,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143835,7 +143798,7 @@
       },
       "event_key": "887204572026c4946d8853caae8b54a88288aea8ec777cf2b8d119c2793a2270",
       "content_hash": "fdc1fd2887c4f220164aa7c15b153558be42242aa7f23950a7d7619b57a2f6ed",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143844,9 +143807,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143899,7 +143862,7 @@
       },
       "event_key": "ad1aa83fa3900c29af87722d8cdb2264373f1a87cf8ab76a6da95c9bca201ffc",
       "content_hash": "2b1ce6e2014c8db767b05d7a3e857eb431815a5a9a900387ed4f40d8c779dc9f",
-      "collected_at": "2026-11-16T23:42:11.921Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143908,9 +143871,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -143967,7 +143930,7 @@
       },
       "event_key": "2020737c9c8e443d8db29d1a5e47b0648f92a5e56b95cd283201ca03ff3f7123",
       "content_hash": "b7ffe5349e37063d68e2083e2247bd8b12619dbacd0a3eb3e7549951dfeb2245",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -143976,9 +143939,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144032,7 +143995,7 @@
       },
       "event_key": "749d8bb434036fe12ed23b6c87a70b9f26204f90d7db48d66323f1c0ac267a07",
       "content_hash": "72b492c1992b76093d3e43e1c36b91fe846c1ee57268fa3cc06bd8f3bc8fcea7",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144041,9 +144004,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144093,7 +144056,7 @@
       },
       "event_key": "94c9200f6393b7915983e2a05b93fa4b4a6df28672f0b389d9d397d0e74d3919",
       "content_hash": "fbe345d5ccf5f98738775265a4928aac85b365b88f8d55993ae1f620c4305912",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144102,9 +144065,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144163,7 +144126,7 @@
       },
       "event_key": "c475bf5a9274965d36b3b1bdc388261988cb98a83e3337b1547cb8b0f08bc30a",
       "content_hash": "c0858c437dd1e9b79e7df3b0890a05ecdf2cdd688621ca76ae618bedda05af2c",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144172,9 +144135,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144228,7 +144191,7 @@
       },
       "event_key": "6b5b2cf8cc37d7e6bd94cb4b9cc5625983724dc8ea0fd27323c64a2e913b212e",
       "content_hash": "ca4634728580f6eb8898c8af929226288bd77a020451f6e87854d47aad9a3a54",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144237,9 +144200,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144291,7 +144254,7 @@
       },
       "event_key": "a937047908f9259176569291b959e8fe7cc5e539093b6ca83f261aa3f2ae2a99",
       "content_hash": "8e9094548e64d561a993c74920f3d2a2f4089d6c26b33eb7a2440997dfe475e9",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144300,9 +144263,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144361,7 +144324,7 @@
       },
       "event_key": "1264b59bed2ce0d45049db91d887fd5699e291d8594d19196cc45556f506da4b",
       "content_hash": "7e85948e263f6a3af3bf8cc7fb7ee2ca94f117c41c72fd4f486eb85964e1ded1",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144370,9 +144333,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144427,7 +144390,7 @@
       },
       "event_key": "64e35f91d8e6cadc142b303d88ad8169dbde8b66189ec820973088a0f171658b",
       "content_hash": "39c31ae5e39eb8d017c980e0ff35d57460990a6ea94ddbc07be2e1824cbea695",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144436,9 +144399,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144495,7 +144458,7 @@
       },
       "event_key": "d4d9f0b1dfcb01d73c477b820e4d956cedc1336bf8b16fc2b284bfc277b21add",
       "content_hash": "bc524b2834e61fb8908ff7639f2da944a0cb3aa36f649465969a3accec54a8cb",
-      "collected_at": "2026-11-16T23:42:11.922Z",
+      "collected_at": "2026-11-17T08:10:13.497Z",
       "research": {
         "topics": [
           "심혈관"
@@ -144504,9 +144467,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144560,7 +144523,7 @@
       },
       "event_key": "2fcee722edffe55cef24f3a0053c02358796b04f0301d1dc7b446ecaeb17265a",
       "content_hash": "3e76e8d9874b643545cbb5442d7ab8b9691294f1d43bc60043571d7b84fdc57c",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.594Z",
       "research": {
         "topics": [
           "안과"
@@ -144569,9 +144532,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144628,7 +144591,7 @@
       },
       "event_key": "58ead9b52a39e5d9c09b51301c0d770318b7a4adb4777545d84a0d4d2a9cc4d0",
       "content_hash": "d43cafbef3eb7cc75380f6549f36a22fb28bf7683cf6e119359e4fa0e6742d8a",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144637,9 +144600,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144696,7 +144659,7 @@
       },
       "event_key": "5e658f5581704e2eccfd644a4358635e039a3e8412e5f3394ae79aff11e4a33b",
       "content_hash": "52d57aed1771d9f03a32eb23e99547a5b6264ca185545fea69ecd99b5e6c347c",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144705,9 +144668,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144764,7 +144727,7 @@
       },
       "event_key": "2e052d0a5c8562ecaa1161a09727845b474dbbba4f201e496b4d75cdc3e0d2ef",
       "content_hash": "94519762efc45b30bca4717cccf3938ccf75e28343d33b8431908597f96d0161",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144773,9 +144736,9 @@
         "priority": 50
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144832,7 +144795,7 @@
       },
       "event_key": "6f2e69ce84ab5fc13cb952c47d7dcd3319de2a83c1df5c9228d5d8949e281536",
       "content_hash": "2b3c2e8550943f77df004e3e44ee8593e7ca7ec062a9b10310b6cc3687d1f325",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144841,9 +144804,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144898,7 +144861,7 @@
       },
       "event_key": "1bb40734e00888ebeba983c12d7e5b55335dc5e9760899ce372fd10b4606f4c6",
       "content_hash": "7d4d91cd3668e2610489c6855ad74d6165221d0506bb701af996fb20ff272dc5",
-      "collected_at": "2026-11-16T23:42:12.036Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144907,9 +144870,9 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
       }
     },
     {
@@ -144965,7 +144928,7 @@
       },
       "event_key": "6c3946108acead7954e874eb833975b30de0934f00750ca19365dc0d914584a2",
       "content_hash": "7474561bba960cfb90691bd052133f1654f9e84294aba201cb6c004a4719136e",
-      "collected_at": "2026-11-16T23:42:12.037Z",
+      "collected_at": "2026-11-17T08:10:13.595Z",
       "research": {
         "topics": [
           "안과"
@@ -144974,9 +144937,62 @@
         "priority": 30
       },
       "clinical_event": {
-        "type": "baseline",
+        "type": "administrative_update",
         "changed_fields": [],
-        "note": "초기 비교 기준자료. 신규 등록이나 중요 변경으로 확인된 자료가 아님."
+        "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
+      }
+    },
+    {
+      "id": "lexeo-heroic-pkp2-20261116",
+      "event_key": "lexeo-heroic-pkp2-20261116",
+      "report_date": "2026-11-17",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Lexeo 유전성 심근병증 1/2상 중간 결과, 고용량군 부정맥 지표 감소",
+      "summary": "[사실] PKP2 관련 부정맥성 심근병증 단일군 시험에서 총 10명이 LX2020을 받았다. 고용량군은 최근 평가에서 비지속성 심실빈맥이 평균 80%, 심실 조기수축이 평균 44% 감소했다. 이전에 공개한 3등급 심실빈맥 중대한 이상반응 1건도 보고했다. [해석] 소규모 단일군 중간 분석이다. FDA가 비지속성 심실빈맥을 가속승인용 대리평가변수로 검토할 수 있다고 회사는 밝혔으며 최종 시험 설계 논의는 남았다.",
+      "company": "Lexeo Therapeutics",
+      "drug": "LX2020",
+      "tags": [
+        "심혈관",
+        "심근병증",
+        "유전자치료"
+      ],
+      "published_at": "2026-11-16T12:00:00Z",
+      "sources": [
+        {
+          "label": "Lexeo 공식 배포",
+          "url": "https://rss.globenewswire.com/news-release/2026/11/16/3403343/0/en/lexeo-therapeutics-announces-positive-interim-phase-i-ii-data-and-regulatory-update-for-lx2020-in-pkp2-arrhythmogenic-cardiomyopathy-and-reports-third-quarter-2026-financial-result.html"
+        }
+      ],
+      "collected_at": "2026-11-17T00:49:33Z",
+      "infographic": null,
+      "nct": "NCT06109181",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T00:49:33Z"
+      },
+      "clinical": {
+        "sponsor": "Lexeo Therapeutics",
+        "conditions": [
+          "PKP2 관련 부정맥성 심근병증"
+        ],
+        "phase": "1/2상",
+        "enrollment": 10,
+        "status": "중간 결과 발표"
+      },
+      "clinical_event": {
+        "type": "result",
+        "changed_fields": [],
+        "note": "회사 중간 분석 발표"
+      },
+      "content_hash": "6af83f6a",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "규제",
+        "priority": 65
       }
     }
   ]
