@@ -110,45 +110,6 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Associate Director, Regulatory Affairs (CMC)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5296264007?gh_jid=5296264007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "326189ed961dbac6369e395d8aa4730d7a153dca9b8e14e2e8c442e718df8f5b",
-      "content_hash": "da3cdc236f328bf52119086f38248a8e4762676b798acc92e329417f45244225",
-      "collected_at": "2026-11-17T08:10:13.806Z",
-      "job": {
-        "id": "5296264007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-17",
-      "slot": "PM",
-      "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d"
-    },
-    {
-      "section": "social",
-      "kind": "job",
       "title": "Associate Manufacturing Scientist I (3rd Shift)",
       "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
       "company": "Arrowhead Pharmaceuticals",
@@ -655,6 +616,110 @@
       "report_date": "2026-11-17",
       "slot": "PM",
       "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
+    },
+    {
+      "id": "botanix-sofdra-safety-20261117",
+      "section": "news",
+      "kind": "news",
+      "title": "Botanix, 겨드랑이 다한증 치료제 Sofdra의 미국 시판 후 안전성 분석 소개",
+      "summary": "[사실] Botanix는 호주 거래소 공시를 통해 Sofdra(sofpironium 12.45% 겔)의 미국 시판 후 안전성 분석 논문을 소개했다. 분석은 자발적으로 보고된 이상사례와 허가 전 3상에서 관찰된 이상사례를 비교했다. 논문은 8월 31일 온라인 공개로 확인되며 이번 소식은 11월 17일 회사 공시다. [해석] 자발보고 자료는 노출 환자 전체를 포착하지 못하므로 이상반응 발생률을 직접 추정하기 어렵다.",
+      "company": "Botanix Pharmaceuticals",
+      "drug": "sofpironium",
+      "nct": null,
+      "tags": [
+        "다한증",
+        "시판 후 안전성",
+        "ASX"
+      ],
+      "published_at": "2026-11-16T22:51:00Z",
+      "sources": [
+        {
+          "label": "Botanix 공시 목록",
+          "url": "https://botanixpharma.com/invest"
+        },
+        {
+          "label": "회사 배포 원문",
+          "url": "https://newshub.medianet.com.au/2026/11/sofdra-safety-and-benefit-risk-profile-reaffirmed-in-major-american-dermatology-journal/182086/"
+        },
+        {
+          "label": "JAAD 논문 기록",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42674074/"
+        }
+      ],
+      "event_key": "botanix-sofdra-safety-20261117",
+      "report_date": "2026-11-17",
+      "slot": "PM",
+      "collected_at": "2026-11-17T08:50:47Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T08:50:47Z"
+      },
+      "content_hash": "069e7406",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 15
+      }
+    },
+    {
+      "id": "novo-step-young-full-20261116",
+      "section": "clinical",
+      "kind": "clinical_result",
+      "title": "Novo Nordisk, 6~11세 소아 비만 STEP Young 3상 상세 결과 공개",
+      "summary": "[사실] 167명을 무작위 배정한 STEP Young에서 치료 중단 등을 고려한 68주 BMI 변화는 세마글루타이드군 −13.5%, 위약군 +2.7%였다. 군 간 차이는 −16.2%p(95% CI −19.4~−12.9)였다. 투약을 계속한다고 가정한 별도 분석은 −17.4% 대 +2.2%였다. 회사는 미국 현지 11월 16일 ObesityWeek 발표와 논문 동시 게재를 알렸다. 한국시간 11월 17일 00시경 학회 발표로 오전 구간에 해당하며 오후에 지연 반영했다. [해석] 9월 요약 발표를 보강한 3상 상세 결과다.",
+      "company": "Novo Nordisk",
+      "drug": "semaglutide",
+      "nct": "NCT05726227",
+      "tags": [
+        "비만",
+        "대사",
+        "소아",
+        "ObesityWeek",
+        "지연 발견"
+      ],
+      "published_at": null,
+      "clinical": {
+        "sponsor": "Novo Nordisk",
+        "conditions": [
+          "6~11세 소아 비만"
+        ],
+        "phase": "3상",
+        "enrollment": 167,
+        "primary_outcome": "68주 BMI 변화율"
+      },
+      "clinical_event": {
+        "type": "result",
+        "changed_fields": [],
+        "note": "기존 STEP Young 3상 상세 결과"
+      },
+      "sources": [
+        {
+          "label": "Novo 공식 발표",
+          "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=920731"
+        },
+        {
+          "label": "임상 등록",
+          "url": "https://clinicaltrials.gov/study/NCT05726227"
+        }
+      ],
+      "event_key": "novo-step-young-full-20261116",
+      "report_date": "2026-11-17",
+      "slot": "PM",
+      "collected_at": "2026-11-17T08:50:47Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-17T08:50:47Z"
+      },
+      "content_hash": "a3e0d1bd",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      }
     }
   ],
   "display_mode": "research",
@@ -662,7 +727,7 @@
   "report_date": "2026-11-17",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-17T08:10:13.936Z",
+  "updated_at": "2026-11-17T08:50:47Z",
   "window": {
     "start": "2026-11-16T23:00:00.000Z",
     "end": "2026-11-17T07:00:00.000Z"
@@ -986,17 +1051,35 @@
       "status": "not_configured",
       "section": "social",
       "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌·아시아 검색과 Botanix 공시 및 JAAD 논문 기록 대조. 실적·컨콜 질의응답은 추가 검증하지 못함."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Novo 공식 3상 상세 결과와 등록번호 확인. 오전 구간 발표를 지연 반영. 신장·안과 등록소의 신규 공개 및 주요 필드 변경은 미확인."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "Novo 공식 채용 페이지 및 Roche·Lilly·베링거인겔하임 공개 LinkedIn 후보를 확인했으나 추가 발행할 현재 공고를 공식 지원 원문으로 확인하지 못함. X 및 확대 기업 목록 전체는 미확인."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "기업 미지정 글로벌·아시아 검색과 Botanix 공시 및 JAAD 논문 기록 대조. 실적·컨콜 질의응답은 추가 검증하지 못함."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "Novo 공식 3상 상세 결과와 등록번호 확인. 오전 구간 발표를 지연 반영. 신장·안과 등록소의 신규 공개 및 주요 필드 변경은 미확인."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "Novo 공식 채용 페이지 및 Roche·Lilly·베링거인겔하임 공개 LinkedIn 후보를 확인했으나 추가 발행할 현재 공고를 공식 지원 원문으로 확인하지 못함. X 및 확대 기업 목록 전체는 미확인."
     }
   }
 }
