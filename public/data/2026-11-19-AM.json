@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "display_mode": "research",
+  "report_date": "2026-11-19",
+  "slot": "AM",
+  "window": {
+    "start": "2026-11-18T07:00:00.000Z",
+    "end": "2026-11-18T23:00:00.000Z"
+  },
+  "items": [
+    {
+      "id": "pfizer-starna-20261118",
+      "event_key": "pfizer-starna-20261118",
+      "report_date": "2026-11-19",
+      "slot": "AM",
+      "section": "news",
+      "kind": "licensing",
+      "title": "Pfizer, Starna의 생체 내 CAR-T 프로그램 도입 계약",
+      "summary": "[사실] Pfizer는 중화권 외 지역에서 자가면역질환용 임상 신청 전 단계 생체 내 CAR-T 프로그램 3개의 개발·제조·상업화 권리를 확보한다. 선급금은 3억 3,000만 달러이고 개발·상업화 마일스톤은 최대 23억 달러이며 별도 로열티가 있다. 중화권으로 권리를 확대하는 옵션도 포함한다. [해석] 개발 초기 프로그램의 라이선스 계약으로 임상 효과 입증은 후속 개발 과제다.",
+      "company": "Pfizer · Starna Therapeutics",
+      "drug": "",
+      "tags": [
+        "자가면역",
+        "CAR-T",
+        "라이선스"
+      ],
+      "published_at": "2026-11-18T11:45:00Z",
+      "sources": [
+        {
+          "label": "Pfizer 공식 발표",
+          "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-enters-exclusive-licensing-agreement-starna"
+        }
+      ],
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-18T23:47:14Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-18T23:47:14Z"
+      },
+      "content_hash": "d9d30980",
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 45
+      }
+    },
+    {
+      "id": "gsk-nelkarmi-fda-20261117",
+      "event_key": "gsk-nelkarmi-fda-20261117",
+      "report_date": "2026-11-19",
+      "slot": "AM",
+      "section": "news",
+      "kind": "regulatory",
+      "title": "GSK, ALK 양성 진행성 폐암 치료제 Nelkarmi 미국 가속승인 발표",
+      "summary": "[사실] FDA는 특정 ALK 표적치료 이력이 있는 진행성 ALK 양성 비소세포폐암 성인에게 neladalkib을 가속승인했다. FDA 승인일과 GSK 발표일은 미국 현지 11월 17일이며 정확한 게시 시각은 미확인이다. 이번 회차에 지연 확인했다. [해석] 가속승인의 임상적 유익은 확증시험으로 검증해야 한다.",
+      "company": "GSK",
+      "drug": "neladalkib",
+      "tags": [
+        "FDA",
+        "폐암",
+        "가속승인",
+        "지연 발견"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "FDA 승인 원문",
+          "url": "https://www.fda.gov/drugs/cancer-approvals/fda-grants-accelerated-approval-neladalkib-previously-treated-locally-advanced-or-metastatic-alk"
+        },
+        {
+          "label": "GSK 공식 발표",
+          "url": "https://us.gsk.com/en-us/media/press-releases/nelkarmi-neladalkib-approved-in-the-us-for-previously-treated-advanced-alk-positive-non-small-cell-lung-cancer/"
+        }
+      ],
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-18T23:47:14Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-18T23:47:14Z"
+      },
+      "content_hash": "9b8a4bd1",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      }
+    },
+    {
+      "id": "merck-nemtabrutinib-stop-20261117",
+      "event_key": "merck-nemtabrutinib-stop-20261117",
+      "report_date": "2026-11-19",
+      "slot": "AM",
+      "section": "news",
+      "kind": "development_stop",
+      "title": "Merck, 안전성·유익성 검토 후 nemtabrutinib 개발 전면 중단",
+      "summary": "[사실] 외부 모니터링위원회가 BELLWAVE-011의 유익이 위험을 상회하지 않을 수 있다고 판단했고 Merck는 전체 자료를 검토한 뒤 다른 3상을 포함한 BELLWAVE 개발 프로그램도 중단했다. 상세 분석은 진행 중이다. 11월 18일 06:15 KST 발표를 지연 반영했다. [해석] 상세 안전성 수치와 발생 원인은 향후 공개 자료에서 확인해야 한다.",
+      "company": "Merck (MSD)",
+      "drug": "nemtabrutinib",
+      "tags": [
+        "개발 중단",
+        "혈액암",
+        "BTK",
+        "지연 발견"
+      ],
+      "published_at": "2026-11-17T21:15:00Z",
+      "sources": [
+        {
+          "label": "Merck 공식 발표",
+          "url": "https://www.merck.com/news/merck-announces-update-on-bellwave-clinical-development-program-evaluating-nemtabrutinib/"
+        }
+      ],
+      "nct": null,
+      "infographic": null,
+      "collected_at": "2026-11-18T23:47:14Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-18T23:47:14Z"
+      },
+      "content_hash": "fb07f8da",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 15
+      }
+    },
+    {
+      "id": "zealand-roche-zynergy-start-20261118",
+      "event_key": "zealand-roche-zynergy-start-20261118",
+      "report_date": "2026-11-19",
+      "slot": "AM",
+      "section": "clinical",
+      "kind": "trial_initiation",
+      "title": "Roche·Zealand, 비만 병용요법 ZYNERGY 2상 개시 발표",
+      "summary": "[사실] Roche가 의뢰·수행하는 ZYNERGY는 petrelintide와 enicepatide 병용 3개 용량 요법을 각 단독요법 및 위약과 비교한다. 비만 또는 체중 관련 동반질환이 있는 과체중 성인 480명을 계획하며 주요 평가변수는 40주 체중 변화율이다. 회사는 11월 18일 15:00 KST 개시를 발표했으며 오후 마감 전 공개된 자료를 지연 반영했다. [해석] 이번 항목은 회사의 시험 개시 발표를 다루며 등록소 최초 공개일이나 상태 변경은 따로 검증해야 한다.",
+      "company": "Roche · Zealand Pharma",
+      "drug": "petrelintide · enicepatide",
+      "tags": [
+        "비만",
+        "대사",
+        "2상",
+        "시험 개시",
+        "지연 발견"
+      ],
+      "published_at": "2026-11-18T06:00:00Z",
+      "sources": [
+        {
+          "label": "Zealand 공식 발표",
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3405372/0/en/zealand-pharma-announces-initiation-of-the-phase-2-zynergy-trial-of-petrelintide-co-administered-with-enicepatide-in-people-with-obesity-or-overweight.html"
+        },
+        {
+          "label": "ClinicalTrials.gov",
+          "url": "https://clinicaltrials.gov/study/NCT07589686"
+        }
+      ],
+      "nct": "NCT07589686",
+      "infographic": null,
+      "collected_at": "2026-11-18T23:47:14Z",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-18T23:47:14Z"
+      },
+      "clinical": {
+        "sponsor": "Hoffmann-La Roche",
+        "conditions": [
+          "비만",
+          "체중 관련 동반질환이 있는 과체중"
+        ],
+        "phase": "2상",
+        "enrollment": 480,
+        "primary_outcome": "40주 체중 변화율"
+      },
+      "clinical_event": {
+        "type": "trial_initiation",
+        "changed_fields": [],
+        "note": "회사 개시 발표. 등록소 신규 공개·주요 변경으로 집계하지 않음."
+      },
+      "content_hash": "1235ddb8",
+      "research": {
+        "topics": [
+          "대사"
+        ],
+        "category": "산업 뉴스",
+        "priority": 45
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "웹 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 검색 및 Pfizer·Merck·GSK·FDA 원문 확인. Merck·GSK 이전 발표를 지연 반영. 실적·컨콜 Q&A 추가 검증 미완료."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "Roche·Zealand ZYNERGY 회사 개시 발표와 등록번호 확인. 과거 등록소 페이지가 확인돼 신규 등록으로 집계하지 않음. 현재 모집 상태·등록소 주요 변경·신장·안과 전수 확인 미완료."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "기존 Arrowhead 동일 공고 0건 제외. 베링거인겔하임 공개 LinkedIn 후보와 공식 채용 검색을 수행했으나 추가 공고의 공식 지원 원문 검증 미완료. X 및 전체 기업 범위 미확인."
+    }
+  ],
+  "section_status": {
+    "news": {
+      "message": "기업 미지정 글로벌 검색 및 Pfizer·Merck·GSK·FDA 원문 확인. Merck·GSK 이전 발표를 지연 반영. 실적·컨콜 Q&A 추가 검증 미완료."
+    },
+    "clinical": {
+      "message": "Roche·Zealand ZYNERGY 회사 개시 발표와 등록번호 확인. 과거 등록소 페이지가 확인돼 신규 등록으로 집계하지 않음. 현재 모집 상태·등록소 주요 변경·신장·안과 전수 확인 미완료."
+    },
+    "social": {
+      "message": "기존 Arrowhead 동일 공고 0건 제외. 베링거인겔하임 공개 LinkedIn 후보와 공식 채용 검색을 수행했으나 추가 공고의 공식 지원 원문 검증 미완료. X 및 전체 기업 범위 미확인."
+    }
+  },
+  "updated_at": "2026-11-18T23:47:14Z",
+  "status": "partial"
+}
