@@ -206,8 +206,8 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Associate Director, Regulatory Affairs (CMC)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
+      "title": "Arrowhead, 위스콘신주 베로나 CMC 규제 업무 부책임자 모집",
+      "summary": "[사실] Arrowhead Pharmaceuticals의 공식 지원 페이지에서 CMC 규제 업무 부책임자(Associate Director) 공고를 확인했다. 최초 게시일과 수정일은 확인되지 않아 오전 회차의 현재 공고로 유지했다.",
       "company": "Arrowhead Pharmaceuticals",
       "drug": "",
       "nct": "",
@@ -225,22 +225,29 @@
       "published_at": null,
       "infographic": null,
       "event_key": "326189ed961dbac6369e395d8aa4730d7a153dca9b8e14e2e8c442e718df8f5b",
-      "content_hash": "da3cdc236f328bf52119086f38248a8e4762676b798acc92e329417f45244225",
+      "content_hash": "139ea74c",
       "collected_at": "2026-11-17T23:49:39.202Z",
       "job": {
         "id": "5296264007",
         "first_posted_at": null,
         "status": "active",
-        "temporal_status": "current_listing"
+        "temporal_status": "current_listing",
+        "field": "CMC 규제 업무",
+        "expertise": "의약품 제조·품질(CMC) 관련 규제 업무 부책임자",
+        "first_seen_at": "2026-11-17T23:49:39.202Z"
       },
       "research": {
         "topics": [],
         "category": "채용·업계",
-        "priority": 0
+        "priority": 15
       },
       "report_date": "2026-11-18",
       "slot": "AM",
-      "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d"
+      "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-18T09:21:07Z"
+      }
     },
     {
       "section": "clinical",
@@ -11696,7 +11703,7 @@
   "report_date": "2026-11-18",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-17T23:58:17Z",
+  "updated_at": "2026-11-18T09:21:07Z",
   "window": {
     "start": "2026-11-17T07:00:00.000Z",
     "end": "2026-11-17T23:00:00.000Z"
