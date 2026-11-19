@@ -139,45 +139,6 @@
     {
       "section": "social",
       "kind": "job",
-      "title": "Associate Director, Regulatory Affairs (CMC)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5296264007?gh_jid=5296264007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "326189ed961dbac6369e395d8aa4730d7a153dca9b8e14e2e8c442e718df8f5b",
-      "content_hash": "da3cdc236f328bf52119086f38248a8e4762676b798acc92e329417f45244225",
-      "collected_at": "2026-11-19T08:14:07.517Z",
-      "job": {
-        "id": "5296264007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-19",
-      "slot": "PM",
-      "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d"
-    },
-    {
-      "section": "social",
-      "kind": "job",
       "title": "Associate Manufacturing Scientist I (3rd Shift)",
       "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
       "company": "Arrowhead Pharmaceuticals",
@@ -762,6 +723,90 @@
       "report_date": "2026-11-19",
       "slot": "PM",
       "id": "2875150bb58b696703ab33797b4b2907e470fe725a064f358bff0a3d6873bf3f"
+    },
+    {
+      "id": "novartis-midterm-20261119",
+      "event_key": "novartis-midterm-20261119",
+      "section": "news",
+      "kind": "business_update",
+      "title": "Novartis, 2031년까지 환율 영향 제외 연평균 매출 성장률 5% 전망",
+      "summary": "[사실] Novartis는 2026~2031년 매출 연평균 성장률을 환율 영향 제외 기준 5%로 전망하고 2029년 핵심 영업이익률 40% 이상 복귀를 목표로 제시했다. Leqvio의 최대 연매출 예상치는 40억 달러에서 50억 달러로 높였다. 공식 발표는 11월 19일 15:00 KST에 공개됐다. 런던 투자자 행사 CEO 발표와 질의응답은 17:00~18:30 KST 예정으로 이번 수집 구간 이후이며 발언은 미검토다. [해석] 수치는 회사의 중기 전망으로 실제 실적은 후속 공시에서 확인해야 한다.",
+      "company": "Novartis",
+      "drug": "inclisiran",
+      "tags": [
+        "중기 전망",
+        "투자자 행사",
+        "심혈관"
+      ],
+      "published_at": "2026-11-19T06:00:00Z",
+      "sources": [
+        {
+          "label": "Novartis 공식 발표",
+          "url": "https://www.novartis.com/news/media-releases/novartis-projects-5-cc1-sales-cagr-through-2031-and-sustained-mid-single-digit-growth-over-long-term"
+        },
+        {
+          "label": "공식 발표 시각",
+          "url": "https://rss.globenewswire.com/news-release/2026/11/19/3406293/0/en/novartis-projects-5-cc-sales-cagr-through-2031-and-sustained-mid-single-digit-growth-over-the-long-term.html"
+        },
+        {
+          "label": "투자자 행사 일정",
+          "url": "https://www.novartis.com/investors/event-calendar?page=0"
+        }
+      ],
+      "nct": null,
+      "report_date": "2026-11-19",
+      "slot": "PM",
+      "collected_at": "2026-11-19T09:06:40Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-19T09:06:40Z"
+      },
+      "content_hash": "8795b316",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "산업 뉴스",
+        "priority": 65
+      }
+    },
+    {
+      "id": "actinogen-xanamia-topline-20261119",
+      "event_key": "actinogen-xanamia-topline-20261119",
+      "section": "news",
+      "kind": "trial_result",
+      "title": "Actinogen, 알츠하이머병 XanaMIA 시험 전체 환자군 주요 평가변수 미충족",
+      "summary": "[사실] 회사는 247명의 경도~중등도 알츠하이머병 환자 대상 36주 XanaMIA 시험에서 Xanamem의 CDR-SB 개선이 위약 대비 수치상 차이를 보였지만 통계적 유의성에는 도달하지 못했다고 밝혔다. 고령 하위군에서는 질병 진행 지연 신호를 보고했다. 공시는 11월 19일자로, 투자자 페이지에는 11월 18일 21:32로 표기돼 시간대가 미확인이다. 오후 회차에 처음 검증해 반영했다. [해석] 전체 환자군 주요 결과와 하위군 관찰 결과를 구분해서 읽어야 한다.",
+      "company": "Actinogen Medical",
+      "drug": "emestedastat (Xanamem)",
+      "tags": [
+        "알츠하이머병",
+        "임상 결과",
+        "주요 평가변수 미충족"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "Actinogen 공식 공시",
+          "url": "https://investors.actinogen.com.au/announcements/69wQ60-acw-xanamia-alzheimers-trial-results"
+        }
+      ],
+      "nct": null,
+      "report_date": "2026-11-19",
+      "slot": "PM",
+      "collected_at": "2026-11-19T09:06:40Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-19T09:06:40Z"
+      },
+      "content_hash": "d0b043a8",
+      "research": {
+        "topics": [],
+        "category": "임상개발",
+        "priority": 15
+      }
     }
   ],
   "display_mode": "research",
@@ -769,7 +814,7 @@
   "report_date": "2026-11-19",
   "slot": "PM",
   "status": "partial",
-  "updated_at": "2026-11-19T08:14:07.712Z",
+  "updated_at": "2026-11-19T09:06:40Z",
   "window": {
     "start": "2026-11-18T23:00:00.000Z",
     "end": "2026-11-19T07:00:00.000Z"
@@ -1093,17 +1138,35 @@
       "status": "not_configured",
       "section": "social",
       "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "reason": "기업 미지정 글로벌 검색과 Novartis·Actinogen 공식 발표 확인. Novartis 행사 Q&A는 조사 구간 이후이며 미검토. 시간대 미확인 공시 시각은 단정하지 않음."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "reason": "대사·심혈관·신장·안과 회사 발표와 웹 검색에서 이번 회차 추가 발행할 결과·신규·실질 변경을 직접 검증하지 못함. 등록소 전수조사 미완료."
+    },
+    {
+      "source": "웹 원문 검토",
+      "section": "social",
+      "status": "partial",
+      "reason": "Lilly·Merck·BMS·GSK·Alnylam·Ionis·Altimmune 공식 채용 도메인 검색. Merck R425380/R418929 공식 페이지는 공고 종료 표시로 발행 제외. Arrowhead 반복 1건 제외. X·LinkedIn 및 전체 등록 기업 직접 검증 미완료."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "기업 미지정 글로벌 검색과 Novartis·Actinogen 공식 발표 확인. Novartis 행사 Q&A는 조사 구간 이후이며 미검토. 시간대 미확인 공시 시각은 단정하지 않음."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "대사·심혈관·신장·안과 회사 발표와 웹 검색에서 이번 회차 추가 발행할 결과·신규·실질 변경을 직접 검증하지 못함. 등록소 전수조사 미완료."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "Lilly·Merck·BMS·GSK·Alnylam·Ionis·Altimmune 공식 채용 도메인 검색. Merck R425380/R418929 공식 페이지는 공고 종료 표시로 발행 제외. Arrowhead 반복 1건 제외. X·LinkedIn 및 전체 등록 기업 직접 검증 미완료."
     }
   }
 }
