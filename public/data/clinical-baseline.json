@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-21T08:01:14.433Z",
+  "updated_at": "2026-11-21T23:37:59.501Z",
   "items": [
     {
       "section": "clinical",
@@ -1023,7 +1023,7 @@
       },
       "event_key": "90f202c1306f5127a9cbdb5bef39d99eeaba5f843799c7efa2e8a6af53ba3a58",
       "content_hash": "ed056da211a7b35f9c2f86cd5aa8c541dc8915f9ba27eb01155156f93db9344b",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -1971,7 +1971,7 @@
       },
       "event_key": "a265990cad7d40537c6c696c08ac090caa467c5f88ab4c090540b92a137e2028",
       "content_hash": "6b5fe259792e7d95bec2cc7685fc43fd510a6996d35074c55cf0a7930ddf3c04",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -2845,7 +2845,7 @@
       },
       "event_key": "c7ba8080622edee5c2c13b46d0226d3a45ce586f229d87967213cbd947bf28de",
       "content_hash": "788bf766e01955167fa6f4c9030aa2e935348bf8b1a122847fe1ad7f0b96ae0d",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -3732,7 +3732,7 @@
       },
       "event_key": "5a3b41d4ceda8dd1d083b8e0a575d1a37d405b3642e42dd2748c4a59bece5b19",
       "content_hash": "99f1deb576ba5751cd4dc36a84025f1f4822f8bbc5922bb142e6891216dd219a",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -4315,7 +4315,7 @@
       },
       "event_key": "3f3e4c9fe84b1c53d52383f1557a50c59c44ef932123b95322a15e700324f642",
       "content_hash": "91f0b4ab1029a593c0306a0a1c95f171a89087ebe051b203e93a2c8122cfc507",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -12847,7 +12847,7 @@
       },
       "event_key": "1f13eb8e9dddd90dd8cf12c29b57ccc3d452823a6aadf7faa60295b6f385e26e",
       "content_hash": "3ac3a7a89dfb3a308d56b1e3f6ddb667d47ef89e5592c91a25505721c451be9e",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -17522,7 +17522,7 @@
       },
       "event_key": "8a1880df13bd94a24c1b19a65e635a384d4658541e177b8005c2adf3078314ca",
       "content_hash": "dabd036a5ad634bbc0039fdedbdc15fe89db77731725dc9f5d20c65bf5c325b3",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.992Z",
       "research": {
         "topics": [
           "심혈관"
@@ -17927,7 +17927,7 @@
       },
       "event_key": "53a52eb1f29f3304e7bd27f5bdd1f7d9a0ad5f464aeab90ad268ddaf4fb3d59a",
       "content_hash": "38291a2a4f423d0b89530a5f48109a4655e8ebf7e6c8036499df141e7482a851",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -18048,7 +18048,7 @@
       },
       "event_key": "c811b8bb73989777b41cd81a20a51cfe20dfd4c33437800f0f78f576f69366a1",
       "content_hash": "ca1df5a19769b4ebef9d4f68ba328da243da4321c60f2085ddc8541bc0fb8d73",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -19356,7 +19356,7 @@
       },
       "event_key": "843e5791b18d296c9f42b534f370df6342d282718a35034d03a4c9341233b31d",
       "content_hash": "7225dac0500cc3ddd683e39e2985bd4ca55dee275bdd22618d9368d848617394",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -19507,7 +19507,7 @@
       },
       "event_key": "c4daed24b616e097976a1f8d68ef0d71b225292c777eab4a7502ab14c13c694b",
       "content_hash": "9b11750588e740636147add08013676187b90ea3cf767156b588efcddde88513",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -21805,7 +21805,7 @@
       },
       "event_key": "50354f9b514621b94dfffb14e83274105feaa97fd81141d9d387d8f1cc9abd1a",
       "content_hash": "73465d0caad76bd52c800606a1124f366392370e47da6bdc238296d817f2ea08",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22241,7 +22241,7 @@
       },
       "event_key": "08ec171393bd225a162799985793e642c5dd5dc4007303cf38c146d501fc493e",
       "content_hash": "d5935071d1af7831ecd7d9ae4114c97bcf01a4823b479b61afa4e6e7e9de77c3",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22574,7 +22574,7 @@
       },
       "event_key": "64716620d49b03273fa56b4dcfb404c972ef9f465e8b9d9bc67ce7bb5f67f05e",
       "content_hash": "eba7f99b739d76bb161f6d060dcacf69012f35605ce570632f1ea3da1429836d",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22704,7 +22704,7 @@
       },
       "event_key": "577b2e50357579fc7a215b419d0ecab209286cef35e7f776520c3dbf44428349",
       "content_hash": "2879b01b6c26ba23f966ff2807a907fed3891eca30b761fae07ee774653d27b7",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -22784,7 +22784,7 @@
       },
       "event_key": "f79cc37bca350d74ea348b3f867710d2fd106e13cbcf5d0682ebd8a31baeee08",
       "content_hash": "258839324dd73e6b27d46f7017499fa61b626c2dda99b91e93faeedc28537a43",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -24132,7 +24132,7 @@
       },
       "event_key": "83c7806b6faadb94b28ebe8f66becb0acf8d6acd15b5ed6c0d398cd85290d762",
       "content_hash": "b0f01cfb9d4352a241ee31acaccc161b733571823aadef5f89b5895aca8c1de0",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -24437,7 +24437,7 @@
       },
       "event_key": "ede61b03d52119ace9bd49d677415830bcd372ce3c897b76ebfa9674719ad506",
       "content_hash": "54449026b5d3f9296f9c8895e7757a0cead6e7650f39e1631e38fe11e01a7f18",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -27543,7 +27543,7 @@
       },
       "event_key": "d402db8b31a23516a38a0f0a4b7b029896081ce090aed66983ae9ba3dc1e1f21",
       "content_hash": "c783a2edfbe563288e97bdeb17e66b914d61c9e5a5ba35acc65c3a3313512f09",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -32235,7 +32235,7 @@
       },
       "event_key": "e8f19b6e580bece6e6a876b9e7ca2b241083c0f8eee2014d163c182436f444da",
       "content_hash": "429a4c361b283f2ea27c6e6d0eed6c18fa313615b6f69bbe9f655d1ef04d81e4",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -35528,7 +35528,7 @@
       },
       "event_key": "4c7fb00be210f73841a3afc3f48b91ad0f10a3a156fc24b78f9b4a869232afe9",
       "content_hash": "e69d2533988878f6ae2ead1c6b4a6fde0f0c8d22c969757c598624a48a493e12",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.992Z",
       "research": {
         "topics": [
           "심혈관"
@@ -40850,7 +40850,7 @@
       },
       "event_key": "3098e22588a1271f8919e121012ee5fff9e18fab24237c8b1c18d5e638b5fc1b",
       "content_hash": "de4f206cf02fc6889a7351ac7ee0d3e08f6b1bb6e0148b82fdb1c09f85ede891",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -42176,7 +42176,7 @@
       },
       "event_key": "e53cedc4f1a0ff18c03c261e11ca59a124f22e80890a95fe0cf0d1f389199964",
       "content_hash": "9e4dbbd94e1c0b24f3c2f35a9b12e52b98590d69098a69ebce4d5217e67ddd33",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "대사",
@@ -44342,7 +44342,7 @@
       },
       "event_key": "21d703711dca21af5149e90e9a5cd21109f77707ba07a9b038763a1de403f9f7",
       "content_hash": "1361a9b6b3eafdb546a4bb470a6d0e6fb7cbb233d92990b345185e69c4c3001b",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -45837,7 +45837,7 @@
       },
       "event_key": "6ee37ce19a1cb6dc8ee963bc655df24fe87b05d17eb76000cc85587ad8cc7c39",
       "content_hash": "3d4260e104eec27d39793ab8add44ef0f75faa37780a62802dc9f63c01ffc23e",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -50601,7 +50601,7 @@
       },
       "event_key": "1ff17b75b4df999f2338dc20622ca9c2c0eaa1733e44fcae19555b9b5cc44ebc",
       "content_hash": "e864f1a310b7cf0617cd62228ce49fbc5f11eb4252d85591cc74a5d97c3f2c7c",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -53043,7 +53043,7 @@
       },
       "event_key": "c66393bb440f5424766f36e955677585b6be9172dae8a6bfcd3cc67b1f22eba8",
       "content_hash": "a3587e208820c515d48a26bad7200dfde2ec307e717fd51649eea37a7e8b1bb0",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -54307,7 +54307,7 @@
       },
       "event_key": "cedc546724026ca7f7a05a708bc1c092b1e63db1741686bef4b34fe5f0d87086",
       "content_hash": "edfb05a9be255c9427f83684dd542e2b55f40330d62f33799a444f7dac6af206",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -54479,7 +54479,7 @@
       },
       "event_key": "400c41b2a5785890cd29642fc0cb037a159eb90f5b1043b7283344cb9cd97c5f",
       "content_hash": "84951865c8a52efffdc224b6c758ee88a12c9816bedba91874a6bc8705722a9a",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -55039,7 +55039,7 @@
       },
       "event_key": "e6f09105504a6080aa58d953aa164d2a3641ea8846a11b174d1ec9b92fa73da7",
       "content_hash": "8d7b3d1c2df057b3d896c4bb243706870120d0ba37d9ea2591cfa22a1c8b94cd",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -55630,7 +55630,7 @@
       },
       "event_key": "4c52f071dbc4464b0afccf018e18631fb8bb3916f59d22bb086690fa6a3eca41",
       "content_hash": "9e974e7f4b22d07357004504ea0990e53ad945ba0e1a48611061acd98fe76458",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -55756,7 +55756,7 @@
       },
       "event_key": "3f9e61fc88b2f31fcf41bcbf15de9d0d2829141c516ca7debf63989c8db88565",
       "content_hash": "0279a1a8145836e85f9d1d03968e12ec585ef9e976be6ef8220eb43019dc6e86",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -56030,7 +56030,7 @@
       },
       "event_key": "59bd2ba5704132e14e069ddf60232fcae23a00d7a63a6e202f701536e64de13d",
       "content_hash": "d6b04266a22c2abf053f48e65b277b96321dc3f020e2c1c0f57f6b1072e52853",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "대사",
@@ -56497,7 +56497,7 @@
       },
       "event_key": "85b235fced2b41bba3023e3a16f71115f9fd17b8cdb1254f5bb17defc006abaa",
       "content_hash": "18351b49ae9ef2f16da35466fe033e382aa2e3f980987813dd14b1e07e6ae521",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "대사",
@@ -57631,7 +57631,7 @@
       },
       "event_key": "dd234e8abb7a89d32524ef6d862a709268555eb1be3db74afac7bc5a00eb6f5b",
       "content_hash": "75f15d91c88b870a4f737f38292526159dae4c36b846b2639bb4a80fa6f7f1a4",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -59522,7 +59522,7 @@
       },
       "event_key": "ae8248f2f77e51c57252ed960929595416aa025df4d38f9359b89e4043ec1247",
       "content_hash": "38794bb77f1f88411e9ad072e933cb8d04828e88bf81c3f47a3cc411948b940a",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -68084,7 +68084,7 @@
       },
       "event_key": "0b06451de01f448380a22a429380c830d3a02ba2225cacd1aa20edb2c5b4e8e1",
       "content_hash": "d45851ed0b498bafd18cce0426b868b45127315a39ca22f5c5d29f0807636ea9",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -70799,7 +70799,7 @@
       },
       "event_key": "e4ef809e509f806a11c62c97edcb673e77a8c4873d5863a285f1953d65500526",
       "content_hash": "028c9e399cd0aa9264daba9ff3d495208682ec9edf8d2b13baedf23bbe430d38",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -73448,7 +73448,7 @@
       },
       "event_key": "970bbf977153d70462a35ec2f7a7339865a5f154942f104933a78f84e8624458",
       "content_hash": "c4fb57663df8f48f2bae169c7fb1074155a6d485b931bdcb37231d803ebf49c1",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사",
@@ -74012,7 +74012,7 @@
       },
       "event_key": "21ea0d31a2d6c0c1619f149b7b65697f9771f745691062e4f2c870ff8e1b5d73",
       "content_hash": "50eaad0ac7b898cd0859b34672dbf1128ed7f10ccb632ab66b920493c7f421ea",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -91745,7 +91745,7 @@
       },
       "event_key": "cd9e7e6b0961e80c8c233fbab3c4f1831ef4ad3849a5724ba3b6d6679dec3993",
       "content_hash": "619f72c899df70faf7109b50f47d510f44dccdaeaa33d5606d31f7f53906372a",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -92007,7 +92007,7 @@
       },
       "event_key": "7bcc343852008b4c24eff2fcf4ede0d25efd9c0c0e0fcd5c236944b8cef31c02",
       "content_hash": "4b2cee31dfb15d5ad5943bbd64b83762a7abb0c9772fe7c7aea864f33088ae25",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -93903,7 +93903,7 @@
       },
       "event_key": "d49e68d93e97bb01fae50da10f584b04b40a1a60085d429984bfe1de0544628d",
       "content_hash": "9c955538c450f21eee8828c88a6feb74beeb00acee62cf79611ea5afb46eaf06",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -94695,7 +94695,7 @@
       },
       "event_key": "1a11c655800a5ee368182bd6a30f5261c101da45af2c31a0179f446aca374f69",
       "content_hash": "14b93af8a601f8c7418f4a0b8b5c8bccae81f67e45fd791786264801082710c1",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -96458,7 +96458,7 @@
       },
       "event_key": "3a8c71b3417828ca7e1f947dcfca3400b5caadc9671f20d059c17c70d9bc0fa4",
       "content_hash": "573fd0b6eb851dcba4c82a3075b26909b3123702a1e28d75ba9d19c0c6fd6a60",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -97615,7 +97615,7 @@
       },
       "event_key": "35ef84c99e53475e56cf3a26237818af4a6e8fe2c00ac52997a5a59f673c0cd0",
       "content_hash": "ace3454e2081629e312eafa60de19e07407cf29297afa0c329d71495f916d23c",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -98665,7 +98665,7 @@
       },
       "event_key": "1ebb3a4dfa94bebd55ea17cbb32e6bf8c7097994030165d890e9810c73b11cc0",
       "content_hash": "4b4113864adedcefe5f84c722c298768e05fc2dc97b043ae0b119434b88a099c",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "대사",
@@ -102046,7 +102046,7 @@
       },
       "event_key": "541ff7bdee7bd56522f557a5a4a980d7580e03a6a3dbd10e9b3224ea1365a297",
       "content_hash": "8c52a9ba2d32c2a74bfa9dbfba7b5fb5321ebd7644cf4c80ece9a6e216f78bff",
-      "collected_at": "2026-11-21T08:01:13.320Z",
+      "collected_at": "2026-11-21T23:37:58.379Z",
       "research": {
         "topics": [
           "대사"
@@ -105568,7 +105568,7 @@
       },
       "event_key": "f4ce8206b651c224fed83ae4d162492c28f13994aaaa28e6d74ed3bb60f78caa",
       "content_hash": "994eaec7e0be3ed1214ee419dcb2faa19c78d9bd9149e5feed0d3c1b65114087",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -108406,7 +108406,7 @@
       },
       "event_key": "b18747d3e7d15a98682d22a2c5245151d10c8260e9f187e2d749cb7c26e4a6b0",
       "content_hash": "cca48d944829230b3a0a240c5245bfcd8a608501bd831473ff37c98e5dfef9ec",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -111114,7 +111114,7 @@
       },
       "event_key": "a40f470b45cd9292740915df2d43bba900a916f11afdc349d42d710a76c229e2",
       "content_hash": "ace3366e4f858dbe6068aebc1d7e39c564cdb0bf04b94a8bff11058702bb7290",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -112852,7 +112852,7 @@
       },
       "event_key": "6b455d2cf36eb4ce8efe95ce2f686ada22093f5c41f6aa1776161a2ea08a21c3",
       "content_hash": "a10323a1c4899bb55b558a784cf8d4ea9c17dcbe475278089f90623783fa6742",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -113356,7 +113356,7 @@
       },
       "event_key": "b4e55db73b8fed93016602ae9f0d25366d67966f4e437039b86062c3dc83c1fd",
       "content_hash": "813678a207190f5168695fec85ca7e994fc767ede4e52e305038be557bfc2956",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -116279,7 +116279,7 @@
       },
       "event_key": "362ed1ba2071645641d002981c21fdde272ceaf72905d80982f354d2e69d1a24",
       "content_hash": "75558326796780779a54ba32b6ad59ed3e191be3c1c9443076fc202d7e611c98",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -120639,7 +120639,7 @@
       },
       "event_key": "0ac752487c551cefe4e655bb0df05f08663520812ebbe71b56ffdeb1e837affb",
       "content_hash": "6a8ef3d88142ee15920f353d96d0ca5f74f4210608f4fff1c28accf62a7d67b1",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -120700,7 +120700,7 @@
       },
       "event_key": "c4cd79e2d4452bb6a3fe79296ffc9b408aa6c0c3846e9ae60928f117e6fea3ba",
       "content_hash": "795289c69dc0efd8bea08d905bd329d8e386a77c68a09ff24b275274e826405a",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -122583,7 +122583,7 @@
       },
       "event_key": "51a523a345fbc08a9d0c40e5e6a239d15523fcda7edbb6f1c378c2089912c750",
       "content_hash": "118c0ef52d574768ef155dcce8607f775d8cc3162ccdc41de664b7dc543f012c",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -127962,7 +127962,7 @@
       },
       "event_key": "8df82fb9c59946fc4a68debf83c83604120996bc902b15d0e57eaa18dbc98a8b",
       "content_hash": "ec43d791315bec768fee4a838058b8a3d7e83250ff53f1e7dcb538ea611ddc69",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -130194,7 +130194,7 @@
       },
       "event_key": "67204d4d5cb457794faf44e2241751739fd24e51a44c7f246ea28abb753b01f1",
       "content_hash": "cf87aa510daef73cdad7cf18a8d1c8c0841e5aabc402c7a14cb152c88fa3322b",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -132045,7 +132045,7 @@
       },
       "event_key": "23e90a9ac5d7a4d7867fef1f4b3acc194298cb40c342ef379b7983e64f75b9a9",
       "content_hash": "d6129a7fc3feaf86b40b27a4d7b2f6978491ccafd5745a01bc002bfebf1023aa",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -134863,7 +134863,7 @@
       },
       "event_key": "3ecb81b41988aa7ff8b5ebb10d380e44bddce1fe9764922ef841a16fa1475d49",
       "content_hash": "d0d7a5766499b552a96c43aa801b6c2938123eb0e566a8e266016206e9b5f73f",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -144324,7 +144324,7 @@
       },
       "event_key": "1264b59bed2ce0d45049db91d887fd5699e291d8594d19196cc45556f506da4b",
       "content_hash": "7e85948e263f6a3af3bf8cc7fb7ee2ca94f117c41c72fd4f486eb85964e1ded1",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -145686,7 +145686,7 @@
       },
       "event_key": "218495306af02e68bfe82e205564d2fb90542f0f9528a35af2b986e68f80dd48",
       "content_hash": "63e860cc0ec9975372c0cca9542932c4297928289fecb5799b4280842a65e366",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -146179,7 +146179,7 @@
       },
       "event_key": "dfda6db46f73ca4ca0042c6f7feb20bdb910792b09f36976464921af671f4de0",
       "content_hash": "e277e45cf1bab249b9c18fb9fbf4245293b50d1adeb1c009e21a73041b1d10f5",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -151937,7 +151937,7 @@
       },
       "event_key": "d1db94409ff8de0fc1a117a7efecfab051638e42a0e6dd17d3260dccf28ac976",
       "content_hash": "9786d2e6088ae4ed96c21ebfe80e16d09e331ec731ba3afe919513255a693e7a",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -159492,7 +159492,7 @@
       },
       "event_key": "59efdb9508e6d6c7490f86a9c5fce2e767e51e52d585428874fea93aeb9f40e3",
       "content_hash": "157afa14337c4722b4cc29c0a92ef2aaa2cb20dfc38265ad2a0d09bef48b2bdc",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사",
@@ -160723,7 +160723,7 @@
       },
       "event_key": "2c5ce4c39eba0585717547c90eb8d7ef9cc0f7bb7a2b1ee916fef902e0ef8953",
       "content_hash": "dbe07016538a8bf9615037f87339a01ddeee2c66308ea1e27a45428109074370",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -165424,7 +165424,7 @@
       },
       "event_key": "0b2aeb565e300ecf5fe009078aebf24ec041d0aabbe92a4faa9b10aa513a2e97",
       "content_hash": "0157bea8e300997c20b1bd37541e7852cbb18def71baecd0b1bb5cb2de44bf34",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -168386,7 +168386,7 @@
       },
       "event_key": "183a7c63c49b537ff37d33bce3561a6e9118bf15db5a9c44a172dba85a1a3fce",
       "content_hash": "cb00e85a7d7ee32bc58257c61c24a935073c38272934b395596f6301343e91c7",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -168478,7 +168478,7 @@
       },
       "event_key": "9932752cd473cdbc64acf7908c97dfd3f00bb1e0a06d67b3113ed9b9b1f8bda2",
       "content_hash": "29310f7d87e9eb5bcf33a310950641a2b34cf5bd712c066d9932a0959900d64c",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -168547,7 +168547,7 @@
       },
       "event_key": "27714c5260b7e66eb12a761bec14b6001f17e59a3709c45edaecabd24c9694e0",
       "content_hash": "65ed6c66da707f8892e50c9e2dfaaa45b88b8abc961d9db83f9321403409c7b8",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -168604,7 +168604,7 @@
       },
       "event_key": "ec83a878b184553e8c558cb2e6154a829dc4dec38694dbbcac8c2366f74fed62",
       "content_hash": "60b5b521e44bea876b1d395e8c259675e8c60afdb1aaf556f10cdea325fcdf2c",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -168698,7 +168698,7 @@
       },
       "event_key": "b79805b664bd9d87eefbb67ba04b7c61583114760fc545e0ab3bce10bd288059",
       "content_hash": "5e18ff3f79076c58d4e6bde686f2486d01a3227333f3d39f2cd1d3ae0fc59da6",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -168764,7 +168764,7 @@
       },
       "event_key": "b2d86d60e51b7267e6fa38fabaebc9e7188b7f6ec77a6815c4649a760caaab63",
       "content_hash": "b9044b9fc65a2159975a8ce156d371d97ec5c95e23481a6cbe0e7bf62ce40875",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사",
@@ -168824,7 +168824,7 @@
       },
       "event_key": "2b1d3d252c39e29a7b1d43b8673679a338d4249db19d89db911ea1185003c5bc",
       "content_hash": "243ecb2e5dd1698497fd18119f258cf4125635b9c1dfc88f6b949cba278aba65",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사",
@@ -168894,7 +168894,7 @@
       },
       "event_key": "7bc09f5801a2dd6ea987ccfe039c9fb54fc3480d920fc93283eeb2904cf0f29c",
       "content_hash": "c445bf002eff7eba5221b01590b2c2b11753c8d9c7fdda1d4a97c328659f8014",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -168962,7 +168962,7 @@
       },
       "event_key": "cb0beee7d9e6545b007fc4fbf08e9c943b4b1c5765eb0b1e74a6785e510e7d1c",
       "content_hash": "34eeee5acbbb6b200b61e3d94b376460968e2bf2fe8def6d8ae93a84d102b94b",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사",
@@ -169077,7 +169077,7 @@
       },
       "event_key": "811cb911e4f639bb93d982db1d2119a4bf74e6de4c05f54e05ab8cc79b8b1ae7",
       "content_hash": "65da1ab086b5ba37e674761a4bb9df92aa8847284e594f09e358dd634e9dfef7",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -169149,7 +169149,7 @@
       },
       "event_key": "3c562af1e14c2386e53014f0f244e6f2e9f367cb3fd58e15a23b655fc2e09115",
       "content_hash": "f7c239074836a9866913433c6315e2036047f3db552aefa4f776cdf5e42ab108",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169217,7 +169217,7 @@
       },
       "event_key": "f783632f4c59281f879b268d3c3818b7d18ee1b5fc2aca5c29a48974eb74f152",
       "content_hash": "c54afaf2cfe0c516c143a816fdcff1c2b3e57e920ca41c70eecb36c365b163b4",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169275,7 +169275,7 @@
       },
       "event_key": "e59c28833ca584ef18ab013ec0c7663a7220a14e667360e988c8bf129f5ad1db",
       "content_hash": "bf513b54656279d812c7b79ae3c61bb22cae056841c5bc32550c262b19407afe",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169348,7 +169348,7 @@
       },
       "event_key": "1cfa6ef36e8385093180f9b87b647951b9f207d25ab66f74fac29152a738ea5a",
       "content_hash": "9185ee1707ab05162d8b8261f4c227c88b3da59c30954cfbbf5304ec195f0d8b",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사",
@@ -169417,7 +169417,7 @@
       },
       "event_key": "714a21d3002237ba259a4d0fb52da274bea8434317facf824b6a64d60143a6bf",
       "content_hash": "9d8773cefdc0644994fab56bee7f287d518b2cee699ad4835d6caaede4c8f172",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -169483,7 +169483,7 @@
       },
       "event_key": "4fc928fdb6f24621d6d3b8a224f4e4d696a0c5cf3ed0abf76aa2fc54641231a5",
       "content_hash": "0f581eb93e4369a675f1f19c2d836f299eaa25ccb5d7912535ef13f7010df918",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -169540,7 +169540,7 @@
       },
       "event_key": "e296b9e5744190205bf74c0f55802023b921148a4238efb31dc9458cdab03524",
       "content_hash": "630173fa0ca291dbc23283e0c93ccaa003f1989ddc1b03d77ecfe0f59271d752",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -169612,7 +169612,7 @@
       },
       "event_key": "b374592b2c08fa6fb78ce0d1a665adc16e6ee51763f17c29a6145db9a4a8a03b",
       "content_hash": "5f2d8c5f87b81d9f9d5629816176ccea5f6bd25421a080d8ba0c05c1cced1947",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169680,7 +169680,7 @@
       },
       "event_key": "48d5486a910ae1b16199e0968db2333fcb83ab22c1933b1a9f36f0441d7e6118",
       "content_hash": "58202f0bfd5c45a4345b02a27b25032a1a7ef890e1cd85cf09d7f20b81ac2284",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169749,7 +169749,7 @@
       },
       "event_key": "de8f790956c0fb5f30d8d74d2506bfceabc418f6f5b872d9c7b8173b34de25b8",
       "content_hash": "9fc1888e2cadc95ad72f1d232f7e7ccd938318546ce17af3da0e456c8e922f98",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -169817,7 +169817,7 @@
       },
       "event_key": "e0f41240fbfffb94d94c2e22af178e8406f51e491812b5f6abef34258bd3fb86",
       "content_hash": "1c869a83fbd5b6d207f72136a81e2c0d1498e39344040d7c3bc909d34f9353df",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -169883,7 +169883,7 @@
       },
       "event_key": "bb3742343a0203f63cf94952674bd4a9a12da2dcf463719281400c495dc2cd75",
       "content_hash": "8951ba5a61c7b6f78b43776c49d8a5705fc0d644c19d71823f4f0177d2bf260b",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -169951,7 +169951,7 @@
       },
       "event_key": "a86bbfaa7525ab4bd6694b21935f9224c4385cbc8831adea7f1f2deddb19412a",
       "content_hash": "d11530a6e6b8fac5d4049dc912413ea2830d4589c30bb1933754fd4d76da2f33",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -170031,7 +170031,7 @@
       },
       "event_key": "8cba86b081df9878360ae0e8bc171b0201ee29ba4f9fcc5fbbc1fd6870f30a70",
       "content_hash": "3997ef0d6f8fa24e886c337654c538afdf28bb849114bafd44e625644665090e",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -170097,7 +170097,7 @@
       },
       "event_key": "fc3acb754092df0bd5c107fa4d6ead0bed55ac5e6c0ee526ca587d02c44214d8",
       "content_hash": "129ad4402ee80b8471e2984c486ce93eaee7babd901d4764bfda5bee81987927",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170167,7 +170167,7 @@
       },
       "event_key": "d1d50af4f9d37998741057840047f5835c1a12b361571fb7fdbc217f444f4192",
       "content_hash": "03407714fa7b4ed21e84663503d42d0faa7db4efc52ccbfd7faa6cf6625b77fa",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -170254,7 +170254,7 @@
       },
       "event_key": "0c39d9b77c7df8c66e5ee7caf5dfb72454cec23ed6f77cf097297f013ac65389",
       "content_hash": "f757656265d5fd9e2506cd4f36658a56fc53c6fbb3b167e118cb7b4a118d4a77",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170321,7 +170321,7 @@
       },
       "event_key": "f59bd81d6c7d3605a491db7f0bd0da21449ddc961251febbaefcc99f4a968ae9",
       "content_hash": "6a6e37e4e2119a0623bede3e81c39d0e9a4bae224c3741c47e71b61d9137fe7f",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170429,7 +170429,7 @@
       },
       "event_key": "7e033bd97a90dbb4cd696e6d5ea03e65519e8d06336ac15a8d42bcd911b9e68c",
       "content_hash": "39534c360a88d8c1cdee13821e08e0d02ae580748169fa5581b7a5fa4ce7910b",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170517,7 +170517,7 @@
       },
       "event_key": "abbaa35027ac90063ac2231ed670084359817a9b7ed20c5bfda03689b5f776e3",
       "content_hash": "840fc3bc0b1fa36d314f6cd21ff0560b1809b76d210985227cc0a06d34e1c550",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170597,7 +170597,7 @@
       },
       "event_key": "7a4d10bfba3583e121fe40f344b4156c858bcb8c85d32bafa72483ca30432eaa",
       "content_hash": "a32f303c61468dd08130822ecc83fd1e10b141a07d201dc7d14640aa169fb612",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -170665,7 +170665,7 @@
       },
       "event_key": "bd394eaed3e67803cf8b9418a96b37d790a5f6419ab6baa1432bc981cf0f8704",
       "content_hash": "152b5fb6491499a31f1f31a02f66cbd701c433dc9442f8bdc30d38be6c2d7d97",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170746,7 +170746,7 @@
       },
       "event_key": "292d3d617f0ed30dda4cea508b7897a8f76f214f1276d34972963f7fecc71817",
       "content_hash": "a2fcf540c0d2cea3e27cc081ef0363adff613e9aa9b103d164478608955c8675",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -170811,7 +170811,7 @@
       },
       "event_key": "63fe2b569a72078dfd5d9cde24216da17432e2f44edf8efccaeee93c6b2e0c7e",
       "content_hash": "a95ab5671ef3a07db93e2282ddb0f0a8ba36b31c2c82140bc07923c5f26d0bed",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170880,7 +170880,7 @@
       },
       "event_key": "fde26856166d781764e5046585d964b2f191501659fe8d4e7bd02bce8d73d9ae",
       "content_hash": "1a5ba84699fd0b46a250ea574303b439c4cf049b1171efb4302079348aea341a",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -170952,7 +170952,7 @@
       },
       "event_key": "87d44c24dcbcfce02f3418c1c6a1531b2ee5db8370bde4003c12c8b2a8fe9077",
       "content_hash": "a9bbe7146a5661f142fe3733e50308d3e678c19d4d035b4858ce4f2a589023ef",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171028,7 +171028,7 @@
       },
       "event_key": "fb28d4aa06c0d7f208ca7d949427ddd4b8937e81b023a120f975eb3d972937a7",
       "content_hash": "dd68e396c899efeefa67881ea342e34ba972e103416a7d67366368a5a97c9751",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171151,7 +171151,7 @@
       },
       "event_key": "1965d479da78ea64f5ab0e1deb7579e2f4c30aa52aa4bc4b62c26f5da83ee44c",
       "content_hash": "a459b877b94b6d8b9dc80df5739c1ac97befa24bb762dfed7ad9e126e724add8",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사",
@@ -171221,7 +171221,7 @@
       },
       "event_key": "c2e4e04b60b8229a86a6ac47bbb066b25bdbf2a6804f1a8e42e2ebcc0a22efc8",
       "content_hash": "f378a8d0ea903465ef9a61c237a67b0f7b7716e8170ae0657c5a6b0218c5f569",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -171285,7 +171285,7 @@
       },
       "event_key": "7468b0451c507c5172e428acaa23288259afe4b659607bf851d280a4e50c2108",
       "content_hash": "18f30d6e1bba7d876ba46744f358fbd56ad91df459c586b8b123b23da0f5d3b1",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171343,7 +171343,7 @@
       },
       "event_key": "3d64f037ad802a0c4b44a3082b973cdd476cd252e5e1ef655fb845eca04378ff",
       "content_hash": "7207d9dc2f71efd264aafc92582ec8b3542a13779a86deca3d708a9a29221bcc",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171408,7 +171408,7 @@
       },
       "event_key": "1c24d02e298937d81b86621e08742acf72c6f8b4bfe254139c630a3e334828f7",
       "content_hash": "b52820f2b941b87e4184c0f1675067d73f5613507fc9a6f1686afae89a9284cc",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171476,7 +171476,7 @@
       },
       "event_key": "96d366c4cc2062773dbfd52646405fe23af66342280de69f596d206970618535",
       "content_hash": "06bfedfb53301f22a35363f3a1bcab3081d9bbb73d92fd9a607bebd120d85dcf",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -171548,7 +171548,7 @@
       },
       "event_key": "8913ee2929210c67337ff60fa134998d6e6a9db762c42e469b389e6f67fbd288",
       "content_hash": "6160fb36ec50676eb167e6237a1bc000155005914b627538e1511340d31fd3bb",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171621,7 +171621,7 @@
       },
       "event_key": "5a67062e7bac07c4f311bee91b5f90c43bbbc2e9e7c6c190b0baf2804a7a6740",
       "content_hash": "663b1d828557a7fc8dbb96eab7bea8ee64de0e4e0bc3dbd08e4dbd38a6dfebcb",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -171690,7 +171690,7 @@
       },
       "event_key": "720b3c8ae880fc4a405ff49e60118a3bbe1f9e3ff7bab9eaf65c88d2ca012e9e",
       "content_hash": "02bffc1c7e3c31ceedbe25458e2495dc18fa37779685bf03560df75d2a831cf2",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -171752,7 +171752,7 @@
       },
       "event_key": "3ee7f7e7124d55c1fde8cd1f18aaac359c5973d11aa6259a6faff2324d72c1d7",
       "content_hash": "46d3343c85836aefb69124258c789e0274b6f76f895f2f32b139723f8b7e9ed1",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171820,7 +171820,7 @@
       },
       "event_key": "dcdc9d24b12a9e8edb1b46f22f56bcb5a9e944b92a6fd080bee157f610682bbe",
       "content_hash": "da8af712d38bfa47f08a52823ce1f6a95bce7bd783d56cb667f7b700aed1029b",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -171884,7 +171884,7 @@
       },
       "event_key": "807883d4620f4e5a2489648e9bca2bdca248ae12766cb264389ca7ecdf088c4f",
       "content_hash": "f4524df106f95ebd57212a227145d71e7c41ad90f8d6f80b58793ef74950d218",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -171960,7 +171960,7 @@
       },
       "event_key": "fbd46e2ab38409ae15da386ef46b02526d9ed1c1c5e810f235209d34cd388956",
       "content_hash": "082f6376ff3b96cb8aa8a3e733596a0e31bff9bda4e9ffd2a1fa155cb8cd462d",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -172032,7 +172032,7 @@
       },
       "event_key": "f17e0a620f54a48a7fe346a9cddf93334cd87164198ed31a4f4035db1120b36e",
       "content_hash": "aa83c2264c0edd16c8fd7d58a7dbf99f1634554b2b48edb53cc97b40fc1f99d1",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -172097,7 +172097,7 @@
       },
       "event_key": "8180d54763f6fb1b45cebc3abdb96ed9fb0954b25f7b21ac8db1af175595e7e9",
       "content_hash": "c5edf1224aba5ab5ef9a27764d59b2a4ef96e515729969312c476fdeaaab2dbc",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -172183,7 +172183,7 @@
       },
       "event_key": "43dfbeaba93c7ee1b7057c138347e3b1cd2082c3f6d7e6ac7f338c8913dc11fc",
       "content_hash": "b679a6075136e9429038c64e46c3f505aa6bba7d295a27294c3ddfc1f0d3a0e0",
-      "collected_at": "2026-11-21T08:01:13.333Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -172253,7 +172253,7 @@
       },
       "event_key": "fec9e4da3e44dc577fbc7c4429415291382905416fb984749b51d937b5feada1",
       "content_hash": "5c017da5956bb1869b1307248162aea0df5cf32096c1c60864d1764c1a71f971",
-      "collected_at": "2026-11-21T08:01:13.330Z",
+      "collected_at": "2026-11-21T23:37:58.388Z",
       "research": {
         "topics": [
           "대사"
@@ -172323,7 +172323,7 @@
       },
       "event_key": "5d1c81b8bc12d4b39da53652bc5726b04501a5b4b08e629da8946cf8eb22b711",
       "content_hash": "15e3629e5987b123d93f0e8d29122319747aa85fa4e4238f2dd871b1bf5f938b",
-      "collected_at": "2026-11-21T08:01:13.332Z",
+      "collected_at": "2026-11-21T23:37:58.389Z",
       "research": {
         "topics": [
           "대사"
@@ -172395,7 +172395,7 @@
       },
       "event_key": "d0b95381de37421556318cafdd4294e7d00c8656e6b34155d858d9d1331d53f2",
       "content_hash": "29d6ce9089b6c791ae9b698e47b6234e9a9e16bcab825a9428abfd5c1573803b",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172483,7 +172483,7 @@
       },
       "event_key": "e05cb9073e4e257563dff0fb2c299439be741c40b2bc5edc42beae31f482d36c",
       "content_hash": "5522541c2493e668cb3f5935ac807bf4b83469e79d6f5f4f37b63f4f7e4adac3",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.992Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172554,7 +172554,7 @@
       },
       "event_key": "2a130002c7f84b15b49121a9d94eb9a7c6967024ac7102fb38bd2774258054df",
       "content_hash": "be7d5a573f2a383fa363f9ed984eb5ed89ea64d9128bc7a1d15022b8c8f1ba1c",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172650,7 +172650,7 @@
       },
       "event_key": "9d0653d9845deedf3112a20136452cc2ae5a71c4d1fc994a19f581bb06a83a5f",
       "content_hash": "297b1805c04f72593c69ab02936c57e4a2e1af8da414966c26b4c0425cf9f846",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172713,7 +172713,7 @@
       },
       "event_key": "4003420ed8a2b5ac7103eb3724be5465f4f4b9c4d7afced7ab1b61026c4ce6ec",
       "content_hash": "f91230b5de576aba255a57d8f5b757ffda25ac3ea41eae1fbee748e436a611ac",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172813,7 +172813,7 @@
       },
       "event_key": "ed75d779e943b065ba92258f1d50e6fe015950d3301c0180787bb3546d81a293",
       "content_hash": "b8304bc871cec9eaa8c584a368b02d39a8b978499d2e6f945f92e28548b266b4",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172889,7 +172889,7 @@
       },
       "event_key": "c9a75b392471531cf9898ef69d4e9641de4b5a12b1b76281f1f8ab5f50d3c908",
       "content_hash": "89aa5350a451303766ee70f8ff4bd47fe65b291e2d718a128499bffacf34fed5",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -172955,7 +172955,7 @@
       },
       "event_key": "7b38751b018e29a0972a0596304e4b5fc117881a1edcfa0b64ed07d668a82406",
       "content_hash": "bbc6ee935e70de03f004847ba4a60b83eed1f6e1b905541eac54d3b84554f85d",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173026,7 +173026,7 @@
       },
       "event_key": "fee7875f37ef4d4b6b716744b29169b89f12e7829c1241aaefca2f73c66b2c25",
       "content_hash": "41b36d4aa82ba7f5ec62fda2e7488e56a78b2b8e193d60e821aa1888626a70a7",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173096,7 +173096,7 @@
       },
       "event_key": "b552cfa2c99b3b3a5d87e62fa4bd772e438e348a9dd2ef90d57c072c5fcdc6ba",
       "content_hash": "e947fb17152390079d65f890f333b7a7017d4d3b4377b5fea8af25c999f4d834",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173154,7 +173154,7 @@
       },
       "event_key": "8f95bbf7ed322e009c45ed2c32b62107cdd1ee82aeb013a3de23d432cdecace5",
       "content_hash": "c01df2dbd9a2dc7f4cd11181a374b783447e30baad2e41b0d0875a31f12e6c1f",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173224,7 +173224,7 @@
       },
       "event_key": "338078d887657d655fa8e89aa1964eaacf15f3f28fafb8eb5b54913a3d0fdfc9",
       "content_hash": "3f2b7e6c32467bfcb8881527435942888986417ca3f2c49242a264fdb67dc92d",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173305,7 +173305,7 @@
       },
       "event_key": "66169a2db6056de61ba21bcb6a510bdcf28abe0f6260a54a450522ca9ad2449d",
       "content_hash": "c3c4c72c3c523f4e34c659401995ac68dee696bf9ebde9c71dbc741ba18cc271",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "대사",
@@ -173370,7 +173370,7 @@
       },
       "event_key": "2aca31767685a326a47223afda112ba8fa34dd346c12e8818c0d9dfb5f2de86a",
       "content_hash": "b8e3b375aa6e7648850a520a427ad15416aacec0df25d24d2ba8a1ea11e4d5aa",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173438,7 +173438,7 @@
       },
       "event_key": "ca7624f53d59b8c632f506fd0245b2ea94afa43f347ed74adb785f97cb6e7984",
       "content_hash": "f89031926c497a0cf1d7d92891e1d56cad71b3fcb16a51e87dc9657c2bd685bb",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173506,7 +173506,7 @@
       },
       "event_key": "dc2f072f10a2a772be5988110860df4f355573ed83d32575859eb0d6256628f1",
       "content_hash": "4917ec208f1189f53ac21aeeb3fb6b2743bfa62c94fa962f592e35793c976977",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173598,7 +173598,7 @@
       },
       "event_key": "08708febd42c13a13682369ee4fb489c5fa7f8cdf9d20819a8b024aa9cdde2cc",
       "content_hash": "4186c00524574b83dfd80eb0633211185fdab2e88a241f568701a359c9d87012",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173672,7 +173672,7 @@
       },
       "event_key": "3850cc1ac747c8461fec954feafb55b3eaa268291353dc9d1d1480161d827ad0",
       "content_hash": "2728f708944b4390f572250539cb8f335ffeafb0f38df4fa4c3f23a6597f42fd",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173739,7 +173739,7 @@
       },
       "event_key": "f0ae5a83148adf4b36758ce197f924ffd243c293d0138f888a50e47796503826",
       "content_hash": "e2b59f142d425f932451e621ec74d23575998eee70c66e54b45c9a4869436a8a",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173814,7 +173814,7 @@
       },
       "event_key": "239fb02c3bdd1b29a9047a352d6814d3fe28c7bc5b89845dec59142c0aa5910b",
       "content_hash": "6cda78604e9b1d296cd935f4b1be54df0983119910570c98df5e5d786d5daa0c",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173871,7 +173871,7 @@
       },
       "event_key": "0ca08298465600c9ec22832b383e45945313098ba082528c781667cef241f5e7",
       "content_hash": "e33ab4ade7661bfce95ec84b2bdf5fe855b83fae23c4207f3767855671393064",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -173968,7 +173968,7 @@
       },
       "event_key": "1311ff47d3d6e11464ec8f103576fafbc8171a13fd5b70ed0a9b0db59ef64dcd",
       "content_hash": "dff9500250a7cf8f4b06030feffb93ccfc0cf8a2bd64e438e8f2f54b0c58dac7",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174033,7 +174033,7 @@
       },
       "event_key": "a0894664d00dce5e605fe9241dbf1d5e42c840e33b05bc31e0d183adb7c693fc",
       "content_hash": "b88a720957963aefeacacfdc1506da7a1da57964cc1ce21476e9ff6a7248cd42",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174097,7 +174097,7 @@
       },
       "event_key": "3ef07772df83d2a39b6429607358796de80a2aa923acb12078abf25838cadcbb",
       "content_hash": "52d44f8d323b82eddbfdca86dce1da3ac8fab6772f41027869703dec22737f25",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174180,7 +174180,7 @@
       },
       "event_key": "fd3c56d16f24c6008bee6b0cb3e05f944a29640514d2e85077dc4579fbe61a0c",
       "content_hash": "e29da9939eeff812dac67db681f0f7ec6f0422119cf6d8734b73a42ae6a388a4",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174280,7 +174280,7 @@
       },
       "event_key": "25c77eb51748dcb01eff627ec3af429bd9027afa93c3b6b2e6f8718850195e0c",
       "content_hash": "365679c59064cfbaa79314bbaa0c9232c6bc4ff33da02bb925b7bdc5b766f6f5",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174352,7 +174352,7 @@
       },
       "event_key": "ada6d18b0990ba7ad239000b391a37bf8bb5bf0830f976832424161aeeed8128",
       "content_hash": "27a9254ff773227a7e8ade2f7e6e8aaffbe00076a648a0d845f1cb481a072b8d",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174427,7 +174427,7 @@
       },
       "event_key": "178915f6fcf40ab8a26aaeed373796007fe33ca3ed04a84fa9bce53036730a14",
       "content_hash": "d6abcd6227e127e7d6c90ee69ebb150f353a49e754b42033e89badf396ffec57",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174495,7 +174495,7 @@
       },
       "event_key": "516b207b8ec44556b5992fec9b237b04bd622a086c8667a872b20b2401c5a1cd",
       "content_hash": "c7f5c7dde5260329c8d0789d13e9a2f60b03b5dd41beedae4fab6920868e8aef",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174566,7 +174566,7 @@
       },
       "event_key": "845c168c7d0f82484c7b81eb74184482d636e15248e78421a3d508ca3cd938cb",
       "content_hash": "c6d1f613b53cc086b97b6d8260b73f2ca962a9805fe961204a42df8f8f6f4fa2",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174627,7 +174627,7 @@
       },
       "event_key": "115ab3087dc4677d4fa8e13ed84b5ea5a33efa2de20f337d9baf51eabfd2a24d",
       "content_hash": "3c35ca421b2eaf6b070a29419800f228b5dece77b8d78921296ba5f2345bcdfe",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174694,7 +174694,7 @@
       },
       "event_key": "febb973677b44bd92979989319bdc2a44b38d9602f93b3ae629709eff3145cd7",
       "content_hash": "5ffa05df66b3524d580d84c99b813ba6c29e44f469b7b9f916149f4d31fba383",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174762,7 +174762,7 @@
       },
       "event_key": "7bccaffd076fe6342a179df0ee22806934db1b8bda9c8a8d2d95df66e582506e",
       "content_hash": "0c1f1960d7356de9efcb0dae809c233c8b2dd23b29577c4edb5025111c5f198b",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174832,7 +174832,7 @@
       },
       "event_key": "acd09ad78ba0eb90eaf63c4ed5b879e3cb94dab3710ab4c3da427ad621db7b49",
       "content_hash": "42234499dcd7fdbda16c144dc37bb6b66c47a8518ddc70cbeb32e887884b90de",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174896,7 +174896,7 @@
       },
       "event_key": "edd380dbfb83d94876c7a961661f0775f6324d9bcb480251228f2bedebc3b247",
       "content_hash": "b3f884801d14dabfd36d246a8e066dcd177abd427c7f94b2faa99d5cd5f5b1bd",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -174960,7 +174960,7 @@
       },
       "event_key": "1f66c0afc6fcf2936ab98648712a81b6134c1e03243df24e8e2adec703281d1d",
       "content_hash": "4895154d3157f4555766d6363b7130fe74b999b3c6816dbd963e8c5830efcbd3",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175036,7 +175036,7 @@
       },
       "event_key": "7953eb5c64de1b253c73c7c77c78a45ddbfaf7f45da71228ab424f2df38d83ad",
       "content_hash": "f48bd83a5750e1776f4c180d746672ce6c763c3a8103de9bb10134c84374d929",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175093,7 +175093,7 @@
       },
       "event_key": "e11dcc4bf5f23bea9c5ed29efa3a2a329ad339715398c13f6c3bbe0a29f7d219",
       "content_hash": "dee397a0e560c3a533ae0bd05977042790a6f751e0a4d0d9ffd045717380c040",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175165,7 +175165,7 @@
       },
       "event_key": "819e4cc81482f9f1548eb28fa3ddbf7c4b8529f1a362f1f0e6e20175ce7b7348",
       "content_hash": "9e59a29d76b41505ab0df110dcf4fe1e1907b97db9b3612f2a5f8137c6080aa0",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175229,7 +175229,7 @@
       },
       "event_key": "27e4541309171844f45b329cf0a657eb016510a8cb40aad55dc9df0c662ca6d6",
       "content_hash": "b00497147eb7549f9fde06f1a7c277b3e0dbf6d7e63c34c1b2d1bd4e6902100a",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175309,7 +175309,7 @@
       },
       "event_key": "690bf66b464b562aee986f24fce51fd9c77c980d6ccc14080f9b42475dc416c4",
       "content_hash": "07621e212cb99e104e430923f663f8498efe63ef21ed095f68a8374a98bed7d4",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175373,7 +175373,7 @@
       },
       "event_key": "de296f22ec7cb99c3378cd3c7282d6e12b225b172fd0eedc976bedfc1c9d2e74",
       "content_hash": "f680f3c3cf5d52d7abbe3a0f6ba79af8c749070b19858071d7468328e0d95002",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175460,7 +175460,7 @@
       },
       "event_key": "72b45874c71bbb7b254cb9a2fad6ab446dcd8c06b9525ec04d1b59c63ad1fe43",
       "content_hash": "6f1466f6d04bcd83fb0b6d0d43b012bbadffcc774f84ff68c387e4bcabd0c965",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175523,7 +175523,7 @@
       },
       "event_key": "9776f825e6287acc50b0eaee1ef6dba5fbff57ae34fba6ad8082c7031efbce40",
       "content_hash": "c8f646dc5b5c0de7c0ee4c460d32c3632bc7422e54d33a7d625f55df28987762",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175590,7 +175590,7 @@
       },
       "event_key": "a647466c5e606df5194ccb4f570e1dfcf55d6de8df67087f4b70853b4c237dd0",
       "content_hash": "b2fe4bb1e3c5c8a8774a8c6e1964ca45d3563840e054e2784dd3ac92a643a30e",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175647,7 +175647,7 @@
       },
       "event_key": "0a84a206cdbab1bf6619e86dc60cb4077339e7568e180263ae445e8dd0f377ea",
       "content_hash": "90f38b1f886a31922dc5a944f8209be15fba6f85bccddd24c24962fbb31d1f72",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175715,7 +175715,7 @@
       },
       "event_key": "3ac0c209c6a740f8bb1c3c7fdbe39a2806d3aba98683785a6ae5ca51dbce9537",
       "content_hash": "c85707adb0f0fe363a58b501bed3300c3aee24875a81d93bdb055d54a126bd34",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175783,7 +175783,7 @@
       },
       "event_key": "3e99f50c30b8e051afc794b75e65888c5f68bb4ab93ff42b5f4e2d97291358c7",
       "content_hash": "5cfd6c54e2177e9cf59bb3c83f90fb16af63d16d59b37df83848408fd8618de7",
-      "collected_at": "2026-11-21T08:01:13.971Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175851,7 +175851,7 @@
       },
       "event_key": "31d0d5e7d02ef1e0b1d64f217cf7ec8d4ed3998acca7f89adb7de5b3753e487c",
       "content_hash": "8e785069c88f6a9ee3dbf194d7f076906873e938ad0316b9ec306faf3126a37f",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175919,7 +175919,7 @@
       },
       "event_key": "44abafb2964e833524b7a7aff221fb2bb48bf920d269bf304122c13d4a42dc09",
       "content_hash": "26a0c26bca5ea732008d9d3acffcd71776cf412b8b9cb1988d72b14edde6b554",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -175991,7 +175991,7 @@
       },
       "event_key": "73698e7b3028bf84c8c045c40a3a34b1edd8783cb63210f8246e2b4e50bb301f",
       "content_hash": "b03efca3ef142d130e05fd6f69f35c9eb19d308db67a7d8b2eee5d4a85c3156c",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176050,7 +176050,7 @@
       },
       "event_key": "ac050ae8c1dd10f8e94e40f853ffae79872067a0871be8dae52b06dffa2febab",
       "content_hash": "28c437d8b0ad5163525f77e9dddbff0a492fbcc4c6e1c6071a081de0e78c6a2b",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176112,7 +176112,7 @@
       },
       "event_key": "d5ab8ff6087affbc26b2a75494f1085120fcebe0f27c0432bbd83b07f6e17689",
       "content_hash": "aa30237f0ef8b158de5130d3152624700f4abdefa013ba2e3ab8601b117d3887",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176176,7 +176176,7 @@
       },
       "event_key": "e66ec69f88235c1b3528ac1ac7711e7d2a9f8a7452ce519b1db97faae83405ee",
       "content_hash": "c4e697d9ee813ea4ee66e4f7a67ce8ef46f611892501c8e2f53b0749585012b2",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176242,7 +176242,7 @@
       },
       "event_key": "0d3fda73520a2a6d188d115a71dec0b2565b48a2627948e245aa04c3dad79a15",
       "content_hash": "0dee7b17663afc1d5cd580d67c74f5e610be46e61f85ec0d1e55c0bcd8814ad8",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176311,7 +176311,7 @@
       },
       "event_key": "1d9c4f9a010e9163d3f7bbc6a65f6c5ca4e431000539980b4be21379be235e7d",
       "content_hash": "2587ca597affb85b0e2abd466b6625ca7941bf03db87030af61938ae1543633c",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176383,7 +176383,7 @@
       },
       "event_key": "66a6d8aaf04fd300557ff342769dac71b79b62c56033935bf8067431e503eb01",
       "content_hash": "fd72946fbaa56e41c72d2c6ed6a4e105433ab1b1579e151e8110815c13db1a1b",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176440,7 +176440,7 @@
       },
       "event_key": "9e84610f8e2bff05d0f7d74318a30d92fec945b6aa81fc21f190b8ea56b13b33",
       "content_hash": "beea40cb77dcaf58edc12586c9b2ff80a04bbcc320ce6bb848abaf3ee09181cb",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176510,7 +176510,7 @@
       },
       "event_key": "de52722487dbb1a1f7e77fb2bf4736618b3d4b19c24e068286fd2aedfae833fe",
       "content_hash": "38b4e777ce3a76415ebf324fc1065c2fdc3a5140d3a84cc4f5618f6d6fd5982a",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176578,7 +176578,7 @@
       },
       "event_key": "e388984419e7cb67e0e2c7cde1d253e80ada9103f45ae39ab880e1c648ee7876",
       "content_hash": "019293c708f02db57d2ec9012cfdb14da35a2819b669d8267ed6bfc233af8c11",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176650,7 +176650,7 @@
       },
       "event_key": "b3bf4c548a85a8a2b685e7280eeae51e577f315266c1c8d9c1b33bb7a804cc88",
       "content_hash": "7c97312ad3856865191d768ffd70a35956651eeaae9b04a9885411b29e3aa16b",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176708,7 +176708,7 @@
       },
       "event_key": "555b8118b8ba738b4bcfe9561010e210ed83bc8501931bd08dfb7be554357fd1",
       "content_hash": "d6ef7f142629f0646aa02e1a3d7f065ee6e588580422f641452fe559d7b88333",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176774,7 +176774,7 @@
       },
       "event_key": "7e9fb31044646d3419e889c25f05f431c6fe225017930937bd276ceb60b3a265",
       "content_hash": "7c905ead96904ff50909c561e01a20d488cc98a78b3c3dcad38d78b6290a7afe",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176843,7 +176843,7 @@
       },
       "event_key": "0f82a64b7716960abd8d693fec56d7ac763adb68d94e5a57e410d354b9800cb9",
       "content_hash": "61f066a8a58c785a315a0e0aeb47826e075a1821bf781bb0befe383500958418",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176904,7 +176904,7 @@
       },
       "event_key": "239b33a66fb1bddc380119eb75a6056236a81be18cbf73f2031b03bc3a6e0f09",
       "content_hash": "a9a0dd8d3e05236cf5e82b3eb433b45840a2ed3cba9e82c4a870432e7d6ea4cf",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -176975,7 +176975,7 @@
       },
       "event_key": "a80c164ea3fdce3beb18fba5019542756f802ec73cb033a5b5c79987a5afdf9d",
       "content_hash": "ebda373b4d9e671b65ee6b8574a34425da9b96416d949b0d0070c88b46c5d498",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177049,7 +177049,7 @@
       },
       "event_key": "bac630a02bb503919dcd150f5a795bb7bd9b72f876fd81d39c146cc94378b094",
       "content_hash": "726b84ddffebd4cb1250998ffc03f81b0c3d1cca971b44ca3814f0889a2c9605",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177118,7 +177118,7 @@
       },
       "event_key": "ebdbcf4e293767459df50f9de3ef86a809c2bb6672dcd56da7b3427fdab8612f",
       "content_hash": "1278e3ae4e7bfc305cd2269d3b4241eb0a6a4e0a255fa11409a7c34be31e77f8",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177184,7 +177184,7 @@
       },
       "event_key": "8ab9a6b91087d84febc012fc4d59f4bbf2c1b34074c2433ca9b69b1552815baf",
       "content_hash": "d3cf9b11268d8525c41f0ad612696b76f12cf23f06d6ec8bc8253857205b0645",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관",
@@ -177277,7 +177277,7 @@
       },
       "event_key": "2a18db6e11d158a8058a7530437d5d20d573d0a774632014ad58bb7cf848b512",
       "content_hash": "b54c0d38dcb262303092a2743eeb179205ccf2defd526f0b5250dcb30fc77a73",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177343,7 +177343,7 @@
       },
       "event_key": "ca9d7478b05d7852d026b5349053b07b3288e71c6b05e009803dc999861a92ee",
       "content_hash": "70843cae6e6c536c2c230dd21807e17a459b2e00735bfc705fe51a6e618db005",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177403,7 +177403,7 @@
       },
       "event_key": "9f8b260230d7d3b6cb6831f8a40d9c78762f16509ad633f2ac7601711db79f11",
       "content_hash": "64acbbc7b56afd70f94aadd54d5e0c2659c310ddb6bdd106e01beaa870106959",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177468,7 +177468,7 @@
       },
       "event_key": "664a5183464f6aae0120a9b5eebb2c29b308f53eab135ed1db09d5788cd44576",
       "content_hash": "a1cbc765ed2c2ef1c26df0f6ee203440de9e72cc90bdf90b5bf1217195de4591",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177542,7 +177542,7 @@
       },
       "event_key": "f8fa88147ad22ec357dd8617f6dfc65de434d9419d759540cd547f3b5d795bdc",
       "content_hash": "b5edd9cd3a6d0e46b026cf9cc1d95ca319beba8b981258afaef0ea1fcb1ce4c5",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177606,7 +177606,7 @@
       },
       "event_key": "c8b9b23b10506247714d069fcc19149f2faa49bc71641a3189f553b408901ee4",
       "content_hash": "3b2e3b2ea67cb35a67137066e8f408f827e9166af21bb09128908fbc330e3fa9",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177674,7 +177674,7 @@
       },
       "event_key": "b76b1b5f15eb7b7338b92179aad5a35a2ae9ae1370af147c36ca160e9c20a5be",
       "content_hash": "9c34ab2a9c72f2e2089c5879f045c0d0cb19ab4a6b87e9fc813f2e4b539a3a4a",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177763,7 +177763,7 @@
       },
       "event_key": "306aca86e9cf63a3cf6567c7d8ed3935acaea06618d16507d65b2c9793bcb42e",
       "content_hash": "e5cdf2bc7d6bd5e6361bff0119fc8a8c408b0a21908e5b7914feab19a1f9cd9c",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177829,7 +177829,7 @@
       },
       "event_key": "5478ee010533197fb0a9bbba2ecfa6a57f86a5c74b4b3fa2dee2334965d9f20c",
       "content_hash": "c23afe28704a304bbf10fae4bfd4b12c97fd5fcd0568d49a9ef8abee25fb2b15",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177903,7 +177903,7 @@
       },
       "event_key": "76fea66d44f4c0b230364d58ce15fc50c48a9a04c8e6b9c6bbc2043ddeb73e6b",
       "content_hash": "92b191c7e65d55ee83df3eca097ab43b6c8b4043b9f4a9667c5ba6c5da8eaa36",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.992Z",
       "research": {
         "topics": [
           "심혈관"
@@ -177974,7 +177974,7 @@
       },
       "event_key": "f6f0914a2681d0e680260086af02e9c342433e331196c30160c7d1b9103fb699",
       "content_hash": "e541324a638cb158532569b789208481d19316c315a95ca0eb2afe69bcdebc8a",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178037,7 +178037,7 @@
       },
       "event_key": "2e3425080dd6599b621ecaad9233fbd114d20bf93637df457487be54f09877d1",
       "content_hash": "008506697a26fb4f725b9bade2eb6f6c8f280652b1d9ce306889f489065e6772",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178120,7 +178120,7 @@
       },
       "event_key": "40e6e7784a4378cd84efacf7c0373d81fd6240eb26a139baf55d7b9fea345681",
       "content_hash": "24ca5e5d020ffef85777784345cec97d48388f705ade07913a55914467bfed4d",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178185,7 +178185,7 @@
       },
       "event_key": "6e9ce0f8b11c4b48dfa2fbfcd1540f259769ef3c34b976afc42efe32cda6e9f7",
       "content_hash": "e044220e4bfe5030c243e8f00791744b017974aeceb4817f6f40a8a65804aded",
-      "collected_at": "2026-11-21T08:01:13.968Z",
+      "collected_at": "2026-11-21T23:37:58.993Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178252,7 +178252,7 @@
       },
       "event_key": "6233a2e9de6c47bb659a8e63068e9decbc5405556f02f0d9e4e6e72534a2eebd",
       "content_hash": "d3b69434bdae0af6248f8c56500a0d7bc201f2f7c4d34c45004f3b60f4bb74bc",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178316,7 +178316,7 @@
       },
       "event_key": "d7763f19b3b145ac55a86d6f6ac27c73ce5015dbac0cd762e1bf27fe8894179d",
       "content_hash": "de000ffc0f619bfb8e6019389d6f84d18e39eb9f8b49945f3cc41d6b5b6671f2",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178377,7 +178377,7 @@
       },
       "event_key": "a053153ea06afd7c9f6fb5bcc213655641e98352eb088d2e5add954a2cdfb732",
       "content_hash": "1216ac6bb724a1dedc14633234ca9ce67eee27932b51e64e953c265e70855d24",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178443,7 +178443,7 @@
       },
       "event_key": "761576e794fdf3867b4c25c724dbe3af026a5dd6f9396fc7585eed39aa42d843",
       "content_hash": "c0183045e1be98bebfefe6b9b24e035d35a49e6ccd4dbc58cf000977b8956780",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178511,7 +178511,7 @@
       },
       "event_key": "96e9043f08805dd85da886b5f5274232e53718a39bd988c4a551f8f3cebc68c1",
       "content_hash": "4310e0ea4ba40ec2878fe1de5d7e5d49ce7f8c1fa8bab2af8a74345433460f3c",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178583,7 +178583,7 @@
       },
       "event_key": "347808002097432adffb94aea7fb6439157c6a6d52b461130744ebe3705f8e68",
       "content_hash": "1ba3b22fff5bcab2f2474a8741dff60a4677cd43a35787e5d72757f176e8dc54",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.996Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178652,7 +178652,7 @@
       },
       "event_key": "88a43a43fd92125a646c6a1d80366823aef8e1e42d450c7248e570078e64aaf4",
       "content_hash": "edfcc51a13d90f3222f1730a8a80aed8f82dc5087c0d612b5586fcae8270584f",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.994Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178721,7 +178721,7 @@
       },
       "event_key": "a1ea675e33d819f12faf6c40b96be345587a9e2a45c693e912c341af0f1d3e8b",
       "content_hash": "c9eb2e133acd96973c4be967ec5e4fa21c22afbb493e556222266438ece8db13",
-      "collected_at": "2026-11-21T08:01:13.970Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178789,7 +178789,7 @@
       },
       "event_key": "294898c30ecf8811f4238ace12d5fbb048c82d3b2138a487740d879bbddd61de",
       "content_hash": "0153a481677200ce2d4ebef1babfbb74226024e13dab5be31e74501893915ef5",
-      "collected_at": "2026-11-21T08:01:13.969Z",
+      "collected_at": "2026-11-21T23:37:58.995Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178847,7 +178847,7 @@
       },
       "event_key": "a2f0eebf500f13476faf0531400d35a8dba18bcf709552161a061317491d4636",
       "content_hash": "e87dbafc29f47c67e3801650451ef2afff19f7f2751c28efeb9e0bf6f0a7ba66",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.989Z",
       "research": {
         "topics": [
           "심혈관"
@@ -178915,7 +178915,7 @@
       },
       "event_key": "68ff4dbbd9383138d5377576173c251826adcaa6403c94e5c6dc4204a898c5c8",
       "content_hash": "f05ee03b858ccf25a5fe637190fdda9767231d50233e4cff1a365e7f96164bb6",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "대사",
@@ -178981,7 +178981,7 @@
       },
       "event_key": "04d270d0145e422b66e4e11bcb69d08c46a02c322655e05fb8318e8e006e4b94",
       "content_hash": "25a45d6c74000ac3639ee8cd565fab40d9be57caee949e72d54d1d66d051dca0",
-      "collected_at": "2026-11-21T08:01:14.043Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -179077,7 +179077,7 @@
       },
       "event_key": "8dcbcec905b97cd7d4c136a88deea17a12d868ff128cd05f4c3899a23edc8163",
       "content_hash": "7bc6bedf2104aec015dec3a204be1f3547274d0d344a9f5ee85c59c6e292d078",
-      "collected_at": "2026-11-21T08:01:14.043Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -179141,7 +179141,7 @@
       },
       "event_key": "7c5fc5fbce155f0f0b933f40de28d241bcbbcb36af9ba7cd06b6702ba5fd9347",
       "content_hash": "468b226020ce5562a876097ef656702f0d5e40b6dbc90a725b896044344337d7",
-      "collected_at": "2026-11-21T08:01:14.043Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -179210,7 +179210,7 @@
       },
       "event_key": "75f9bcb458922e6902be8015384602df641d5506e323ea78bac436b40570fc27",
       "content_hash": "300ec30838359928e0263ff2d117722bbb371a6abf0f552d9432b1bed790f190",
-      "collected_at": "2026-11-21T08:01:14.043Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -179287,7 +179287,7 @@
       },
       "event_key": "01eeaddc05c068b351153e56c1d81a4704a0539b6b8f5a450dacb42173812a77",
       "content_hash": "981fc350ab2c6e6d53fe0f7c7538a4638a10d116c596ea60c184d601e17ae452",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179357,7 +179357,7 @@
       },
       "event_key": "af6188384bcb9882d9575ba69723b1bfef4ef6561d6a9ecfa658905b548ac608",
       "content_hash": "ad610c7622293a5b8c100be5aa863d84a169d397c0557d91fee39113b2da6e0e",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179434,7 +179434,7 @@
       },
       "event_key": "9a0d85101a5aed4ec64ebc57210d20e7654a44c33e312fd58cd62e0170eee04d",
       "content_hash": "08034af389bc00fa1e798f4d0cccac25c66d74db30d2edb8c0c6b8ad5b046b0b",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179522,7 +179522,7 @@
       },
       "event_key": "2361d8fb2719569e2bbc9af357dab1fc8b54b4d8948fed843a825fcbce9e1254",
       "content_hash": "78b91f9859d91fc11efa544eba6e528f2d3308722aa34981b680f044c20ca254",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179591,7 +179591,7 @@
       },
       "event_key": "29738f3d8eae6d587b824574af11d23ba8d6a4dc213debba87074cf16b4e1029",
       "content_hash": "e35671816251a6c9bd29cf623457f46ca85e2e50e1fca1646db5f2fef63af463",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179656,7 +179656,7 @@
       },
       "event_key": "483d974fed05409f940f3efbf01ec566da50b0247c5f509b9cfe652db23962c1",
       "content_hash": "5f6ebd0af1be874b7b9f314f0a08c2e357a173b50b83918398eba7985d74b7eb",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179724,7 +179724,7 @@
       },
       "event_key": "1f95f74e5d0f4e3867015a4d342363c04392e8273093876879cde5aca63e5320",
       "content_hash": "c2b551544bb8cd869a08dd82748ecfe8f7173402a782cc8fec7f1b29c4ecef52",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179800,7 +179800,7 @@
       },
       "event_key": "76f9d7fdcaee5bd195bdc6142ef54708cb5a346e93c94182444730f615213efa",
       "content_hash": "b3bfc50abfec00674c4d166cd6ce1933a86c5e5c8802618f6c560497092015ee",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179875,7 +179875,7 @@
       },
       "event_key": "f02c5b2766b2c6a1638cc8d97d01e920a377ad07ad45f6ea264305d5baa008ca",
       "content_hash": "1463c4ba148a1ede62b64bd7ad6e6097bee7c45036746c76473e3c651392312d",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -179955,7 +179955,7 @@
       },
       "event_key": "b1fb091e5ae328db17e7d41264230d25770208b843e1239b9f3a51e10634719d",
       "content_hash": "a30f858ce799a2de7b894e4bce37430e17b43e13d0bfd926cfeed6c27d947cc8",
-      "collected_at": "2026-11-21T08:01:13.327Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -180032,7 +180032,7 @@
       },
       "event_key": "a3e6bf39279dce37b31940f968c3dec5bdc2e37c08b24fd06fab1c17074295cb",
       "content_hash": "24e1c14a5341ff2325dc89d93d90ca13987439e7b8369edbdf0e35be24dc2920",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -180108,7 +180108,7 @@
       },
       "event_key": "183e2120a303e15dd01b637ea17b3742a26f44e36444dddcd79ff785e91277b6",
       "content_hash": "089e8bf34e63cbc39ae00441709cf86844e4f9fbf686c695014f13053ba25349",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -180188,7 +180188,7 @@
       },
       "event_key": "949ae24e2c303e503ef99ffef7d3b0740b59ca96b65f2dc0c48568ec361c6010",
       "content_hash": "02077bc989d02816b40204eee2b5d149199d7ab7056b5daf876e08fd30e9bb47",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -180251,7 +180251,7 @@
       },
       "event_key": "c38c99295f24a808e6300af7fe19f1dc870d841880293a133122895943b99019",
       "content_hash": "8f33cd157fc89f7189764e6a2f62dec74636a890529a6bdfb90362777e8aa299",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.386Z",
       "research": {
         "topics": [
           "대사"
@@ -180319,7 +180319,7 @@
       },
       "event_key": "2336247156611822da5226d090f0966194039180e26ce6d10f2e91e60e77b35a",
       "content_hash": "4de6e4c791ffdbf0627eb6f6e6f0d87674e1a654fbeea38e65659d9dcfcf5f84",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180399,7 +180399,7 @@
       },
       "event_key": "8851b320cea4d85848d9df2a66dab9843e9440edcec690c49689bb89b04653a1",
       "content_hash": "40b842b2d015b0a7f81b2f83f8161a89a164d53bb31180fdb4d65cd559c0f776",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180466,7 +180466,7 @@
       },
       "event_key": "17ba74e416a8c7209127d7a0b4ee3f3d73503b4b9f9a0a2ee8ac9c999895ee29",
       "content_hash": "d161f3de26ec872c96ca30110dadf74358786f0b2a36ce5f475f750603d09011",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180530,7 +180530,7 @@
       },
       "event_key": "601d6d84c943f50bc7c397a9858f5212deb667643fece6a2a91ff1ecee9d1185",
       "content_hash": "daa2824fbb206d19ebad1b4aafd8d8637728235b99b26da73cabd60537430568",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180598,7 +180598,7 @@
       },
       "event_key": "89ffb9c822ff23197956e0bf641ed179dc4c5186c0eb9858077f4bf2348de2f6",
       "content_hash": "e9b61601c87cef7c9d4f4ab4fe885c890f0b9f0995e64b93fb9a50a7e0131b3c",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180666,7 +180666,7 @@
       },
       "event_key": "db4cffa8600f665617b761fded19216f3717004a20123a13fab0eafde2b6564a",
       "content_hash": "be14e55e94d8ab3594552efac0ced6e203e8170b6f0ce978e11840d5f27aba6d",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180742,7 +180742,7 @@
       },
       "event_key": "2b6e66f883c913431c5fbec048915fb2ccf3c95c904726df290a174262637bfe",
       "content_hash": "7ee9fbc0ff99ddfffaccb0d9f708e1cc8d2910900df6ceae74ec3ab319b44583",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사",
@@ -180827,7 +180827,7 @@
       },
       "event_key": "93203863a7060e2bc9381b170a5e6678b3e5955c11d032ca850912dfd52c5b46",
       "content_hash": "09fedd0c490322d23b9fc11e11c1796082dd1be44193b4e82878061afd34dfcf",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -180910,7 +180910,7 @@
       },
       "event_key": "55d6a83c51e6c08915cd5fd65a363cde7b0b4b2235bb9c6e07d44aaac06a30e8",
       "content_hash": "4321cfbb87ca9b40eea73c8e701ae2a454e80ac82dfe2c7f45ae3a2c5ae623e6",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사",
@@ -180985,7 +180985,7 @@
       },
       "event_key": "f321e9c78170c047013f5e5ee030f2a81b43e1496ec1f671986f6904c39100c4",
       "content_hash": "9a36431bf706d6b921101703a110862e8b9a27db44d1814fbf0ab89c4986bc14",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181069,7 +181069,7 @@
       },
       "event_key": "724257b6712d4a42dd57c811de13ddc29fee0c86c2c184a12b05ebc6358ff27a",
       "content_hash": "a6a7bfe8d3f7abd99333af68037a6ad7df48d1b537d8d54bac54495e60f1aa21",
-      "collected_at": "2026-11-21T08:01:13.328Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181133,7 +181133,7 @@
       },
       "event_key": "31ceadf3fe89653f65075a28e1f4a4926364c92e02b30fb10f8595ac4c32e98a",
       "content_hash": "4c45784ba2b1f297453fc3f4401bc2c29e3e4468bd73d7e4e2fb555e87e71449",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181206,7 +181206,7 @@
       },
       "event_key": "f4dc329b0a2a8a065b46b09dfb282a9505dc2f2c383ea469d8ade3555b988bd7",
       "content_hash": "42cfef37ef646b5b5dbee383b92a23baaedd3aa86731d3067a8c3453b13a575d",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181282,7 +181282,7 @@
       },
       "event_key": "fd108b9007250be2d53e2c41a84b9fa59b25143b8fe27f0849909bfc863e9026",
       "content_hash": "6c9885d8158ae67dc335f358edbc1e1568603ef2aaac0635793c6f45e2cb4e6d",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181350,7 +181350,7 @@
       },
       "event_key": "51f8c41cbdfdcb3753116eef24197e0656f0842b1559fbd323fc30cee2f05e40",
       "content_hash": "fe705318e3076666ea7bcf0c1e8e53265f02d2f734e403521b4131e552cadcd6",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181418,7 +181418,7 @@
       },
       "event_key": "2b2079da22425639adae6f6878d1bd8fbbc126d4e6e84a60d59fe7a0cb78a697",
       "content_hash": "c0f6906be5b0a01d6c5f7ad2ec5b796b3eaeb44de2e6c155dc8d2cbcd42cae63",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181493,7 +181493,7 @@
       },
       "event_key": "51fc148ee83d2903ab21934543820bffe7faf2c530adee471b974f1d92d49735",
       "content_hash": "d5159d6a26a5ea159f51d64d12c3281a5946b1b367609d83027f049939b81cbb",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181557,7 +181557,7 @@
       },
       "event_key": "545540b1657df77c2d26e790907af266076b8077d69a4fcdf321be6776798769",
       "content_hash": "b9ca3e757f548c8a2a63307b98173fce3b1d6269754d16ce0fb6273b0fb0606a",
-      "collected_at": "2026-11-21T08:01:13.329Z",
+      "collected_at": "2026-11-21T23:37:58.387Z",
       "research": {
         "topics": [
           "대사"
@@ -181648,7 +181648,7 @@
       },
       "event_key": "467fa619bbcd662671cfcc12e9043a751ae0dcc47314350a2373cf317895d910",
       "content_hash": "90c3a0c9cfa712f48925bb5a1d68c15e3bed67c2c0f86de882e814c0aaa6faff",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -181712,7 +181712,7 @@
       },
       "event_key": "775a9a086433fda78f6cc6cedba092cbc288f43cd2073b92de26353ad839c657",
       "content_hash": "671e3151bf27617437eea94dbd8b73faf9f199a4936944da38ed9ed2b866d87b",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -181776,7 +181776,7 @@
       },
       "event_key": "c3cda4f7e829244023b5a6b9b68b34d74ded3997f55a3046d7e630b085eabc9a",
       "content_hash": "21175f93ee9aa2f77837fe08d785b13f330b0ce2b5087511a2803afc7fcc337c",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -181868,7 +181868,7 @@
       },
       "event_key": "4cf496fa80673fee685d529b202680c614843fa096455bc70ac76eb2924f69c2",
       "content_hash": "2d66e9c1a794f22bec846b4472d3ffb9b578ca5b8c9ad851d56ac5d80cd9b8e3",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -181943,7 +181943,7 @@
       },
       "event_key": "4fcd21fc6b6066a130f619538397544f6b295134aaa07a64e5404a372bf6437d",
       "content_hash": "2786e8988092835f1f83d922d4e7ff0ca6742f5f19c1426cf117740b1577286f",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182032,7 +182032,7 @@
       },
       "event_key": "4144ed24bb5440a1b4bd579e131260921c37d1a58f02c861034eb24f70154e9f",
       "content_hash": "77636bdbfcba2dcf185e0f6fca86c6c013f3893775b7e9cd2fc9728db26e2150",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.983Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182099,7 +182099,7 @@
       },
       "event_key": "9a809923e32bc45e4a2976b2f1b8635b57af0aede2908c85bae079cfe10d9a2f",
       "content_hash": "06cded4c5ed7709b2561a60dbe397adceaa66931b7a529d94ba1c211e605c7b0",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182165,7 +182165,7 @@
       },
       "event_key": "56fef3bc67a8fc58482033ff1c56b96281fc9180ec67bb2d7502329d5874cac4",
       "content_hash": "ea56192ef5437d269e71ae8306e8ae16b3483d26bed66123041978dd6221af1b",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182229,7 +182229,7 @@
       },
       "event_key": "2f17af013108315181c49332e5785974f77563b69f590bff4432fb750129930d",
       "content_hash": "04d303c26ec00f0ead3e9bd52de5027081de807989a7a3de9bfd30641c0da956",
-      "collected_at": "2026-11-21T08:01:13.963Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182299,7 +182299,7 @@
       },
       "event_key": "ec8152def754100d4a401506d8ac07ffd48cbd4b9919856b31b8f9bc53976667",
       "content_hash": "18c8b350c64ff9dd523b00ce0a3ffd5d20e4fda6386c307a8813186ff1d320f3",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182368,7 +182368,7 @@
       },
       "event_key": "59d852a2ddb49e32f81950e8029b9af3d2b81b56ab095b94848d7d0341e01ec1",
       "content_hash": "81cbb8399db8ba07832f11363ad8ffb086d04469eb30e578c8d7a25bc59352ec",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182437,7 +182437,7 @@
       },
       "event_key": "22217e60180111102234b02d3edb6c4cd6d458075872e191c8928c4a4ffbf248",
       "content_hash": "38b9489c9488579dea3341b28dc60ae8f9cc57f222b04dc7c3d4231890c286dc",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182506,7 +182506,7 @@
       },
       "event_key": "4760850bab403fbae6b8ee5c1372ca82485360bffdf3d2e7655515019964188d",
       "content_hash": "de33df58b0ec36533a1e14bed032b707f00c67a850075bed46dc486f70adf9af",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182567,7 +182567,7 @@
       },
       "event_key": "2bfacd9b001a2471921455cf195eecab379765f9f6bf2080e43b4b6db0ed1966",
       "content_hash": "5119b8fa555e6c655f425c2d5414c227a06241646e984bc91919166fef7bc2cb",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182631,7 +182631,7 @@
       },
       "event_key": "25b7df57dd4abae36b762fb428aa7a5bdb7b0aa164b27b215ab73acfb909ce75",
       "content_hash": "19e0016d84fbfe384bc73cb622f2c8fcab215fca961078c52edc8b2cfd16ee0a",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182716,7 +182716,7 @@
       },
       "event_key": "e18b548030a1ccf81765d19ac62883397858895f24df3f929a3ce464ef32d7d5",
       "content_hash": "6a03de533dfdfa62c17a8e3e976a47d00001db69a4bb0989cb5ef073f29931b0",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182780,7 +182780,7 @@
       },
       "event_key": "20fc60310dbfa0c42e5dfe3af0313a8ed1ad907fa203c58ff48d7a2c7860bce0",
       "content_hash": "0e5a831546822736226d41803ddca97089d117f2493a5001b09ebb3ea829ab55",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -182850,7 +182850,7 @@
       },
       "event_key": "0e93ca4cb389b43b443ee97071c2a729e4a262165a75590219ae1ee1675f2bac",
       "content_hash": "84d8578baf9819b615fa21c014fd9f95624fb66b9b4eba49eaa2e1a70724aaef",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "대사",
@@ -182920,7 +182920,7 @@
       },
       "event_key": "19abbf22b15d45c89c962f30aac7e6a036c42585e9c482838300cf53281aa861",
       "content_hash": "85575014f4d2628f9d3f283f5b95a99d333613dba980d44049764b51c2d4e1b7",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183000,7 +183000,7 @@
       },
       "event_key": "51703abe854ee63bd5c1cb6eb71d626ed57da1effee8c9c47272421c8a3922b9",
       "content_hash": "fb003bdc92de95e10f245086c71840849f49b9a6b21c30ee0de43eca454ce724",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.984Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183070,7 +183070,7 @@
       },
       "event_key": "caec78bf6447be96a67f898181b1e8da18fec0206b206549a07447ab2f395af1",
       "content_hash": "7242f5fd76129503a1f485e86c0e739b8b8dd56551f9a613b5ae03abd28234d3",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183136,7 +183136,7 @@
       },
       "event_key": "6e7263203b007664887cfec109003257118a483b363f394af4ec5bb6e391a282",
       "content_hash": "94f5c5a36e1b0d226119e50c0e19387fbd6c7d6f0f58150b3f89b79e4765efbd",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183200,7 +183200,7 @@
       },
       "event_key": "a8aeb97b162f0e2099ea19d7fff7b12231ce5e6fbbbc9a20bd1c4998638634fd",
       "content_hash": "ebee31a1ddf3e83154a6952b080c0caba96557363d8aac4170ffd6b665fa898e",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183268,7 +183268,7 @@
       },
       "event_key": "aa2f62ca9ccbf0b185775703cd9df6cc894dce18747323f9aef6794109f9690b",
       "content_hash": "cefa977a0cb516a4cd0409d13bfe21e2f12db3326acf7531f29599a9c5372544",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183337,7 +183337,7 @@
       },
       "event_key": "6fba8db2ce02298098f4f060607dcfc3ab201357df3dab0fc386f81ca5837b07",
       "content_hash": "d89830f15612f59820755ef7e7e3e3669081e20167ffbdc213f52f37f3e5a69e",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183394,7 +183394,7 @@
       },
       "event_key": "33154927ec46a0de5e3787f03d3fb7f1763a21d93f87d0f57a31d19b126680fe",
       "content_hash": "8ea6bab30c7a168ed39b890995517dc4ebe9bfb057891a0ef98571acbd3b7a07",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183459,7 +183459,7 @@
       },
       "event_key": "7ccd75f4a28bade93824a8499f87b8e3fa389e6fd43c44589f13889b3c93292f",
       "content_hash": "2effcb254cc431f0d1b3948390cf7cddc12b6a5757e9ebc6e2e9901bbedfde26",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183531,7 +183531,7 @@
       },
       "event_key": "e9cb87208cac58f5ad7f819080fc1c2b842951e35d9c8177a652942ca24f8798",
       "content_hash": "83c0e475f478d91acd32bca6482deae96ad646ec8e747d526d350a35a414225f",
-      "collected_at": "2026-11-21T08:01:13.964Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183594,7 +183594,7 @@
       },
       "event_key": "f3deb9bcf82c1bb8340420922c27d92b89c8a6ea8dec21da49d1c4c63de25863",
       "content_hash": "5b0fe7fd157c46589b54fe62c804811a52e237064f2496118123116f3a56cae6",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183657,7 +183657,7 @@
       },
       "event_key": "d1b9a81f4acdbdb2944a24021f2cb3cb7db175d80dcec75f0489199424465895",
       "content_hash": "37b3181e7ecf5c18da0bf44e7973b5202a9166b9726a3c2380feab649f9769ef",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183738,7 +183738,7 @@
       },
       "event_key": "34ed6dc12713f4be3afa433b625aee9eb6ca48279f4aee893cb59a1bce59cca8",
       "content_hash": "6ae1d8110bd00f54861f0795082677d68891c22c6da6c023322ff73d7e12e6f1",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183801,7 +183801,7 @@
       },
       "event_key": "8726ac2a5130a1c1c97921e0f906465f5222d91bb1cbe3666ae601cdf84770b8",
       "content_hash": "33d414cac2408015b53c4c188c43e4132dc14a926aee4a1b6fd0bfd6746691df",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183881,7 +183881,7 @@
       },
       "event_key": "1931b9198dbbf8107b7de964857b398e614efd2c6bf021d00baf480fd56bcc54",
       "content_hash": "b22b777f8d438068ea479772332c32ea3d9562d09d512c10636956e35b84fa0f",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -183946,7 +183946,7 @@
       },
       "event_key": "ce5e707034ca9347015c002174f458f813c4c361308e868c64bffabf4479448d",
       "content_hash": "eda2077fcc504d1eb881c81b4f30ec2a81e1d66e83338e491664abf0a6b8295b",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184010,7 +184010,7 @@
       },
       "event_key": "179494dbb24445eff50812a9a8c7fcfabc7b90ecc87b4b16037a62fc960a4a77",
       "content_hash": "f8dce9a2d72feb069c61b42f033a4c2fb29357bfa2d0e5e6ca856f7c02c39cec",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.985Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184082,7 +184082,7 @@
       },
       "event_key": "0d558351ae03bfb03fdb146f9962e9f603091f7f57146b4160c9378285657d42",
       "content_hash": "2a565792cfe47b20823ab26a7b85eb6c044d35d242f5f384028338f7a7bc4bf1",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184160,7 +184160,7 @@
       },
       "event_key": "fe2c4923e5a958cc2a3bb5d3e6e22dd7b92501a7824f0baa5f0f0b3d9399c929",
       "content_hash": "21e937b7283bfa478a68137025e29c4bad4d868a40b65b931e120682683063a0",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184229,7 +184229,7 @@
       },
       "event_key": "2673a91d7e4b19f12ddafed66dc0ab68ea1cd9cb845bdf5e37c239727e4f6f09",
       "content_hash": "ca6a569ad3e10b68cb27dbacf3cb100f5b6f34d88e4fa662761cc2299102b3c1",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184303,7 +184303,7 @@
       },
       "event_key": "8e5432be255559eefc455bcd3907ce6108df9cb85ed0149d315236faddf0d9a7",
       "content_hash": "f603363bf4a9ddb5c29322b51015c56dfe26f9741f2326ee1ba201f099e26992",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184371,7 +184371,7 @@
       },
       "event_key": "ee2b0e34155ae15e5d7233ba0cf15b718e176db03d6472ff2fb64ac09520f92f",
       "content_hash": "67be479a6fd36321942f54f31ca06aa958a5191d32c5f29064a55fa7632ba740",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184455,7 +184455,7 @@
       },
       "event_key": "33eb31597ae688e59cf32b9497a3d0d9f520dea47a5f180b2a98ac1e25bf27d5",
       "content_hash": "908d7372b8a7d74064702bc632e8249777e81ba4a20efb523013c6c8cc0bf8d0",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184520,7 +184520,7 @@
       },
       "event_key": "9ff3405b2f39bbdd80cd7449f05eb0da8d756ab2b36b17ba3b5b8adb8fe23775",
       "content_hash": "cc9ad200f9b2906c3aec6ba452d5518bb667967ba82c6d34b017f70ac4cc6b11",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184590,7 +184590,7 @@
       },
       "event_key": "11f66f61c44f53b1acb5ad3d9553bdd3f632b4053331aca6f633030a6302e98f",
       "content_hash": "70e9a46ad52adf9f3d03c73834ab634d88318dfb30284f4ba5ed7fd93f56c1eb",
-      "collected_at": "2026-11-21T08:01:13.965Z",
+      "collected_at": "2026-11-21T23:37:58.986Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184670,7 +184670,7 @@
       },
       "event_key": "76ef71667c2057933ccd2fd9c3632fea82727003bfc3ffb7e702014a630eee11",
       "content_hash": "f18f5341f986130753f4c6e3006cb005ad36912824800e2ffe84bf1cae1f0684",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184742,7 +184742,7 @@
       },
       "event_key": "ace5857e5583ae825a87b54dbcf551b5457221df55026961422729bb77092add",
       "content_hash": "d242f2bd7e751cddf91ef44c1f47c24d4b4e3aec413b5fbb5501f11834edfab2",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184812,7 +184812,7 @@
       },
       "event_key": "9d703b1f2038b1ab5354f5220d6a3eb664f4fd1510a7f92d91686c12d37ae5ac",
       "content_hash": "2090eca0ed6a03e926ca8166e6219a8b172c1f7936d9ae3ad722195ae560d27f",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184893,7 +184893,7 @@
       },
       "event_key": "96fd902902b6292d06e1c2c403e0a2661146c342beaf47898e0fb3efb6636e11",
       "content_hash": "4912dbd8234b183ab5a6bc4bbd9cc973dedbfd253fc2c013e740e4cb1d187cb1",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -184987,7 +184987,7 @@
       },
       "event_key": "3017a9ad39c044593c0a6e9556741e785d11e72982bc53f210aca6d354e79b2a",
       "content_hash": "75163a6e7b9cf54481b01da7c749fe398a10c733f164a0162e1f71cfc98ada03",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185056,7 +185056,7 @@
       },
       "event_key": "9eebb5aa402b99afa052b82307585fd0c952d42e7b5f7109013c9a0a8b294a4a",
       "content_hash": "0103499858a6637178f9ee2d91463c7ce1a6bff298fcb6cda179cc787c861e88",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185128,7 +185128,7 @@
       },
       "event_key": "9718e045dd75d6720eba008dab1a1375ab624104dd0e73c619a83ab1168c60e8",
       "content_hash": "4d272b10f33e8b1346479823911ee3823c2c27dc71e4c6e2bdee9986cb966377",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185185,7 +185185,7 @@
       },
       "event_key": "0a6062c00cdcd29a7f8013b39f406c4cda31aab6c77d30dbf835cca8b13f96a5",
       "content_hash": "acfc80aff57cfc3b906eea2c239c3ce98dfd75fd59607f085246b20c89948f70",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185253,7 +185253,7 @@
       },
       "event_key": "b544fe64a68cb3bf01894e1dcf0fa4f3999a716b6c5da224d3a2f0c178e75772",
       "content_hash": "31c446f0c2345ae44fb426b3187e7de24b06c5fc3da821386a1d8af069e34fb8",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185331,7 +185331,7 @@
       },
       "event_key": "67a70a38f778e818aed2c8a12104ddbf8b64f0f65d08541b47ba820b3eb6affd",
       "content_hash": "c90561008d6dfa01d7ab3044174d05a59414a6fb52e0afc08c0f19acd8fd8a78",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185397,7 +185397,7 @@
       },
       "event_key": "51ecee99895176304b4c85ea8324862bc17075310c7b40f1fd06d487a875090d",
       "content_hash": "e3c8a076272113cf868dba4390e090155358171927af17777726a56a784d4199",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185455,7 +185455,7 @@
       },
       "event_key": "2c44c7233e06eae3a2b204618062e35f41ff49afaf482adbb09560dcb9559fe8",
       "content_hash": "eb7dd69db386ebaf1f497a1b6f6d9bec08b98c7195d106699e5255b9f7916df8",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185543,7 +185543,7 @@
       },
       "event_key": "40fdcc7c274e70f352d9bee79ee3c46908f100a0b0bdb664a964191b59c5da74",
       "content_hash": "f6f2a144abdba05bdda0c30fa910e163dcf5995354e642942e1603ffff508975",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185603,7 +185603,7 @@
       },
       "event_key": "625f6edb80e7c76261efb3e21c87f4d61bdc671154b524796ded7f391116fa5b",
       "content_hash": "d01cda9a4c7f26c665119a95b21431c6ae65f9f5c8eea5840eea4e73861a1a90",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185675,7 +185675,7 @@
       },
       "event_key": "d72cde40e9b1352f32397aff742f33f7822fef9c7a118a6434981f4989058137",
       "content_hash": "616c9f2ca7c1d8c35e10976004471c2d0dfc194dbfce9a2dc52069182ce22067",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185742,7 +185742,7 @@
       },
       "event_key": "a8a078ec6c8267162bc5901fc7b75e3f9608201c2c178462bd027d0b381ac618",
       "content_hash": "cc9ca7a431f8acdba200abe2ecbd9df9f847050c7dbb1ee4862e9101c5266700",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185812,7 +185812,7 @@
       },
       "event_key": "15c62faa068fcbb8e2428e215fe8f32a1ca7c7ac209d45a6e91c14ef4f161387",
       "content_hash": "fe347a63e8ed1e196345e671cc16111bddd44531c1a786612d20f17351259a8b",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185883,7 +185883,7 @@
       },
       "event_key": "5594c237879cdf01ba50771a73f50e58ed200be15b3c3c7760908261bff071d9",
       "content_hash": "0619faceb9a6fb430c4530216badda7d96782077fda5ffc5a4b615107aa5867c",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -185975,7 +185975,7 @@
       },
       "event_key": "bc11f50de1080dde380636e11915be3e18fa9839f23f6306b43013ebc998b138",
       "content_hash": "8b7b5292c15949e06c54e8196ed6926783cd2ae3d1afaa5b5dff23d79bb96b05",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186051,7 +186051,7 @@
       },
       "event_key": "9a024448c8d264864ceaa7c88105ced5ffb7e180476cf70ee19e0a4bca37f406",
       "content_hash": "6a2085eca258699a126522c66704d25012a51af5f80807f7e5639aef034a1105",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186122,7 +186122,7 @@
       },
       "event_key": "6b47dbee18feeadf30198cd7fb609f65ba2779821052a91b94697ce136f8e658",
       "content_hash": "f73f4d3ddbbf9cce22020d8420836b850665142be330bd2ad2a91c1a2994fffb",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.987Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186184,7 +186184,7 @@
       },
       "event_key": "007408760c2b60e03283f954cba4cfa07845963bf6cfb058bb5b4bf5f083d901",
       "content_hash": "2c0992b65dac850922e00a4e1fbb4cdc70eecf5080e6c2e90862ad229ff07810",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186261,7 +186261,7 @@
       },
       "event_key": "ed0839e8cabeebdff22d5cb5d5382578c6f77356e5ee018c2012f9dbd505d210",
       "content_hash": "7d5a26e666b2dc9dda92232b8da99924d75b048c1c12055cdcce92480a206e77",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186325,7 +186325,7 @@
       },
       "event_key": "37a402d2b52034b3e6176e4d82cbbbcfaeb14b2deef1fe84892fcf3971ef3a06",
       "content_hash": "bfaaef309a0e1925e4bc038fbf2ab384b5a9a27126119d4cb14341839789d990",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186396,7 +186396,7 @@
       },
       "event_key": "d1f9729c9ed10ab5f3ddb0ae52cf022a9d3376a9943ec3650a325557f3630cc4",
       "content_hash": "40ed027fae5dd770eb37b978a280f100dfb4669b68bf1e9fef76f453c2997cf9",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186488,7 +186488,7 @@
       },
       "event_key": "fedf00f0b955297f4caad823f477d9ea041f30cf7845e9a2c567a0ce33bb67da",
       "content_hash": "d1b7a535f0b9107472c4916c1b6d49dd0107b29dcfba7f06d40bbb1ef5c34b63",
-      "collected_at": "2026-11-21T08:01:13.966Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186614,7 +186614,7 @@
       },
       "event_key": "3f02e5f2dd4bef28040e287b931cfaf217beb335baa217a83957b684e6d864bd",
       "content_hash": "27120dead3111f9da50c60a298a5159c3aa15dbe14726c2eb12fdd6dcffd306c",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186679,7 +186679,7 @@
       },
       "event_key": "67f1b6d24a3cd9692a5a6cef2f79a1e88b95e6ae80571963268329b74a9f47bf",
       "content_hash": "1cba048dbe583c26426beba5d38a44ec3ea3f1fa0553d40e59c0273640825d0d",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186741,7 +186741,7 @@
       },
       "event_key": "ac6d1a1644636a90092c3f15839eccca68e14952f1e49324aa85a6a1cd2e5311",
       "content_hash": "cef6a5a79cbb4f19ef46614afe7d254a4849fb25c5a07ea3db7c06a5db3eea0f",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186800,7 +186800,7 @@
       },
       "event_key": "367cdbccdaca3f02f3d899aea79aab0378ba6b19c42f68306c4a69a3d7333dae",
       "content_hash": "0547a43456aad4d375ba39ffc4e2ba6baf4329503e5589d109e4f5dd0ecd048c",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186859,7 +186859,7 @@
       },
       "event_key": "021d78ae7327a97cb0193b234f97d503beb4045a24da488d5b67c1a06831e652",
       "content_hash": "c4e350150567d20b7f68f70537ee21c22887708813c0d57f952c3a0a5d4e7c9f",
-      "collected_at": "2026-11-21T08:01:13.967Z",
+      "collected_at": "2026-11-21T23:37:58.988Z",
       "research": {
         "topics": [
           "심혈관"
@@ -186956,7 +186956,7 @@
       },
       "event_key": "913ce0e2a25f0c46e7623b354732e5071ecef8470cc1669aad9345e77201ba8e",
       "content_hash": "f16aa0532f52b876f3161fb95b88607b9a80859fa2e14d002c590e00701dc01c",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -187024,7 +187024,7 @@
       },
       "event_key": "001116793971517f4b4b8a88641a54f6f81218f038c3ded9cdc51fc0cd685556",
       "content_hash": "a174b7e71fa7a043f307faeb9c7cd7dc42bfc740f049de27f40af148d56be4c9",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "대사",
@@ -187104,7 +187104,7 @@
       },
       "event_key": "5004e2ff93e0ded4916acb06c5a16bb154df40ce26db97c1af726173d59f24e8",
       "content_hash": "314457a0d036a9edb6c3b9e05d2c7317c587b3bb6a2f998f568cf554a2f1b899",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "대사",
@@ -187162,7 +187162,7 @@
       },
       "event_key": "59f1a6bee0360df448db27ea4dfa9ae933a3ce76e7ad2a6ca107a3e95ab34cf1",
       "content_hash": "4868dc8eec58ecd02cb735ca6d8c5e6fab23f7a052a548b135ee8129ad5b6ee9",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -187231,7 +187231,7 @@
       },
       "event_key": "385a70b48fee6ed42e5d00e211912d73b18aff45e74abcd6517d75435d1d5eef",
       "content_hash": "75a7200f0379289a6cdecd7845ce9625fd925dac1e53403b2c3c416a67b45730",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -187307,7 +187307,7 @@
       },
       "event_key": "535b42d115963b98f69d07d25af1f919c8126f0e657965ffaec09a8dda2569ae",
       "content_hash": "19d9dc538a915ef617a4baee35a2d5c3f392b790d54f7fabb8746d7983894768",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -187384,7 +187384,7 @@
       },
       "event_key": "9fec1179f3a5cd41a019fcd68ae60f2ae42bac1157863cb95174935b1aa6d9f5",
       "content_hash": "48095ad67b97966261414118f256b5accce0011918b2514d9e2839cf6cf84133",
-      "collected_at": "2026-11-21T08:01:14.042Z",
+      "collected_at": "2026-11-21T23:37:59.075Z",
       "research": {
         "topics": [
           "안과"
@@ -187396,6 +187396,61 @@
         "type": "administrative_update",
         "changed_fields": [],
         "note": "주요 등록 필드 변화 없음. 브리핑에서 제외."
+      }
+    },
+    {
+      "id": "unither-extend-first-transplant-20261120",
+      "event_key": "unither-extend-first-transplant-20261120",
+      "section": "clinical",
+      "kind": "trial_initiation",
+      "title": "United Therapeutics, 말기 신부전 EXTEND 시험 첫 이종 신장 이식 발표",
+      "summary": "[사실] 회사는 돼지 흉선 조직을 포함한 UThymoKidney의 EXTEND 시험 첫 이식을 발표했다. 처음 6명은 두 기관에서 이식하며 첫 번째와 두 번째 이식 사이에 12주를 둔다. 24주 생존·이식 신장 기능·안전성을 평가하고 장기 추적한다. 11월 20일자 자료를 이번 회차에 지연 확인했다. [해석] 첫 이식 시행 발표로, 장기 생착과 안전성은 후속 관찰이 필요하다.",
+      "company": "United Therapeutics",
+      "drug": "UThymoKidney",
+      "tags": [
+        "신장",
+        "말기 신부전",
+        "이종이식",
+        "지연 발견"
+      ],
+      "published_at": null,
+      "sources": [
+        {
+          "label": "회사 공식 발표",
+          "url": "https://ir.unither.com/press-releases/2026/11-20-2026-120027408"
+        },
+        {
+          "label": "임상 등록",
+          "url": "https://clinicaltrials.gov/study/NCT07224763"
+        }
+      ],
+      "report_date": "2026-11-21",
+      "slot": "PM",
+      "nct": "NCT07224763",
+      "collected_at": "2026-11-21T10:57:39Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-21T10:57:39Z"
+      },
+      "clinical": {
+        "sponsor": "United Therapeutics",
+        "conditions": [
+          "말기 신부전"
+        ],
+        "phase": "1/2/3상 연속 설계",
+        "primary_outcome": "이식 후 생존·신장 기능·안전성 평가"
+      },
+      "clinical_event": {
+        "type": "trial_initiation",
+        "changed_fields": [],
+        "note": "회사 첫 이식 발표. 신규 등록·주요 필드 변경으로 집계하지 않음"
+      },
+      "content_hash": "f46ad64c",
+      "research": {
+        "topics": [],
+        "category": "산업 뉴스",
+        "priority": 15
       }
     }
   ]
