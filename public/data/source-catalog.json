@@ -332,6 +332,13 @@
       "section": "social",
       "url": "https://www.vrtx.com/careers/",
       "mode": "web_review"
+    },
+    {
+      "name": "Johnson & Johnson 공식 채용",
+      "company": "Johnson & Johnson",
+      "section": "social",
+      "url": "https://www.careers.jnj.com/",
+      "mode": "web_review"
     }
   ]
 }

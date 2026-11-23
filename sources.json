@@ -376,6 +376,14 @@
       "url": "https://www.vrtx.com/careers/",
       "enabled": false,
       "reason": "정기 브리핑의 웹 검색·공식 공고 확인 대상. 서버 자동 수집 어댑터는 미연결."
+    },
+    {
+      "name": "Johnson & Johnson 공식 채용",
+      "company": "Johnson & Johnson",
+      "section": "social",
+      "url": "https://www.careers.jnj.com/",
+      "enabled": false,
+      "reason": "웹 검색·공식 원문 확인 대상. 서버 자동 수집 어댑터 미연결."
     }
   ]
 }
