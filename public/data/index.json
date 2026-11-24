@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T23:50:37.037Z",
+  "updated_at": "2026-11-24T00:07:17Z",
   "reports": [
     {
       "date": "2026-11-24",
       "slot": "AM",
       "file": "2026-11-24-AM.json",
-      "count": 197,
+      "count": 182,
       "status": "partial"
     },
     {
