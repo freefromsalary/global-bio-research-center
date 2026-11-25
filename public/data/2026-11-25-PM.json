@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "display_mode": "research",
+  "report_date": "2026-11-25",
+  "slot": "PM",
+  "window": {
+    "start": "2026-11-24T23:00:00Z",
+    "end": "2026-11-25T07:00:00Z"
+  },
+  "items": [
+    {
+      "event_key": "boehringer:korea50:partnershipstrategy:20261125",
+      "section": "news",
+      "kind": "business_update",
+      "company": "Boehringer Ingelheim Korea",
+      "drug": null,
+      "nct": null,
+      "title": "베링거, 한국 바이오와 장기 협력 확대 방침 — 신규 계약 발표와 구분",
+      "highlight": "대사·심혈관·신장·안과 포함 외부 혁신 발굴 · 국내 기술의 글로벌 개발 연결 추진",
+      "summary": "[사실] 11월 25일 국내 진출 50주년 기자간담회 현장 보도에 따르면 한국베링거인겔하임은 국내 바이오기업·연구기관과의 장기 협력을 확대하겠다는 방향을 밝혔다. 주요 외부 협력 분야에는 심혈관·신장·대사질환, 안과, 항암 등이 포함되며 후보 발굴부터 개발·상업화까지의 협력을 강조했다. [해석] 국내 후보물질의 기술도입·공동연구 기회를 살필 정황이지만 특정 기업과 새 계약을 맺었다는 발표는 아니다. 기존 국내 임상시험 건수를 당일 신규 등록 수로 해석하지 않는다. 회사 공식 보도자료 전체는 확보하지 못해 기자간담회 현장 취재 원문을 근거로 요약했다.",
+      "published_at": "2026-11-25T05:14:00Z",
+      "tags": [
+        "국내 관련성",
+        "사업개발",
+        "대사",
+        "심혈관",
+        "신장",
+        "안과"
+      ],
+      "sources": [
+        {
+          "label": "헬스조선 기자간담회 현장 취재 원문",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/25/2026112501849.html"
+        }
+      ],
+      "id": "boehringer:korea50:partnershipstrategy:20261125",
+      "report_date": "2026-11-25",
+      "slot": "PM",
+      "collected_at": "2026-11-25T08:19:34Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-25T08:19:34Z"
+      },
+      "content_hash": "f888ce10",
+      "research": {
+        "topics": [
+          "대사",
+          "심혈관",
+          "안과"
+        ],
+        "category": "계약·사업개발",
+        "priority": 75
+      }
+    },
+    {
+      "event_key": "job:alnylam:4400166009",
+      "section": "social",
+      "kind": "job",
+      "company": "Alnylam Pharmaceuticals",
+      "drug": null,
+      "nct": null,
+      "title": "앨나일람, CMC 인허가 Associate Director 채용 — 현재 공고 첫 소개",
+      "highlight": "siRNA·올리고뉴클레오타이드·복합 모달리티 CMC 전략 · 산업 경력8~10년·CMC 인허가5년 이상",
+      "summary": "[사실] 공식 공고4400166009는 개발단계 프로그램의 글로벌 CMC 인허가 전략과 임상·판매허가 신청 문서를 이끌 전문가를 모집한다. siRNA 등 올리고뉴클레오타이드·접합체·차세대 전달체의 규제 판단을 다룬다. 관련 고급학위와 제약·바이오 산업 경력 최소8~10년, 그중 CMC 인허가 최소5년을 요구한다. 근무지는 미국 Cambridge 또는 Philadelphia 하이브리드다. [해석] 최초 게시일은 미확인으로 이번 구간 신규 공고가 아닌 현재 공고 첫 소개다. 특정 임상 성공이나 기술거래·조직 확대 신호로 단정할 수 없다.",
+      "published_at": null,
+      "tags": [
+        "CMC",
+        "인허가",
+        "siRNA",
+        "현재 공고 · 신규 아님"
+      ],
+      "job": {
+        "id": "4400166009",
+        "field": "CMC Regulatory Affairs·개발단계 인허가 전략",
+        "expertise": "관련 고급학위, 산업 경력8~10년 이상 및 CMC 인허가5년 이상; 복합 모달리티 이해",
+        "first_posted_at": null,
+        "first_seen_at": "2026-11-25T08:19:34Z",
+        "temporal_status": "current_listing",
+        "status": "active"
+      },
+      "sources": [
+        {
+          "label": "Alnylam 공식 채용4400166009",
+          "url": "https://job-boards.greenhouse.io/alnylampharmaceuticals/jobs/4400166009"
+        }
+      ],
+      "id": "job:alnylam:4400166009",
+      "report_date": "2026-11-25",
+      "slot": "PM",
+      "collected_at": "2026-11-25T08:19:34Z",
+      "infographic": null,
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-25T08:19:34Z"
+      },
+      "content_hash": "9a0b2cbf",
+      "research": {
+        "topics": [],
+        "category": "채용·업계",
+        "priority": 15
+      }
+    }
+  ],
+  "updated_at": "2026-11-25T08:19:34Z",
+  "status": "partial",
+  "coverage": [
+    {
+      "source": "로컬 글로벌·기업별 웹 검색 및 원문 검토",
+      "section": "news",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-25T08:19:34Z",
+      "reason": "기업 미지정 글로벌 바이오/제약 검색 및 Lilly/Novo/Roche/Novartis/Pfizer/Sanofi/GSK/Boehringer/AstraZeneca/Merck 검색 병행. 베링거 기자간담회 현장취재 원문 직접검토, 회사 공식 전문 미확보. Newsis/Aju/일부매체 접근실패는 대체 취재 원문으로 확인. Addex 실적·컨콜은16CET=26일00KST 예정으로 이번 구간 결과·Q&A 미포함. 웹전체 전수검사 아님."
+    },
+    {
+      "source": "로컬 대사·심혈관/신장·안과 임상 검색",
+      "section": "clinical",
+      "status": "partial",
+      "count": 0,
+      "checked_at": "2026-11-25T08:19:34Z",
+      "reason": "당일 날짜·질환 조합검색. 시험예정완료일·등록처 동기화일을 신규발표로 취급하지 않음. 최초공개일/이전스냅샷 비교로 확정한 신규·중요변경 없음. CTgov 직접 대조·CTIS/WHO/국가별 등록처 검증 미완료; 신규0건 전수확정 아님."
+    },
+    {
+      "source": "공식 채용·공개 소셜 탐색 및 전체 아카이브 대조",
+      "section": "social",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-25T08:19:34Z",
+      "reason": "등록 기업명 조합과 기업미지정 직무검색 병행. Alnylam 공식공고4400166009 본문·자격 확인, 이전42개 보고서 회사/ID/URL 대조. Madrigal Workday 본문 없음. LinkedIn 공개 검색은 탐색 경로이며 X 원문·전체 등록사 개별 활성공고 확인 미완료."
+    },
+    {
+      "source": "GitHub 서버 기본 수집",
+      "section": "news",
+      "status": "not_checked",
+      "checked_at": "2026-11-25T08:19:34Z",
+      "reason": "실행 시점 최신 main에 해당 PM 보고서가 없어 로컬 웹 조사로 생성. 서버 수집자료나 임상 baseline은 변경하지 않음."
+    }
+  ],
+  "section_status": {
+    "news": {
+      "message": "원문 검토한 베링거 국내 협력 확대1건을 소개합니다. 특정 신규 계약이 아닌 사업전략 발표입니다. 오전 뉴스는 재발행하지 않았고 Addex 야간 컨콜·실적 결과는 아직 검증하지 않았습니다."
+    },
+    "clinical": {
+      "message": "이번 구간 신규·중요 변화로 직접 검증한 항목은 없습니다. 등록처·원문 검증 미완료가 있어 실제 신규0건을 뜻하지 않습니다. 시험예정완료일과 동기화일을 신규 임상으로 집계하지 않습니다."
+    },
+    "social": {
+      "message": "앨나일람 CMC 인허가 공고1건을 처음 소개합니다. 최초게시일 미확인인 현재 공고로 이번 구간 신규게시가 아닙니다. 기존공고 재발행 없이 아카이브와 대조했습니다. 기업전체·소셜 원문 전수검증은 미완료입니다."
+    }
+  }
+}
