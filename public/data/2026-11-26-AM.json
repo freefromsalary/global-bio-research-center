@@ -3,35 +3,6 @@
     {
       "section": "news",
       "kind": "news",
-      "title": "Pharming pauses Ruconest production over fill-finish issue, threatening US supply",
-      "summary": "출처 피드 발췌 (원문 언어 · 분석 전): A problem at a third-party manufacturer prompted Pharming to pause production of its cornerstone drug and warn that supply constraints are likely.",
-      "company": "",
-      "drug": "",
-      "nct": "",
-      "tags": "피드 원문 · 분석 전",
-      "sources": [
-        {
-          "label": "BioSpace 바이오 산업 뉴스",
-          "url": "https://www.biospace.com/drug-delivery/pharming-pauses-ruconest-production-over-fill-finish-issue-threatening-us-supply"
-        }
-      ],
-      "published_at": "2026-11-25T15:18:38.000Z",
-      "infographic": null,
-      "event_key": "3167a46dba0413c314948859705c85ddf9ca6ebea43ddbe4f4b7f20df04de585",
-      "content_hash": "89c2f546cbc313c7b7c55154d9aa8e6febfbd90cdc32a6f1c1a1c17a97809730",
-      "collected_at": "2026-11-25T23:48:47.482Z",
-      "research": {
-        "topics": [],
-        "category": "산업 뉴스",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "c2c79b72451ce8b2650b9a0c8a4aaa0ccf20725224933f66cfd7e78c671106d1"
-    },
-    {
-      "section": "news",
-      "kind": "news",
       "title": "Capricor could lay off hundreds in wake of FDA rejection",
       "summary": "출처 피드 발췌 (원문 언어 · 분석 전): Follow along as BioSpace tracks job cuts and restructuring initiatives.",
       "company": "",
@@ -231,672 +202,6 @@
       "report_date": "2026-11-26",
       "slot": "AM",
       "id": "8b42056f4675c83856b13d98540e9988f9443702afbdab0d329178c2e018bd2e"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Director/ Director, Regulatory Affairs (Global Regulatory Advertising and Promotion)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5175155007?gh_jid=5175155007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "60aaa2f2cdcc56c925841bd9c9c0a10bb109f10e57a588de8d219f4f19738556",
-      "content_hash": "45e0810e5bb6e6ce6577048ce1ca6b1c48bbb7bae5f15fd820bacbf8d64c23c0",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5175155007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "860aedb285719fdc9e7cf9eb6c279b8cfd17ed31918ebff7023f20794623c4b2"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Director, Medical Value, Evidence, and Outcomes (MVEO)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5266183007?gh_jid=5266183007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "e07cca18aaa6b5df8224aad0244bdbac6cc97653ff000e8997aee170034400ec",
-      "content_hash": "644f552bae219867d9e06ebf2fcb5fb7147049e53d6d3877b6b20e93b96fa4d8",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5266183007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "a22d2e18b41ed81ea34574e41937e09a0d21297b64e74c6613c9d7a78d21694b"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Director, Regulatory Affairs (CMC)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5296264007?gh_jid=5296264007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "326189ed961dbac6369e395d8aa4730d7a153dca9b8e14e2e8c442e718df8f5b",
-      "content_hash": "da3cdc236f328bf52119086f38248a8e4762676b798acc92e329417f45244225",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5296264007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "c3057e29f9307bf0e7594f935c4afb2140d13b86db28f521ab34e969ae5d443d"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Manufacturing Scientist I (3rd Shift)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5280910007?gh_jid=5280910007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "82f52d45f5c54b3c906f0435f77bf2eaf6787b6221fc54999ac052d27ea737a5",
-      "content_hash": "a1dad32b12e0e8866cf604f10bf0cf5c6445dba0e8e5a68ae5bbf6e300d28859",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5280910007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "85d4eb46dcb2e57360bcc1aa61f3ec6fbfcfe2803bb93e5598e9fc3e3fd702de"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Manufacturing Scientist II (2nd Shift)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5281925007?gh_jid=5281925007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "ad081be5dd882333ff9900babad0b34e153cc415f09ad3f7b56db7481037c799",
-      "content_hash": "6ce6c9840f51a56b28908969db231d41593c537e55ab7265be758038fa2519b5",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5281925007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "5498b31d8424052b1e695e4223b562789112fcbd053d49bd7d9dc2f64dd722f1"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Medical Director / Medical Director",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5133490007?gh_jid=5133490007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "b516b31c26f806d8318fa7576d2c6bd53b6258c4804f48b94bfccc9ba8d4ca97",
-      "content_hash": "a88ea2d82f73b45ef7843d33bf2caf273c4e20d16edb8bc602454a9fb6eb390a",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5133490007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "10314b602f4b3428cdd1c7eeb3a161af9450e24d1ec1d99ece330fa8ed25fb31"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Associate Scientist I, Mechanistic Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5301262007?gh_jid=5301262007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "781dca8923050940f573583dd9af85deeed68a6d99ab15ffc202512c7b7eedc4",
-      "content_hash": "b51049cd177d220ceda7a78478889bd5ff9bb7a2dd1ab5de949a8205e1905e0d",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5301262007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "7859717922a906073c5ceb96164e0e081356e45353b393d60bae2cfb1f89f264"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Cardiometabolic Medical Science Liaison",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5124573007?gh_jid=5124573007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "67bc06883c461e18aa1392331fde0caec0c01f1c6163d0eab0793fcbb54c824a",
-      "content_hash": "2362a35f276448c29607e1e8a53c2afb11a7d9ca177ba346beae06c4c5916c7e",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5124573007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [
-          "대사",
-          "심혈관"
-        ],
-        "category": "채용·업계",
-        "priority": 30
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "2d4f743ac46cfbb4cbdfe6052d45c2596d380b0d927d64a9d189da0e80ad3ecd"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Director, Pharmacometrics & Clinical Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5279189007?gh_jid=5279189007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "15d112b13ef5bb78fde9cace802431232ef6403d4901c26854c9cde7711898e3",
-      "content_hash": "f50ec36fe51d2e0de68cdf6468ac1717db888d15f48b678eaa5da838357cbe92",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5279189007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "62f415371e94b0b154819762fb8671ceee69b14e4b8f174603c3adc4dd36a532"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Director, Regulatory Affairs (Labeling)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5221763007?gh_jid=5221763007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1ade48591c8951f621f71a9b99debad24b2480998a3131828a9f64c436f6e363",
-      "content_hash": "066aef0d1b87c15b52554a3f08884d6a5dc2f3630ce607bf338c46f1d6e230b3",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5221763007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "aba4441f3d561bedd54de11e5e24bd0731fbd1ff0d029e3537b75d1ca4eee3b8"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Manager, Regulatory Affairs",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5232760007?gh_jid=5232760007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "7403253f0b19fea611416bcc652a48df3e314a6deda33f51b60c24e23e8966ed",
-      "content_hash": "27cc15ff72e3003add94dfae3cbffbac740f3f91babdd165aaea76f515ea8b30",
-      "collected_at": "2026-11-25T23:50:08.891Z",
-      "job": {
-        "id": "5232760007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "458e040d28d12ca3acc18628fd0af042aab78772194b6f49021d0377b93922f4"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Director, Medical Capabilities",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5271926007?gh_jid=5271926007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "34fc398d0acda291b4d93641774a062f22183141cdd97cec8cf82457559316ff",
-      "content_hash": "3fae9400e9d0745f8c7b5129642ec3312693dceb3cf6fa6d91f164cbfeb2d374",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5271926007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "a37790b1a0edfe95059ad95568f8047334ac1bcbc93d8919388ac2050c174aeb"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Clinical and PV Quality Assurance (Inspection Readiness and Management)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5189599007?gh_jid=5189599007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "9145b0361fa703e51b85bfa7355b9ddaed07e99b337f9122933672738d676fcd",
-      "content_hash": "529eac16c15dc9ec8ff0a0413cf1efd195cfd6888fac37a6decc1a8a22e4f7cf",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5189599007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "a547a9d3e6325c2315130320c61d684edba389782099fb21e9c3940916b8514a"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Medical Device Quality/Product Complaints",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5256733007?gh_jid=5256733007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1e4c304165f55ce3659409b53e49342ebb339b7f0b24d514f6975e52b304d0c6",
-      "content_hash": "a83b510ae3bb48748c13315499a0bca7b2d651f7c2ce4537af9844084d9eda21",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5256733007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "ef989ed8642ed0a78c949d06b1a5afab7bffecf7e8f0423e3735b65e9995405b"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Manager, Medical Publications",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265643007?gh_jid=5265643007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "1b8a7d2ca1074be3be73d0be85e1de3c57f595d0d5461827fd40d1c526eabace",
-      "content_hash": "970787ce5a4ebb122f3c1a10294c882abfc918ca6141689ff2337d9b815a5045",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5265643007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "f055f72c36a275fbfbfd8cff268806dcaa4ccd717ec8e7daa9215e90e40b3fd3"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Scientist I, Discovery Pharmacology",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5265558007?gh_jid=5265558007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "3c7ed519a820e632dcd677261f42d919d1fd734e0fb604eb56393933d39a2862",
-      "content_hash": "098b04ce2dbf1d4174b080dded61dd6eda42e39c6e27092f74c4f466f90d4ab2",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5265558007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "49e40a9a658e1562cb97dbd24cbdf13c467f272fd96154ecb18e9486f6faa3f7"
-    },
-    {
-      "section": "social",
-      "kind": "job",
-      "title": "Senior Specialist, Quality Assurance (Client Partnership Quality Management)",
-      "summary": "공식 채용 페이지에서 현재 열람 가능한 공고입니다. 최초 공고일 미제공으로 이번 회차 신규 채용 또는 조직 확대 신호로 집계하지 않습니다.",
-      "company": "Arrowhead Pharmaceuticals",
-      "drug": "",
-      "nct": "",
-      "tags": [
-        "공식 채용",
-        "현재 공고",
-        "최초 공고일 미확인"
-      ],
-      "sources": [
-        {
-          "label": "Arrowhead 공식 채용",
-          "url": "https://arrowheadpharma.com/en-us/careers/job-openings/5301335007?gh_jid=5301335007"
-        }
-      ],
-      "published_at": null,
-      "infographic": null,
-      "event_key": "3ffc4b8816b1f270ae6bfd2623efdff099441125ddb0bbf86b1a8115140879f0",
-      "content_hash": "c61afca28eee50b3d44a8bfd84e74e44386b6ec28bb095a4aeb3dfa0acf46185",
-      "collected_at": "2026-11-25T23:50:08.892Z",
-      "job": {
-        "id": "5301335007",
-        "first_posted_at": null,
-        "status": "active",
-        "temporal_status": "current_listing"
-      },
-      "research": {
-        "topics": [],
-        "category": "채용·업계",
-        "priority": 0
-      },
-      "report_date": "2026-11-26",
-      "slot": "AM",
-      "id": "2875150bb58b696703ab33797b4b2907e470fe725a064f358bff0a3d6873bf3f"
     },
     {
       "section": "clinical",
@@ -12932,6 +12237,136 @@
       "report_date": "2026-11-26",
       "slot": "AM",
       "id": "98e07b8abef420b5d46aba4ab2dbcca1d09117d6b39b8caa11ff658342249c9b"
+    },
+    {
+      "section": "news",
+      "kind": "manufacturing_update",
+      "title": "Pharming, RUCONEST 충전·완제 생산 일시 중단 — 미국 공급 차질 가능성",
+      "summary": "[사실] Pharming은 외부 충전·완제 제조시설의 무균공정 모의시험 실패 후 RUCONEST 생산을 일시 중단하고 FDA에 미국 공급 중단 가능성을 통지했다고 11월25일 발표했다. 원인 해결과 공정 재적격성 확인 전에는 생산을 재개하지 않는다. 회사는 현 공급이 12월 중순까지 가능하며 약국·환자 보유 제품과 다른 의약품은 이번 사안의 영향을 받지 않는다고 밝혔다. [해석] 이번 공정 이슈를 제품 회수나 환자 보유 제품의 오염 확인으로 바꾸어 해석하면 안 된다. 재개 시점·공급 영향은 조사 결과에 달렸다. 회사 원문 게시일만 확인해 정확한 시각은 미확인이다.",
+      "company": "Pharming Group",
+      "drug": "RUCONEST",
+      "nct": null,
+      "tags": [
+        "CMC",
+        "공급",
+        "희귀질환"
+      ],
+      "sources": [
+        {
+          "label": "Pharming 공식 원문",
+          "url": "https://www.pharming.com/our-news/pharming-temporarily-pauses-ruconest-manufacturing-and-notifies-fda-of-likely-supply"
+        },
+        {
+          "label": "BioSpace 바이오 산업 뉴스",
+          "url": "https://www.biospace.com/drug-delivery/pharming-pauses-ruconest-production-over-fill-finish-issue-threatening-us-supply"
+        }
+      ],
+      "published_at": null,
+      "infographic": null,
+      "event_key": "pharming:ruconest:manufacturingpause:20261125",
+      "content_hash": "2d7cca60",
+      "collected_at": "2026-11-26T01:24:33Z",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      },
+      "report_date": "2026-11-26",
+      "slot": "AM",
+      "id": "pharming:ruconest:manufacturingpause:20261125",
+      "highlight": "무균공정 모의시험 실패 조사 중 · 유통·환자 보유 제품은 영향 없다고 발표",
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T01:24:33Z"
+      }
+    },
+    {
+      "id": "addex:2026q3:results",
+      "event_key": "addex:2026q3:results",
+      "report_date": "2026-11-26",
+      "slot": "AM",
+      "drug": null,
+      "nct": null,
+      "tags": [
+        "실적",
+        "컨콜",
+        "일정 변경"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-26T01:24:33Z",
+      "infographic": null,
+      "section": "news",
+      "kind": "earnings",
+      "company": "Addex Therapeutics",
+      "title": "Addex 3분기 실적 발표 — 컨콜은 11월30일로 변경",
+      "highlight": "9월 말 현금 CHF217만 · 분기 순손실 CHF189만 · 기존25일 컨콜 안내와 구분",
+      "summary": "[사실] 11월25일 공식 실적 발표에 따르면 Addex의 9월 말 현금은 CHF217만2천, 3분기 순손실은 CHF189만4천이었다. Indivior 협력에서 GABAB PAM 자산 권리를 반환받았고 Neurosterix 지분8.5%를 보유한다고 설명했다. 최신 실적 원문은 컨콜을 11월30일로 안내해 이전25일 예정 공지와 달라졌다. [해석] 오늘 발표된 실적과 아직 개최되지 않은 컨콜 Q&A를 구분해야 한다. 원문의 CET/CEST·GMT 병기가 일치하지 않아 정확한 한국시간은 재확인 전 단정하지 않았다. 발행일은 확인했지만 시각은 미확인이다.",
+      "sources": [
+        {
+          "label": "Addex 공식 3분기 실적·최신 컨콜 안내",
+          "url": "https://www.addextherapeutics.com/en/investors/press-releases/addex-therapeutics-reports-2026-third-quarter-financial-results-and-provides-corporate-update/"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T01:24:33Z"
+      },
+      "content_hash": "77d71ed3",
+      "research": {
+        "topics": [],
+        "category": "실적·컨콜",
+        "priority": 35
+      }
+    },
+    {
+      "id": "vertex:povetacicept:pdufaextension:20261125",
+      "event_key": "vertex:povetacicept:pdufaextension:20261125",
+      "report_date": "2026-11-26",
+      "slot": "AM",
+      "drug": "povetacicept",
+      "nct": null,
+      "tags": [
+        "신장",
+        "IgAN",
+        "FDA",
+        "심사 연장"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-26T01:24:33Z",
+      "infographic": null,
+      "section": "clinical",
+      "kind": "regulatory_update",
+      "company": "Vertex Pharmaceuticals",
+      "title": "Vertex, IgA 신병증 povetacicept FDA 심사 최대3개월 연장 발표",
+      "highlight": "기존11월30일 → 늦어도2027년2월28일 · 추가자료를 중대한 변경으로 분류",
+      "summary": "[사실] Vertex는 FDA가 11월24일 povetacicept의 IgA 신병증 BLA 목표 심사일을 최대3개월 연장했다고 25일 발표했다. 원래 목표는11월30일이며 수정 목표는 늦어도2027년2월28일이다. 회사가 제출한 추가 요청자료가 중대한 변경으로 분류돼 검토 시간이 더 필요하다는 설명이다. [해석] 심사 연장은 승인도 거절도 아니며 약물 효능·안전성 악화를 입증하는 공지는 아니다. FDA 통보일과 회사 발표일을 구분하고 신규 임상 등록·임상 결과 발표로 집계하지 않는다. 정확한 원문 게시 시각은 미확인이다.",
+      "clinical": {
+        "conditions": [
+          "IgA 신병증"
+        ],
+        "status": "허가 심사일 연장",
+        "sponsor": "Vertex Pharmaceuticals"
+      },
+      "clinical_event": {
+        "type": "result",
+        "note": "회사 규제 업데이트. 신규등록·등록처 필드변경·새 임상결과와 구분."
+      },
+      "sources": [
+        {
+          "label": "Vertex 공식 심사 연장 발표 PDF",
+          "url": "https://news.vrtx.com/node/35541/pdf"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T01:24:33Z"
+      },
+      "content_hash": "57688d40",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 35
+      }
     }
   ],
   "display_mode": "research",
@@ -12939,7 +12374,7 @@
   "report_date": "2026-11-26",
   "slot": "AM",
   "status": "partial",
-  "updated_at": "2026-11-25T23:50:09.169Z",
+  "updated_at": "2026-11-26T01:24:33Z",
   "window": {
     "start": "2026-11-25T07:00:00.000Z",
     "end": "2026-11-25T23:00:00.000Z"
@@ -13269,17 +12704,41 @@
       "status": "not_configured",
       "section": "social",
       "reason": "웹 검색·공식 원문 확인 대상. 서버 자동 수집 어댑터 미연결."
+    },
+    {
+      "source": "한국어 원문 검토·발행 보강",
+      "section": "news",
+      "status": "partial",
+      "count": 2,
+      "checked_at": "2026-11-26T01:24:33Z",
+      "reason": "서버 수집은 완료됐으나 한국어 검토0건으로 뉴스 탭 미노출 확인 후 보강. 기업 미지정 및 주요 기업별 검색 병행. Pharming/Addex 공식원문 검토. Addex 컨콜11월30일 변경 확인, Q&A 미검증. 발행시각 미확인 항목은 날짜만 확인."
+    },
+    {
+      "source": "신장 임상·규제 원문 검토",
+      "section": "clinical",
+      "status": "partial",
+      "count": 1,
+      "checked_at": "2026-11-26T01:24:33Z",
+      "reason": "Vertex 심사연장 공식PDF 검토. FDA통보24일/회사발표25일 구분. CTIS/WHO/국가별 등록처 전수검증 미완료."
+    },
+    {
+      "source": "채용 아카이브 대조·웹 탐색",
+      "section": "social",
+      "status": "partial",
+      "count": 0,
+      "checked_at": "2026-11-26T01:24:33Z",
+      "reason": "과거43개 보고서 ID/URL 대조. 기존공고17건 제외. 기업별 조합검색 및 공식 채용 원문 탐색; Ionis 본문 접근실패, LinkedIn/X·전체기업 개별 검증 제한."
     }
   ],
   "section_status": {
     "news": {
-      "message": "기업 공식 발표·배포 피드와 일반 웹 검색을 함께 확인합니다. 피드 수집 항목은 한국어 편집 검토 전 자료일 수 있습니다."
+      "message": "Pharming 생산 중단과 Addex 실적·컨콜 일정 변경을 원문 확인해 한국어로 보강했습니다. 기타 영문 피드 후보는 검토 전 자료로 보존하며, 미검토 항목은 발행하지 않았습니다. 원문 시각 미확인 항목은 날짜만 확인했습니다."
     },
     "clinical": {
-      "message": "최초 공개일 또는 이전 스냅샷과의 실제 필드 차이가 확인된 항목만 신규·변경 후보입니다. CTIS·WHO·국가별 등록처 전수 검증은 별도이며 출처별 상태를 확인하세요."
+      "message": "Vertex IgA 신병증 허가심사일 연장1건을 검토했습니다. 신규 등록이나 새 임상 결과가 아닌 규제 업데이트입니다. 등록처 기준자료·변경후보에는 일괄 검토완료를 부여하지 않았습니다. 국가별 등록처 전수 검증은 미완료입니다."
     },
     "social": {
-      "message": "공식 채용의 현재 공고와 해당 시간대 신규 공고는 다릅니다. 최초 게시일을 확인하지 못한 공고는 현재 공고로 표시하며, X·LinkedIn 검증 미완료는 관련 소식 없음이 아닙니다."
+      "message": "기존 채용과 중복된 17건은 이번 회차에서 제외했습니다. 새로 원문 검증한 공고는 없습니다. Ionis 공고 본문은 지원되지 않는 브라우저 안내로 확인하지 못했으며, 관련 채용이 없다는 뜻이 아닙니다."
     }
   }
 }
