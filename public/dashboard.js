@@ -58,7 +58,6 @@ function render(){
     panel.append(grid);highlightRoot.append(panel);
   }
 
-  $('#dates').replaceChildren(...[...new Set(reports.map(r=>r.report_date))].sort().reverse().map(d=>{const b=el('button',d,d===date?'active':'');b.onclick=()=>{$('#date').value=d;$('#query').value='';page=1;render();};return b;}));
   const figure=$('#infographic');figure.hidden=!items.length;figure.replaceChildren();if(items.length){const counts=Object.keys(sectionNames).map(k=>items.filter(i=>i.section===k).length),labels=['GLOBAL NEWS','CLINICAL TRIALS','SOCIAL / CAREERS'];const svg=`<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170"><rect width="1000" height="170" rx="12" fill="#eaf0e7"/>${counts.map((n,k)=>`<text x="${35+k*330}" y="43" font-family="sans-serif" font-size="12" fill="#6a7a72">${labels[k]}</text><text x="${35+k*330}" y="112" font-family="sans-serif" font-size="48" fill="#16745b">${n}</text>`).join('')}<text x="35" y="151" font-family="sans-serif" font-size="11" fill="#6a7a72">ARCHIVE COUNTS / NOT CLINICAL OUTCOMES</text></svg>`;const img=el('img');img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);img.alt=`보관 자료 수: 뉴스 ${counts[0]}건, 임상 ${counts[1]}건, 소셜·채용 ${counts[2]}건`;figure.append(img);}
 }
 async function read(path){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error(`보고서 불러오기 실패 (${r.status})`);return r.json();}
