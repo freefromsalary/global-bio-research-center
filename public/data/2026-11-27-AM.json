@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "display_mode": "research",
+  "report_date": "2026-11-27",
+  "slot": "AM",
+  "window": {
+    "start": "2026-11-26T07:00:00Z",
+    "end": "2026-11-26T23:00:00Z"
+  },
+  "items": [
+    {
+      "id": "bayer:hansoh:hs20122:license:20261125",
+      "event_key": "bayer:hansoh:hs20122:license:20261125",
+      "report_date": "2026-11-27",
+      "slot": "AM",
+      "drug": "HS-20122",
+      "nct": null,
+      "tags": [
+        "계약",
+        "ADC",
+        "항암",
+        "지연 확인"
+      ],
+      "published_at": "2026-11-25T14:00:00Z",
+      "collected_at": "2026-11-26T23:52:00Z",
+      "infographic": null,
+      "section": "news",
+      "kind": "license",
+      "company": "Bayer / Hansoh Pharma",
+      "title": "바이엘, Hansoh 이중표적 ADC 도입 — 선급금1억5천만 달러",
+      "highlight": "최대31억 달러 조건부 마일스톤 별도 · 중국 본토·홍콩·마카오·대만 제외 권리",
+      "summary": "[사실] 바이엘은 Hansoh의 1상 EGFR/c-MET 이중표적 ADC HS-20122에 대해 중국 본토·홍콩·마카오·대만을 제외한 개발·제조·상업화 독점권 계약을 발표했다. 선급금은1억5천만 달러이며 개발·허가·상업화 마일스톤 최대31억 달러와 순매출 연동 로열티는 별도다. 계약 효력 발생에는 필요한 경쟁당국 승인이 요구된다. [해석] 최대32억5천만 달러 전부가 확정 지급금은 아니며 1상 자산의 상업적 성공을 뜻하지 않는다. 공식 원문은25일15시 Amsterdam(23시KST) 발표로,26일 재보도로 발견한 이전 구간 소식을 이번 회차에 지연 보강했다.",
+      "sources": [
+        {
+          "label": "Bayer 공식 계약 발표",
+          "url": "https://www.bayer.com/media/en-us/bayer-strengthens-next-generation-oncology-pipeline-through-global-licensing-agreement-with-hansoh-pharma/"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T23:52:00Z"
+      },
+      "content_hash": "d59eb3f3",
+      "research": {
+        "topics": [],
+        "category": "계약·사업개발",
+        "priority": 45
+      }
+    },
+    {
+      "id": "gsk:depemokimab:ocean:20261125",
+      "event_key": "gsk:depemokimab:ocean:20261125",
+      "report_date": "2026-11-27",
+      "slot": "AM",
+      "drug": "depemokimab / Exdensur",
+      "nct": "NCT05263934",
+      "tags": [
+        "EGPA",
+        "3상",
+        "IL-5",
+        "지연 확인"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-26T23:52:00Z",
+      "infographic": null,
+      "section": "news",
+      "kind": "clinical_result",
+      "company": "GSK",
+      "title": "GSK OCEAN 3상, EGPA 관해에서 월1회 mepolizumab 대비 비열등성 충족",
+      "highlight": "26주 간격 투여 vs4주 간격 · 우월성 시험 아님 · EGPA 허가 아직 없음",
+      "summary": "[사실] GSK의25일 공식 공시는 162명 대상52주 OCEAN에서 depemokimab26주 간격 투여가 mepolizumab4주 간격 대비 관해의 비열등성 1차 평가변수를 충족했다고 밝혔다. 관해는36·52주 모두 BVAS0점·경구 스테로이드 하루4mg 이하로 정의했다. 회사는 이상반응 발생·중증도가 유사했다고 설명했고2027년 상반기 허가신청을 계획한다. [해석] 비열등성 결과를 더 높은 효능으로 바꾸어 읽으면 안 되며 EGPA 적응증 승인은 아직 없다. 상세 수치가 없는 톱라인 단계다. 26일 기사와 달리 원발표일은25일로 확인돼 지연 보강으로 구분했다.",
+      "sources": [
+        {
+          "label": "GSK 공식 주식시장 공시 PDF",
+          "url": "https://www.gsk.com/media/xung31yx/depe_egpa_ocean_sea_final.pdf"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T23:52:00Z"
+      },
+      "content_hash": "ac64d1cb",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 15
+      }
+    },
+    {
+      "id": "gsk:bepirovirsen:chinaapproval:20261126",
+      "event_key": "gsk:bepirovirsen:chinaapproval:20261126",
+      "report_date": "2026-11-27",
+      "slot": "AM",
+      "drug": "Hibsago / bepirovirsen",
+      "nct": null,
+      "tags": [
+        "중국",
+        "승인",
+        "B형간염",
+        "ASO"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-26T23:52:00Z",
+      "infographic": null,
+      "section": "news",
+      "kind": "regulatory",
+      "company": "GSK",
+      "title": "GSK, 만성 B형간염 Hibsago 중국 승인 발표 — 적격 환자군·기능적 완치 정의 확인",
+      "highlight": "핵산유사체6개월 이상·비간경변 성인 등 조건 · 치료 종료 후24주 지표",
+      "summary": "[사실] GSK는 중국 NMPA가 bepirovirsen(Hibsago)과 핵산유사체 병용을 특정 만성 B형간염 성인에 승인했다고26일 발표했다. 대상은 비간경변, 핵산유사체6개월 이상 투여, HBV DNA90 IU/mL 미만·HBsAg3,000 IU/mL 이하 등 조건을 충족해야 한다. 회사는3상 통합자료에서 HBsAg3,000 이하군 기능적 완치율19%를 제시했다. 기능적 완치는 모든 치료를 중단한 뒤24주 이상 HBV DNA·HBsAg가 검출되지 않는 것으로 설명했다. [해석] 모든 환자의 바이러스 완전 제거·영구 완치나 다른 국가 승인으로 확대하면 안 된다. 국내 허가·급여 영향은 별도다. 원문 날짜만 확인해 게시 시각은 미확인이다.",
+      "sources": [
+        {
+          "label": "GSK 공식 중국 승인 발표",
+          "url": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-china-as-a-first-in-class-functional-cure-for-chronic-hepatitis-b-chb/"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T23:52:00Z"
+      },
+      "content_hash": "a53de2e9",
+      "research": {
+        "topics": [],
+        "category": "규제",
+        "priority": 15
+      }
+    },
+    {
+      "id": "mhra:obicetrapib:approval:20261126",
+      "event_key": "mhra:obicetrapib:approval:20261126",
+      "report_date": "2026-11-27",
+      "slot": "AM",
+      "drug": "obicetrapib / Ubeslo",
+      "nct": null,
+      "tags": [
+        "심혈관",
+        "이상지질혈증",
+        "CETP",
+        "영국",
+        "승인"
+      ],
+      "published_at": null,
+      "collected_at": "2026-11-26T23:52:00Z",
+      "infographic": null,
+      "section": "clinical",
+      "kind": "regulatory_update",
+      "company": "Menarini",
+      "title": "영국 MHRA, LDL-C 저하제 obicetrapib 승인 — 심혈관 사건 감소와 구분",
+      "highlight": "원발성 고콜레스테롤혈증·혼합 이상지질혈증 성인 대상 · 52주 시험 LDL-C 지표 근거",
+      "summary": "[사실] MHRA는26일 Menarini에 성인 원발성 고콜레스테롤혈증 또는 혼합 이상지질혈증의 LDL-C 저하용 obicetrapib(Ubeslo) 허가를 부여했다고 발표했다. 두52주 무작위 이중눈가림 위약대조 시험에서 위약 대비 LDL-C가 각각36%·33% 감소했다고 설명했다. 1일1회 경구제로 단독 또는 기존 지질강하치료와 함께 사용하도록 허가했다. [해석] 이 공지는 LDL-C 저하 근거이며 심근경색·사망 감소 결과 발표로 해석하면 안 된다. 영국 승인이지 국내 승인·급여 확정이 아니다. 신규 등록이나 새 임상 결과가 아닌 규제 업데이트로 분류했다.",
+      "clinical": {
+        "conditions": [
+          "원발성 고콜레스테롤혈증",
+          "혼합 이상지질혈증"
+        ],
+        "status": "영국 허가",
+        "primary_outcomes": [
+          {
+            "measure": "LDL-C 감소"
+          }
+        ]
+      },
+      "clinical_event": {
+        "type": "result",
+        "note": "MHRA 규제 업데이트. 신규등록·등록처 주요변경·신규 심혈관결과 발표와 구분."
+      },
+      "sources": [
+        {
+          "label": "MHRA 공식 승인 발표",
+          "url": "https://www.gov.uk/government/news/obicetrapib-approved-to-lower-ldl-cholesterol-in-adults-with-primary-hypercholesterolaemia-andor-mixed-dyslipidaemia"
+        }
+      ],
+      "editorial_review": {
+        "status": "reviewed",
+        "reviewed_at": "2026-11-26T23:52:00Z"
+      },
+      "content_hash": "aad14f30",
+      "research": {
+        "topics": [
+          "심혈관"
+        ],
+        "category": "규제",
+        "priority": 45
+      }
+    }
+  ],
+  "coverage": [
+    {
+      "source": "로컬 일반웹·공식 발표 조사",
+      "section": "news",
+      "status": "partial",
+      "checked_at": "2026-11-26T23:52:00Z",
+      "count": 3,
+      "reason": "기업미지정 글로벌 및 Novo/Lilly/Roche/Novartis/GSK/Sanofi/Pfizer 등 조합검색. Bayer공식원문·GSK공시PDF/중국승인 원문 검토. 26일 기사 대비25일 원발표를 확인해 지연보강 표시. 웹전체·모든실적/컨콜 전수검사 아님."
+    },
+    {
+      "source": "대사·심혈관/신장·안과 조사",
+      "section": "clinical",
+      "status": "partial",
+      "checked_at": "2026-11-26T23:52:00Z",
+      "count": 1,
+      "reason": "MHRA26일 규제원문 검토. LDL-C 지표와 심혈관 임상사건 결과 구분. 등록처 동기화일·예정완료일을 신규로 집계하지 않음. CTIS/WHO/국가별 등록처 전수검증 미완료."
+    },
+    {
+      "source": "공식채용·공개소셜 탐색",
+      "section": "social",
+      "status": "partial",
+      "checked_at": "2026-11-26T23:52:00Z",
+      "count": 0,
+      "reason": "등록기업명 조합·기업미지정 안과직무/LinkedIn 검색. GSK450579본문미표시·공식활성상태 미확인 후보 보류. 이전45개 보고서 ID/URL대조; X원문·모든등록기업 개별공고 확인 미완료."
+    },
+    {
+      "source": "서버 기본 수집",
+      "section": "news",
+      "status": "not_checked",
+      "checked_at": "2026-11-26T23:52:00Z",
+      "reason": "최신 main에서 오전 보고서404 확인 후 로컬 원문조사로 생성. 서버수집·임상baseline은 수정하지 않음."
+    }
+  ],
+  "updated_at": "2026-11-26T23:52:00Z",
+  "status": "partial",
+  "section_status": {
+    "news": {
+      "message": "GSK 중국 승인1건과 원발표일을 확인한 Bayer/GSK 이전 구간 소식2건을 지연 보강했습니다. 후속 기사 날짜를 원발표 날짜로 바꾸지 않았습니다. 실적·컨콜 Q&A와 모든 기업 공시의 전수검증은 미완료입니다."
+    },
+    "clinical": {
+      "message": "MHRA 지질치료제 승인1건을 검토했습니다. 신규 등록이나 심혈관 사건 감소 결과로 집계하지 않습니다. 최초공개일·스냅샷 비교로 추가확정한 신규·중요변경은 없으며 국가별 등록처 검증은 미완료입니다."
+    },
+    "social": {
+      "message": "이번 조사에서 새로 원문·활성상태를 검증한 채용은 없습니다. 기존공고 재발행은 하지 않았습니다. GSK450579는 본문미표시, LinkedIn 채용후보는 공식원문·활성상태 미확인으로 보류했습니다. 전체 채용소식0건을 뜻하지 않습니다."
+    }
+  }
+}
